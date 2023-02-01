@@ -71,8 +71,6 @@
 <marker id="492662797" label="Elf-student" category="70" did="1879452113" parentZoneId="1879449289" longitude="30.593573" latitude="-54.184902"/>
 <marker id="492662798" label="Elf-student" category="70" did="1879452113" parentZoneId="1879449289" longitude="30.618631" latitude="-54.193752"/>
 <marker id="492662799" label="Suspicious Elf" category="70" did="1879452094" parentZoneId="1879449289" longitude="30.623358" latitude="-54.17443"/>
-<marker id="492666880" label="CP Mapnote" category="31" did="1879162796" parentZoneId="1879449289" longitude="30.674511" latitude="-53.627365"/>
-<marker id="492666881" label="House of the Mírdain" category="31" did="1879162795" parentZoneId="1879449289" longitude="30.674295" latitude="-53.627625"/>
 <marker id="492666882" label="Mordor Death-seer" category="71" did="1879453954" parentZoneId="1879449289" longitude="30.386913" latitude="-53.620735"/>
 <marker id="492666883" label="Mordor Death-seer" category="71" did="1879453954" parentZoneId="1879449289" longitude="30.400566" latitude="-53.626835"/>
 <marker id="492666884" label="Mordor Death-seer" category="71" did="1879453954" parentZoneId="1879449289" longitude="30.386992" latitude="-53.633915"/>
@@ -104,87 +102,117 @@
 <marker id="492666910" label="Gift of the Mírdain - Tier 3" category="72" did="1879452769" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
 <marker id="492666911" label="Spoils of Battle" category="72" did="1879452782" parentZoneId="1879449289" longitude="30.662695" latitude="-53.650078"/>
 <marker id="492666912" label="Spoils of Battle" category="72" did="1879452782" parentZoneId="1879449289" longitude="30.662695" latitude="-53.605892"/>
-<marker id="492666913" label="Greater Gift of the Mírdain - Tier 1" category="72" did="1879452780" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
-<marker id="492666914" label="Spoils of Battle" category="72" did="1879452781" parentZoneId="1879449289" longitude="30.662695" latitude="-53.605892"/>
-<marker id="492666915" label="Spoils of Battle" category="72" did="1879452781" parentZoneId="1879449289" longitude="30.662695" latitude="-53.650078"/>
-<marker id="492666916" label="Lesser Gift of the Mírdain - Tier 1" category="72" did="1879452778" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
-<marker id="492666917" label="Spoils of Battle" category="72" did="1879452779" parentZoneId="1879449289" longitude="30.662695" latitude="-53.650078"/>
-<marker id="492666918" label="Spoils of Battle" category="72" did="1879452779" parentZoneId="1879449289" longitude="30.662695" latitude="-53.605892"/>
-<marker id="492666919" label="Greater Gift of the Mírdain - Tier 3" category="72" did="1879452776" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
-<marker id="492666920" label="Grand Gift of the Mírdain - Tier 1" category="72" did="1879452777" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
-<marker id="492666921" label="Celebrimbor" category="71" did="1879452810" parentZoneId="1879449289" longitude="30.625038" latitude="-53.62704"/>
-<marker id="492666922" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.580645" latitude="-53.638905"/>
-<marker id="492666923" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.580038" latitude="-53.616665"/>
-<marker id="492666924" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.582188" latitude="-53.692062"/>
-<marker id="492666925" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.584862" latitude="-53.56448"/>
-<marker id="492666926" label="Mírdan Warrior" category="71" did="1879452809" parentZoneId="1879449289" longitude="30.573652" latitude="-53.58117"/>
-<marker id="492666927" label="Mírdan Warrior" category="71" did="1879452809" parentZoneId="1879449289" longitude="30.572754" latitude="-53.675106"/>
-<marker id="492666928" label="Thordrok" category="71" did="1879449764" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
-<marker id="492666931" label="Thordrok" category="71" did="1879449781" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
-<marker id="492666932" label="Thordrok" category="71" did="1879449778" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
-<marker id="492666933" label="Thordrok" category="71" did="1879449776" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
-<marker id="492666934" label="Núlgoth" category="71" did="1879449790" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
-<marker id="492666935" label="Krovrobosh" category="71" did="1879449791" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
-<marker id="492666936" label="Krovrobosh" category="71" did="1879449789" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
-<marker id="492666937" label="Núlgoth" category="71" did="1879449798" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
-<marker id="492666938" label="Mátshakha, Lady of Death" category="71" did="1879449799" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
-<marker id="492666939" label="Krovrobosh" category="71" did="1879449796" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
-<marker id="492666940" label="Krovrobosh" category="71" did="1879449797" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
-<marker id="492666941" label="Núlgoth" category="71" did="1879449794" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
-<marker id="492666942" label="Núlgoth" category="71" did="1879449795" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
-<marker id="492666943" label="Mátshakha, Lady of Death" category="71" did="1879449792" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
-<marker id="492666944" label="Sauron" category="71" did="1879449793" parentZoneId="1879449289" longitude="30.431171" latitude="-53.62802"/>
-<marker id="492666945" label="Mátshakha, Lady of Death" category="71" did="1879449800" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
-<marker id="492666946" label="Mátshakha, Lady of Death" category="71" did="1879449801" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
-<marker id="492666947" label="Mordor Death-guard" category="71" did="1879453942" parentZoneId="1879449289" longitude="30.499393" latitude="-53.77981"/>
-<marker id="492666948" label="Mordor Death-guard" category="71" did="1879453942" parentZoneId="1879449289" longitude="30.512226" latitude="-53.47041"/>
-<marker id="492666949" label="Mordor Death-guard" category="71" did="1879453943" parentZoneId="1879449289" longitude="30.505722" latitude="-53.78049"/>
-<marker id="492666950" label="Mordor Death-guard" category="71" did="1879453943" parentZoneId="1879449289" longitude="30.51586" latitude="-53.470272"/>
-<marker id="492666951" label="Mordor Warrior" category="71" did="1879453940" parentZoneId="1879449289" longitude="30.490898" latitude="-53.791508"/>
-<marker id="492666952" label="Mordor Warrior" category="71" did="1879453940" parentZoneId="1879449289" longitude="30.508886" latitude="-53.45967"/>
-<marker id="492666953" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.496307" latitude="-53.78281"/>
-<marker id="492666954" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.502382" latitude="-53.796684"/>
-<marker id="492666955" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.482773" latitude="-53.77879"/>
-<marker id="492666956" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.499159" latitude="-53.46856"/>
-<marker id="492666957" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.508476" latitude="-53.464844"/>
-<marker id="492666958" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.516972" latitude="-53.458954"/>
-<marker id="492666959" label="Mordor Death-seer" category="71" did="1879453938" parentZoneId="1879449289" longitude="30.397324" latitude="-53.619804"/>
-<marker id="492666960" label="Mordor Death-seer" category="71" did="1879453938" parentZoneId="1879449289" longitude="30.397324" latitude="-53.63455"/>
-<marker id="492666961" label="Mordor Black-arrow" category="71" did="1879453939" parentZoneId="1879449289" longitude="30.477186" latitude="-53.8038"/>
-<marker id="492666962" label="Mordor Black-arrow" category="71" did="1879453939" parentZoneId="1879449289" longitude="30.495546" latitude="-53.44315"/>
-<marker id="492666964" label="Flame of Udûn" category="71" did="1879453936" parentZoneId="1879449289" longitude="30.543905" latitude="-53.648357"/>
-<marker id="492666965" label="Flame of Udûn" category="71" did="1879453936" parentZoneId="1879449289" longitude="30.544277" latitude="-53.605915"/>
-<marker id="492666967" label="Mordor Death-seer" category="71" did="1879453937" parentZoneId="1879449289" longitude="30.39287" latitude="-53.622917"/>
-<marker id="492666968" label="Mordor Death-seer" category="71" did="1879453937" parentZoneId="1879449289" longitude="30.39287" latitude="-53.632015"/>
-<marker id="492666969" label="Mordor Death-guard" category="71" did="1879453950" parentZoneId="1879449289" longitude="30.508358" latitude="-53.473503"/>
-<marker id="492666970" label="Mordor Death-guard" category="71" did="1879453950" parentZoneId="1879449289" longitude="30.4958" latitude="-53.774002"/>
-<marker id="492666971" label="Mordor Black-arrow" category="71" did="1879453951" parentZoneId="1879449289" longitude="30.500135" latitude="-53.43994"/>
-<marker id="492666972" label="Mordor Black-arrow" category="71" did="1879453951" parentZoneId="1879449289" longitude="30.478788" latitude="-53.811333"/>
-<marker id="492666973" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
-<marker id="492666974" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.555449" latitude="-53.61724"/>
-<marker id="492666975" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.555098" latitude="-53.63731"/>
-<marker id="492666980" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
-<marker id="492666981" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.506777" latitude="-53.437122"/>
-<marker id="492666982" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.509472" latitude="-53.776894"/>
-<marker id="492666983" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.494452" latitude="-53.766235"/>
-<marker id="492666984" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.501738" latitude="-53.77261"/>
-<marker id="492666985" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.501484" latitude="-53.48439"/>
-<marker id="492666986" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.511757" latitude="-53.480515"/>
-<marker id="492666987" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.522812" latitude="-53.47674"/>
-<marker id="492666988" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.488417" latitude="-53.446747"/>
-<marker id="492666989" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.470058" latitude="-53.798943"/>
-<marker id="492666990" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.486523" latitude="-53.812893"/>
-<marker id="492666993" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
-<marker id="492666995" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
-<marker id="492666996" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.560917" latitude="-53.627308"/>
-<marker id="492666997" label="Mordor Death-seer" category="71" did="1879453947" parentZoneId="1879449289" longitude="30.396385" latitude="-53.62679"/>
-<marker id="492666999" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
-<marker id="492667000" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.560917" latitude="-53.627308"/>
-<marker id="492667001" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
-<marker id="492667004" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.484375" latitude="-53.78273"/>
-<marker id="492667005" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.499687" latitude="-53.7921"/>
-<marker id="492667006" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.51414" latitude="-53.455696"/>
-<marker id="492667007" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.501308" latitude="-53.46235"/>
+<marker id="492666913" label="Moldrot the Pale" category="71" did="1879385199" parentZoneId="1879449289" longitude="30.489882" latitude="-53.278885"/>
+<marker id="492666914" label="Greater Gift of the Mírdain - Tier 1" category="72" did="1879452780" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
+<marker id="492666915" label="Dúrlin Black-song" category="71" did="1879385198" parentZoneId="1879449289" longitude="30.488438" latitude="-53.281933"/>
+<marker id="492666916" label="Spoils of Battle" category="72" did="1879452781" parentZoneId="1879449289" longitude="30.662695" latitude="-53.605892"/>
+<marker id="492666917" label="Spoils of Battle" category="72" did="1879452781" parentZoneId="1879449289" longitude="30.662695" latitude="-53.650078"/>
+<marker id="492666918" label="Lesser Gift of the Mírdain - Tier 1" category="72" did="1879452778" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
+<marker id="492666919" label="Spoils of Battle" category="72" did="1879452779" parentZoneId="1879449289" longitude="30.662695" latitude="-53.650078"/>
+<marker id="492666920" label="Spoils of Battle" category="72" did="1879452779" parentZoneId="1879449289" longitude="30.662695" latitude="-53.605892"/>
+<marker id="492666921" label="Greater Gift of the Mírdain - Tier 3" category="72" did="1879452776" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
+<marker id="492666922" label="Grand Gift of the Mírdain - Tier 1" category="72" did="1879452777" parentZoneId="1879449289" longitude="30.656113" latitude="-53.627563"/>
+<marker id="492666923" label="Angrelum the Bound" category="71" did="1879385204" parentZoneId="1879449289" longitude="30.498808" latitude="-53.281776"/>
+<marker id="492666924" label="Angrelum the Bound" category="71" did="1879385206" parentZoneId="1879449289" longitude="30.48912" latitude="-53.285732"/>
+<marker id="492666925" label="Gaghnuz Iron-jaw" category="71" did="1879385200" parentZoneId="1879449289" longitude="30.48373" latitude="-53.279705"/>
+<marker id="492666926" label="Loegurth Death-well" category="71" did="1879385202" parentZoneId="1879449289" longitude="30.488495" latitude="-53.27518"/>
+<marker id="492666927" label="Moldrot the Pale" category="71" did="1879385223" parentZoneId="1879449289" longitude="30.490623" latitude="-53.277786"/>
+<marker id="492666928" label="Loegurth Death-well" category="71" did="1879385228" parentZoneId="1879449289" longitude="30.492558" latitude="-53.284374"/>
+<marker id="492666929" label="Celebrimbor" category="71" did="1879452810" parentZoneId="1879449289" longitude="30.625038" latitude="-53.62704"/>
+<marker id="492666930" label="Dúrlin Black-song" category="71" did="1879385224" parentZoneId="1879449289" longitude="30.480858" latitude="-53.27993"/>
+<marker id="492666931" label="Mothos the Unmourned" category="71" did="1879385227" parentZoneId="1879449289" longitude="30.494257" latitude="-53.278397"/>
+<marker id="492666932" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.580645" latitude="-53.638905"/>
+<marker id="492666933" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.580038" latitude="-53.616665"/>
+<marker id="492666934" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.582188" latitude="-53.692062"/>
+<marker id="492666935" label="Mírdan Warrior" category="71" did="1879452808" parentZoneId="1879449289" longitude="30.584862" latitude="-53.56448"/>
+<marker id="492666936" label="Dúrlin Black-song" category="71" did="1879385226" parentZoneId="1879449289" longitude="30.494629" latitude="-53.272552"/>
+<marker id="492666937" label="Mírdan Warrior" category="71" did="1879452809" parentZoneId="1879449289" longitude="30.573652" latitude="-53.58117"/>
+<marker id="492666938" label="Mírdan Warrior" category="71" did="1879452809" parentZoneId="1879449289" longitude="30.572754" latitude="-53.675106"/>
+<marker id="492666939" label="Mothos the Unmourned" category="71" did="1879385239" parentZoneId="1879449289" longitude="30.47871" latitude="-53.282944"/>
+<marker id="492666940" label="Dúrlin Black-song" category="71" did="1879385244" parentZoneId="1879449289" longitude="30.480175" latitude="-53.275375"/>
+<marker id="492666941" label="Mothos the Unmourned" category="71" did="1879385247" parentZoneId="1879449289" longitude="30.49453" latitude="-53.281025"/>
+<marker id="492666942" label="Mothos the Unmourned" category="71" did="1879385246" parentZoneId="1879449289" longitude="30.481543" latitude="-53.281685"/>
+<marker id="492666943" label="Thordrok" category="71" did="1879449764" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
+<marker id="492666944" label="Khúrmaush Crimson-eye" category="71" did="1879385254" parentZoneId="1879449289" longitude="30.49545" latitude="-53.281815"/>
+<marker id="492666945" label="Gaghnuz Iron-jaw" category="71" did="1879385250" parentZoneId="1879449289" longitude="30.486563" latitude="-53.2837"/>
+<marker id="492666946" label="House of the Mírdain" category="31" did="1879162795" parentZoneId="1879449289" longitude="30.674295" latitude="-53.627625"/>
+<marker id="492666947" label="Khúrmaush Crimson-eye" category="71" did="1879385257" parentZoneId="1879449289" longitude="30.491425" latitude="-53.28038"/>
+<marker id="492666948" label="Khúrmaush Crimson-eye" category="71" did="1879385256" parentZoneId="1879449289" longitude="30.494179" latitude="-53.281586"/>
+<marker id="492666949" label="CP Mapnote" category="31" did="1879162796" parentZoneId="1879449289" longitude="30.674511" latitude="-53.627365"/>
+<marker id="492666950" label="Moldrot the Pale" category="71" did="1879385259" parentZoneId="1879449289" longitude="30.488066" latitude="-53.277824"/>
+<marker id="492666951" label="Khúrmaush Crimson-eye" category="71" did="1879385268" parentZoneId="1879449289" longitude="30.498692" latitude="-53.278694"/>
+<marker id="492666952" label="Thordrok" category="71" did="1879449781" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
+<marker id="492666953" label="Thordrok" category="71" did="1879449778" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
+<marker id="492666954" label="Angrelum the Bound" category="71" did="1879385267" parentZoneId="1879449289" longitude="30.489393" latitude="-53.271145"/>
+<marker id="492666955" label="Thordrok" category="71" did="1879449776" parentZoneId="1879449289" longitude="30.22338" latitude="-53.6233"/>
+<marker id="492666956" label="Loegurth Death-well" category="71" did="1879385266" parentZoneId="1879449289" longitude="30.480625" latitude="-53.282356"/>
+<marker id="492666957" label="Núlgoth" category="71" did="1879449790" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
+<marker id="492666958" label="Krovrobosh" category="71" did="1879449791" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
+<marker id="492666959" label="Moldrot the Pale" category="71" did="1879385279" parentZoneId="1879449289" longitude="30.485662" latitude="-53.277214"/>
+<marker id="492666960" label="Krovrobosh" category="71" did="1879449789" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
+<marker id="492666961" label="Gaghnuz Iron-jaw" category="71" did="1879385274" parentZoneId="1879449289" longitude="30.485058" latitude="-53.279133"/>
+<marker id="492666962" label="Núlgoth" category="71" did="1879449798" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
+<marker id="492666963" label="Angrelum the Bound" category="71" did="1879385284" parentZoneId="1879449289" longitude="30.48211" latitude="-53.272354"/>
+<marker id="492666964" label="Mátshakha, Lady of Death" category="71" did="1879449799" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
+<marker id="492666965" label="Krovrobosh" category="71" did="1879449796" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
+<marker id="492666966" label="Krovrobosh" category="71" did="1879449797" parentZoneId="1879449289" longitude="30.335058" latitude="-53.626343"/>
+<marker id="492666967" label="Loegurth Death-well" category="71" did="1879385281" parentZoneId="1879449289" longitude="30.491835" latitude="-53.27253"/>
+<marker id="492666968" label="Núlgoth" category="71" did="1879449794" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
+<marker id="492666969" label="Núlgoth" category="71" did="1879449795" parentZoneId="1879449289" longitude="30.501366" latitude="-53.62645"/>
+<marker id="492666970" label="Mátshakha, Lady of Death" category="71" did="1879449792" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
+<marker id="492666971" label="Sauron" category="71" did="1879449793" parentZoneId="1879449289" longitude="30.431171" latitude="-53.62802"/>
+<marker id="492666972" label="Gaghnuz Iron-jaw" category="71" did="1879385288" parentZoneId="1879449289" longitude="30.48744" latitude="-53.279373"/>
+<marker id="492666973" label="Mátshakha, Lady of Death" category="71" did="1879449800" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
+<marker id="492666974" label="Mátshakha, Lady of Death" category="71" did="1879449801" parentZoneId="1879449289" longitude="30.43828" latitude="-53.6275"/>
+<marker id="492666975" label="Mordor Death-guard" category="71" did="1879453942" parentZoneId="1879449289" longitude="30.499393" latitude="-53.77981"/>
+<marker id="492666976" label="Mordor Death-guard" category="71" did="1879453942" parentZoneId="1879449289" longitude="30.512226" latitude="-53.47041"/>
+<marker id="492666977" label="Mordor Death-guard" category="71" did="1879453943" parentZoneId="1879449289" longitude="30.505722" latitude="-53.78049"/>
+<marker id="492666978" label="Mordor Death-guard" category="71" did="1879453943" parentZoneId="1879449289" longitude="30.51586" latitude="-53.470272"/>
+<marker id="492666979" label="Mordor Warrior" category="71" did="1879453940" parentZoneId="1879449289" longitude="30.490898" latitude="-53.791508"/>
+<marker id="492666980" label="Mordor Warrior" category="71" did="1879453940" parentZoneId="1879449289" longitude="30.508886" latitude="-53.45967"/>
+<marker id="492666981" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.496307" latitude="-53.78281"/>
+<marker id="492666982" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.502382" latitude="-53.796684"/>
+<marker id="492666983" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.482773" latitude="-53.77879"/>
+<marker id="492666984" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.499159" latitude="-53.46856"/>
+<marker id="492666985" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.508476" latitude="-53.464844"/>
+<marker id="492666986" label="Mordor Warrior" category="71" did="1879453941" parentZoneId="1879449289" longitude="30.516972" latitude="-53.458954"/>
+<marker id="492666987" label="Mordor Death-seer" category="71" did="1879453938" parentZoneId="1879449289" longitude="30.397324" latitude="-53.619804"/>
+<marker id="492666988" label="Mordor Death-seer" category="71" did="1879453938" parentZoneId="1879449289" longitude="30.397324" latitude="-53.63455"/>
+<marker id="492666989" label="Mordor Black-arrow" category="71" did="1879453939" parentZoneId="1879449289" longitude="30.477186" latitude="-53.8038"/>
+<marker id="492666990" label="Mordor Black-arrow" category="71" did="1879453939" parentZoneId="1879449289" longitude="30.495546" latitude="-53.44315"/>
+<marker id="492666992" label="Flame of Udûn" category="71" did="1879453936" parentZoneId="1879449289" longitude="30.543905" latitude="-53.648357"/>
+<marker id="492666993" label="Flame of Udûn" category="71" did="1879453936" parentZoneId="1879449289" longitude="30.544277" latitude="-53.605915"/>
+<marker id="492666995" label="Mordor Death-seer" category="71" did="1879453937" parentZoneId="1879449289" longitude="30.39287" latitude="-53.622917"/>
+<marker id="492666996" label="Mordor Death-seer" category="71" did="1879453937" parentZoneId="1879449289" longitude="30.39287" latitude="-53.632015"/>
+<marker id="492666997" label="Mordor Death-guard" category="71" did="1879453950" parentZoneId="1879449289" longitude="30.508358" latitude="-53.473503"/>
+<marker id="492666998" label="Mordor Death-guard" category="71" did="1879453950" parentZoneId="1879449289" longitude="30.4958" latitude="-53.774002"/>
+<marker id="492666999" label="Mordor Black-arrow" category="71" did="1879453951" parentZoneId="1879449289" longitude="30.500135" latitude="-53.43994"/>
+<marker id="492667000" label="Mordor Black-arrow" category="71" did="1879453951" parentZoneId="1879449289" longitude="30.478788" latitude="-53.811333"/>
+<marker id="492667004" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
+<marker id="492667005" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.555098" latitude="-53.63731"/>
+<marker id="492667006" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.555449" latitude="-53.61724"/>
+<marker id="492667007" label="Flame of Udûn" category="71" did="1879453948" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
+<marker id="492667009" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.506777" latitude="-53.437122"/>
+<marker id="492667010" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.509472" latitude="-53.776894"/>
+<marker id="492667011" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.494452" latitude="-53.766235"/>
+<marker id="492667012" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.501738" latitude="-53.77261"/>
+<marker id="492667013" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.501484" latitude="-53.48439"/>
+<marker id="492667014" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.511757" latitude="-53.480515"/>
+<marker id="492667015" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.522812" latitude="-53.47674"/>
+<marker id="492667016" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.488417" latitude="-53.446747"/>
+<marker id="492667017" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.470058" latitude="-53.798943"/>
+<marker id="492667018" label="Mordor Black-arrow" category="71" did="1879453949" parentZoneId="1879449289" longitude="30.486523" latitude="-53.812893"/>
+<marker id="492667021" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
+<marker id="492667023" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
+<marker id="492667024" label="Flame of Udûn" category="71" did="1879453946" parentZoneId="1879449289" longitude="30.560917" latitude="-53.627308"/>
+<marker id="492667025" label="Mordor Death-seer" category="71" did="1879453947" parentZoneId="1879449289" longitude="30.396385" latitude="-53.62679"/>
+<marker id="492667027" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.531933" latitude="-53.636997"/>
+<marker id="492667028" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.560917" latitude="-53.627308"/>
+<marker id="492667029" label="Flame of Udûn" category="71" did="1879453944" parentZoneId="1879449289" longitude="30.53248" latitude="-53.618187"/>
+<marker id="492667032" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.484375" latitude="-53.78273"/>
+<marker id="492667033" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.499687" latitude="-53.7921"/>
+<marker id="492667034" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.51414" latitude="-53.455696"/>
+<marker id="492667035" label="Mordor Warrior" category="71" did="1879453945" parentZoneId="1879449289" longitude="30.501308" latitude="-53.46235"/>
 <marker id="492670976" label="Caras Gelebren, S.A. 1697" category="74" did="1879453031" parentZoneId="1879449289" longitude="30.4" latitude="-52.8"/>
 <marker id="492670977" label="Khorgol" category="71" did="1879449757" parentZoneId="1879449289" longitude="30.418417" latitude="-53.13448"/>
 <marker id="492670978" label="Khorgol" category="71" did="1879449755" parentZoneId="1879449289" longitude="30.418417" latitude="-53.13448"/>
