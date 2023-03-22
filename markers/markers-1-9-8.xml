@@ -202,8 +202,8 @@
 <marker id="428556377" label="Coldeve Stone-heaver" category="71" did="1879082793" parentZoneId="1879063993" longitude="-22.555674" latitude="-18.23753"/>
 <marker id="428556378" label="Coldeve Stone-hewer" category="71" did="1879082792" parentZoneId="1879063993" longitude="-22.481464" latitude="-18.12372"/>
 <marker id="428556379" label="Coldeve Stone-heaver" category="71" did="1879082793" parentZoneId="1879063993" longitude="-22.481464" latitude="-18.12372"/>
-<marker id="428560384" label="Dâr-gazag" category="74" did="1879063750" parentZoneId="1879063991" longitude="-22.339628" latitude="-17.442158"/>
 <marker id="428560385" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879063991" longitude="-22.114784" latitude="-17.309004"/>
+<marker id="428560386" label="Dâr-gazag" category="74" did="1879063750" parentZoneId="1879063991" longitude="-22.339628" latitude="-17.442158"/>
 <marker id="428564481" label="Dolith&#10;Monster Player Trainer" category="42" did="1879063751" parentZoneId="1879063991" longitude="-22.5783" latitude="-17.156406"/>
 <marker id="428564482" label="Gavran&#10;Corruptor of Dâr-gazag" category="54" did="1879063752" parentZoneId="1879063991" longitude="-22.585869" latitude="-17.150438"/>
 <marker id="428564483" label="Ongbúrz Archer" category="71" did="1879138455" parentZoneId="1879063991" longitude="-22.324404" latitude="-17.041523"/>
@@ -243,41 +243,44 @@
 <marker id="428564520" label="Fim the Worm" category="71" did="1879082824" parentZoneId="1879063991" longitude="-22.731981" latitude="-16.929325"/>
 <marker id="428564521" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879063991" longitude="-22.105038" latitude="-16.808613"/>
 <marker id="428564527" label="Chieftain Durulkum" category="71" did="1879082822" parentZoneId="1879063991" longitude="-22.579844" latitude="-16.55169"/>
-<marker id="428564540" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
-<marker id="428564541" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
-<marker id="428564542" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
-<marker id="428564543" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
-<marker id="428564544" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
-<marker id="428564545" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
-<marker id="428564546" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
-<marker id="428564547" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
-<marker id="428564548" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
-<marker id="428564549" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
-<marker id="428564550" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
-<marker id="428564551" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
-<marker id="428564552" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
-<marker id="428564553" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
-<marker id="428564554" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
-<marker id="428564555" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
-<marker id="428564556" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
-<marker id="428564557" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
-<marker id="428564558" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
-<marker id="428564559" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
-<marker id="428564560" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
-<marker id="428564561" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
-<marker id="428564562" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
-<marker id="428564563" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
-<marker id="428564564" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
-<marker id="428564565" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
-<marker id="428564566" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
-<marker id="428564567" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
-<marker id="428564568" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
-<marker id="428564569" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
-<marker id="428564570" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
-<marker id="428564571" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
-<marker id="428564572" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
-<marker id="428564573" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
-<marker id="428564574" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
+<marker id="428564541" label="Dâr-gazag" category="74" did="1879063750" parentZoneId="1879063991" longitude="-22.358906" latitude="-17.070372"/>
+<marker id="428564542" label="Dâr-gazag" category="74" did="1879063750" parentZoneId="1879063991" longitude="-22.474209" latitude="-16.676573"/>
+<marker id="428564543" label="Dâr-gazag" category="74" did="1879063750" parentZoneId="1879063991" longitude="-22.59043" latitude="-17.01956"/>
+<marker id="428564544" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
+<marker id="428564545" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
+<marker id="428564546" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
+<marker id="428564547" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
+<marker id="428564548" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.762959" latitude="-16.64079"/>
+<marker id="428564549" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
+<marker id="428564550" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
+<marker id="428564551" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
+<marker id="428564552" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
+<marker id="428564553" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.722832" latitude="-16.475233"/>
+<marker id="428564554" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
+<marker id="428564555" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
+<marker id="428564556" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
+<marker id="428564557" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
+<marker id="428564558" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.789276" latitude="-16.593681"/>
+<marker id="428564559" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
+<marker id="428564560" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
+<marker id="428564561" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
+<marker id="428564562" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
+<marker id="428564563" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.65328" latitude="-16.415508"/>
+<marker id="428564564" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
+<marker id="428564565" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
+<marker id="428564566" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
+<marker id="428564567" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
+<marker id="428564568" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.793144" latitude="-16.406738"/>
+<marker id="428564569" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
+<marker id="428564570" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
+<marker id="428564571" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
+<marker id="428564572" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
+<marker id="428564573" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.7779" latitude="-16.491093"/>
+<marker id="428564574" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
+<marker id="428564575" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
+<marker id="428564576" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
+<marker id="428564577" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
+<marker id="428564578" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-22.703526" latitude="-16.54412"/>
 <marker id="428568576" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-22.246338" latitude="-16.203163"/>
 <marker id="428568577" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-22.246338" latitude="-16.203163"/>
 <marker id="428568578" label="Sun-touched Troll" category="72" did="1879082784" parentZoneId="1879063991" longitude="-22.38125" latitude="-16.135439"/>
@@ -805,9 +808,9 @@
 <marker id="428650538" label="Pile of Black Ash Wood" category="50" did="1879430423" parentZoneId="1879063991" longitude="-21.633348" latitude="-13.159267"/>
 <marker id="428650539" label="Heavy Pile of Black Ash Wood" category="50" did="1879430416" parentZoneId="1879063991" longitude="-21.633348" latitude="-13.159267"/>
 <marker id="428654599" label="Saethoniel" category="58" did="1879098015" parentZoneId="1879158614" longitude="-21.240673" latitude="-12.085586"/>
-<marker id="428654600" label="Lingemil&#10;Monster Player Trainer" category="42" did="1879203538" parentZoneId="1879158614" longitude="-21.214159" latitude="-12.151386"/>
-<marker id="428654601" label="Lenathron&#10;Corruptor of Gramsfoot" category="54" did="1879203484" parentZoneId="1879158614" longitude="-21.237148" latitude="-12.145635"/>
 <marker id="428654602" label="Nathrog&#10;Mithril Vendor" category="58" did="1879203443" parentZoneId="1879158614" longitude="-21.226454" latitude="-12.064053"/>
+<marker id="428654604" label="Lingemil&#10;Monster Player Trainer" category="42" did="1879203538" parentZoneId="1879158614" longitude="-21.214159" latitude="-12.151386"/>
+<marker id="428654605" label="Lenathron&#10;Corruptor of Gramsfoot" category="54" did="1879203484" parentZoneId="1879158614" longitude="-21.237148" latitude="-12.145635"/>
 <marker id="428658690" label="Angmar Invasion Bestower" category="71" did="1879154560" parentZoneId="1879158614" longitude="-21.335928" latitude="-11.329277"/>
 <marker id="428658691" label="Forochel Invasion Bestower" category="71" did="1879154562" parentZoneId="1879158614" longitude="-21.22168" latitude="-11.206728"/>
 <marker id="428658692" label="Forochel Troll Session Bestower" category="71" did="1879154363" parentZoneId="1879158614" longitude="-21.243114" latitude="-11.241504"/>
@@ -1205,78 +1208,75 @@
 <marker id="428712006" label="Heavy Pile of Black Ash Wood" category="50" did="1879430416" parentZoneId="1879063991" longitude="-20.765184" latitude="-13.363623"/>
 <marker id="428712007" label="Pile of Black Ash Wood" category="50" did="1879430423" parentZoneId="1879063991" longitude="-20.599678" latitude="-13.327402"/>
 <marker id="428712008" label="Heavy Pile of Black Ash Wood" category="50" did="1879430416" parentZoneId="1879063991" longitude="-20.599678" latitude="-13.327402"/>
+<marker id="428716032" label="Chief Guard Duthúrz" category="71" did="1879204035" parentZoneId="1879063991" longitude="-20.753242" latitude="-12.803564"/>
 <marker id="428716033" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.630507" latitude="-12.996455"/>
 <marker id="428716034" label="Ongbûrz Tracker" category="71" did="1879082798" parentZoneId="1879063991" longitude="-20.93663" latitude="-12.566054"/>
 <marker id="428716035" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879063991" longitude="-20.74956" latitude="-12.835224"/>
 <marker id="428716036" label="Soldier Graus" category="71" did="1879082849" parentZoneId="1879063991" longitude="-20.764032" latitude="-12.820713"/>
 <marker id="428716037" label="Krahjarn Felarrow" category="71" did="1879084124" parentZoneId="1879063991" longitude="-20.728153" latitude="-12.865468"/>
-<marker id="428716041" label="Chief Guard Duthúrz" category="71" did="1879204035" parentZoneId="1879063991" longitude="-20.753242" latitude="-12.803564"/>
-<marker id="428716042" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
-<marker id="428716043" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
-<marker id="428716044" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
-<marker id="428716045" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
-<marker id="428716046" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
-<marker id="428716047" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
-<marker id="428716048" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
-<marker id="428716049" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
-<marker id="428716050" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
-<marker id="428716051" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
-<marker id="428716052" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
-<marker id="428716053" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
-<marker id="428716054" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
-<marker id="428716055" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
-<marker id="428716056" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
-<marker id="428716057" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
-<marker id="428716058" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
-<marker id="428716059" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
-<marker id="428716060" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
-<marker id="428716061" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
-<marker id="428716062" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
-<marker id="428716063" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
-<marker id="428716064" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
-<marker id="428716065" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
-<marker id="428716066" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
-<marker id="428716067" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
-<marker id="428716068" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
-<marker id="428716069" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
-<marker id="428716070" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
-<marker id="428716071" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
-<marker id="428716072" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
-<marker id="428716073" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
-<marker id="428716074" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
-<marker id="428716075" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
-<marker id="428716076" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
-<marker id="428716077" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
-<marker id="428716078" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
-<marker id="428716079" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
-<marker id="428716080" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
-<marker id="428716081" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
-<marker id="428716082" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
-<marker id="428716083" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
-<marker id="428716084" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
-<marker id="428716085" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
-<marker id="428716086" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
-<marker id="428716087" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
-<marker id="428716088" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
-<marker id="428716089" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
-<marker id="428716090" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
-<marker id="428716091" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
+<marker id="428716039" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
+<marker id="428716040" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
+<marker id="428716041" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
+<marker id="428716042" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
+<marker id="428716043" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.635927" latitude="-13.066172"/>
+<marker id="428716044" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
+<marker id="428716045" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
+<marker id="428716046" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
+<marker id="428716047" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
+<marker id="428716048" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.624737" latitude="-12.962431"/>
+<marker id="428716049" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
+<marker id="428716050" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
+<marker id="428716051" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
+<marker id="428716052" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
+<marker id="428716053" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.524736" latitude="-12.996572"/>
+<marker id="428716054" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
+<marker id="428716055" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
+<marker id="428716056" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
+<marker id="428716057" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
+<marker id="428716058" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.506905" latitude="-12.875234"/>
+<marker id="428716059" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
+<marker id="428716060" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
+<marker id="428716061" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
+<marker id="428716062" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
+<marker id="428716063" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.47126" latitude="-12.771347"/>
+<marker id="428716064" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
+<marker id="428716065" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
+<marker id="428716066" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
+<marker id="428716067" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
+<marker id="428716068" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.06705" latitude="-12.735713"/>
+<marker id="428716069" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
+<marker id="428716070" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
+<marker id="428716071" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
+<marker id="428716072" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
+<marker id="428716073" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.172344" latitude="-13.018779"/>
+<marker id="428716074" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
+<marker id="428716075" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
+<marker id="428716076" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
+<marker id="428716077" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
+<marker id="428716078" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.178808" latitude="-12.899502"/>
+<marker id="428716079" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
+<marker id="428716080" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
+<marker id="428716081" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
+<marker id="428716082" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
+<marker id="428716083" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-21.096699" latitude="-12.963779"/>
+<marker id="428716084" label="Shadowmaw Howler" category="71" did="1879082739" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
+<marker id="428716085" label="Shadowmaw Ravager" category="71" did="1879082740" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
+<marker id="428716086" label="Cragstone Blight-fang" category="71" did="1879082741" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
+<marker id="428716087" label="Cragstone Trapper" category="71" did="1879082742" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
+<marker id="428716088" label="Bloodlust Leech" category="71" did="1879082744" parentZoneId="1879063991" longitude="-20.729326" latitude="-13.000859"/>
 <marker id="428720128" label="Tarkripper Quartermaster" category="38" did="1879063239" parentZoneId="1879158614" longitude="-20.94746" latitude="-12.346621"/>
 <marker id="428720129" label="Gramsfoot" category="43" did="1879063761" parentZoneId="1879158614" longitude="-20.902021" latitude="-12.210996"/>
 <marker id="428720130" label="Sovairlë&#10;Tribal Scrivener" category="38" did="1879085620" parentZoneId="1879158614" longitude="-20.730234" latitude="-12.288984"/>
 <marker id="428720131" label="Ongbúrz Defiler&#10;Breaker of Oaths" category="38" did="1879094878" parentZoneId="1879158614" longitude="-20.728329" latitude="-12.307451"/>
 <marker id="428720132" label="Tûzantar" category="58" did="1879098016" parentZoneId="1879158614" longitude="-20.80702" latitude="-11.827402"/>
 <marker id="428720133" label="Falgashud" category="58" did="1879098012" parentZoneId="1879158614" longitude="-20.78453" latitude="-11.828047"/>
-<marker id="428720134" label="Nâdar&#10;Potions Trader" category="58" did="1879098013" parentZoneId="1879158614" longitude="-20.783085" latitude="-12.363144"/>
 <marker id="428720135" label="Haz&#10;Defensive Potions Trader" category="58" did="1879098014" parentZoneId="1879158614" longitude="-20.791786" latitude="-12.367929"/>
 <marker id="428720136" label="Shakh&#10;Food Trader" category="58" did="1879098010" parentZoneId="1879158614" longitude="-20.946846" latitude="-12.363965"/>
 <marker id="428720137" label="Rulum&#10;Special Items Trader" category="58" did="1879098011" parentZoneId="1879158614" longitude="-20.913046" latitude="-12.383896"/>
 <marker id="428720138" label="Pâshnar" category="58" did="1879098017" parentZoneId="1879158614" longitude="-20.603193" latitude="-12.188154"/>
 <marker id="428720139" label="Thrak&#10;Spoil-Bearer" category="58" did="1879111742" parentZoneId="1879158614" longitude="-20.932392" latitude="-12.317724"/>
-<marker id="428720140" label="Dagalúr&#10;Monster Player Trainer" category="42" did="1879203539" parentZoneId="1879158614" longitude="-20.758535" latitude="-11.861416"/>
-<marker id="428720141" label="Ashrokil&#10;Corruptor of Gramsfoot" category="54" did="1879203483" parentZoneId="1879158614" longitude="-20.758095" latitude="-11.84042"/>
 <marker id="428720142" label="Durglob&#10;Mithril Vendor" category="58" did="1879203442" parentZoneId="1879158614" longitude="-20.796024" latitude="-11.835732"/>
-<marker id="428720143" label="Gruglok&#10;Monster Player Trainer" category="42" did="1879203537" parentZoneId="1879158614" longitude="-20.561699" latitude="-12.116875"/>
+<marker id="428720145" label="Hoitgoth&#10;Mithril Vendor" category="58" did="1879203441" parentZoneId="1879158614" longitude="-20.630985" latitude="-12.195058"/>
 <marker id="428720146" label="Mailbox" category="34" did="1879326025" parentZoneId="1879158614" longitude="-20.945068" latitude="-12.126426"/>
 <marker id="428720149" label="Soldier Súmtharb" category="71" did="1879080645" parentZoneId="1879158614" longitude="-20.731758" latitude="-11.957626"/>
 <marker id="428720150" label="Soldier Dalgumthak" category="71" did="1879080646" parentZoneId="1879158614" longitude="-20.586592" latitude="-11.923047"/>
@@ -1296,35 +1296,40 @@
 <marker id="428720171" label="Medium Training-dummy Jalessa" category="71" did="1879302013" parentZoneId="1879158614" longitude="-20.853691" latitude="-12.119247"/>
 <marker id="428720172" label="Light Training-dummy Orion" category="71" did="1879302012" parentZoneId="1879158614" longitude="-20.844296" latitude="-12.136542"/>
 <marker id="428720180" label="Glan Vraig" category="48" did="1879426355" parentZoneId="1879158614" longitude="-20.824795" latitude="-12.283476"/>
-<marker id="428720182" label="The Delving of Frór Flag" category="73" did="1879095701" parentZoneId="1879158614" longitude="-20.923437" latitude="-12.385107"/>
-<marker id="428720183" label="The Delving of Frór Entrance" category="73" did="1879095702" parentZoneId="1879158614" longitude="-20.811914" latitude="-12.39374"/>
-<marker id="428720186" label="Door" category="48" did="1879325986" parentZoneId="1879158614" longitude="-20.890547" latitude="-12.14374"/>
-<marker id="428720188" label="Herald of Woe" category="70" did="1879326239" parentZoneId="1879158614" longitude="-20.88793" latitude="-12.166338"/>
-<marker id="428720189" label="" category="70" did="1879326310" parentZoneId="1879158614" longitude="-20.868427" latitude="-12.150937"/>
-<marker id="428720190" label="" category="70" did="1879326311" parentZoneId="1879158614" longitude="-20.884228" latitude="-12.143164"/>
-<marker id="428720191" label="" category="70" did="1879326312" parentZoneId="1879158614" longitude="-20.898329" latitude="-12.144912"/>
-<marker id="428720192" label="Orion" category="70" did="1879097167" parentZoneId="1879158614" longitude="-20.832235" latitude="-12.293476"/>
-<marker id="428720193" label="Taskmaster Dromdas" category="71" did="1879092090" parentZoneId="1879158614" longitude="-21.083721" latitude="-12.237832"/>
-<marker id="428720194" label="Taskmaster Sharkúlob" category="71" did="1879092095" parentZoneId="1879158614" longitude="-21.070322" latitude="-12.266045"/>
-<marker id="428720203" label="Ongbúrz Soldier" category="71" did="1879085060" parentZoneId="1879158614" longitude="-21.108896" latitude="-12.009785"/>
-<marker id="428720205" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879158614" longitude="-20.762207" latitude="-12.050683"/>
-<marker id="428720206" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879158614" longitude="-20.723007" latitude="-12.042216"/>
-<marker id="428720207" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879158614" longitude="-21.055721" latitude="-12.239648"/>
-<marker id="428720208" label="Krahjarn Felarrow" category="71" did="1879084124" parentZoneId="1879158614" longitude="-21.05619" latitude="-12.351523"/>
-<marker id="428720209" label="Ongbúrz Archer" category="70" did="1879084125" parentZoneId="1879158614" longitude="-20.731981" latitude="-12.048838"/>
-<marker id="428720210" label="Ongbúrz Taskmaster" category="70" did="1879084128" parentZoneId="1879158614" longitude="-20.70377" latitude="-12.026826"/>
-<marker id="428720256" label="Zagfra&#10;Corruptor of Gramsfoot" category="54" did="1879203482" parentZoneId="1879158614" longitude="-20.5546" latitude="-12.155635"/>
-<marker id="428720257" label="Hoitgoth&#10;Mithril Vendor" category="58" did="1879203441" parentZoneId="1879158614" longitude="-20.630985" latitude="-12.195058"/>
-<marker id="428720259" label="Uglash" category="70" did="1879080644" parentZoneId="1879158614" longitude="-20.886816" latitude="-12.300869"/>
-<marker id="428720264" label="War-tyrant Akúlhun" category="71" did="1879080651" parentZoneId="1879158614" longitude="-20.883154" latitude="-12.242881"/>
-<marker id="428720265" label="Malavin" category="71" did="1879453133" parentZoneId="1879158614" longitude="-20.61955" latitude="-11.887539"/>
-<marker id="428720266" label="Fathrug, Tarkríp Emissary" category="71" did="1879453280" parentZoneId="1879158614" longitude="-20.595215" latitude="-11.951582"/>
-<marker id="428720267" label="Darhut, Ongburz Emissary" category="71" did="1879453282" parentZoneId="1879158614" longitude="-20.698975" latitude="-11.893906"/>
-<marker id="428720268" label="Grathún, Blogmal Emissary" category="71" did="1879453278" parentZoneId="1879158614" longitude="-20.633125" latitude="-11.993066"/>
-<marker id="428720269" label="Sárkafsog" category="71" did="1879453277" parentZoneId="1879158614" longitude="-20.743174" latitude="-11.932558"/>
-<marker id="428720270" label="Ufdrágh, White Hand Emissary" category="71" did="1879453279" parentZoneId="1879158614" longitude="-20.705635" latitude="-11.967998"/>
-<marker id="428720271" label="Ushgrat, Krahjarn Emissary" category="71" did="1879453275" parentZoneId="1879158614" longitude="-20.608223" latitude="-11.961288"/>
-<marker id="428720280" label="Nakargar" category="71" did="1879453276" parentZoneId="1879158614" longitude="-20.64916" latitude="-12.005254"/>
+<marker id="428720181" label="Muster to Tírith Rhaw" category="73" did="1879460415" parentZoneId="1879158614" longitude="-20.923437" latitude="-12.385107"/>
+<marker id="428720182" label="Tunnels to Lugazag" category="73" did="1879460416" parentZoneId="1879158614" longitude="-20.811914" latitude="-12.39374"/>
+<marker id="428720183" label="Unarmoured Training-dummy - OnnMM" category="73" did="1879460863" parentZoneId="1879158614" longitude="-20.92463" latitude="-12.021757"/>
+<marker id="428720184" label="Training-dummy - Orion" category="73" did="1879460864" parentZoneId="1879158614" longitude="-20.947998" latitude="-12.103945"/>
+<marker id="428720188" label="Door" category="48" did="1879325986" parentZoneId="1879158614" longitude="-20.890547" latitude="-12.14374"/>
+<marker id="428720190" label="Herald of Woe" category="70" did="1879326239" parentZoneId="1879158614" longitude="-20.88793" latitude="-12.166338"/>
+<marker id="428720191" label="" category="70" did="1879326310" parentZoneId="1879158614" longitude="-20.868427" latitude="-12.150937"/>
+<marker id="428720192" label="" category="70" did="1879326311" parentZoneId="1879158614" longitude="-20.884228" latitude="-12.143164"/>
+<marker id="428720193" label="" category="70" did="1879326312" parentZoneId="1879158614" longitude="-20.898329" latitude="-12.144912"/>
+<marker id="428720194" label="Orion" category="70" did="1879097167" parentZoneId="1879158614" longitude="-20.832235" latitude="-12.293476"/>
+<marker id="428720195" label="Taskmaster Dromdas" category="71" did="1879092090" parentZoneId="1879158614" longitude="-21.083721" latitude="-12.237832"/>
+<marker id="428720196" label="Taskmaster Sharkúlob" category="71" did="1879092095" parentZoneId="1879158614" longitude="-21.070322" latitude="-12.266045"/>
+<marker id="428720205" label="Ongbúrz Soldier" category="71" did="1879085060" parentZoneId="1879158614" longitude="-21.108896" latitude="-12.009785"/>
+<marker id="428720207" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879158614" longitude="-20.762207" latitude="-12.050683"/>
+<marker id="428720208" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879158614" longitude="-20.723007" latitude="-12.042216"/>
+<marker id="428720209" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879158614" longitude="-21.055721" latitude="-12.239648"/>
+<marker id="428720210" label="Krahjarn Felarrow" category="71" did="1879084124" parentZoneId="1879158614" longitude="-21.05619" latitude="-12.351523"/>
+<marker id="428720211" label="Ongbúrz Archer" category="70" did="1879084125" parentZoneId="1879158614" longitude="-20.731981" latitude="-12.048838"/>
+<marker id="428720212" label="Ongbúrz Taskmaster" category="70" did="1879084128" parentZoneId="1879158614" longitude="-20.70377" latitude="-12.026826"/>
+<marker id="428720257" label="Uglash" category="70" did="1879080644" parentZoneId="1879158614" longitude="-20.886816" latitude="-12.300869"/>
+<marker id="428720261" label="War-tyrant Akúlhun" category="71" did="1879080651" parentZoneId="1879158614" longitude="-20.883154" latitude="-12.242881"/>
+<marker id="428720264" label="Fathrug, Tarkríp Emissary" category="71" did="1879453280" parentZoneId="1879158614" longitude="-20.595215" latitude="-11.951582"/>
+<marker id="428720265" label="Darhut, Ongburz Emissary" category="71" did="1879453282" parentZoneId="1879158614" longitude="-20.698975" latitude="-11.893906"/>
+<marker id="428720266" label="Grathún, Blogmal Emissary" category="71" did="1879453278" parentZoneId="1879158614" longitude="-20.633125" latitude="-11.993066"/>
+<marker id="428720267" label="Sárkafsog" category="71" did="1879453277" parentZoneId="1879158614" longitude="-20.743174" latitude="-11.932558"/>
+<marker id="428720268" label="Ufdrágh, White Hand Emissary" category="71" did="1879453279" parentZoneId="1879158614" longitude="-20.705635" latitude="-11.967998"/>
+<marker id="428720269" label="Ushgrat, Krahjarn Emissary" category="71" did="1879453275" parentZoneId="1879158614" longitude="-20.608223" latitude="-11.961288"/>
+<marker id="428720270" label="Nakargar" category="71" did="1879453276" parentZoneId="1879158614" longitude="-20.64916" latitude="-12.005254"/>
+<marker id="428720271" label="Malavin" category="71" did="1879453133" parentZoneId="1879158614" longitude="-20.61955" latitude="-11.887539"/>
+<marker id="428720279" label="Nâdar&#10;Potions Trader" category="58" did="1879098013" parentZoneId="1879158614" longitude="-20.783085" latitude="-12.363144"/>
+<marker id="428720290" label="Ashrokil&#10;Corruptor of Gramsfoot" category="54" did="1879203483" parentZoneId="1879158614" longitude="-20.758095" latitude="-11.84042"/>
+<marker id="428720291" label="Zagfra&#10;Corruptor of Gramsfoot" category="54" did="1879203482" parentZoneId="1879158614" longitude="-20.5546" latitude="-12.155635"/>
+<marker id="428720297" label="Gruglok&#10;Monster Player Trainer" category="42" did="1879203537" parentZoneId="1879158614" longitude="-20.561699" latitude="-12.116875"/>
+<marker id="428720303" label="Dagalúr&#10;Monster Player Trainer" category="42" did="1879203539" parentZoneId="1879158614" longitude="-20.758535" latitude="-11.861416"/>
 <marker id="428724224" label="Gramsfoot" category="74" did="1879063761" parentZoneId="1879158614" longitude="-21.02542" latitude="-11.569199"/>
 <marker id="428724225" label="Eregion Troll Session Bestower" category="71" did="1879154362" parentZoneId="1879158614" longitude="-21.13706" latitude="-11.200479"/>
 <marker id="428724226" label="Eregion Invasion Bestower" category="71" did="1879154561" parentZoneId="1879158614" longitude="-21.086142" latitude="-11.20249"/>
@@ -1494,49 +1499,50 @@
 <marker id="428744925" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.232714" latitude="-19.612314"/>
 <marker id="428744926" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
 <marker id="428744927" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
-<marker id="428748800" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
-<marker id="428748801" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
-<marker id="428748802" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.791864" latitude="-19.530586"/>
-<marker id="428748803" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.728594" latitude="-19.513653"/>
-<marker id="428748804" label="Emerald Twospade" category="71" did="1879083005" parentZoneId="1879063993" longitude="-19.781796" latitude="-19.538994"/>
-<marker id="428748805" label="Marigold Winterdown" category="71" did="1879083006" parentZoneId="1879063993" longitude="-19.986065" latitude="-19.438076"/>
-<marker id="428748806" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.79666" latitude="-19.584414"/>
-<marker id="428748807" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.99375" latitude="-19.53707"/>
-<marker id="428748808" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.99748" latitude="-19.536484"/>
-<marker id="428748809" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.79166" latitude="-19.579414"/>
-<marker id="428748810" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.98875" latitude="-19.492413"/>
-<marker id="428748811" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.983828" latitude="-19.438007"/>
-<marker id="428748812" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.790634" latitude="-19.544228"/>
-<marker id="428748813" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.78958" latitude="-19.539454"/>
-<marker id="428748814" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.978828" latitude="-19.438427"/>
-<marker id="428748815" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.78458" latitude="-19.545235"/>
-<marker id="428748816" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.990126" latitude="-19.488056"/>
-<marker id="428748820" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.01082" latitude="-19.542831"/>
-<marker id="428748821" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.96831" latitude="-19.438467"/>
-<marker id="428748822" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.96331" latitude="-19.438768"/>
-<marker id="428748823" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.008623" latitude="-19.537832"/>
-<marker id="428748824" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.794804" latitude="-19.528378"/>
-<marker id="428748825" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
-<marker id="428748826" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
-<marker id="428748827" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
-<marker id="428748828" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
-<marker id="428748829" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
-<marker id="428748830" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
-<marker id="428748831" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
-<marker id="428748832" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
-<marker id="428748833" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
-<marker id="428748834" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
-<marker id="428748835" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
-<marker id="428748836" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
-<marker id="428748837" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
-<marker id="428748838" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
-<marker id="428748839" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
-<marker id="428748840" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
-<marker id="428748841" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
-<marker id="428748842" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
-<marker id="428748843" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
-<marker id="428748844" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
-<marker id="428748845" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
+<marker id="428748801" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
+<marker id="428748802" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
+<marker id="428748803" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.791864" latitude="-19.530586"/>
+<marker id="428748804" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.728594" latitude="-19.513653"/>
+<marker id="428748805" label="Emerald Twospade" category="71" did="1879083005" parentZoneId="1879063993" longitude="-19.781796" latitude="-19.538994"/>
+<marker id="428748806" label="Marigold Winterdown" category="71" did="1879083006" parentZoneId="1879063993" longitude="-19.986065" latitude="-19.438076"/>
+<marker id="428748807" label="Captain-General Meldún" category="71" did="1879077122" parentZoneId="1879063993" longitude="-19.949043" latitude="-19.483076"/>
+<marker id="428748808" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.79666" latitude="-19.584414"/>
+<marker id="428748809" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.99375" latitude="-19.53707"/>
+<marker id="428748810" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.99748" latitude="-19.536484"/>
+<marker id="428748811" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.79166" latitude="-19.579414"/>
+<marker id="428748812" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.98875" latitude="-19.492413"/>
+<marker id="428748813" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.983828" latitude="-19.438007"/>
+<marker id="428748814" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.790634" latitude="-19.544228"/>
+<marker id="428748815" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.78958" latitude="-19.539454"/>
+<marker id="428748816" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.978828" latitude="-19.438427"/>
+<marker id="428748817" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.78458" latitude="-19.545235"/>
+<marker id="428748818" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.990126" latitude="-19.488056"/>
+<marker id="428748822" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.01082" latitude="-19.542831"/>
+<marker id="428748823" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.96831" latitude="-19.438467"/>
+<marker id="428748824" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.96331" latitude="-19.438768"/>
+<marker id="428748825" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.008623" latitude="-19.537832"/>
+<marker id="428748826" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.794804" latitude="-19.528378"/>
+<marker id="428748827" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
+<marker id="428748828" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
+<marker id="428748829" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.00748" latitude="-19.475937"/>
+<marker id="428748830" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
+<marker id="428748831" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
+<marker id="428748832" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.994873" latitude="-19.518818"/>
+<marker id="428748833" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
+<marker id="428748834" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
+<marker id="428748835" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.073534" latitude="-19.463827"/>
+<marker id="428748836" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
+<marker id="428748837" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
+<marker id="428748838" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.07421" latitude="-19.401396"/>
+<marker id="428748839" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
+<marker id="428748840" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
+<marker id="428748841" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.689209" latitude="-19.54917"/>
+<marker id="428748842" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
+<marker id="428748843" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
+<marker id="428748844" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.652802" latitude="-19.268652"/>
+<marker id="428748845" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
+<marker id="428748846" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
+<marker id="428748847" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
 <marker id="428752896" label="River Outpost" category="43" did="1879145619" parentZoneId="1879063993" longitude="-20.090595" latitude="-18.408222"/>
 <marker id="428752898" label="Krahjarn Tyrant" category="71" did="1879136841" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
 <marker id="428752899" label="Captain-General" category="71" did="1879136840" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>

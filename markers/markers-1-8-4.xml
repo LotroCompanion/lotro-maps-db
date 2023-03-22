@@ -31,6 +31,7 @@
 <marker id="407695388" label="Chicken" category="70" did="1879076798" parentZoneId="1879449484" longitude="-34.43285" latitude="-60.55039"/>
 <marker id="407695389" label="Chicken" category="70" did="1879076798" parentZoneId="1879449484" longitude="-34.467392" latitude="-60.69854"/>
 <marker id="407695390" label="Chicken" category="70" did="1879076798" parentZoneId="1879449484" longitude="-34.341484" latitude="-60.735615"/>
+<marker id="407695391" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879449484" longitude="-34.245544" latitude="-60.674164"/>
 <marker id="407695394" label="Door" category="100" did="1879063326" parentZoneId="1879449484" longitude="-34.71662" latitude="-60.552597"/>
 <marker id="407695395" label="Door" category="100" did="1879063326" parentZoneId="1879449484" longitude="-34.537735" latitude="-60.60911"/>
 <marker id="407695396" label="Forge" category="73" did="1879063354" parentZoneId="1879449484" longitude="-34.615597" latitude="-60.742676"/>
@@ -71,57 +72,57 @@
 <marker id="407695435" label="Kingsfoil" category="73" did="1879448277" parentZoneId="1879449484" longitude="-34.052578" latitude="-60.529392"/>
 <marker id="407695436" label="Kingsfoil" category="73" did="1879448277" parentZoneId="1879449484" longitude="-34.182343" latitude="-60.46126"/>
 <marker id="407695437" label="Kingsfoil" category="73" did="1879448277" parentZoneId="1879449484" longitude="-34.22038" latitude="-60.48837"/>
-<marker id="407695438" label="Knowledge of Radagast" category="73" did="1879448390" parentZoneId="1879449484" longitude="-34.777126" latitude="-60.523724"/>
-<marker id="407695439" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.205887" latitude="-60.484028"/>
-<marker id="407695440" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.20034" latitude="-60.48016"/>
-<marker id="407695441" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.20616" latitude="-60.476677"/>
-<marker id="407695442" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.1994" latitude="-60.475567"/>
-<marker id="407695443" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.206318" latitude="-60.4807"/>
-<marker id="407695444" label="Knowledge of Saruman" category="73" did="1879448402" parentZoneId="1879449484" longitude="-34.773457" latitude="-60.541523"/>
-<marker id="407695445" label="Corpse of Madthrug" category="73" did="1879448401" parentZoneId="1879449484" longitude="-34.26705" latitude="-60.717133"/>
-<marker id="407695446" label="Knowledge of Gandalf" category="73" did="1879448414" parentZoneId="1879449484" longitude="-34.775253" latitude="-60.53285"/>
-<marker id="407695447" label="Provisioner" category="38" did="1879448476" parentZoneId="1879449484" longitude="-34.69077" latitude="-60.568523"/>
-<marker id="407695448" label="Supplier" category="38" did="1879448485" parentZoneId="1879449484" longitude="-34.625263" latitude="-60.721737"/>
-<marker id="407695449" label="Supplier" category="38" did="1879448483" parentZoneId="1879449484" longitude="-34.625263" latitude="-60.721737"/>
-<marker id="407695450" label="Provisioner" category="38" did="1879448480" parentZoneId="1879449484" longitude="-34.69077" latitude="-60.568523"/>
-<marker id="407695451" label="Cledd" category="70" did="1879448711" parentZoneId="1879449484" longitude="-34.159874" latitude="-60.653564"/>
-<marker id="407695452" label="Seren" category="70" did="1879448709" parentZoneId="1879449484" longitude="-34.327354" latitude="-60.564564"/>
-<marker id="407695453" label="Iach" category="70" did="1879448883" parentZoneId="1879449484" longitude="-34.262695" latitude="-60.68286"/>
-<marker id="407695454" label="Mailbox" category="34" did="1879448952" parentZoneId="1879449484" longitude="-34.58411" latitude="-60.4095"/>
-<marker id="407695455" label="Training Dummy" category="71" did="1879449096" parentZoneId="1879449484" longitude="-34.5675" latitude="-60.661175"/>
-<marker id="407695456" label="Lhian" category="70" did="1879449372" parentZoneId="1879449484" longitude="-34.16496" latitude="-60.652084"/>
-<marker id="407695457" label="Gwion" category="70" did="1879449373" parentZoneId="1879449484" longitude="-34.164696" latitude="-60.71738"/>
-<marker id="407695458" label="Eryl" category="70" did="1879449371" parentZoneId="1879449484" longitude="-34.252148" latitude="-60.49536"/>
-<marker id="407695459" label="Rhedyn" category="70" did="1879449377" parentZoneId="1879449484" longitude="-34.67866" latitude="-60.567715"/>
-<marker id="407695460" label="Bevan" category="70" did="1879448132" parentZoneId="1879449484" longitude="-34.268887" latitude="-60.685276"/>
-<marker id="407695461" label="Madthrug" category="71" did="1879449090" parentZoneId="1879449484" longitude="-34.23782" latitude="-60.694008"/>
-<marker id="407695462" label="Tegwyn" category="70" did="1879448078" parentZoneId="1879449484" longitude="-34.255066" latitude="-60.697758"/>
-<marker id="407695463" label="Eleri" category="71" did="1879449100" parentZoneId="1879449484" longitude="-34.748386" latitude="-60.645725"/>
-<marker id="407695464" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.615417" latitude="-60.63268"/>
-<marker id="407695465" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.640945" latitude="-60.713745"/>
-<marker id="407695466" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.63784" latitude="-60.7864"/>
-<marker id="407695467" label="Wenna" category="70" did="1879449864" parentZoneId="1879449484" longitude="-34.27213" latitude="-60.72876"/>
-<marker id="407695468" label="Geralt" category="70" did="1879449865" parentZoneId="1879449484" longitude="-34.614403" latitude="-60.610928"/>
-<marker id="407695469" label="Geralt" category="70" did="1879449865" parentZoneId="1879449484" longitude="-34.265938" latitude="-60.731194"/>
-<marker id="407695470" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.645313" latitude="-60.673836"/>
-<marker id="407695471" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.688457" latitude="-60.604496"/>
-<marker id="407695472" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.7012" latitude="-60.62289"/>
-<marker id="407695473" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.65629" latitude="-60.64268"/>
-<marker id="407695474" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.43537" latitude="-60.731426"/>
-<marker id="407695475" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.443855" latitude="-60.720528"/>
-<marker id="407695476" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.67254" latitude="-60.80884"/>
-<marker id="407695477" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.574657" latitude="-60.820686"/>
-<marker id="407695478" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.436962" latitude="-60.713135"/>
-<marker id="407695479" label="Door" category="100" did="1879063326" parentZoneId="1879449484" longitude="-34.57869" latitude="-60.705975"/>
-<marker id="407695480" label="Skardí Bendblade" category="70" did="1879448166" parentZoneId="1879449484" longitude="-34.42621" latitude="-60.728325"/>
-<marker id="407695481" label="Meneldir" category="70" did="1879448096" parentZoneId="1879449484" longitude="-34.16459" latitude="-60.692966"/>
-<marker id="407695482" label="Meneldir" category="70" did="1879448096" parentZoneId="1879449484" longitude="-34.62969" latitude="-60.658436"/>
-<marker id="407695483" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.243614" latitude="-60.683147"/>
-<marker id="407695484" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.230545" latitude="-60.684788"/>
-<marker id="407695485" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.239326" latitude="-60.705273"/>
-<marker id="407695486" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.24372" latitude="-60.713806"/>
-<marker id="407695487" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879449484" longitude="-34.245544" latitude="-60.674164"/>
-<marker id="407695855" label="Mossward" category="74" did="1879448549" parentZoneId="1879449484" longitude="-34.48323" latitude="-60.66243"/>
+<marker id="407695438" label="The Eyes and Guard Tavern" category="48" did="1879087864" parentZoneId="1879449484" longitude="-34.456512" latitude="-60.67456"/>
+<marker id="407695439" label="Knowledge of Radagast" category="73" did="1879448390" parentZoneId="1879449484" longitude="-34.777126" latitude="-60.523724"/>
+<marker id="407695440" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.205887" latitude="-60.484028"/>
+<marker id="407695441" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.20034" latitude="-60.48016"/>
+<marker id="407695442" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.20616" latitude="-60.476677"/>
+<marker id="407695443" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.1994" latitude="-60.475567"/>
+<marker id="407695444" label="Uruk Bootprints" category="73" did="1879448395" parentZoneId="1879449484" longitude="-34.206318" latitude="-60.4807"/>
+<marker id="407695445" label="Knowledge of Saruman" category="73" did="1879448402" parentZoneId="1879449484" longitude="-34.773457" latitude="-60.541523"/>
+<marker id="407695446" label="Corpse of Madthrug" category="73" did="1879448401" parentZoneId="1879449484" longitude="-34.26705" latitude="-60.717133"/>
+<marker id="407695447" label="Knowledge of Gandalf" category="73" did="1879448414" parentZoneId="1879449484" longitude="-34.775253" latitude="-60.53285"/>
+<marker id="407695448" label="Provisioner" category="38" did="1879448476" parentZoneId="1879449484" longitude="-34.69077" latitude="-60.568523"/>
+<marker id="407695449" label="Supplier" category="38" did="1879448485" parentZoneId="1879449484" longitude="-34.625263" latitude="-60.721737"/>
+<marker id="407695450" label="Supplier" category="38" did="1879448483" parentZoneId="1879449484" longitude="-34.625263" latitude="-60.721737"/>
+<marker id="407695451" label="Provisioner" category="38" did="1879448480" parentZoneId="1879449484" longitude="-34.69077" latitude="-60.568523"/>
+<marker id="407695452" label="Cledd" category="70" did="1879448711" parentZoneId="1879449484" longitude="-34.159874" latitude="-60.653564"/>
+<marker id="407695453" label="Seren" category="70" did="1879448709" parentZoneId="1879449484" longitude="-34.327354" latitude="-60.564564"/>
+<marker id="407695454" label="Iach" category="70" did="1879448883" parentZoneId="1879449484" longitude="-34.262695" latitude="-60.68286"/>
+<marker id="407695455" label="Mailbox" category="34" did="1879448952" parentZoneId="1879449484" longitude="-34.58411" latitude="-60.4095"/>
+<marker id="407695456" label="Training Dummy" category="71" did="1879449096" parentZoneId="1879449484" longitude="-34.5675" latitude="-60.661175"/>
+<marker id="407695457" label="Lhian" category="70" did="1879449372" parentZoneId="1879449484" longitude="-34.16496" latitude="-60.652084"/>
+<marker id="407695458" label="Gwion" category="70" did="1879449373" parentZoneId="1879449484" longitude="-34.164696" latitude="-60.71738"/>
+<marker id="407695459" label="Eryl" category="70" did="1879449371" parentZoneId="1879449484" longitude="-34.252148" latitude="-60.49536"/>
+<marker id="407695460" label="Rhedyn" category="70" did="1879449377" parentZoneId="1879449484" longitude="-34.67866" latitude="-60.567715"/>
+<marker id="407695461" label="Bevan" category="70" did="1879448132" parentZoneId="1879449484" longitude="-34.268887" latitude="-60.685276"/>
+<marker id="407695462" label="Madthrug" category="71" did="1879449090" parentZoneId="1879449484" longitude="-34.23782" latitude="-60.694008"/>
+<marker id="407695463" label="Tegwyn" category="70" did="1879448078" parentZoneId="1879449484" longitude="-34.255066" latitude="-60.697758"/>
+<marker id="407695464" label="Eleri" category="71" did="1879449100" parentZoneId="1879449484" longitude="-34.748386" latitude="-60.645725"/>
+<marker id="407695465" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.615417" latitude="-60.63268"/>
+<marker id="407695466" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.640945" latitude="-60.713745"/>
+<marker id="407695467" label="Mossward Resident" category="70" did="1879449866" parentZoneId="1879449484" longitude="-34.63784" latitude="-60.7864"/>
+<marker id="407695468" label="Wenna" category="70" did="1879449864" parentZoneId="1879449484" longitude="-34.27213" latitude="-60.72876"/>
+<marker id="407695469" label="Geralt" category="70" did="1879449865" parentZoneId="1879449484" longitude="-34.614403" latitude="-60.610928"/>
+<marker id="407695470" label="Geralt" category="70" did="1879449865" parentZoneId="1879449484" longitude="-34.265938" latitude="-60.731194"/>
+<marker id="407695471" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.645313" latitude="-60.673836"/>
+<marker id="407695472" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.688457" latitude="-60.604496"/>
+<marker id="407695473" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.7012" latitude="-60.62289"/>
+<marker id="407695474" label="Mossward Resident" category="70" did="1879448086" parentZoneId="1879449484" longitude="-34.65629" latitude="-60.64268"/>
+<marker id="407695475" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.43537" latitude="-60.731426"/>
+<marker id="407695476" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.443855" latitude="-60.720528"/>
+<marker id="407695477" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.67254" latitude="-60.80884"/>
+<marker id="407695478" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.574657" latitude="-60.820686"/>
+<marker id="407695479" label="Goblin Raider" category="71" did="1879450200" parentZoneId="1879449484" longitude="-34.436962" latitude="-60.713135"/>
+<marker id="407695480" label="Door" category="100" did="1879063326" parentZoneId="1879449484" longitude="-34.57869" latitude="-60.705975"/>
+<marker id="407695481" label="Skardí Bendblade" category="70" did="1879448166" parentZoneId="1879449484" longitude="-34.42621" latitude="-60.728325"/>
+<marker id="407695482" label="Meneldir" category="70" did="1879448096" parentZoneId="1879449484" longitude="-34.16459" latitude="-60.692966"/>
+<marker id="407695483" label="Meneldir" category="70" did="1879448096" parentZoneId="1879449484" longitude="-34.62969" latitude="-60.658436"/>
+<marker id="407695484" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.243614" latitude="-60.683147"/>
+<marker id="407695485" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.230545" latitude="-60.684788"/>
+<marker id="407695486" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.239326" latitude="-60.705273"/>
+<marker id="407695487" label="Uruk-hai Raider" category="71" did="1879449086" parentZoneId="1879449484" longitude="-34.24372" latitude="-60.713806"/>
+<marker id="407695856" label="Mossward" category="74" did="1879448549" parentZoneId="1879449484" longitude="-34.48323" latitude="-60.66243"/>
 <marker id="407756802" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.42341" latitude="-61.501816"/>
 <marker id="407756814" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.44875" latitude="-61.51435"/>
 <marker id="407756828" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.42341" latitude="-61.501816"/>
@@ -187,99 +188,99 @@
 <marker id="407756925" label="Enraged Moorland-stalker" category="71" did="1879453524" parentZoneId="1879445917" longitude="-33.524384" latitude="-61.440613"/>
 <marker id="407756926" label="Enraged Moorland-stalker" category="71" did="1879453524" parentZoneId="1879445917" longitude="-33.31335" latitude="-61.549305"/>
 <marker id="407756927" label="Enraged Moorland-stalker" category="71" did="1879453524" parentZoneId="1879445917" longitude="-33.31624" latitude="-61.619316"/>
-<marker id="407756937" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
-<marker id="407756938" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
-<marker id="407756939" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
-<marker id="407756940" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
-<marker id="407756941" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
-<marker id="407756942" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
-<marker id="407756943" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
-<marker id="407756944" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
-<marker id="407756945" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
-<marker id="407756946" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
-<marker id="407756947" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
-<marker id="407756948" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
-<marker id="407756949" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
-<marker id="407756950" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
-<marker id="407756951" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
-<marker id="407756952" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
-<marker id="407756953" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
-<marker id="407756954" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
-<marker id="407756955" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
-<marker id="407756956" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
-<marker id="407756957" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
-<marker id="407756958" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
-<marker id="407756959" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
-<marker id="407756960" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
-<marker id="407756961" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
-<marker id="407756962" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
-<marker id="407756963" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
-<marker id="407756964" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
-<marker id="407756965" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
-<marker id="407756966" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
-<marker id="407756967" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
-<marker id="407756968" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
-<marker id="407756969" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
-<marker id="407756970" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
-<marker id="407756971" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
-<marker id="407756972" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
-<marker id="407756973" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
-<marker id="407756974" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
-<marker id="407756975" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
-<marker id="407756976" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.36997" latitude="-61.45467"/>
-<marker id="407756977" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.36997" latitude="-61.45467"/>
-<marker id="407756978" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.43988" latitude="-61.58228"/>
-<marker id="407756979" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.43988" latitude="-61.58228"/>
-<marker id="407756980" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.475704" latitude="-61.75098"/>
-<marker id="407756981" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.475704" latitude="-61.75098"/>
-<marker id="407756982" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.36919" latitude="-61.818832"/>
-<marker id="407756983" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.36919" latitude="-61.818832"/>
-<marker id="407756984" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.291992" latitude="-61.688118"/>
-<marker id="407756985" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.291992" latitude="-61.688118"/>
-<marker id="407756986" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.526974" latitude="-61.5507"/>
-<marker id="407756987" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.526974" latitude="-61.5507"/>
-<marker id="407756988" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.61941" latitude="-61.524277"/>
-<marker id="407756989" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.61941" latitude="-61.524277"/>
-<marker id="407756990" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.556847" latitude="-61.4019"/>
-<marker id="407756991" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.556847" latitude="-61.4019"/>
-<marker id="407756992" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.3562" latitude="-61.40058"/>
-<marker id="407756993" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.3562" latitude="-61.40058"/>
-<marker id="407756994" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.325127" latitude="-61.22076"/>
-<marker id="407756995" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.325127" latitude="-61.22076"/>
-<marker id="407756996" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.28369" latitude="-61.317974"/>
-<marker id="407756997" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.28369" latitude="-61.317974"/>
-<marker id="407756998" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.379257" latitude="-61.554554"/>
-<marker id="407756999" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.379257" latitude="-61.554554"/>
-<marker id="407757000" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.39325" latitude="-61.470825"/>
-<marker id="407757001" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.39325" latitude="-61.470825"/>
-<marker id="407757002" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.26911" latitude="-61.517967"/>
-<marker id="407757003" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.26911" latitude="-61.517967"/>
-<marker id="407757004" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.279823" latitude="-61.661438"/>
-<marker id="407757005" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.279823" latitude="-61.661438"/>
-<marker id="407757006" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.518642" latitude="-61.572735"/>
-<marker id="407757007" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.518642" latitude="-61.572735"/>
-<marker id="407757008" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.513165" latitude="-61.3934"/>
-<marker id="407757009" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.513165" latitude="-61.3934"/>
-<marker id="407757010" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.531414" latitude="-61.311657"/>
-<marker id="407757011" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.531414" latitude="-61.311657"/>
-<marker id="407757012" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.588787" latitude="-61.470337"/>
-<marker id="407757013" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.588787" latitude="-61.470337"/>
-<marker id="407757014" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.550068" latitude="-61.702293"/>
-<marker id="407757015" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.550068" latitude="-61.702293"/>
-<marker id="407757016" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.394463" latitude="-61.695644"/>
-<marker id="407757017" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.394463" latitude="-61.695644"/>
-<marker id="407757018" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.338974" latitude="-61.68632"/>
-<marker id="407757019" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.338974" latitude="-61.68632"/>
-<marker id="407757020" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.389404" latitude="-61.83081"/>
-<marker id="407757021" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.389404" latitude="-61.83081"/>
-<marker id="407757022" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.514492" latitude="-61.68394"/>
-<marker id="407757023" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.514492" latitude="-61.68394"/>
-<marker id="407757024" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.39462" latitude="-61.672676"/>
-<marker id="407757025" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.39462" latitude="-61.672676"/>
-<marker id="407757026" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.350323" latitude="-61.66801"/>
-<marker id="407757027" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.350323" latitude="-61.66801"/>
-<marker id="407757028" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.295105" latitude="-61.426903"/>
-<marker id="407757029" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.295105" latitude="-61.426903"/>
+<marker id="407756941" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
+<marker id="407756942" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
+<marker id="407756943" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.225506" latitude="-61.265438"/>
+<marker id="407756944" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
+<marker id="407756945" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
+<marker id="407756946" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.353516" latitude="-61.257317"/>
+<marker id="407756947" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
+<marker id="407756948" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
+<marker id="407756949" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.49245" latitude="-61.333252"/>
+<marker id="407756950" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
+<marker id="407756951" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
+<marker id="407756952" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.300186" latitude="-61.461315"/>
+<marker id="407756953" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
+<marker id="407756954" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
+<marker id="407756955" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.317265" latitude="-61.77888"/>
+<marker id="407756956" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
+<marker id="407756957" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
+<marker id="407756958" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.456806" latitude="-61.704147"/>
+<marker id="407756959" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
+<marker id="407756960" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
+<marker id="407756961" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.633583" latitude="-61.668457"/>
+<marker id="407756962" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
+<marker id="407756963" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
+<marker id="407756964" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.56864" latitude="-61.45592"/>
+<marker id="407756965" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
+<marker id="407756966" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
+<marker id="407756967" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.298817" latitude="-61.707558"/>
+<marker id="407756968" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
+<marker id="407756969" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
+<marker id="407756970" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.46711" latitude="-61.585705"/>
+<marker id="407756971" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
+<marker id="407756972" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
+<marker id="407756973" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.47992" latitude="-61.57428"/>
+<marker id="407756974" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
+<marker id="407756975" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
+<marker id="407756976" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.397266" latitude="-61.403835"/>
+<marker id="407756977" label="Bloodhollow Pack-leader" category="71" did="1879449936" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
+<marker id="407756978" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
+<marker id="407756979" label="Bloodhollow Warg" category="71" did="1879448495" parentZoneId="1879445917" longitude="-33.30166" latitude="-61.622448"/>
+<marker id="407756980" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.36997" latitude="-61.45467"/>
+<marker id="407756981" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.36997" latitude="-61.45467"/>
+<marker id="407756982" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.43988" latitude="-61.58228"/>
+<marker id="407756983" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.43988" latitude="-61.58228"/>
+<marker id="407756984" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.475704" latitude="-61.75098"/>
+<marker id="407756985" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.475704" latitude="-61.75098"/>
+<marker id="407756986" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.36919" latitude="-61.818832"/>
+<marker id="407756987" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.36919" latitude="-61.818832"/>
+<marker id="407756988" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.291992" latitude="-61.688118"/>
+<marker id="407756989" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.291992" latitude="-61.688118"/>
+<marker id="407756990" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.526974" latitude="-61.5507"/>
+<marker id="407756991" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.526974" latitude="-61.5507"/>
+<marker id="407756992" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.61941" latitude="-61.524277"/>
+<marker id="407756993" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.61941" latitude="-61.524277"/>
+<marker id="407756994" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.556847" latitude="-61.4019"/>
+<marker id="407756995" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.556847" latitude="-61.4019"/>
+<marker id="407756996" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.3562" latitude="-61.40058"/>
+<marker id="407756997" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.3562" latitude="-61.40058"/>
+<marker id="407756998" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.325127" latitude="-61.22076"/>
+<marker id="407756999" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.325127" latitude="-61.22076"/>
+<marker id="407757000" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.28369" latitude="-61.317974"/>
+<marker id="407757001" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.28369" latitude="-61.317974"/>
+<marker id="407757002" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.379257" latitude="-61.554554"/>
+<marker id="407757003" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.379257" latitude="-61.554554"/>
+<marker id="407757004" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.39325" latitude="-61.470825"/>
+<marker id="407757005" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.39325" latitude="-61.470825"/>
+<marker id="407757006" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.26911" latitude="-61.517967"/>
+<marker id="407757007" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.26911" latitude="-61.517967"/>
+<marker id="407757008" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.279823" latitude="-61.661438"/>
+<marker id="407757009" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.279823" latitude="-61.661438"/>
+<marker id="407757010" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.518642" latitude="-61.572735"/>
+<marker id="407757011" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.518642" latitude="-61.572735"/>
+<marker id="407757012" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.513165" latitude="-61.3934"/>
+<marker id="407757013" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.513165" latitude="-61.3934"/>
+<marker id="407757014" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.531414" latitude="-61.311657"/>
+<marker id="407757015" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.531414" latitude="-61.311657"/>
+<marker id="407757016" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.588787" latitude="-61.470337"/>
+<marker id="407757017" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.588787" latitude="-61.470337"/>
+<marker id="407757018" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.550068" latitude="-61.702293"/>
+<marker id="407757019" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.550068" latitude="-61.702293"/>
+<marker id="407757020" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.394463" latitude="-61.695644"/>
+<marker id="407757021" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.394463" latitude="-61.695644"/>
+<marker id="407757022" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.338974" latitude="-61.68632"/>
+<marker id="407757023" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.338974" latitude="-61.68632"/>
+<marker id="407757024" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.389404" latitude="-61.83081"/>
+<marker id="407757025" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.389404" latitude="-61.83081"/>
+<marker id="407757026" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.514492" latitude="-61.68394"/>
+<marker id="407757027" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.514492" latitude="-61.68394"/>
+<marker id="407757028" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.39462" latitude="-61.672676"/>
+<marker id="407757029" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.39462" latitude="-61.672676"/>
+<marker id="407757030" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.350323" latitude="-61.66801"/>
+<marker id="407757031" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.350323" latitude="-61.66801"/>
+<marker id="407757032" label="Backpack" category="72" did="1879449490" parentZoneId="1879445917" longitude="-33.295105" latitude="-61.426903"/>
+<marker id="407757033" label="Shattered Pitcher" category="50" did="1879077557" parentZoneId="1879445917" longitude="-33.295105" latitude="-61.426903"/>
 <marker id="407760896" label="Wolf" category="71" did="1879448879" parentZoneId="1879445917" longitude="-33.364246" latitude="-60.959595"/>
 <marker id="407760897" label="Howlingstones" category="74" did="1879449566" parentZoneId="1879445917" longitude="-33.339725" latitude="-61.14538"/>
 <marker id="407760898" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879445917" longitude="-33.6" latitude="-60.8"/>

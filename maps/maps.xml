@@ -273,11 +273,11 @@
 <max longitude="-64.31111" latitude="-12.93333"/>
 </map>
 <map id="268443855" name="Mirkwood" imageId="1091571186">
-<geo factor="41.25">
-<point longitude="-63.624237" latitude="-4.93333"/>
+<geo factor="45.0">
+<point longitude="-62.8" latitude="-5.4"/>
 </geo>
-<min longitude="-63.624237" latitude="-23.551512"/>
-<max longitude="-38.799995" latitude="-4.93333"/>
+<min longitude="-62.8" latitude="-22.466667"/>
+<max longitude="-40.04444" latitude="-5.4"/>
 </map>
 <map id="268444443" name="Enedwaith" imageId="1091584420">
 <geo factor="30.000002">
@@ -391,13 +391,6 @@
 <min longitude="-65.11714" latitude="-27.079998"/>
 <max longitude="-62.19143" latitude="-24.891426"/>
 </map>
-<map id="268448107" name="East Rohan" imageId="1091739319">
-<geo factor="23.9">
-<point longitude="-77.52971" latitude="-33.548115"/>
-</geo>
-<min longitude="-77.52971" latitude="-65.68201"/>
-<max longitude="-34.68452" latitude="-33.548115"/>
-</map>
 <map id="268448407" name="East Rohan: The Wold" imageId="1091752414">
 <geo factor="41.2">
 <point longitude="-64.23689" latitude="-30.148544"/>
@@ -509,13 +502,6 @@
 </geo>
 <min longitude="-76.88527" latitude="-64.11938"/>
 <max longitude="-68.94728" latitude="-58.165886"/>
-</map>
-<map id="268449764" name="Western Rohan" imageId="1091814181">
-<geo factor="19.619999">
-<point longitude="-97.425896" latitude="-39.92212"/>
-</geo>
-<min longitude="-97.425896" latitude="-79.06585"/>
-<max longitude="-45.234253" latitude="-39.92212"/>
 </map>
 <map id="268449767" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
@@ -1307,6 +1293,13 @@
 </geo>
 <min longitude="-35.6" latitude="-61.35361"/>
 <max longitude="-34.042583" latitude="-60.18555"/>
+</map>
+<map id="268454115" name="Carn Dûm, Angmar Reborn" imageId="1092809453">
+<geo factor="87.5">
+<point longitude="-37.485714" latitude="76.377144"/>
+</geo>
+<min longitude="-37.485714" latitude="67.6"/>
+<max longitude="-25.782856" latitude="76.377144"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -9085,12 +9078,19 @@
 <min longitude="8.0079975" latitude="-122.109"/>
 <max longitude="8.807998" latitude="-121.509"/>
 </map>
-<map id="1879453499" name="DNT - CARN DUM SEWERS" imageId="1092753789">
+<map id="1879453499" name="Sagroth" imageId="1092753789">
 <geo factor="300.0">
 <point longitude="46.23" latitude="79.043335"/>
 </geo>
 <min longitude="46.23" latitude="75.043335"/>
 <max longitude="51.56333" latitude="79.043335"/>
+</map>
+<map id="1879453609" name="Gwathrenost" imageId="1092778664">
+<geo factor="600.0">
+<point longitude="48.316658" latitude="74.55166"/>
+</geo>
+<min longitude="48.316658" latitude="72.55166"/>
+<max longitude="50.983326" latitude="74.55166"/>
 </map>
 <map id="1879453610" name="DNT - CARN DUM UNDERCOURT" imageId="1092755901">
 <geo factor="600.00006">
@@ -9147,5 +9147,152 @@
 </geo>
 <min longitude="49.316658" latitude="-32.433334"/>
 <max longitude="51.53888" latitude="-30.766668"/>
+</map>
+<map id="1879456523" name="Gwathrenost" imageId="1092778665">
+<geo factor="600.0">
+<point longitude="48.316658" latitude="74.55166"/>
+</geo>
+<min longitude="48.316658" latitude="72.55166"/>
+<max longitude="50.983326" latitude="74.55166"/>
+</map>
+<map id="1879456524" name="Gwathrenost" imageId="1092778666">
+<geo factor="600.0">
+<point longitude="48.316658" latitude="74.55166"/>
+</geo>
+<min longitude="48.316658" latitude="72.55166"/>
+<max longitude="50.983326" latitude="74.55166"/>
+</map>
+<map id="1879457147" name="The Last Homely House" imageId="1092807353">
+<geo factor="600.0">
+<point longitude="52.68834" latitude="64.11166"/>
+</geo>
+<min longitude="52.68834" latitude="62.111656"/>
+<max longitude="55.355007" latitude="64.11166"/>
+</map>
+<map id="1879457393" name="Stately Deluxe Premium House" imageId="1092809213">
+<geo factor="300.0">
+<point longitude="38.43334" latitude="79.85"/>
+</geo>
+<min longitude="38.43334" latitude="75.85"/>
+<max longitude="43.76667" latitude="79.85"/>
+</map>
+<map id="1879457394" name="Premium Kinship House" imageId="1092809214">
+<geo factor="300.0">
+<point longitude="38.52666" latitude="80.88666"/>
+</geo>
+<min longitude="38.52666" latitude="76.88666"/>
+<max longitude="43.859993" latitude="80.88666"/>
+</map>
+<map id="1879457395" name="Deluxe Premium House" imageId="1092809215">
+<geo factor="300.0">
+<point longitude="40.566658" latitude="78.049995"/>
+</geo>
+<min longitude="40.566658" latitude="76.049995"/>
+<max longitude="43.233326" latitude="78.049995"/>
+</map>
+<map id="1879457396" name="Deluxe Premium House" imageId="1092809216">
+<geo factor="300.0">
+<point longitude="40.566658" latitude="78.85"/>
+</geo>
+<min longitude="40.566658" latitude="76.85"/>
+<max longitude="43.233326" latitude="78.85"/>
+</map>
+<map id="1879457397" name="Deluxe Premium House" imageId="1092809217">
+<geo factor="300.0">
+<point longitude="40.566658" latitude="79.65"/>
+</geo>
+<min longitude="40.566658" latitude="77.65"/>
+<max longitude="43.233326" latitude="79.65"/>
+</map>
+<map id="1879457398" name="Stately Premium House" imageId="1092809218">
+<geo factor="300.0">
+<point longitude="40.13334" latitude="79.4"/>
+</geo>
+<min longitude="40.13334" latitude="75.4"/>
+<max longitude="45.46667" latitude="79.4"/>
+</map>
+<map id="1879457399" name="Premium House" imageId="1092809219">
+<geo factor="300.0">
+<point longitude="41.46666" latitude="79.7"/>
+</geo>
+<min longitude="41.46666" latitude="77.7"/>
+<max longitude="44.133327" latitude="79.7"/>
+</map>
+<map id="1879459099" name="Thaurisgar, the Vile Apothecary" imageId="1092812735">
+<geo factor="599.99994">
+<point longitude="43.765" latitude="78.028336"/>
+</geo>
+<min longitude="43.765" latitude="76.028336"/>
+<max longitude="46.431667" latitude="78.028336"/>
+</map>
+<map id="1879461248" name="Lighthouse of Aerthir" imageId="1092814524">
+<geo factor="600.00006">
+<point longitude="52.039997" latitude="77.564995"/>
+</geo>
+<min longitude="52.039997" latitude="76.564995"/>
+<max longitude="53.37333" latitude="77.564995"/>
+</map>
+<map id="1879461249" name="Hall of Ost Anglebed" imageId="1092814523">
+<geo factor="600.0">
+<point longitude="52.57666" latitude="75.9"/>
+</geo>
+<min longitude="52.57666" latitude="74.9"/>
+<max longitude="53.909992" latitude="75.9"/>
+</map>
+<map id="1879461250" name="Prison" imageId="1092814522">
+<geo factor="600.0">
+<point longitude="52.748337" latitude="74.475"/>
+</geo>
+<min longitude="52.748337" latitude="73.475"/>
+<max longitude="54.08167" latitude="74.475"/>
+</map>
+<map id="1879461251" name="Hall of the Gentle Hand" imageId="1092814519">
+<geo factor="600.00006">
+<point longitude="-26.50333" latitude="-72.585"/>
+</geo>
+<min longitude="-26.50333" latitude="-73.585"/>
+<max longitude="-25.169996" latitude="-72.585"/>
+</map>
+<map id="1879461252" name="Hall of Lady Vanyalos" imageId="1092814521">
+<geo factor="600.0">
+<point longitude="-24.158329" latitude="-72.39"/>
+</geo>
+<min longitude="-24.158329" latitude="-73.39"/>
+<max longitude="-22.824995" latitude="-72.39"/>
+</map>
+<map id="1879461253" name="Great Hall of Tumladen" imageId="1092814518">
+<geo factor="600.0">
+<point longitude="-31.42333" latitude="-76.1"/>
+</geo>
+<min longitude="-31.42333" latitude="-77.1"/>
+<max longitude="-30.089996" latitude="-76.1"/>
+</map>
+<map id="1879461295" name="Forlong's Hall" imageId="1092814520">
+<geo factor="600.00006">
+<point longitude="-26.158329" latitude="-77.705"/>
+</geo>
+<min longitude="-26.158329" latitude="-78.705"/>
+<max longitude="-24.824995" latitude="-77.705"/>
+</map>
+<map id="1879461369" name="Merchant Hall of Pelargir" imageId="1092814526">
+<geo factor="600.0">
+<point longitude="-35.51667" latitude="-84.25333"/>
+</geo>
+<min longitude="-35.51667" latitude="-85.25333"/>
+<max longitude="-34.18334" latitude="-84.25333"/>
+</map>
+<map id="1879461653" name="Pelargir Armoury" imageId="1092814875">
+<geo factor="600.0">
+<point longitude="-33.79" latitude="-83.238335"/>
+</geo>
+<min longitude="-33.79" latitude="-84.238335"/>
+<max longitude="-32.45667" latitude="-83.238335"/>
+</map>
+<map id="1879461816" name="Sirgon's Manor" imageId="1092815072">
+<geo factor="300.0">
+<point longitude="-35.986668" latitude="-80.666664"/>
+</geo>
+<min longitude="-35.986668" latitude="-84.666664"/>
+<max longitude="-30.653334" latitude="-80.666664"/>
 </map>
 </maps>

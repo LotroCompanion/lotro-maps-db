@@ -3596,7 +3596,7 @@
 <marker id="629702667" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879109910" longitude="-76.03147" latitude="-15.354287"/>
 <marker id="629702668" label="Orc Weapons" category="73" did="1879149974" parentZoneId="1879109910" longitude="-75.80468" latitude="-14.982021"/>
 <marker id="629702669" label="Orc Camp-fire" category="73" did="1879149981" parentZoneId="1879109910" longitude="-75.88369" latitude="-15.108047"/>
-<marker id="629702670" label="Barricade" category="73" did="1879149980" parentZoneId="1879109910" longitude="-75.65071" latitude="-14.840644"/>
+<marker id="629702670" label="Barricade" category="73" did="1879149980" parentZoneId="1879109910" longitude="-75.64999" latitude="-14.839872"/>
 <marker id="629702671" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879109910" longitude="-76.03147" latitude="-15.354287"/>
 <marker id="629702672" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879109910" longitude="-76.03147" latitude="-15.354287"/>
 <marker id="629702673" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879109910" longitude="-76.03147" latitude="-15.354287"/>
@@ -4371,7 +4371,7 @@
 <marker id="629768218" label="Moria Orc-warrior" category="71" did="1879140522" parentZoneId="1879109910" longitude="-74.98922" latitude="-14.872246"/>
 <marker id="629768219" label="Willem Whisker" category="71" did="1879325623" parentZoneId="1879109910" longitude="-75.17807" latitude="-14.863818"/>
 <marker id="629768220" label="Bingo Boffin" category="71" did="1879325619" parentZoneId="1879109910" longitude="-75.17217" latitude="-14.850957"/>
-<marker id="629768221" label="Barricade" category="73" did="1879149980" parentZoneId="1879109910" longitude="-75.52789" latitude="-14.830645"/>
+<marker id="629768221" label="Barricade" category="73" did="1879149980" parentZoneId="1879109910" longitude="-75.52313" latitude="-14.851406"/>
 <marker id="629768223" label="Orc Weapons" category="73" did="1879149974" parentZoneId="1879109910" longitude="-75.5384" latitude="-15.101455"/>
 <marker id="629768233" label="Moria Orc-berserker" category="71" did="1879140519" parentZoneId="1879109910" longitude="-75.44806" latitude="-15.064453"/>
 <marker id="629768234" label="Moria Orc-leader" category="71" did="1879140150" parentZoneId="1879109910" longitude="-75.44806" latitude="-15.064453"/>
@@ -6691,7 +6691,7 @@
 <marker id="629968902" label="Moll&#10;Burglar Trader" category="58" did="1879153509" parentZoneId="1879112702" longitude="-73.14617" latitude="-14.141835"/>
 <marker id="629968903" label="Daega&#10;Captain Trader" category="58" did="1879153510" parentZoneId="1879112702" longitude="-73.127075" latitude="-14.135703"/>
 <marker id="629968904" label="Bass&#10;Champion Trader" category="58" did="1879153511" parentZoneId="1879112702" longitude="-73.07562" latitude="-14.077783"/>
-<marker id="629968905" label="Cwenel&#10;Guardian Trader" category="58" did="1879153512" parentZoneId="1879112702" longitude="-73.06126" latitude="-14.085996"/>
+<marker id="629968905" label="Cwenel&#10;Guardian Trader" category="58" did="1879153512" parentZoneId="1879112702" longitude="-73.05538" latitude="-14.085058"/>
 <marker id="629968906" label="Hugi&#10;Hunter Trader" category="58" did="1879153513" parentZoneId="1879112702" longitude="-73.135056" latitude="-14.142763"/>
 <marker id="629968907" label="Fearn&#10;Lore-master Trader" category="58" did="1879153514" parentZoneId="1879112702" longitude="-73.13727" latitude="-14.25288"/>
 <marker id="629968908" label="Inela&#10;Minstrel Trader" category="58" did="1879153515" parentZoneId="1879112702" longitude="-73.14461" latitude="-14.236367"/>
@@ -6717,63 +6717,64 @@
 <marker id="629968928" label="Curugardh&#10;Classic" category="58" did="1879184867" parentZoneId="1879112702" longitude="-72.95427" latitude="-14.602236"/>
 <marker id="629968929" label="Mithril Trader" category="58" did="1879297377" parentZoneId="1879112702" longitude="-72.935455" latitude="-14.499296"/>
 <marker id="629968930" label="Fuldrad&#10;Beorning Trader" category="58" did="1879330925" parentZoneId="1879112702" longitude="-73.12015" latitude="-14.125615"/>
-<marker id="629968946" label="Quennel" category="70" did="1879138434" parentZoneId="1879112702" longitude="-73.00736" latitude="-14.2703705"/>
-<marker id="629968951" label="Lothlórien Sentinel" category="71" did="1879150795" parentZoneId="1879112702" longitude="-73.150604" latitude="-14.322187"/>
-<marker id="629968952" label="Camp-fire" category="73" did="1879086363" parentZoneId="1879112702" longitude="-73.00391" latitude="-14.255683"/>
-<marker id="629968953" label="Camp-fire" category="73" did="1879086364" parentZoneId="1879112702" longitude="-73.09722" latitude="-14.261259"/>
-<marker id="629968955" label="Galadhrim Archer" category="70" did="1879152423" parentZoneId="1879112702" longitude="-72.91791" latitude="-14.138994"/>
-<marker id="629968956" label="Galadhrim Warden" category="70" did="1879152422" parentZoneId="1879112702" longitude="-73.00078" latitude="-14.04207"/>
-<marker id="629968957" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879112702" longitude="-72.93779" latitude="-14.649228"/>
-<marker id="629968970" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
-<marker id="629968974" label="Limhendeth" category="70" did="1879149955" parentZoneId="1879112702" longitude="-73.153694" latitude="-14.187412"/>
-<marker id="629968980" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
-<marker id="629968981" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
-<marker id="629968982" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
-<marker id="629968983" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
-<marker id="629968985" label="Elladan" category="70" did="1879447630" parentZoneId="1879112702" longitude="-72.94558" latitude="-14.097656"/>
-<marker id="629969025" label="Orc Corpse" category="73" did="1879149982" parentZoneId="1879112702" longitude="-72.62995" latitude="-14.295547"/>
-<marker id="629969026" label="Celegúien" category="70" did="1879149953" parentZoneId="1879112702" longitude="-72.98937" latitude="-14.214423"/>
-<marker id="629969027" label="Bundle of Arrows" category="73" did="1879149975" parentZoneId="1879112702" longitude="-72.98815" latitude="-14.209462"/>
-<marker id="629969028" label="Bundle of Arrows" category="73" did="1879149975" parentZoneId="1879112702" longitude="-72.98701" latitude="-14.2124605"/>
-<marker id="629969029" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.78056" latitude="-14.13207"/>
-<marker id="629969030" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.7776" latitude="-14.174658"/>
-<marker id="629969031" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.70204" latitude="-14.257138"/>
-<marker id="629969032" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.713425" latitude="-14.47625"/>
-<marker id="629969033" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.81138" latitude="-14.619823"/>
-<marker id="629969034" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.71223" latitude="-14.068105"/>
-<marker id="629969035" label="Dindirith" category="70" did="1879149954" parentZoneId="1879112702" longitude="-72.98994" latitude="-14.22376"/>
-<marker id="629969036" label="Asmund" category="70" did="1879149956" parentZoneId="1879112702" longitude="-73.03755" latitude="-14.124902"/>
-<marker id="629969039" label="Ambendel" category="70" did="1879150535" parentZoneId="1879112702" longitude="-73.0738" latitude="-14.258769"/>
-<marker id="629969041" label="Echad Andestel" category="43" did="1879152502" parentZoneId="1879112702" longitude="-73.04683" latitude="-14.220204"/>
-<marker id="629969042" label="Elrohir" category="70" did="1879447632" parentZoneId="1879112702" longitude="-72.94927" latitude="-14.094209"/>
-<marker id="629969043" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969044" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969045" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969046" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969047" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969048" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969049" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
-<marker id="629969050" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969051" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969052" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969053" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969054" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969055" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969056" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
-<marker id="629969057" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969058" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969059" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969060" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969061" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969062" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969063" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
-<marker id="629969064" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969065" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969066" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969067" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969068" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969069" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
-<marker id="629969070" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629968931" label="Quinnen&#10;Brawler Trader" category="58" did="1879457576" parentZoneId="1879112702" longitude="-73.06544" latitude="-14.085606"/>
+<marker id="629968947" label="Quennel" category="70" did="1879138434" parentZoneId="1879112702" longitude="-73.00736" latitude="-14.2703705"/>
+<marker id="629968953" label="Lothlórien Sentinel" category="71" did="1879150795" parentZoneId="1879112702" longitude="-73.150604" latitude="-14.322187"/>
+<marker id="629968954" label="Camp-fire" category="73" did="1879086363" parentZoneId="1879112702" longitude="-73.00391" latitude="-14.255683"/>
+<marker id="629968955" label="Camp-fire" category="73" did="1879086364" parentZoneId="1879112702" longitude="-73.09722" latitude="-14.261259"/>
+<marker id="629968957" label="Galadhrim Archer" category="70" did="1879152423" parentZoneId="1879112702" longitude="-72.91791" latitude="-14.138994"/>
+<marker id="629968958" label="Galadhrim Warden" category="70" did="1879152422" parentZoneId="1879112702" longitude="-73.00078" latitude="-14.04207"/>
+<marker id="629968959" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879112702" longitude="-72.93779" latitude="-14.649228"/>
+<marker id="629968972" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
+<marker id="629968976" label="Limhendeth" category="70" did="1879149955" parentZoneId="1879112702" longitude="-73.153694" latitude="-14.187412"/>
+<marker id="629968982" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
+<marker id="629968983" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
+<marker id="629968984" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
+<marker id="629968985" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.56145" latitude="-14.305595"/>
+<marker id="629968987" label="Elladan" category="70" did="1879447630" parentZoneId="1879112702" longitude="-72.94558" latitude="-14.097656"/>
+<marker id="629969027" label="Orc Corpse" category="73" did="1879149982" parentZoneId="1879112702" longitude="-72.62995" latitude="-14.295547"/>
+<marker id="629969028" label="Celegúien" category="70" did="1879149953" parentZoneId="1879112702" longitude="-72.98937" latitude="-14.214423"/>
+<marker id="629969029" label="Bundle of Arrows" category="73" did="1879149975" parentZoneId="1879112702" longitude="-72.98815" latitude="-14.209462"/>
+<marker id="629969030" label="Bundle of Arrows" category="73" did="1879149975" parentZoneId="1879112702" longitude="-72.98701" latitude="-14.2124605"/>
+<marker id="629969031" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.78056" latitude="-14.13207"/>
+<marker id="629969032" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.7776" latitude="-14.174658"/>
+<marker id="629969033" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.70204" latitude="-14.257138"/>
+<marker id="629969034" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.713425" latitude="-14.47625"/>
+<marker id="629969035" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.81138" latitude="-14.619823"/>
+<marker id="629969036" label="Orc Filth" category="73" did="1879149973" parentZoneId="1879112702" longitude="-72.71223" latitude="-14.068105"/>
+<marker id="629969037" label="Dindirith" category="70" did="1879149954" parentZoneId="1879112702" longitude="-72.98994" latitude="-14.22376"/>
+<marker id="629969038" label="Asmund" category="70" did="1879149956" parentZoneId="1879112702" longitude="-73.03755" latitude="-14.124902"/>
+<marker id="629969041" label="Ambendel" category="70" did="1879150535" parentZoneId="1879112702" longitude="-73.0738" latitude="-14.258769"/>
+<marker id="629969043" label="Echad Andestel" category="43" did="1879152502" parentZoneId="1879112702" longitude="-73.04683" latitude="-14.220204"/>
+<marker id="629969044" label="Elrohir" category="70" did="1879447632" parentZoneId="1879112702" longitude="-72.94927" latitude="-14.094209"/>
+<marker id="629969045" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969046" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969047" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969048" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969049" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969050" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969051" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.563515" latitude="-14.066347"/>
+<marker id="629969052" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969053" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969054" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969055" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969056" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969057" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969058" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.53711" latitude="-14.247792"/>
+<marker id="629969059" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969060" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969061" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969062" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969063" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969064" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969065" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.546135" latitude="-14.441494"/>
+<marker id="629969066" label="Mallorn Eyas" category="71" did="1879150385" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969067" label="Forest Buck" category="71" did="1879150368" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969068" label="Darting Mallorn Hawk" category="71" did="1879150387" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969069" label="Greater Mallorn Hawk" category="71" did="1879150386" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969070" label="Orc-brawler" category="71" did="1879153848" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969071" label="Forest Fawn" category="71" did="1879150367" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
+<marker id="629969072" label="Forest Doe" category="71" did="1879150366" parentZoneId="1879112702" longitude="-72.56459" latitude="-14.736455"/>
 <marker id="629972994" label="Lothlórien Sentinel" category="71" did="1879150795" parentZoneId="1879112702" longitude="-72.42777" latitude="-13.401289"/>
 <marker id="629972995" label="Galadhrim Look-out" category="70" did="1879152409" parentZoneId="1879112702" longitude="-72.46243" latitude="-13.479404"/>
 <marker id="629972996" label="Nímau" category="71" did="1879153851" parentZoneId="1879112702" longitude="-72.94206" latitude="-13.692715"/>
