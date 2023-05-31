@@ -1301,6 +1301,41 @@
 <min longitude="-37.485714" latitude="67.6"/>
 <max longitude="-25.782856" latitude="76.377144"/>
 </map>
+<map id="268454127" name="Lossarnach (King's Gondor)" imageId="1092817730">
+<geo factor="60.000004">
+<point longitude="-34.05" latitude="-69.2"/>
+</geo>
+<min longitude="-34.05" latitude="-82.0"/>
+<max longitude="-16.983334" latitude="-69.2"/>
+</map>
+<map id="268454129" name="King's Gondor" imageId="1092817731">
+<geo factor="14.749999">
+<point longitude="-82.799995" latitude="-47.477962"/>
+</geo>
+<min longitude="-82.799995" latitude="-99.54576"/>
+<max longitude="-13.376259" latitude="-47.477962"/>
+</map>
+<map id="268454137" name="Upper Lebennin (King's Gondor)" imageId="1092818010">
+<geo factor="75.0">
+<point longitude="-36.399998" latitude="-74.96"/>
+</geo>
+<min longitude="-36.399998" latitude="-85.2"/>
+<max longitude="-22.746664" latitude="-74.96"/>
+</map>
+<map id="268454138" name="Lower Lebennin (King's Gondor)" imageId="1092818011">
+<geo factor="41.875">
+<point longitude="-52.54328" latitude="-69.283585"/>
+</geo>
+<min longitude="-52.54328" latitude="-87.623886"/>
+<max longitude="-28.08955" latitude="-69.283585"/>
+</map>
+<map id="268454139" name="Pelargir (King's Gondor)" imageId="1092818012">
+<geo factor="106.875">
+<point longitude="-38.0" latitude="-79.61403"/>
+</geo>
+<min longitude="-38.0" latitude="-86.799995"/>
+<max longitude="-28.418713" latitude="-79.61403"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -4584,7 +4619,7 @@
 <min longitude="53.04588" latitude="-10.904629"/>
 <max longitude="53.34588" latitude="-10.679628"/>
 </map>
-<map id="1879231860" name="Abandoned Home" imageId="1091714618">
+<map id="1879231860" name="Abandoned Home Basement" imageId="1091714618">
 <geo factor="2000.0002">
 <point longitude="53.0025" latitude="-9.0525"/>
 </geo>
@@ -5494,7 +5529,7 @@
 <min longitude="47.220997" latitude="-41.492"/>
 <max longitude="48.020996" latitude="-40.892002"/>
 </map>
-<map id="1879255926" name="Abandoned Home" imageId="1091770438">
+<map id="1879255926" name="Abandoned Home Basement" imageId="1091770438">
 <geo factor="600.0">
 <point longitude="52.55834" latitude="-16.64667"/>
 </geo>
@@ -6656,7 +6691,7 @@
 <min longitude="52.69666" latitude="53.614998"/>
 <max longitude="54.02999" latitude="54.614998"/>
 </map>
-<map id="1879328495" name="Old Guesthouse" imageId="1091991426">
+<map id="1879328495" name="Old Guest-house" imageId="1091991426">
 <geo factor="800.0">
 <point longitude="54.2775" latitude="66.28875"/>
 </geo>
@@ -6775,7 +6810,7 @@
 <min longitude="54.228573" latitude="62.37143"/>
 <max longitude="55.37143" latitude="63.228573"/>
 </map>
-<map id="1879328883" name="Southern Great Guesthouse" imageId="1091991674">
+<map id="1879328883" name="Southern Great Guest-house" imageId="1091991674">
 <geo factor="1200.0">
 <point longitude="53.699997" latitude="32.44917"/>
 </geo>
@@ -6894,7 +6929,7 @@
 <min longitude="53.88416" latitude="29.69917"/>
 <max longitude="55.21749" latitude="30.69917"/>
 </map>
-<map id="1879335460" name="Southern Great Guesthouse" imageId="1092170499">
+<map id="1879335460" name="Southern Great Guest-house" imageId="1092170499">
 <geo factor="1199.9999">
 <point longitude="54.08416" latitude="32.24917"/>
 </geo>
@@ -6950,7 +6985,7 @@
 <min longitude="54.13334" latitude="62.3"/>
 <max longitude="55.46667" latitude="63.3"/>
 </map>
-<map id="1879335468" name="Old Guest House" imageId="1092170507">
+<map id="1879335468" name="Old Guest-house" imageId="1092170507">
 <geo factor="1200.0">
 <point longitude="54.11084" latitude="66.41334"/>
 </geo>
@@ -7119,11 +7154,11 @@
 <max longitude="55.390003" latitude="15.195332"/>
 </map>
 <map id="1879341328" name="Court of Celeborn" imageId="1092253102">
-<geo factor="1000.0">
-<point longitude="52.8" latitude="51.899998"/>
+<geo factor="300.0">
+<point longitude="51.983337" latitude="12.0"/>
 </geo>
-<min longitude="52.8" latitude="51.3"/>
-<max longitude="53.6" latitude="51.899998"/>
+<min longitude="51.983337" latitude="8.0"/>
+<max longitude="57.31667" latitude="12.0"/>
 </map>
 <map id="1879342514" name="The Scholar's Hall" imageId="1092270321">
 <geo factor="1199.9999">
@@ -7923,7 +7958,7 @@
 <min longitude="47.49334" latitude="76.63"/>
 <max longitude="48.82667" latitude="77.63"/>
 </map>
-<map id="1879401200" name="Lookout Tower" imageId="1092539102">
+<map id="1879401200" name="Look-out Tower" imageId="1092539102">
 <geo factor="599.99994">
 <point longitude="47.49334" latitude="77.63"/>
 </geo>
@@ -8056,7 +8091,7 @@
 <min longitude="50.68" latitude="33.57333"/>
 <max longitude="52.013332" latitude="34.57333"/>
 </map>
-<map id="1879406999" name="The High Guesthouse" imageId="1092557086">
+<map id="1879406999" name="The High Guest-house" imageId="1092557086">
 <geo factor="1200.0">
 <point longitude="52.532497" latitude="38.53667"/>
 </geo>
@@ -8091,7 +8126,7 @@
 <min longitude="52.53334" latitude="62.199997"/>
 <max longitude="53.866673" latitude="63.199997"/>
 </map>
-<map id="1879407786" name="Southern Great Guesthouse" imageId="1092557735">
+<map id="1879407786" name="Southern Great Guest-house" imageId="1092557735">
 <geo factor="1199.9999">
 <point longitude="52.484158" latitude="32.24917"/>
 </geo>
@@ -9294,5 +9329,103 @@
 </geo>
 <min longitude="-35.986668" latitude="-84.666664"/>
 <max longitude="-30.653334" latitude="-80.666664"/>
+</map>
+<map id="1879463526" name="Abandoned Homes in Linhir" imageId="1092818831">
+<geo factor="432.00003">
+<point longitude="52.62361" latitude="73.193985"/>
+</geo>
+<min longitude="52.62361" latitude="71.8051"/>
+<max longitude="54.475464" latitude="73.193985"/>
+</map>
+<map id="1879463578" name="Imloth Melui Guard-house" imageId="1092818999">
+<geo factor="600.00006">
+<point longitude="-25.164999" latitude="-72.75"/>
+</geo>
+<min longitude="-25.164999" latitude="-73.75"/>
+<max longitude="-23.831665" latitude="-72.75"/>
+</map>
+<map id="1879464019" name="Straggler's Den" imageId="1092819212">
+<geo factor="600.00006">
+<point longitude="-23.699999" latitude="-70.32666"/>
+</geo>
+<min longitude="-23.699999" latitude="-71.32666"/>
+<max longitude="-22.366665" latitude="-70.32666"/>
+</map>
+<map id="1879464251" name="Roaring Cavern" imageId="1092819270">
+<geo factor="300.0">
+<point longitude="-31.933329" latitude="-73.89666"/>
+</geo>
+<min longitude="-31.933329" latitude="-75.89666"/>
+<max longitude="-29.266663" latitude="-73.89666"/>
+</map>
+<map id="1879464290" name="Scrollman's Cleave" imageId="1092819296">
+<geo factor="720.0">
+<point longitude="-28.497227" latitude="-75.25278"/>
+</geo>
+<min longitude="-28.497227" latitude="-76.08611"/>
+<max longitude="-27.386116" latitude="-75.25278"/>
+</map>
+<map id="1879464349" name="Imloth Melui Warehouse" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879464791" name="House of Coins" imageId="1092821322">
+<geo factor="800.0">
+<point longitude="54.23875" latitude="-22.356249"/>
+</geo>
+<min longitude="54.23875" latitude="-23.106249"/>
+<max longitude="55.23875" latitude="-22.356249"/>
+</map>
+<map id="1879464792" name="Great Hall of the Prince" imageId="1092821323">
+<geo factor="600.00006">
+<point longitude="54.309998" latitude="-20.785"/>
+</geo>
+<min longitude="54.309998" latitude="-21.785"/>
+<max longitude="55.64333" latitude="-20.785"/>
+</map>
+<map id="1879464793" name="Keep of the Swan-knights" imageId="1092821324">
+<geo factor="600.0">
+<point longitude="54.25" latitude="-19.125"/>
+</geo>
+<min longitude="54.25" latitude="-20.125"/>
+<max longitude="55.583332" latitude="-19.125"/>
+</map>
+<map id="1879464794" name="Mason of Dol Amroth" imageId="1092821325">
+<geo factor="600.0">
+<point longitude="54.26334" latitude="-17.57667"/>
+</geo>
+<min longitude="54.26334" latitude="-18.57667"/>
+<max longitude="55.596672" latitude="-17.57667"/>
+</map>
+<map id="1879464795" name="Dol Amroth Warehouse" imageId="1092821326">
+<geo factor="800.0">
+<point longitude="54.265" latitude="-15.88625"/>
+</geo>
+<min longitude="54.265" latitude="-16.63625"/>
+<max longitude="55.265" latitude="-15.88625"/>
+</map>
+<map id="1879464796" name="Armoury of Dol Amroth" imageId="1092821327">
+<geo factor="600.0">
+<point longitude="54.04166" latitude="-14.20667"/>
+</geo>
+<min longitude="54.04166" latitude="-15.20667"/>
+<max longitude="55.374992" latitude="-14.20667"/>
+</map>
+<map id="1879464797" name="Library of Saphadzîr" imageId="1092821328">
+<geo factor="600.0">
+<point longitude="53.991657" latitude="-12.646669"/>
+</geo>
+<min longitude="53.991657" latitude="-13.646669"/>
+<max longitude="55.32499" latitude="-12.646669"/>
+</map>
+<map id="1879465383" name="TBD Shop" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
 </map>
 </maps>

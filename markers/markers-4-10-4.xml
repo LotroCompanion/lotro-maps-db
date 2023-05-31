@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1245708288" label="Gondorian Banner" category="73" did="1879463069" parentZoneId="1879456573" longitude="-18.574707" latitude="-72.448654"/>
+<marker id="1245708289" label="Tattered Banner" category="73" did="1879463064" parentZoneId="1879456573" longitude="-18.574707" latitude="-72.448654"/>
+<marker id="1245712384" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-18.31169" latitude="-72.37001"/>
+<marker id="1245712385" label="Arahál" category="70" did="1879463055" parentZoneId="1879334687" longitude="-18.702675" latitude="-72.0427"/>
+<marker id="1245712386" label="Gondorian Defender" category="71" did="1879465572" parentZoneId="1879334687" longitude="-18.793144" latitude="-72.171814"/>
+<marker id="1245712387" label="Gondorian Defender" category="71" did="1879465572" parentZoneId="1879334687" longitude="-18.008057" latitude="-72.243225"/>
+<marker id="1245712388" label="Gondorian Defender" category="71" did="1879465572" parentZoneId="1879334687" longitude="-18.667461" latitude="-72.38262"/>
+<marker id="1245712389" label="Gondorian Defender" category="71" did="1879465572" parentZoneId="1879334687" longitude="-18.538857" latitude="-72.38581"/>
+<marker id="1245712391" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-18.084385" latitude="-72.35265"/>
+<marker id="1245712392" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-18.79378" latitude="-72.32989"/>
+<marker id="1245712393" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-18.552538" latitude="-72.357124"/>
 <marker id="1245720576" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-18.447304" latitude="-70.37496"/>
 <marker id="1245720577" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-18.447304" latitude="-70.37496"/>
 <marker id="1245720578" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-18.447304" latitude="-70.37496"/>
@@ -319,41 +330,47 @@
 <marker id="1245765684" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-18.20243" latitude="-61.392097"/>
 <marker id="1245765685" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-18.20243" latitude="-61.392097"/>
 <marker id="1245765686" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-18.20243" latitude="-61.392097"/>
-<marker id="1245777920" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
-<marker id="1245777921" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
-<marker id="1245777922" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
-<marker id="1245777923" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
-<marker id="1245777924" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
-<marker id="1245777925" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777926" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777927" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777928" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777929" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777930" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777931" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777932" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777933" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777934" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
-<marker id="1245777935" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777936" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777937" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777938" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777939" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777940" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777941" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777942" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777943" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777944" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
-<marker id="1245777945" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777946" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777947" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777948" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777949" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777950" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777951" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777952" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777953" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
-<marker id="1245777954" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245773824" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-17.942558" latitude="-72.53536"/>
+<marker id="1245773825" label="Gondorian Banner" category="73" did="1879463069" parentZoneId="1879334687" longitude="-17.582773" latitude="-72.45216"/>
+<marker id="1245773827" label="Tattered Banner" category="73" did="1879463064" parentZoneId="1879334687" longitude="-17.582773" latitude="-72.45216"/>
+<marker id="1245777920" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-17.84376" latitude="-72.33157"/>
+<marker id="1245777921" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
+<marker id="1245777922" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
+<marker id="1245777923" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
+<marker id="1245777924" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
+<marker id="1245777925" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.33543" latitude="-71.80248"/>
+<marker id="1245777927" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-17.61165" latitude="-72.36025"/>
+<marker id="1245777928" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-17.37209" latitude="-72.36546"/>
+<marker id="1245777929" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777930" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777931" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777932" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777933" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777934" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777935" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777936" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777937" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777938" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.24159" latitude="-71.69975"/>
+<marker id="1245777939" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777940" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777941" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777942" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777943" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777944" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777945" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777946" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777947" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777948" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.362968" latitude="-71.83999"/>
+<marker id="1245777949" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777950" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777951" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777952" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777953" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777954" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777955" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777956" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777957" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
+<marker id="1245777958" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.485899" latitude="-71.65448"/>
 <marker id="1245782016" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.443134" latitude="-71.14263"/>
 <marker id="1245782017" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.443134" latitude="-71.14263"/>
 <marker id="1245782018" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.443134" latitude="-71.14263"/>
@@ -771,51 +788,54 @@
 <marker id="1245835276" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.589375" latitude="-61.07015"/>
 <marker id="1245835277" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.589375" latitude="-61.07015"/>
 <marker id="1245835278" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.589375" latitude="-61.07015"/>
-<marker id="1245843456" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
-<marker id="1245843457" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
-<marker id="1245843458" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
-<marker id="1245843459" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
-<marker id="1245843460" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
-<marker id="1245843461" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843462" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843463" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843464" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843465" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843466" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843467" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843468" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843469" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843470" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
-<marker id="1245843471" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843472" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843473" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843474" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843475" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843476" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843477" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843478" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843479" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843480" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
-<marker id="1245843481" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843482" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843483" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843484" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843485" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843486" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843487" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843488" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843489" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843490" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
-<marker id="1245843491" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843492" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843493" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843494" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843495" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843496" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843497" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843498" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843499" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
-<marker id="1245843500" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245839360" label="Gondorian Banner" category="73" did="1879463069" parentZoneId="1879334687" longitude="-17.043808" latitude="-72.451614"/>
+<marker id="1245839362" label="Tattered Banner" category="73" did="1879463064" parentZoneId="1879334687" longitude="-17.043808" latitude="-72.451614"/>
+<marker id="1245843456" label="Rammas Echor" category="74" did="1879463576" parentZoneId="1879334687" longitude="-17.125322" latitude="-72.3811"/>
+<marker id="1245843457" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
+<marker id="1245843458" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
+<marker id="1245843459" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
+<marker id="1245843460" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
+<marker id="1245843461" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.72621" latitude="-71.8185"/>
+<marker id="1245843463" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843464" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843465" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843466" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843467" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843468" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843469" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843470" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843471" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843472" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.723877" latitude="-71.71897"/>
+<marker id="1245843473" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843474" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843475" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843476" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843477" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843478" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843479" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843480" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843481" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843482" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.750235" latitude="-72.0551"/>
+<marker id="1245843483" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843484" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843485" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843486" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843487" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843488" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843489" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843490" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843491" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843492" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-17.059326" latitude="-71.89014"/>
+<marker id="1245843493" label="Ruin-crawler" category="71" did="1879338613" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843494" label="Swarming Carrion-rat" category="71" did="1879338614" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843495" label="Ruins-bat" category="71" did="1879338615" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843496" label="Swarm of Blight-flies" category="71" did="1879338609" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843497" label="Scavenging Rat" category="71" did="1879338610" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843498" label="Gondorian Sickle-fly" category="71" did="1879338604" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843499" label="Carrion-crawler" category="71" did="1879338607" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843500" label="Scavenging Rat" category="71" did="1879338617" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843501" label="Swarming City-rat" category="71" did="1879338603" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
+<marker id="1245843502" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-16.52576" latitude="-71.74684"/>
 <marker id="1245847552" label="Morgul Archer" category="71" did="1879336662" parentZoneId="1879334687" longitude="-17.085146" latitude="-71.40136"/>
 <marker id="1245847553" label="Morgul Raider" category="71" did="1879336666" parentZoneId="1879334687" longitude="-17.097178" latitude="-71.39672"/>
 <marker id="1245847554" label="Morgul Defiler" category="71" did="1879336667" parentZoneId="1879334687" longitude="-17.073174" latitude="-71.41256"/>
@@ -4360,10 +4380,10 @@
 <marker id="1246134340" label="Rabid Ruins-bat" category="71" did="1879338619" parentZoneId="1879334687" longitude="-13.338974" latitude="-66.129005"/>
 <marker id="1246138368" label="Guthláf" category="70" did="1879336732" parentZoneId="1879334687" longitude="-13.950459" latitude="-65.64736"/>
 <marker id="1246138369" label="Déorwine" category="70" did="1879336730" parentZoneId="1879334687" longitude="-13.967919" latitude="-65.695045"/>
-<marker id="1246138370" label="Fell-beast Head" category="73" did="1879336738" parentZoneId="1879334687" longitude="-13.949072" latitude="-65.59824"/>
+<marker id="1246138370" label="Fell Beast Head" category="73" did="1879336738" parentZoneId="1879334687" longitude="-13.949072" latitude="-65.59824"/>
 <marker id="1246138372" label="Éowyn's Hilt" category="73" did="1879336744" parentZoneId="1879334687" longitude="-13.787109" latitude="-65.26285"/>
 <marker id="1246138373" label="Mithrandir" category="70" did="1879336737" parentZoneId="1879334687" longitude="-13.924814" latitude="-65.61472"/>
-<marker id="1246138374" label="Fell-beast Head" category="73" did="1879336738" parentZoneId="1879334687" longitude="-13.9519825" latitude="-65.59727"/>
+<marker id="1246138374" label="Fell Beast Head" category="73" did="1879336738" parentZoneId="1879334687" longitude="-13.9519825" latitude="-65.59727"/>
 <marker id="1246138375" label="Dead Fell-beast" category="73" did="1879336739" parentZoneId="1879334687" longitude="-13.993632" latitude="-65.60822"/>
 <marker id="1246142464" label="Morgul Archer" category="71" did="1879336662" parentZoneId="1879334687" longitude="-13.450518" latitude="-64.98899"/>
 <marker id="1246142465" label="Morgul Raider" category="71" did="1879336666" parentZoneId="1879334687" longitude="-13.440419" latitude="-65.00053"/>

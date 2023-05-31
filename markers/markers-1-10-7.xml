@@ -12680,26 +12680,28 @@
 <marker id="444542982" label="The Gates of Imladris" category="43" did="1879063800" parentZoneId="1879063936" longitude="-6.1998434" latitude="-32.13695"/>
 <marker id="444542983" label="Shade of Isildur" category="70" did="1879390100" parentZoneId="1879063936" longitude="-6.256357" latitude="-31.926025"/>
 <marker id="444542985" label="Gandalf" category="70" did="1879390105" parentZoneId="1879063936" longitude="-6.2435446" latitude="-31.914686"/>
-<marker id="444551184" label="Pathnen&#10;Skirmish Trainer" category="58" did="1879175175" parentZoneId="1879063939" longitude="-6.2684665" latitude="-30.114258"/>
-<marker id="444551186" label="Gruinwen&#10;Provisions" category="58" did="1879175199" parentZoneId="1879063939" longitude="-6.2727637" latitude="-30.042978"/>
-<marker id="444551187" label="Glanelleth&#10;Jewellery and Cloaks" category="58" did="1879175206" parentZoneId="1879063939" longitude="-6.2554393" latitude="-30.153477"/>
-<marker id="444551188" label="Lamhador&#10;Medium Armour" category="58" did="1879175216" parentZoneId="1879063939" longitude="-6.3574705" latitude="-30.119091"/>
-<marker id="444551189" label="Branhiril&#10;Crafting" category="58" did="1879175236" parentZoneId="1879063939" longitude="-6.216826" latitude="-30.056131"/>
-<marker id="444551190" label="Aegoniel&#10;Weapons" category="58" did="1879175266" parentZoneId="1879063939" longitude="-6.343164" latitude="-30.127909"/>
-<marker id="444551191" label="Mithaeril&#10;Cosmetics" category="58" did="1879175277" parentZoneId="1879063939" longitude="-6.331777" latitude="-30.079647"/>
-<marker id="444551192" label="Orchalnaw&#10;Curiosities" category="58" did="1879175291" parentZoneId="1879063939" longitude="-6.2097754" latitude="-30.124237"/>
-<marker id="444551193" label="Forgamdir&#10;Light Armour" category="58" did="1879175312" parentZoneId="1879063939" longitude="-6.2478905" latitude="-30.149433"/>
-<marker id="444551194" label="Mallenlaer&#10;Heavy Armour" category="58" did="1879175314" parentZoneId="1879063939" longitude="-6.3351073" latitude="-30.094696"/>
-<marker id="444551195" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879063939" longitude="-6.2724705" latitude="-30.106268"/>
-<marker id="444551196" label="The Guest Rooms" category="43" did="1879200955" parentZoneId="1879063939" longitude="-6.209414" latitude="-30.686758"/>
-<marker id="444551197" label="Mithril Trader" category="58" did="1879297377" parentZoneId="1879063939" longitude="-6.222646" latitude="-30.098545"/>
-<marker id="444551198" label="Door" category="100" did="1879063389" parentZoneId="1879063939" longitude="-6.2010837" latitude="-30.700008"/>
-<marker id="444551199" label="Rilfair&#10;Classic" category="58" did="1879184862" parentZoneId="1879063939" longitude="-6.3216796" latitude="-30.095722"/>
-<marker id="444551200" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879063939" longitude="-6.1852636" latitude="-30.090908"/>
-<marker id="444551201" label="Authellon&#10;Currency Exchange" category="58" did="1879182700" parentZoneId="1879063939" longitude="-6.233545" latitude="-30.08748"/>
-<marker id="444551203" label="Idhrinnion&#10;Skirmish Captain" category="58" did="1879175195" parentZoneId="1879063939" longitude="-6.2636228" latitude="-30.043036"/>
-<marker id="444551204" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-6.4950485" latitude="-30.101347"/>
-<marker id="444551205" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-6.310586" latitude="-30.126835"/>
+<marker id="444551185" label="Pathnen&#10;Skirmish Trainer" category="58" did="1879175175" parentZoneId="1879063939" longitude="-6.2684665" latitude="-30.114258"/>
+<marker id="444551187" label="Gruinwen&#10;Provisions" category="58" did="1879175199" parentZoneId="1879063939" longitude="-6.2727637" latitude="-30.042978"/>
+<marker id="444551188" label="Glanelleth&#10;Jewellery and Cloaks" category="58" did="1879175206" parentZoneId="1879063939" longitude="-6.2554393" latitude="-30.153477"/>
+<marker id="444551189" label="Lamhador&#10;Medium Armour" category="58" did="1879175216" parentZoneId="1879063939" longitude="-6.3574705" latitude="-30.119091"/>
+<marker id="444551190" label="Branhiril&#10;Crafting" category="58" did="1879175236" parentZoneId="1879063939" longitude="-6.216826" latitude="-30.056131"/>
+<marker id="444551191" label="Aegoniel&#10;Weapons" category="58" did="1879175266" parentZoneId="1879063939" longitude="-6.343164" latitude="-30.127909"/>
+<marker id="444551192" label="Mithaeril&#10;Cosmetics" category="58" did="1879175277" parentZoneId="1879063939" longitude="-6.331777" latitude="-30.079647"/>
+<marker id="444551193" label="Orchalnaw&#10;Curiosities" category="58" did="1879175291" parentZoneId="1879063939" longitude="-6.2097754" latitude="-30.124237"/>
+<marker id="444551194" label="Forgamdir&#10;Light Armour" category="58" did="1879175312" parentZoneId="1879063939" longitude="-6.2478905" latitude="-30.149433"/>
+<marker id="444551195" label="Mallenlaer&#10;Heavy Armour" category="58" did="1879175314" parentZoneId="1879063939" longitude="-6.3351073" latitude="-30.094696"/>
+<marker id="444551196" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879063939" longitude="-6.2724705" latitude="-30.106268"/>
+<marker id="444551197" label="The Guest Rooms" category="43" did="1879200955" parentZoneId="1879063939" longitude="-6.209414" latitude="-30.686758"/>
+<marker id="444551198" label="Mithril Trader" category="58" did="1879297377" parentZoneId="1879063939" longitude="-6.222646" latitude="-30.098545"/>
+<marker id="444551199" label="Door" category="100" did="1879063389" parentZoneId="1879063939" longitude="-6.2010837" latitude="-30.700008"/>
+<marker id="444551200" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879452979" parentZoneId="1879063939" longitude="-6.3282228" latitude="-30.153477"/>
+<marker id="444551201" label="Cadell" category="70" did="1879453042" parentZoneId="1879063939" longitude="-6.331748" latitude="-30.146385"/>
+<marker id="444551202" label="Rilfair&#10;Classic" category="58" did="1879184862" parentZoneId="1879063939" longitude="-6.3216796" latitude="-30.095722"/>
+<marker id="444551203" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879063939" longitude="-6.1852636" latitude="-30.090908"/>
+<marker id="444551204" label="Authellon&#10;Currency Exchange" category="58" did="1879182700" parentZoneId="1879063939" longitude="-6.233545" latitude="-30.08748"/>
+<marker id="444551206" label="Idhrinnion&#10;Skirmish Captain" category="58" did="1879175195" parentZoneId="1879063939" longitude="-6.2636228" latitude="-30.043036"/>
+<marker id="444551207" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-6.4950485" latitude="-30.101347"/>
+<marker id="444551208" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-6.310586" latitude="-30.126835"/>
 <marker id="444555266" label="Townsperson" category="70" did="1879077008" parentZoneId="1879063939" longitude="-6.63248" latitude="-29.216337"/>
 <marker id="444555267" label="Ornate Saddle" category="73" did="1879080393" parentZoneId="1879063939" longitude="-6.7559958" latitude="-29.315731"/>
 <marker id="444555268" label="Scythe" category="73" did="1879080394" parentZoneId="1879063939" longitude="-6.794453" latitude="-29.299023"/>

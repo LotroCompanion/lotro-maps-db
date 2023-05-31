@@ -6291,6 +6291,7 @@
 <marker id="412528651" label="Shona&#10;Provisions" category="58" did="1879175309" parentZoneId="1879103883" longitude="-39.18049" latitude="-0.1053125"/>
 <marker id="412528652" label="Hwiniol&#10;Cosmetics" category="58" did="1879175308" parentZoneId="1879103883" longitude="-39.11615" latitude="-0.16891602"/>
 <marker id="412528653" label="Gondul&#10;Crafting" category="58" did="1879175317" parentZoneId="1879103883" longitude="-39.131798" latitude="-0.16692382"/>
+<marker id="412528655" label="Hamish&#10;Heavy Armour" category="58" did="1879175302" parentZoneId="1879103883" longitude="-39.117695" latitude="-0.03463867"/>
 <marker id="412528656" label="Rerir&#10;Jewellery and Cloaks" category="58" did="1879175293" parentZoneId="1879103883" longitude="-39.08118" latitude="-0.1661914"/>
 <marker id="412528657" label="Durell&#10;Light Armour" category="58" did="1879175318" parentZoneId="1879103883" longitude="-39.09077" latitude="-0.1877832"/>
 <marker id="412528658" label="Béathan&#10;Medium Armour" category="58" did="1879175289" parentZoneId="1879103883" longitude="-39.094032" latitude="-0.14020507"/>
@@ -6300,30 +6301,31 @@
 <marker id="412528662" label="Lavrain&#10;Classic" category="58" did="1879184869" parentZoneId="1879103883" longitude="-39.163338" latitude="-0.12916015"/>
 <marker id="412528663" label="Mithril Trader" category="58" did="1879297375" parentZoneId="1879103883" longitude="-39.1553" latitude="-0.060458984"/>
 <marker id="412528664" label="Rahan&#10;Medium Armoursmith" category="38" did="1879063091" parentZoneId="1879103883" longitude="-39.248955" latitude="0.3038965"/>
-<marker id="412528665" label="Bill Tiller&#10;Skirmish Captain" category="58" did="1879175181" parentZoneId="1879103883" longitude="-39.178642" latitude="-0.09245117"/>
-<marker id="412528666" label="Evaleen&#10;Skirmish Trainer" category="58" did="1879175198" parentZoneId="1879103883" longitude="-39.102364" latitude="-0.1153418"/>
-<marker id="412528667" label="Danúmnir&#10;Curiosities" category="58" did="1879175235" parentZoneId="1879103883" longitude="-39.04707" latitude="-0.09043945"/>
-<marker id="412528671" label="Hamish&#10;Heavy Armour" category="58" did="1879175302" parentZoneId="1879103883" longitude="-39.117695" latitude="-0.03463867"/>
-<marker id="412528678" label="Player Invasion Bestower" category="70" did="1879155351" parentZoneId="1879103883" longitude="-39.351425" latitude="-0.23649414"/>
-<marker id="412528680" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879103883" longitude="-39.122265" latitude="-0.107490234"/>
-<marker id="412528682" label="Búth Sánkhas Tale-spinner" category="70" did="1879110850" parentZoneId="1879103883" longitude="-39.10299" latitude="0.12091797"/>
-<marker id="412528683" label="Camran" category="70" did="1879102380" parentZoneId="1879103883" longitude="-39.574432" latitude="0.101591796"/>
-<marker id="412528684" label="Finnán" category="70" did="1879102383" parentZoneId="1879103883" longitude="-39.540146" latitude="0.052617185"/>
-<marker id="412528685" label="Latharna" category="70" did="1879102386" parentZoneId="1879103883" longitude="-39.16527" latitude="0.13836914"/>
-<marker id="412528686" label="Rona" category="70" did="1879102389" parentZoneId="1879103883" longitude="-39.581707" latitude="0.09972656"/>
-<marker id="412528687" label="Fonghala" category="71" did="1879102914" parentZoneId="1879103883" longitude="-39.169178" latitude="0.116904296"/>
-<marker id="412528688" label="Declan" category="70" did="1879201649" parentZoneId="1879103883" longitude="-39.582733" latitude="0.0063671875"/>
-<marker id="412528697" label="Clan Hunter" category="71" did="1879161697" parentZoneId="1879103883" longitude="-39.230362" latitude="0.27929688"/>
-<marker id="412528698" label="Aughaire" category="74" did="1879063668" parentZoneId="1879103883" longitude="-39.19878" latitude="-0.0061621093"/>
-<marker id="412528700" label="Machar" category="70" did="1879056939" parentZoneId="1879103883" longitude="-39.125175" latitude="0.10582031"/>
-<marker id="412528701" label="Torcall" category="70" did="1879091527" parentZoneId="1879103883" longitude="-39.200672" latitude="0.049648438"/>
-<marker id="412528702" label="Lakhina" category="70" did="1879081785" parentZoneId="1879103883" longitude="-39.59245" latitude="0.04772461"/>
-<marker id="412528703" label="Cuinthorn" category="70" did="1879081787" parentZoneId="1879103883" longitude="-39.13785" latitude="0.0984082"/>
-<marker id="412528704" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.231464" latitude="0.27106446"/>
-<marker id="412528705" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.107002" latitude="0.1493164"/>
-<marker id="412528706" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.11415" latitude="0.15696289"/>
-<marker id="412528707" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.123554" latitude="0.15319335"/>
-<marker id="412528708" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.124493" latitude="0.14243163"/>
+<marker id="412528665" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879452980" parentZoneId="1879103883" longitude="-39.077324" latitude="-0.057158202"/>
+<marker id="412528666" label="Bill Tiller&#10;Skirmish Captain" category="58" did="1879175181" parentZoneId="1879103883" longitude="-39.178642" latitude="-0.09245117"/>
+<marker id="412528667" label="Evaleen&#10;Skirmish Trainer" category="58" did="1879175198" parentZoneId="1879103883" longitude="-39.102364" latitude="-0.1153418"/>
+<marker id="412528668" label="Danúmnir&#10;Curiosities" category="58" did="1879175235" parentZoneId="1879103883" longitude="-39.04707" latitude="-0.09043945"/>
+<marker id="412528679" label="Dyvan" category="70" did="1879455037" parentZoneId="1879103883" longitude="-39.0696" latitude="-0.06160156"/>
+<marker id="412528680" label="Player Invasion Bestower" category="70" did="1879155351" parentZoneId="1879103883" longitude="-39.351425" latitude="-0.23649414"/>
+<marker id="412528683" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879103883" longitude="-39.122265" latitude="-0.107490234"/>
+<marker id="412528685" label="Búth Sánkhas Tale-spinner" category="70" did="1879110850" parentZoneId="1879103883" longitude="-39.10299" latitude="0.12091797"/>
+<marker id="412528686" label="Camran" category="70" did="1879102380" parentZoneId="1879103883" longitude="-39.574432" latitude="0.101591796"/>
+<marker id="412528687" label="Finnán" category="70" did="1879102383" parentZoneId="1879103883" longitude="-39.540146" latitude="0.052617185"/>
+<marker id="412528688" label="Latharna" category="70" did="1879102386" parentZoneId="1879103883" longitude="-39.16527" latitude="0.13836914"/>
+<marker id="412528689" label="Rona" category="70" did="1879102389" parentZoneId="1879103883" longitude="-39.581707" latitude="0.09972656"/>
+<marker id="412528690" label="Fonghala" category="71" did="1879102914" parentZoneId="1879103883" longitude="-39.169178" latitude="0.116904296"/>
+<marker id="412528691" label="Declan" category="70" did="1879201649" parentZoneId="1879103883" longitude="-39.582733" latitude="0.0063671875"/>
+<marker id="412528700" label="Clan Hunter" category="71" did="1879161697" parentZoneId="1879103883" longitude="-39.230362" latitude="0.27929688"/>
+<marker id="412528701" label="Aughaire" category="74" did="1879063668" parentZoneId="1879103883" longitude="-39.19878" latitude="-0.0061621093"/>
+<marker id="412528703" label="Machar" category="70" did="1879056939" parentZoneId="1879103883" longitude="-39.125175" latitude="0.10582031"/>
+<marker id="412528705" label="Lakhina" category="70" did="1879081785" parentZoneId="1879103883" longitude="-39.59245" latitude="0.04772461"/>
+<marker id="412528706" label="Cuinthorn" category="70" did="1879081787" parentZoneId="1879103883" longitude="-39.13785" latitude="0.0984082"/>
+<marker id="412528707" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.231464" latitude="0.27106446"/>
+<marker id="412528708" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.107002" latitude="0.1493164"/>
+<marker id="412528709" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.11415" latitude="0.15696289"/>
+<marker id="412528710" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.123554" latitude="0.15319335"/>
+<marker id="412528711" label="Clan Herder" category="70" did="1879081789" parentZoneId="1879103883" longitude="-39.124493" latitude="0.14243163"/>
+<marker id="412528720" label="Torcall" category="70" did="1879091527" parentZoneId="1879103883" longitude="-39.200672" latitude="0.049648438"/>
 <marker id="412532740" label="Cánnakh&#10;Roving Threat Quartermaster" category="58" did="1879320705" parentZoneId="1879103883" longitude="-39.483913" latitude="0.4199902"/>
 <marker id="412532742" label="Register of Heroes" category="70" did="1879407643" parentZoneId="1879103883" longitude="-39.301727" latitude="0.81959957"/>
 <marker id="412532743" label="Pig" category="70" did="1879076797" parentZoneId="1879103883" longitude="-39.41037" latitude="0.47694334"/>
@@ -6402,7 +6404,7 @@
 <marker id="412536854" label="Gállorg Hunter" category="71" did="1879113744" parentZoneId="1879063963" longitude="-39.092236" latitude="1.5764452"/>
 <marker id="412536855" label="Firingal" category="71" did="1879113746" parentZoneId="1879063963" longitude="-39.026142" latitude="1.5473535"/>
 <marker id="412536856" label="Northern Aughaire Bulwark" category="43" did="1879112730" parentZoneId="1879063963" longitude="-39.24249" latitude="1.9017187"/>
-<marker id="412536858" label="Camp Site" category="57" did="1879112731" parentZoneId="1879063963" longitude="-39.094" latitude="1.5518848"/>
+<marker id="412536858" label="Camp-site" category="57" did="1879112731" parentZoneId="1879063963" longitude="-39.094" latitude="1.5518848"/>
 <marker id="412536859" label="Battle Master - Aughaire - Commander" category="70" did="1879114598" parentZoneId="1879063963" longitude="-38.93084" latitude="1.6317675"/>
 <marker id="412536860" label="Southern Aughaire Bulwark" category="73" did="1879114603" parentZoneId="1879063963" longitude="-39.283123" latitude="1.907666"/>
 <marker id="412536861" label="Centre Aughaire Bulwark" category="73" did="1879114602" parentZoneId="1879063963" longitude="-39.20585" latitude="1.8992285"/>

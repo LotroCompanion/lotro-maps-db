@@ -37,7 +37,7 @@
 <marker id="1202806796" label="Artists' Fellow-hall" category="73" did="1879328587" parentZoneId="1879407601" longitude="-55.659256" latitude="21.428846"/>
 <marker id="1202806801" label="The Fair Hall" category="73" did="1879328623" parentZoneId="1879407601" longitude="-55.840282" latitude="21.884706"/>
 <marker id="1202806802" label="Door" category="100" did="1879328988" parentZoneId="1879407601" longitude="-56.338367" latitude="21.744062"/>
-<marker id="1202806803" label="High Guesthouse" category="73" did="1879329635" parentZoneId="1879407601" longitude="-56.083096" latitude="21.425293"/>
+<marker id="1202806803" label="High Guest-house" category="73" did="1879329635" parentZoneId="1879407601" longitude="-56.083096" latitude="21.425293"/>
 <marker id="1202806804" label="Study" category="45" did="1879314747" parentZoneId="1879407601" longitude="-56.287254" latitude="21.705751"/>
 <marker id="1202806809" label="Minas Tirith (Midsummer) Reflecting Pool&#10;Reflecting Pool" category="52" did="1879408573" parentZoneId="1879407601" longitude="-55.948643" latitude="21.49917"/>
 <marker id="1202806810" label="Door" category="100" did="1879328998" parentZoneId="1879407601" longitude="-56.101162" latitude="21.948887"/>
@@ -53,11 +53,11 @@
 <marker id="1202806823" label="Arastil" category="70" did="1879408287" parentZoneId="1879407601" longitude="-56.06995" latitude="21.386465"/>
 <marker id="1202806824" label="Brandion" category="70" did="1879408284" parentZoneId="1879407601" longitude="-56.256863" latitude="21.329042"/>
 <marker id="1202810880" label="Stable-master - High Stables" category="51" did="1879407867" parentZoneId="1879407601" longitude="-55.60833" latitude="22.656641"/>
-<marker id="1202810881" label="Southern Great Guesthouse" category="43" did="1879408251" parentZoneId="1879407601" longitude="-55.85363" latitude="22.185547"/>
+<marker id="1202810881" label="Southern Great Guest-house" category="43" did="1879408251" parentZoneId="1879407601" longitude="-55.85363" latitude="22.185547"/>
 <marker id="1202810882" label="The Tower of Ecthelion" category="43" did="1879408257" parentZoneId="1879407601" longitude="-56.0574" latitude="22.394941"/>
 <marker id="1202810883" label="High Stables" category="43" did="1879408264" parentZoneId="1879407601" longitude="-55.63466" latitude="22.646328"/>
 <marker id="1202810884" label="Merethrond&#10;The Feast-hall" category="43" did="1879408255" parentZoneId="1879407601" longitude="-55.935837" latitude="22.653856"/>
-<marker id="1202810885" label="The High Guesthouse" category="43" did="1879408250" parentZoneId="1879407601" longitude="-56.10192" latitude="22.616093"/>
+<marker id="1202810885" label="The High Guest-house" category="43" did="1879408250" parentZoneId="1879407601" longitude="-56.10192" latitude="22.616093"/>
 <marker id="1202810893" label="Door" category="100" did="1879328998" parentZoneId="1879407601" longitude="-55.853104" latitude="22.184317"/>
 <marker id="1202810897" label="Samwise Gamgee" category="70" did="1879407037" parentZoneId="1879407601" longitude="-56.071083" latitude="22.195848"/>
 <marker id="1202810899" label="Rodwen" category="70" did="1879407033" parentZoneId="1879407601" longitude="-55.87328" latitude="22.519941"/>
@@ -174,7 +174,7 @@
 <marker id="1202937857" label="Steward Túrin II&#10;Son of Thorondir&#10;2882 - 2914" category="73" did="1879328615" parentZoneId="1879407601" longitude="-54.448914" latitude="21.445156"/>
 <marker id="1202937858" label="Clothiers' Fellow-hall" category="73" did="1879328759" parentZoneId="1879407601" longitude="-54.775623" latitude="21.778095"/>
 <marker id="1202937859" label="Hall of Watchers" category="73" did="1879329620" parentZoneId="1879407601" longitude="-54.350613" latitude="21.623495"/>
-<marker id="1202937860" label="South Guesthouse" category="73" did="1879329628" parentZoneId="1879407601" longitude="-54.05321" latitude="21.535536"/>
+<marker id="1202937860" label="South Guest-house" category="73" did="1879329628" parentZoneId="1879407601" longitude="-54.05321" latitude="21.535536"/>
 <marker id="1202937862" label="Hungry Guard" category="70" did="1879408380" parentZoneId="1879407601" longitude="-54.68491" latitude="21.876377"/>
 <marker id="1202937863" label="Borlach of Rimmon" category="70" did="1879408479" parentZoneId="1879407601" longitude="-54.430164" latitude="21.436611"/>
 <marker id="1202946050" label="Stable-master - Craftsmen's Tier" category="51" did="1879408980" parentZoneId="1879407601" longitude="-54.675518" latitude="23.210087"/>
@@ -202,18 +202,19 @@
 <marker id="1203007503" label="Portcullis" category="100" did="1879277878" parentZoneId="1879407601" longitude="-53.28862" latitude="22.621592"/>
 <marker id="1203007506" label="Barthalion" category="70" did="1879408430" parentZoneId="1879407601" longitude="-53.724197" latitude="22.10283"/>
 <marker id="1203007507" label="Midsummer Reveller" category="70" did="1879408446" parentZoneId="1879407601" longitude="-53.674454" latitude="22.424063"/>
-<marker id="1203007508" label="Midsummer Reveller" category="70" did="1879408702" parentZoneId="1879407601" longitude="-53.5429" latitude="22.43498"/>
-<marker id="1203007511" label="City Stables" category="73" did="1879328754" parentZoneId="1879407601" longitude="-53.68824" latitude="22.360537"/>
-<marker id="1203007512" label="Hall of Errands" category="73" did="1879329599" parentZoneId="1879407601" longitude="-53.525127" latitude="22.7737"/>
-<marker id="1203007513" label="Keep of the Keys" category="73" did="1879329619" parentZoneId="1879407601" longitude="-53.5624" latitude="22.102217"/>
-<marker id="1203007514" label="High King Elendil&#10;Son of Amandil&#10;SA 3320 - 3441" category="73" did="1879328581" parentZoneId="1879407601" longitude="-53.742126" latitude="22.450624"/>
-<marker id="1203007515" label="King Isildur&#10;Son of Elendil&#10;SA3341 - TA 2" category="73" did="1879328577" parentZoneId="1879407601" longitude="-53.746376" latitude="22.348925"/>
-<marker id="1203007516" label="King Anárion&#10;Son of Elendil&#10;SA 3320 - 3440" category="73" did="1879328523" parentZoneId="1879407601" longitude="-53.742126" latitude="22.463408"/>
-<marker id="1203007517" label="Steward Húrin I&#10;Son of Belegorn&#10;2204 - 2244" category="73" did="1879328558" parentZoneId="1879407601" longitude="-53.73325" latitude="22.702637"/>
-<marker id="1203007520" label="Faeleth" category="70" did="1879406607" parentZoneId="1879407601" longitude="-53.665817" latitude="22.367285"/>
-<marker id="1203007524" label="Húrin the Tall" category="70" did="1879407035" parentZoneId="1879407601" longitude="-53.60284" latitude="22.38579"/>
-<marker id="1203007525" label="Longbeard Stable-master" category="70" did="1879412297" parentZoneId="1879407601" longitude="-53.668877" latitude="22.514687"/>
-<marker id="1203007526" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879407601" longitude="-53.665848" latitude="22.522207"/>
+<marker id="1203007508" label="Glindor" category="70" did="1879459022" parentZoneId="1879407601" longitude="-53.676006" latitude="22.44454"/>
+<marker id="1203007509" label="Midsummer Reveller" category="70" did="1879408702" parentZoneId="1879407601" longitude="-53.5429" latitude="22.43498"/>
+<marker id="1203007512" label="City Stables" category="73" did="1879328754" parentZoneId="1879407601" longitude="-53.68824" latitude="22.360537"/>
+<marker id="1203007513" label="Hall of Errands" category="73" did="1879329599" parentZoneId="1879407601" longitude="-53.525127" latitude="22.7737"/>
+<marker id="1203007514" label="Keep of the Keys" category="73" did="1879329619" parentZoneId="1879407601" longitude="-53.5624" latitude="22.102217"/>
+<marker id="1203007515" label="High King Elendil&#10;Son of Amandil&#10;SA 3320 - 3441" category="73" did="1879328581" parentZoneId="1879407601" longitude="-53.742126" latitude="22.450624"/>
+<marker id="1203007516" label="King Isildur&#10;Son of Elendil&#10;SA3341 - TA 2" category="73" did="1879328577" parentZoneId="1879407601" longitude="-53.746376" latitude="22.348925"/>
+<marker id="1203007517" label="King Anárion&#10;Son of Elendil&#10;SA 3320 - 3440" category="73" did="1879328523" parentZoneId="1879407601" longitude="-53.742126" latitude="22.463408"/>
+<marker id="1203007518" label="Steward Húrin I&#10;Son of Belegorn&#10;2204 - 2244" category="73" did="1879328558" parentZoneId="1879407601" longitude="-53.73325" latitude="22.702637"/>
+<marker id="1203007524" label="Faeleth" category="70" did="1879406607" parentZoneId="1879407601" longitude="-53.665817" latitude="22.367285"/>
+<marker id="1203007525" label="Húrin the Tall" category="70" did="1879407035" parentZoneId="1879407601" longitude="-53.60284" latitude="22.38579"/>
+<marker id="1203007526" label="Longbeard Stable-master" category="70" did="1879412297" parentZoneId="1879407601" longitude="-53.668877" latitude="22.514687"/>
+<marker id="1203007527" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879407601" longitude="-53.665848" latitude="22.522207"/>
 <marker id="1203073025" label="Elrond" category="70" did="1879407042" parentZoneId="1879407601" longitude="-52.818905" latitude="22.47583"/>
 <marker id="1203073026" label="Elladan" category="70" did="1879407052" parentZoneId="1879407601" longitude="-52.854755" latitude="22.459414"/>
 <marker id="1203073027" label="Erestor" category="70" did="1879407051" parentZoneId="1879407601" longitude="-52.842617" latitude="22.465136"/>

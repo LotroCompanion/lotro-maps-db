@@ -6025,6 +6025,7 @@
 <marker id="663257147" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.73549" latitude="-15.400205"/>
 <marker id="663257148" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.041355" latitude="-15.462939"/>
 <marker id="663257149" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.041355" latitude="-15.462939"/>
+<marker id="663261184" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879152196" longitude="-50.75049" latitude="-14.657275"/>
 <marker id="663261185" label="Skirmish Trainer" category="58" did="1879228145" parentZoneId="1879152196" longitude="-50.78416" latitude="-14.720634"/>
 <marker id="663261186" label="Classic" category="58" did="1879228146" parentZoneId="1879152196" longitude="-50.72543" latitude="-14.676719"/>
 <marker id="663261187" label="Provisioner" category="58" did="1879228147" parentZoneId="1879152196" longitude="-50.754665" latitude="-14.69497"/>
@@ -6039,75 +6040,76 @@
 <marker id="663261196" label="Weapons" category="58" did="1879228156" parentZoneId="1879152196" longitude="-50.77116" latitude="-14.627744"/>
 <marker id="663261197" label="Mithril Trader" category="58" did="1879297377" parentZoneId="1879152196" longitude="-50.715164" latitude="-14.711836"/>
 <marker id="663261198" label="Nedda Pinleaf&#10;Bearer of Ill Omens" category="58" did="1879384851" parentZoneId="1879152196" longitude="-50.770184" latitude="-14.597265"/>
-<marker id="663261199" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879152196" longitude="-50.75049" latitude="-14.657275"/>
-<marker id="663261203" label="Skirmish Captain" category="70" did="1879228144" parentZoneId="1879152196" longitude="-50.793095" latitude="-14.719941"/>
-<marker id="663261214" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879152196" longitude="-50.672947" latitude="-14.725273"/>
-<marker id="663261215" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.291912" latitude="-14.508329"/>
-<marker id="663261218" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.145985" latitude="-14.506152"/>
-<marker id="663261219" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.47337" latitude="-14.115175"/>
-<marker id="663261220" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.570183" latitude="-14.453808"/>
-<marker id="663261221" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.27335" latitude="-14.660459"/>
-<marker id="663261222" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.62324" latitude="-14.316982"/>
-<marker id="663261223" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.269638" latitude="-14.2743845"/>
-<marker id="663261224" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
-<marker id="663261225" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
-<marker id="663261226" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
-<marker id="663261228" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.291912" latitude="-14.508329"/>
-<marker id="663261231" label="Sigileth" category="70" did="1879155969" parentZoneId="1879152196" longitude="-50.713318" latitude="-14.258105"/>
-<marker id="663261232" label="Cúcheron" category="70" did="1879155939" parentZoneId="1879152196" longitude="-50.6316" latitude="-14.30958"/>
-<marker id="663261233" label="Bróin" category="70" did="1879155946" parentZoneId="1879152196" longitude="-50.786034" latitude="-14.288242"/>
-<marker id="663261246" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
-<marker id="663261247" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
-<marker id="663261248" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
-<marker id="663261249" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
-<marker id="663261250" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
-<marker id="663261251" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
-<marker id="663261252" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
-<marker id="663261253" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
-<marker id="663261254" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
-<marker id="663261255" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
-<marker id="663261256" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
-<marker id="663261257" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
-<marker id="663261258" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
-<marker id="663261259" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
-<marker id="663261260" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
-<marker id="663261261" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
-<marker id="663261262" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
-<marker id="663261263" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
-<marker id="663261264" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
-<marker id="663261265" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
-<marker id="663261266" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
-<marker id="663261267" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
-<marker id="663261268" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
-<marker id="663261269" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
-<marker id="663261270" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
-<marker id="663261271" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
-<marker id="663261272" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
-<marker id="663261273" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
-<marker id="663261274" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
-<marker id="663261275" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
-<marker id="663261276" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
-<marker id="663261277" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
-<marker id="663261278" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.558945" latitude="-14.086269"/>
-<marker id="663261279" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.558945" latitude="-14.086269"/>
-<marker id="663261280" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.6982" latitude="-14.407344"/>
-<marker id="663261281" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.6982" latitude="-14.407344"/>
-<marker id="663261282" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.32236" latitude="-14.320225"/>
-<marker id="663261283" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.32236" latitude="-14.320225"/>
-<marker id="663261284" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.09283" latitude="-14.256054"/>
-<marker id="663261285" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.09283" latitude="-14.256054"/>
-<marker id="663261286" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.05829" latitude="-14.391552"/>
-<marker id="663261287" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.05829" latitude="-14.391552"/>
-<marker id="663261288" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.57164" latitude="-14.580293"/>
-<marker id="663261289" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.57164" latitude="-14.580293"/>
-<marker id="663261290" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.508728" latitude="-14.67831"/>
-<marker id="663261291" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.508728" latitude="-14.67831"/>
-<marker id="663261292" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.240704" latitude="-14.731015"/>
-<marker id="663261293" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.240704" latitude="-14.731015"/>
-<marker id="663261294" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.1282" latitude="-14.107744"/>
-<marker id="663261295" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.1282" latitude="-14.107744"/>
-<marker id="663261296" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.04377" latitude="-14.650419"/>
-<marker id="663261297" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.04377" latitude="-14.650419"/>
+<marker id="663261199" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879452979" parentZoneId="1879152196" longitude="-50.769363" latitude="-14.57667"/>
+<marker id="663261204" label="Skirmish Captain" category="70" did="1879228144" parentZoneId="1879152196" longitude="-50.793095" latitude="-14.719941"/>
+<marker id="663261216" label="Cadell" category="70" did="1879453042" parentZoneId="1879152196" longitude="-50.76985" latitude="-14.568203"/>
+<marker id="663261217" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879152196" longitude="-50.672947" latitude="-14.725273"/>
+<marker id="663261221" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.145985" latitude="-14.506152"/>
+<marker id="663261222" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.47337" latitude="-14.115175"/>
+<marker id="663261223" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.570183" latitude="-14.453808"/>
+<marker id="663261224" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.27335" latitude="-14.660459"/>
+<marker id="663261225" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.62324" latitude="-14.316982"/>
+<marker id="663261226" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.269638" latitude="-14.2743845"/>
+<marker id="663261227" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
+<marker id="663261228" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
+<marker id="663261229" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.262432" latitude="-14.508301"/>
+<marker id="663261230" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.291912" latitude="-14.508329"/>
+<marker id="663261231" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.291912" latitude="-14.508329"/>
+<marker id="663261234" label="Sigileth" category="70" did="1879155969" parentZoneId="1879152196" longitude="-50.713318" latitude="-14.258105"/>
+<marker id="663261235" label="Cúcheron" category="70" did="1879155939" parentZoneId="1879152196" longitude="-50.6316" latitude="-14.30958"/>
+<marker id="663261236" label="Bróin" category="70" did="1879155946" parentZoneId="1879152196" longitude="-50.786034" latitude="-14.288242"/>
+<marker id="663261249" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
+<marker id="663261250" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
+<marker id="663261251" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
+<marker id="663261252" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.3741" latitude="-14.065292"/>
+<marker id="663261253" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
+<marker id="663261254" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
+<marker id="663261255" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
+<marker id="663261256" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.06372" latitude="-14.529775"/>
+<marker id="663261257" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
+<marker id="663261258" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
+<marker id="663261259" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
+<marker id="663261260" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.42254" latitude="-14.754639"/>
+<marker id="663261261" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
+<marker id="663261262" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
+<marker id="663261263" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
+<marker id="663261264" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.263798" latitude="-14.634902"/>
+<marker id="663261265" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
+<marker id="663261266" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
+<marker id="663261267" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
+<marker id="663261268" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.05276" latitude="-14.744531"/>
+<marker id="663261269" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
+<marker id="663261270" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
+<marker id="663261271" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
+<marker id="663261272" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.483906" latitude="-14.643682"/>
+<marker id="663261273" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
+<marker id="663261274" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
+<marker id="663261275" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
+<marker id="663261276" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.681717" latitude="-14.116161"/>
+<marker id="663261277" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
+<marker id="663261278" label="Ruin-spider" category="71" did="1879154485" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
+<marker id="663261279" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
+<marker id="663261280" label="Mirkwood Crow" category="71" did="1879154510" parentZoneId="1879152196" longitude="-50.196465" latitude="-14.351377"/>
+<marker id="663261281" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.558945" latitude="-14.086269"/>
+<marker id="663261282" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.558945" latitude="-14.086269"/>
+<marker id="663261283" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.6982" latitude="-14.407344"/>
+<marker id="663261284" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.6982" latitude="-14.407344"/>
+<marker id="663261285" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.32236" latitude="-14.320225"/>
+<marker id="663261286" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.32236" latitude="-14.320225"/>
+<marker id="663261287" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.09283" latitude="-14.256054"/>
+<marker id="663261288" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.09283" latitude="-14.256054"/>
+<marker id="663261289" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.05829" latitude="-14.391552"/>
+<marker id="663261290" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.05829" latitude="-14.391552"/>
+<marker id="663261291" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.57164" latitude="-14.580293"/>
+<marker id="663261292" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.57164" latitude="-14.580293"/>
+<marker id="663261293" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.508728" latitude="-14.67831"/>
+<marker id="663261294" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.508728" latitude="-14.67831"/>
+<marker id="663261295" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.240704" latitude="-14.731015"/>
+<marker id="663261296" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.240704" latitude="-14.731015"/>
+<marker id="663261297" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.1282" latitude="-14.107744"/>
+<marker id="663261298" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.1282" latitude="-14.107744"/>
+<marker id="663261299" label="Mirkwood Serpent" category="78" did="1879164597" parentZoneId="1879152196" longitude="-50.04377" latitude="-14.650419"/>
+<marker id="663261300" label="Mirkwood Croaker" category="78" did="1879164596" parentZoneId="1879152196" longitude="-50.04377" latitude="-14.650419"/>
 <marker id="663265280" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-50.45153" latitude="-13.917412"/>
 <marker id="663265281" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-50.285175" latitude="-13.680273"/>
 <marker id="663265282" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-50.285175" latitude="-13.680273"/>
@@ -7237,7 +7239,7 @@
 <marker id="663335002" label="Mirkwood Stag" category="78" did="1879164598" parentZoneId="1879152197" longitude="-49.437702" latitude="-12.47704"/>
 <marker id="663335003" label="Black Squirrel" category="78" did="1879164600" parentZoneId="1879152197" longitude="-49.437702" latitude="-12.47704"/>
 <marker id="663339008" label="The Dead Grove" category="43" did="1879155747" parentZoneId="1879152197" longitude="-49.57586" latitude="-11.754911"/>
-<marker id="663339009" label="Torn Backpack" category="73" did="1879159302" parentZoneId="1879152197" longitude="-49.53818" latitude="-11.824619"/>
+<marker id="663339009" label="Torn Pack" category="73" did="1879159302" parentZoneId="1879152197" longitude="-49.53818" latitude="-11.824619"/>
 <marker id="663339010" label="Engraved Stone" category="73" did="1879159378" parentZoneId="1879152197" longitude="-49.52585" latitude="-11.715938"/>
 <marker id="663339012" label="Black Dog" category="71" did="1879154388" parentZoneId="1879152197" longitude="-49.34166" latitude="-12.103417"/>
 <marker id="663339013" label="Scuttlecrow" category="71" did="1879154414" parentZoneId="1879152197" longitude="-49.34166" latitude="-12.103417"/>
