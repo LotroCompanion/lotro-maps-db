@@ -7460,8 +7460,6 @@
 <marker id="440811525" label="Mandan&#10;Provisions" category="58" did="1879188558" parentZoneId="1879181892" longitude="-13.745078" latitude="-69.74502"/>
 <marker id="440811528" label="Anglaer&#10;Curiosities" category="58" did="1879188555" parentZoneId="1879181892" longitude="-13.6671095" latitude="-69.64096"/>
 <marker id="440811530" label="Annúdhrod&#10;Heavy Armour" category="58" did="1879188554" parentZoneId="1879181892" longitude="-13.608095" latitude="-69.5824"/>
-<marker id="440811531" label="Iorecthel&#10;Legendary Items" category="58" did="1879188559" parentZoneId="1879181892" longitude="-13.566093" latitude="-69.61115"/>
-<marker id="440811535" label="Duvengris&#10;Weapons" category="58" did="1879188556" parentZoneId="1879181892" longitude="-13.550996" latitude="-69.61879"/>
 <marker id="440811539" label="Skirmish Camp" category="43" did="1879179231" parentZoneId="1879181892" longitude="-13.779385" latitude="-69.59398"/>
 <marker id="440811542" label="Techeron&#10;Forge-master" category="29" did="1879191982" parentZoneId="1879181892" longitude="-13.779756" latitude="-69.34732"/>
 <marker id="440811543" label="Faeron&#10;Burglar Trainer" category="42" did="1879192487" parentZoneId="1879181892" longitude="-13.913857" latitude="-69.41423"/>
@@ -7478,24 +7476,28 @@
 <marker id="440811555" label="Golweniel&#10;Heroes' Quartermaster" category="58" did="1879206309" parentZoneId="1879181892" longitude="-13.840586" latitude="-69.469475"/>
 <marker id="440811556" label="Beleglaer&#10;Novices' Quartermaster" category="58" did="1879206311" parentZoneId="1879181892" longitude="-13.909247" latitude="-69.537224"/>
 <marker id="440811557" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879181892" longitude="-13.757822" latitude="-69.37121"/>
-<marker id="440811558" label="Mustering Horn" category="73" did="1879109873" parentZoneId="1879181892" longitude="-13.747715" latitude="-69.39238"/>
-<marker id="440811565" label="Baradír" category="70" did="1879191983" parentZoneId="1879181892" longitude="-13.779131" latitude="-69.35468"/>
-<marker id="440811584" label="Amrúnir&#10;Jewellery and Cloaks" category="58" did="1879188557" parentZoneId="1879181892" longitude="-13.735264" latitude="-69.577805"/>
-<marker id="440811585" label="Dúnhammad&#10;Light Armour" category="58" did="1879188562" parentZoneId="1879181892" longitude="-13.777549" latitude="-69.656456"/>
-<marker id="440811586" label="Mithrendan&#10;Crafting" category="58" did="1879188563" parentZoneId="1879181892" longitude="-13.801152" latitude="-69.75096"/>
-<marker id="440811587" label="Celairant&#10;Skirmish Trainer" category="58" did="1879188560" parentZoneId="1879181892" longitude="-13.7867775" latitude="-69.57595"/>
-<marker id="440811588" label="Gernad&#10;Classic" category="58" did="1879188561" parentZoneId="1879181892" longitude="-13.519316" latitude="-69.60919"/>
-<marker id="440811589" label="Angwedh&#10;Medium Armour" category="58" did="1879188566" parentZoneId="1879181892" longitude="-13.537402" latitude="-69.62847"/>
-<marker id="440811590" label="Gemniphred&#10;Cosmetics" category="58" did="1879188567" parentZoneId="1879181892" longitude="-13.768779" latitude="-69.73935"/>
-<marker id="440811591" label="Banganir&#10;Currency Exchange" category="58" did="1879188564" parentZoneId="1879181892" longitude="-13.72876" latitude="-69.835686"/>
-<marker id="440811592" label="Langlas&#10;Skirmish Captain" category="58" did="1879188565" parentZoneId="1879181892" longitude="-13.779775" latitude="-69.5755"/>
-<marker id="440811593" label="Culang&#10;Quartermaster" category="38" did="1879190133" parentZoneId="1879181892" longitude="-13.7526655" latitude="-69.38771"/>
-<marker id="440811594" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879181892" longitude="-13.784374" latitude="-69.59127"/>
-<marker id="440811596" label="Legrindavor&#10;Grey Company Rewards Vendor" category="61" did="1879186579" parentZoneId="1879181892" longitude="-13.755859" latitude="-69.35358"/>
-<marker id="440811597" label="Celenath&#10;Stable-master" category="51" did="1879186737" parentZoneId="1879181892" longitude="-13.734785" latitude="-69.37502"/>
-<marker id="440811598" label="Badhordam&#10;Legendary Vendor" category="58" did="1879187274" parentZoneId="1879181892" longitude="-13.761494" latitude="-69.35948"/>
-<marker id="440811599" label="Harndirion" category="43" did="1879185233" parentZoneId="1879181892" longitude="-13.697988" latitude="-69.67438"/>
-<marker id="440811603" label="Arnfinnur&#10;Novices' Quartermaster" category="58" did="1879201851" parentZoneId="1879181892" longitude="-13.8239155" latitude="-69.471436"/>
+<marker id="440811559" label="Mustering Horn" category="73" did="1879109873" parentZoneId="1879181892" longitude="-13.747715" latitude="-69.39238"/>
+<marker id="440811566" label="Baradír" category="70" did="1879191983" parentZoneId="1879181892" longitude="-13.779131" latitude="-69.35468"/>
+<marker id="440811577" label="Dyvan" category="70" did="1879455037" parentZoneId="1879181892" longitude="-13.536592" latitude="-69.607285"/>
+<marker id="440811584" label="Iorecthel&#10;Legendary Items" category="58" did="1879188559" parentZoneId="1879181892" longitude="-13.566093" latitude="-69.61115"/>
+<marker id="440811585" label="Duvengris&#10;Weapons" category="58" did="1879188556" parentZoneId="1879181892" longitude="-13.550996" latitude="-69.61879"/>
+<marker id="440811586" label="Amrúnir&#10;Jewellery and Cloaks" category="58" did="1879188557" parentZoneId="1879181892" longitude="-13.735264" latitude="-69.577805"/>
+<marker id="440811587" label="Dúnhammad&#10;Light Armour" category="58" did="1879188562" parentZoneId="1879181892" longitude="-13.777549" latitude="-69.656456"/>
+<marker id="440811588" label="Mithrendan&#10;Crafting" category="58" did="1879188563" parentZoneId="1879181892" longitude="-13.801152" latitude="-69.75096"/>
+<marker id="440811589" label="Celairant&#10;Skirmish Trainer" category="58" did="1879188560" parentZoneId="1879181892" longitude="-13.7867775" latitude="-69.57595"/>
+<marker id="440811590" label="Gernad&#10;Classic" category="58" did="1879188561" parentZoneId="1879181892" longitude="-13.519316" latitude="-69.60919"/>
+<marker id="440811591" label="Angwedh&#10;Medium Armour" category="58" did="1879188566" parentZoneId="1879181892" longitude="-13.537402" latitude="-69.62847"/>
+<marker id="440811592" label="Gemniphred&#10;Cosmetics" category="58" did="1879188567" parentZoneId="1879181892" longitude="-13.768779" latitude="-69.73935"/>
+<marker id="440811593" label="Banganir&#10;Currency Exchange" category="58" did="1879188564" parentZoneId="1879181892" longitude="-13.72876" latitude="-69.835686"/>
+<marker id="440811594" label="Langlas&#10;Skirmish Captain" category="58" did="1879188565" parentZoneId="1879181892" longitude="-13.779775" latitude="-69.5755"/>
+<marker id="440811595" label="Culang&#10;Quartermaster" category="38" did="1879190133" parentZoneId="1879181892" longitude="-13.7526655" latitude="-69.38771"/>
+<marker id="440811596" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879452977" parentZoneId="1879181892" longitude="-13.540917" latitude="-69.60098"/>
+<marker id="440811597" label="Control Point Banner" category="73" did="1879152430" parentZoneId="1879181892" longitude="-13.784374" latitude="-69.59127"/>
+<marker id="440811598" label="Harndirion" category="43" did="1879185233" parentZoneId="1879181892" longitude="-13.697988" latitude="-69.67438"/>
+<marker id="440811599" label="Legrindavor&#10;Grey Company Rewards Vendor" category="61" did="1879186579" parentZoneId="1879181892" longitude="-13.755859" latitude="-69.35358"/>
+<marker id="440811600" label="Celenath&#10;Stable-master" category="51" did="1879186737" parentZoneId="1879181892" longitude="-13.734785" latitude="-69.37502"/>
+<marker id="440811601" label="Badhordam&#10;Legendary Vendor" category="58" did="1879187274" parentZoneId="1879181892" longitude="-13.761494" latitude="-69.35948"/>
+<marker id="440811606" label="Arnfinnur&#10;Novices' Quartermaster" category="58" did="1879201851" parentZoneId="1879181892" longitude="-13.8239155" latitude="-69.471436"/>
 <marker id="440819712" label="Draig-lûth Soldier" category="71" did="1879189184" parentZoneId="1879181892" longitude="-13.668916" latitude="-67.85815"/>
 <marker id="440819713" label="Draig-lûth Bowman" category="71" did="1879189185" parentZoneId="1879181892" longitude="-13.668916" latitude="-67.85815"/>
 <marker id="440819717" label="Deer" category="78" did="1879077400" parentZoneId="1879181892" longitude="-13.715673" latitude="-67.85788"/>

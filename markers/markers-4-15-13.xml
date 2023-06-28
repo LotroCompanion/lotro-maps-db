@@ -138,23 +138,25 @@
 <marker id="1339854848" label="Door" category="100" did="1879328998" parentZoneId="1879335465" longitude="54.8" latitude="49.06113"/>
 <marker id="1339854849" label="" category="70" did="1879313195" parentZoneId="1879335465" longitude="54.82617" latitude="49.19783"/>
 <marker id="1339854850" label="" category="70" did="1879313195" parentZoneId="1879335465" longitude="54.8075" latitude="49.213673"/>
-<marker id="1339871245" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.903828" latitude="52.400192"/>
-<marker id="1339871246" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.790936" latitude="52.505173"/>
-<marker id="1339871247" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.793125" latitude="52.300583"/>
-<marker id="1339871248" label="Jewellery and Cloaks" category="58" did="1879313740" parentZoneId="1879335466" longitude="54.90461" latitude="52.381462"/>
-<marker id="1339871249" label="Classic" category="58" did="1879313741" parentZoneId="1879335466" longitude="54.759315" latitude="52.33414"/>
-<marker id="1339871250" label="Heavy Armour" category="58" did="1879313742" parentZoneId="1879335466" longitude="54.86004" latitude="52.42736"/>
-<marker id="1339871251" label="Skirmish Trainer" category="58" did="1879313738" parentZoneId="1879335466" longitude="54.867264" latitude="52.376034"/>
-<marker id="1339871252" label="Skirmish Captain&#10;Orma" category="58" did="1879313739" parentZoneId="1879335466" longitude="54.865936" latitude="52.390293"/>
-<marker id="1339871253" label="Curiosities" category="58" did="1879313751" parentZoneId="1879335466" longitude="54.75834" latitude="52.341034"/>
-<marker id="1339871254" label="Provisioner" category="58" did="1879313744" parentZoneId="1879335466" longitude="54.846794" latitude="52.33943"/>
-<marker id="1339871255" label="Currency Exchange" category="58" did="1879313747" parentZoneId="1879335466" longitude="54.88379" latitude="52.339413"/>
-<marker id="1339871256" label="Cosmetics" category="58" did="1879313756" parentZoneId="1879335466" longitude="54.766094" latitude="52.33525"/>
-<marker id="1339871257" label="Weapons" category="58" did="1879313753" parentZoneId="1879335466" longitude="54.85465" latitude="52.352596"/>
-<marker id="1339871258" label="Light Armour" category="58" did="1879313755" parentZoneId="1879335466" longitude="54.76982" latitude="52.460075"/>
-<marker id="1339871259" label="Medium Armour" category="58" did="1879313762" parentZoneId="1879335466" longitude="54.867226" latitude="52.429043"/>
-<marker id="1339871260" label="Crafting" category="58" did="1879313763" parentZoneId="1879335466" longitude="54.821953" latitude="52.292812"/>
-<marker id="1339871261" label="Door" category="100" did="1879328989" parentZoneId="1879335466" longitude="54.631092" latitude="52.399998"/>
+<marker id="1339871239" label="Crafting" category="58" did="1879313763" parentZoneId="1879335466" longitude="54.821953" latitude="52.292812"/>
+<marker id="1339871245" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879452977" parentZoneId="1879335466" longitude="54.729706" latitude="52.361465"/>
+<marker id="1339871248" label="Rhona" category="70" did="1879453063" parentZoneId="1879335466" longitude="54.734375" latitude="52.368904"/>
+<marker id="1339871249" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.903828" latitude="52.400192"/>
+<marker id="1339871250" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.790936" latitude="52.505173"/>
+<marker id="1339871251" label="" category="70" did="1879313195" parentZoneId="1879335466" longitude="54.793125" latitude="52.300583"/>
+<marker id="1339871252" label="Jewellery and Cloaks" category="58" did="1879313740" parentZoneId="1879335466" longitude="54.90461" latitude="52.381462"/>
+<marker id="1339871253" label="Classic" category="58" did="1879313741" parentZoneId="1879335466" longitude="54.759315" latitude="52.33414"/>
+<marker id="1339871254" label="Heavy Armour" category="58" did="1879313742" parentZoneId="1879335466" longitude="54.86004" latitude="52.42736"/>
+<marker id="1339871255" label="Skirmish Trainer" category="58" did="1879313738" parentZoneId="1879335466" longitude="54.867264" latitude="52.376034"/>
+<marker id="1339871256" label="Skirmish Captain&#10;Orma" category="58" did="1879313739" parentZoneId="1879335466" longitude="54.865936" latitude="52.390293"/>
+<marker id="1339871257" label="Curiosities" category="58" did="1879313751" parentZoneId="1879335466" longitude="54.75834" latitude="52.341034"/>
+<marker id="1339871258" label="Provisioner" category="58" did="1879313744" parentZoneId="1879335466" longitude="54.846794" latitude="52.33943"/>
+<marker id="1339871259" label="Currency Exchange" category="58" did="1879313747" parentZoneId="1879335466" longitude="54.88379" latitude="52.339413"/>
+<marker id="1339871260" label="Cosmetics" category="58" did="1879313756" parentZoneId="1879335466" longitude="54.766094" latitude="52.33525"/>
+<marker id="1339871261" label="Weapons" category="58" did="1879313753" parentZoneId="1879335466" longitude="54.85465" latitude="52.352596"/>
+<marker id="1339871262" label="Light Armour" category="58" did="1879313755" parentZoneId="1879335466" longitude="54.76982" latitude="52.460075"/>
+<marker id="1339871263" label="Medium Armour" category="58" did="1879313762" parentZoneId="1879335466" longitude="54.867226" latitude="52.429043"/>
+<marker id="1339871265" label="Door" category="100" did="1879328989" parentZoneId="1879335466" longitude="54.631092" latitude="52.399998"/>
 <marker id="1339957249" label="Enslaved Stout-axe" category="70" did="1879396677" parentZoneId="1879396467" longitude="56.363846" latitude="43.52168"/>
 <marker id="1339957253" label="Enslaved Stout-axe" category="70" did="1879396677" parentZoneId="1879396467" longitude="56.440174" latitude="43.589394"/>
 <marker id="1339957257" label="Enslaved Stout-axe" category="70" did="1879396677" parentZoneId="1879396467" longitude="56.327908" latitude="43.361523"/>
