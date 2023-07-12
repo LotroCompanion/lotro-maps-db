@@ -1336,6 +1336,13 @@
 <min longitude="-38.0" latitude="-86.799995"/>
 <max longitude="-28.418713" latitude="-79.61403"/>
 </map>
+<map id="268454188" name="Erebor Homesteads" imageId="1092831187">
+<geo factor="116.25">
+<point longitude="-73.2" latitude="28.606455"/>
+</geo>
+<min longitude="-73.2" latitude="22.000004"/>
+<max longitude="-64.391396" latitude="28.606455"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
