@@ -1336,7 +1336,7 @@
 <min longitude="-38.0" latitude="-86.799995"/>
 <max longitude="-28.418713" latitude="-79.61403"/>
 </map>
-<map id="268454188" name="" imageId="1092831187">
+<map id="268454188" name="Lyndelby Homesteads" imageId="1092831187">
 <geo factor="116.25">
 <point longitude="-73.2" latitude="28.606455"/>
 </geo>
@@ -1728,7 +1728,7 @@
 <min longitude="54.817497" latitude="73.01625"/>
 <max longitude="55.817497" latitude="73.76625"/>
 </map>
-<map id="1879048707" name="The Comb and Wattle Basement" imageId="1090543110">
+<map id="1879048707" name="The Comb and Wattle Cellar" imageId="1090543110">
 <geo factor="300.00003">
 <point longitude="54.59" latitude="77.99"/>
 </geo>
@@ -4626,7 +4626,7 @@
 <min longitude="53.04588" latitude="-10.904629"/>
 <max longitude="53.34588" latitude="-10.679628"/>
 </map>
-<map id="1879231860" name="Abandoned Home Basement" imageId="1091714618">
+<map id="1879231860" name="Abandoned Home Cellar" imageId="1091714618">
 <geo factor="2000.0002">
 <point longitude="53.0025" latitude="-9.0525"/>
 </geo>
@@ -5536,7 +5536,7 @@
 <min longitude="47.220997" latitude="-41.492"/>
 <max longitude="48.020996" latitude="-40.892002"/>
 </map>
-<map id="1879255926" name="Abandoned Home Basement" imageId="1091770438">
+<map id="1879255926" name="Abandoned Home Cellar" imageId="1091770438">
 <geo factor="600.0">
 <point longitude="52.55834" latitude="-16.64667"/>
 </geo>
@@ -5641,7 +5641,7 @@
 <min longitude="45.044003" latitude="-110.134995"/>
 <max longitude="45.844" latitude="-109.534996"/>
 </map>
-<map id="1879265606" name="Forlaw Basement" imageId="1091801178">
+<map id="1879265606" name="Forlaw Cellar" imageId="1091801178">
 <geo factor="1000.0">
 <point longitude="49.609" latitude="-108.174"/>
 </geo>
@@ -6019,14 +6019,14 @@
 <min longitude="-90.763336" latitude="-65.53333"/>
 <max longitude="-88.09667" latitude="-63.533333"/>
 </map>
-<map id="1879284912" name="Marton Basement" imageId="1091831492">
+<map id="1879284912" name="Marton Cellar" imageId="1091831492">
 <geo factor="600.0">
 <point longitude="-87.42" latitude="-56.51"/>
 </geo>
 <min longitude="-87.42" latitude="-57.51"/>
 <max longitude="-86.08666" latitude="-56.51"/>
 </map>
-<map id="1879284913" name="Marton Basement" imageId="1091831493">
+<map id="1879284913" name="Marton Cellar" imageId="1091831493">
 <geo factor="600.0">
 <point longitude="-87.41666" latitude="-55.719997"/>
 </geo>
@@ -6040,7 +6040,7 @@
 <min longitude="-87.49666" latitude="-57.806664"/>
 <max longitude="-84.829994" latitude="-55.806664"/>
 </map>
-<map id="1879284915" name="Marton Basement" imageId="1091831495">
+<map id="1879284915" name="Marton Cellar" imageId="1091831495">
 <geo factor="599.99994">
 <point longitude="-86.043335" latitude="-55.788334"/>
 </geo>
@@ -6082,7 +6082,7 @@
 <min longitude="-82.65166" latitude="-63.699997"/>
 <max longitude="-81.31832" latitude="-62.699997"/>
 </map>
-<map id="1879285092" name="Marton Basement" imageId="1091831500">
+<map id="1879285092" name="Marton Cellar" imageId="1091831500">
 <geo factor="600.0">
 <point longitude="-85.92" latitude="-56.603333"/>
 </geo>
@@ -9429,6 +9429,48 @@
 <max longitude="55.32499" latitude="-12.646669"/>
 </map>
 <map id="1879465383" name="TBD Shop" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466488" name="Lord Duinhir's Home" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466489" name="Malthellam's Home" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466490" name="Lhingroth" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466491" name="Barracks" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466492" name="Gladion's Home" imageId="1092819346">
+<geo factor="800.0">
+<point longitude="-26.408749" latitude="-73.5625"/>
+</geo>
+<min longitude="-26.408749" latitude="-74.3125"/>
+<max longitude="-25.408749" latitude="-73.5625"/>
+</map>
+<map id="1879466493" name="The Crossing-hall" imageId="1092819346">
 <geo factor="800.0">
 <point longitude="-26.408749" latitude="-73.5625"/>
 </geo>

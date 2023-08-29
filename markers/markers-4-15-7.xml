@@ -1,7 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1333579781" label="Queen Arwen" category="70" did="1879460452" parentZoneId="1879465383" longitude="54.839844" latitude="-24.032675"/>
-<marker id="1333579782" label="Galengam" category="70" did="1879460441" parentZoneId="1879465383" longitude="54.81461" latitude="-24.01454"/>
-<marker id="1333579784" label="King Elessar" category="70" did="1879460454" parentZoneId="1879465383" longitude="54.8083" latitude="-24.032772"/>
+<marker id="1333456909" label="Goblin Chief" category="71" did="1879468082" parentZoneId="1879063919" longitude="52.50002" latitude="-22.855791"/>
+<marker id="1333456910" label="Goblin Chief" category="71" did="1879468082" parentZoneId="1879063919" longitude="52.805622" latitude="-22.521582"/>
+<marker id="1333456911" label="Goblin Chief" category="71" did="1879468082" parentZoneId="1879063919" longitude="52.878593" latitude="-23.079716"/>
+<marker id="1333456912" label="Goblin Chief" category="71" did="1879468082" parentZoneId="1879063919" longitude="52.80984" latitude="-22.856543"/>
+<marker id="1333456919" label="Black Powder Spot" category="73" did="1879468155" parentZoneId="1879063919" longitude="52.262833" latitude="-23.163456"/>
+<marker id="1333456920" label="Black Powder Spot" category="73" did="1879468464" parentZoneId="1879063919" longitude="52.198513" latitude="-22.798008"/>
+<marker id="1333456921" label="Black Powder Spot" category="73" did="1879468463" parentZoneId="1879063919" longitude="52.714725" latitude="-22.519344"/>
+<marker id="1333456922" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.791836" latitude="-22.91833"/>
+<marker id="1333456923" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.706287" latitude="-23.084696"/>
+<marker id="1333456924" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.867928" latitude="-22.481377"/>
+<marker id="1333456925" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.81787" latitude="-22.509853"/>
+<marker id="1333456926" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.98199" latitude="-22.915995"/>
+<marker id="1333456927" label="Black Powder" category="73" did="1879468145" parentZoneId="1879063919" longitude="52.351933" latitude="-22.756601"/>
+<marker id="1333530626" label="Ruthless Hunter" category="71" did="1879466158" parentZoneId="1879466490" longitude="54.41996" latitude="-34.093094"/>
+<marker id="1333530627" label="Ruthless Hunter" category="71" did="1879466156" parentZoneId="1879466490" longitude="54.420742" latitude="-34.073914"/>
+<marker id="1333530628" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.691345" latitude="-33.963917"/>
+<marker id="1333530630" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.691345" latitude="-33.963917"/>
+<marker id="1333530631" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.691345" latitude="-33.963917"/>
+<marker id="1333530632" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.691345" latitude="-33.963917"/>
+<marker id="1333530633" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.867245" latitude="-33.958485"/>
+<marker id="1333530634" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.952225" latitude="-33.965603"/>
+<marker id="1333530635" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.94205" latitude="-34.010468"/>
+<marker id="1333530636" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.660114" latitude="-33.833923"/>
+<marker id="1333530637" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.716854" latitude="-33.991837"/>
+<marker id="1333530638" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.576736" latitude="-33.983387"/>
+<marker id="1333530639" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.593124" latitude="-34.038292"/>
+<marker id="1333530640" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.5273" latitude="-34.104824"/>
+<marker id="1333530641" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.676853" latitude="-33.773125"/>
+<marker id="1333530642" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.700798" latitude="-33.89989"/>
+<marker id="1333530643" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.79324" latitude="-33.95745"/>
+<marker id="1333530658" label="Ruthless Keeper" category="71" did="1879468259" parentZoneId="1879466490" longitude="54.40359" latitude="-34.08372"/>
+<marker id="1333530661" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.662247" latitude="-33.749424"/>
+<marker id="1333530664" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.662247" latitude="-33.749424"/>
+<marker id="1333530666" label="Taut Webbing" category="73" did="1879467564" parentZoneId="1879466490" longitude="54.972733" latitude="-33.979893"/>
+<marker id="1333530668" label="Kurzglok" category="71" did="1879467365" parentZoneId="1879466490" longitude="54.896328" latitude="-33.97785"/>
+<marker id="1333530669" label="Lhingroth" category="74" did="1879466460" parentZoneId="1879466490" longitude="54.691345" latitude="-33.963917"/>
+<marker id="1333530683" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.697186" latitude="-33.993984"/>
+<marker id="1333530684" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.694374" latitude="-33.91828"/>
+<marker id="1333530685" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.652325" latitude="-33.775284"/>
+<marker id="1333530686" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.70123" latitude="-33.861736"/>
+<marker id="1333530687" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.923985" latitude="-34.00879"/>
+<marker id="1333530688" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.573925" latitude="-33.982315"/>
+<marker id="1333530689" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.548298" latitude="-34.10088"/>
+<marker id="1333530690" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.501347" latitude="-34.08993"/>
+<marker id="1333530691" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.4291" latitude="-34.065594"/>
+<marker id="1333530692" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.658924" latitude="-33.94366"/>
+<marker id="1333530693" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.75236" latitude="-33.958817"/>
+<marker id="1333530694" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.833298" latitude="-33.999844"/>
+<marker id="1333530695" label="Silkencap" category="73" did="1879467576" parentZoneId="1879466490" longitude="54.95912" latitude="-33.992157"/>
+<marker id="1333530696" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.42199" latitude="-34.110027"/>
+<marker id="1333530697" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.42199" latitude="-34.110027"/>
+<marker id="1333530698" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.434803" latitude="-34.069004"/>
+<marker id="1333530699" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.434803" latitude="-34.069004"/>
+<marker id="1333530700" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.501423" latitude="-34.11402"/>
+<marker id="1333530701" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.501423" latitude="-34.11402"/>
+<marker id="1333530702" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.913887" latitude="-34.011307"/>
+<marker id="1333530703" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.913887" latitude="-34.011307"/>
+<marker id="1333530704" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.91742" latitude="-33.965633"/>
+<marker id="1333530705" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.91742" latitude="-33.965633"/>
+<marker id="1333530706" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.83625" latitude="-33.991455"/>
+<marker id="1333530707" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.83625" latitude="-33.991455"/>
+<marker id="1333530708" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.677536" latitude="-34.01088"/>
+<marker id="1333530709" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.677536" latitude="-34.01088"/>
+<marker id="1333530710" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.702286" latitude="-33.875683"/>
+<marker id="1333530711" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.702286" latitude="-33.875683"/>
+<marker id="1333530712" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.64127" latitude="-33.809402"/>
+<marker id="1333530713" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.64127" latitude="-33.809402"/>
+<marker id="1333530714" label="Sage's Repository" category="50" did="1879430417" parentZoneId="1879466490" longitude="54.642403" latitude="-33.734745"/>
+<marker id="1333530715" label="Sage's Coffer" category="50" did="1879430414" parentZoneId="1879466490" longitude="54.642403" latitude="-33.734745"/>
+<marker id="1333530716" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.72957" latitude="-33.99709"/>
+<marker id="1333530717" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.72957" latitude="-33.99709"/>
+<marker id="1333530718" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.72957" latitude="-33.99709"/>
+<marker id="1333530719" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.72957" latitude="-33.99709"/>
+<marker id="1333530720" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.647285" latitude="-33.798885"/>
+<marker id="1333530721" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.647285" latitude="-33.798885"/>
+<marker id="1333530722" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.647285" latitude="-33.798885"/>
+<marker id="1333530723" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.647285" latitude="-33.798885"/>
+<marker id="1333530724" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.692654" latitude="-33.83665"/>
+<marker id="1333530725" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.692654" latitude="-33.83665"/>
+<marker id="1333530726" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.692654" latitude="-33.83665"/>
+<marker id="1333530727" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.692654" latitude="-33.83665"/>
+<marker id="1333530728" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.664238" latitude="-33.916817"/>
+<marker id="1333530729" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.664238" latitude="-33.916817"/>
+<marker id="1333530730" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.664238" latitude="-33.916817"/>
+<marker id="1333530731" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.664238" latitude="-33.916817"/>
+<marker id="1333530732" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.667107" latitude="-33.937977"/>
+<marker id="1333530733" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.667107" latitude="-33.937977"/>
+<marker id="1333530734" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.667107" latitude="-33.937977"/>
+<marker id="1333530735" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.667107" latitude="-33.937977"/>
+<marker id="1333530736" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.772655" latitude="-33.958866"/>
+<marker id="1333530737" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.772655" latitude="-33.958866"/>
+<marker id="1333530738" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.772655" latitude="-33.958866"/>
+<marker id="1333530739" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.772655" latitude="-33.958866"/>
+<marker id="1333530740" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.815975" latitude="-33.992245"/>
+<marker id="1333530741" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.815975" latitude="-33.992245"/>
+<marker id="1333530742" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.815975" latitude="-33.992245"/>
+<marker id="1333530743" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.815975" latitude="-33.992245"/>
+<marker id="1333530744" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.856346" latitude="-33.955673"/>
+<marker id="1333530745" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.856346" latitude="-33.955673"/>
+<marker id="1333530746" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.856346" latitude="-33.955673"/>
+<marker id="1333530747" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.856346" latitude="-33.955673"/>
+<marker id="1333530748" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.90217" latitude="-34.00867"/>
+<marker id="1333530749" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.90217" latitude="-34.00867"/>
+<marker id="1333530750" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.90217" latitude="-34.00867"/>
+<marker id="1333530751" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.90217" latitude="-34.00867"/>
+<marker id="1333530752" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.93783" latitude="-33.96161"/>
+<marker id="1333530753" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.93783" latitude="-33.96161"/>
+<marker id="1333530754" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.93783" latitude="-33.96161"/>
+<marker id="1333530755" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.93783" latitude="-33.96161"/>
+<marker id="1333530756" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.946835" latitude="-33.999794"/>
+<marker id="1333530757" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.946835" latitude="-33.999794"/>
+<marker id="1333530758" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.946835" latitude="-33.999794"/>
+<marker id="1333530759" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.946835" latitude="-33.999794"/>
+<marker id="1333530760" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.633415" latitude="-33.97577"/>
+<marker id="1333530761" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.633415" latitude="-33.97577"/>
+<marker id="1333530762" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.633415" latitude="-33.97577"/>
+<marker id="1333530763" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.633415" latitude="-33.97577"/>
+<marker id="1333530764" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.671482" latitude="-33.99962"/>
+<marker id="1333530765" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.671482" latitude="-33.99962"/>
+<marker id="1333530766" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.671482" latitude="-33.99962"/>
+<marker id="1333530767" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.671482" latitude="-33.99962"/>
+<marker id="1333530768" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.518867" latitude="-34.0853"/>
+<marker id="1333530769" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.518867" latitude="-34.0853"/>
+<marker id="1333530770" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.518867" latitude="-34.0853"/>
+<marker id="1333530771" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.518867" latitude="-34.0853"/>
+<marker id="1333530772" label="Morthond Weaver" category="71" did="1879467364" parentZoneId="1879466490" longitude="54.575195" latitude="-34.08135"/>
+<marker id="1333530773" label="Morthond Hunter" category="71" did="1879467362" parentZoneId="1879466490" longitude="54.575195" latitude="-34.08135"/>
+<marker id="1333530774" label="Morthond Spitter" category="71" did="1879467363" parentZoneId="1879466490" longitude="54.575195" latitude="-34.08135"/>
+<marker id="1333530775" label="Morthond Hatchling" category="71" did="1879467361" parentZoneId="1879466490" longitude="54.575195" latitude="-34.08135"/>
+<marker id="1333538816" label="Door" category="100" did="1879312568" parentZoneId="1879466489" longitude="54.843925" latitude="-32.403877"/>
+<marker id="1333538817" label="Malthellam" category="70" did="1879467190" parentZoneId="1879466489" longitude="54.81578" latitude="-32.37621"/>
+<marker id="1333547008" label="Rosfin" category="70" did="1879467188" parentZoneId="1879466488" longitude="54.783493" latitude="-30.775936"/>
+<marker id="1333547009" label="Duinhir" category="70" did="1879467192" parentZoneId="1879466488" longitude="54.816658" latitude="-30.763369"/>
+<marker id="1333547010" label="Door" category="100" did="1879312568" parentZoneId="1879466488" longitude="54.820156" latitude="-30.703545"/>
+<marker id="1333555202" label="Door" category="100" did="1879312568" parentZoneId="1879466492" longitude="54.81709" latitude="-29.23368"/>
+<marker id="1333555210" label="Míreth" category="70" did="1879465616" parentZoneId="1879466492" longitude="54.78375" latitude="-29.199657"/>
+<marker id="1333555212" label="Túmir" category="70" did="1879465617" parentZoneId="1879466492" longitude="54.81828" latitude="-29.174795"/>
+<marker id="1333555215" label="Hutch" category="73" did="1879468980" parentZoneId="1879466492" longitude="54.75211" latitude="-29.199736"/>
+<marker id="1333555216" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.813103" latitude="-29.179628"/>
+<marker id="1333555217" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.808907" latitude="-29.175497"/>
+<marker id="1333555218" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.815838" latitude="-29.177137"/>
+<marker id="1333555219" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.812283" latitude="-29.173203"/>
+<marker id="1333555220" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.8075" latitude="-29.171377"/>
+<marker id="1333555221" label="Place-setting" category="73" did="1879468946" parentZoneId="1879466492" longitude="54.817696" latitude="-29.180487"/>
+<marker id="1333555223" label="Gladion" category="70" did="1879465665" parentZoneId="1879466492" longitude="54.818455" latitude="-29.208515"/>
+<marker id="1333555224" label="Limril" category="70" did="1879465664" parentZoneId="1879466492" longitude="54.78607" latitude="-29.179247"/>
+<marker id="1333563394" label="Door" category="100" did="1879227953" parentZoneId="1879466493" longitude="54.751522" latitude="-27.825418"/>
+<marker id="1333563396" label="Old Record Book" category="73" did="1879465888" parentZoneId="1879466493" longitude="54.69164" latitude="-27.586786"/>
+<marker id="1333563400" label="Tattered Record Book" category="73" did="1879465891" parentZoneId="1879466493" longitude="54.690018" latitude="-27.59283"/>
+<marker id="1333563401" label="Weathered Record Book" category="73" did="1879465889" parentZoneId="1879466493" longitude="54.690018" latitude="-27.599365"/>
+<marker id="1333563402" label="Dervorin" category="70" did="1879465911" parentZoneId="1879466493" longitude="54.70664" latitude="-27.578457"/>
+<marker id="1333571591" label="Door" category="100" did="1879227954" parentZoneId="1879466491" longitude="54.775936" latitude="-25.976748"/>
+<marker id="1333571593" label="Wounded Soldier" category="70" did="1879465807" parentZoneId="1879466491" longitude="54.801228" latitude="-26.220331"/>
+<marker id="1333571594" label="Wounded Soldier" category="70" did="1879465808" parentZoneId="1879466491" longitude="54.69281" latitude="-26.169716"/>
+<marker id="1333571595" label="Wounded Soldier" category="70" did="1879465801" parentZoneId="1879466491" longitude="54.742207" latitude="-26.197557"/>
+<marker id="1333571596" label="Wounded Soldier" category="70" did="1879465796" parentZoneId="1879466491" longitude="54.874294" latitude="-26.072548"/>
+<marker id="1333571597" label="Wounded Soldier" category="70" did="1879465791" parentZoneId="1879466491" longitude="54.856777" latitude="-26.158827"/>
+<marker id="1333571598" label="Maeron" category="70" did="1879465800" parentZoneId="1879466491" longitude="54.786716" latitude="-26.080566"/>
+<marker id="1333579782" label="Ioreth" category="70" did="1879460924" parentZoneId="1879465383" longitude="54.8583" latitude="-24.086376"/>
+<marker id="1333579783" label="Caebar" category="70" did="1879460923" parentZoneId="1879465383" longitude="54.697304" latitude="-24.233007"/>
+<marker id="1333579784" label="Líniel" category="70" did="1879460932" parentZoneId="1879465383" longitude="54.83666" latitude="-24.110264"/>
+<marker id="1333579785" label="Legolas" category="70" did="1879460933" parentZoneId="1879465383" longitude="54.69949" latitude="-24.09747"/>
+<marker id="1333579786" label="Glindor" category="70" did="1879460930" parentZoneId="1879465383" longitude="54.777283" latitude="-24.086573"/>
+<marker id="1333579787" label="Elladan" category="70" did="1879460940" parentZoneId="1879465383" longitude="54.70533" latitude="-24.105703"/>
+<marker id="1333579788" label="Gimli" category="70" did="1879460938" parentZoneId="1879465383" longitude="54.797832" latitude="-24.036299"/>
+<marker id="1333579789" label="Aphadaer" category="70" did="1879460936" parentZoneId="1879465383" longitude="54.862225" latitude="-24.010157"/>
+<marker id="1333579790" label="Borndir" category="70" did="1879460951" parentZoneId="1879465383" longitude="54.770977" latitude="-24.125116"/>
+<marker id="1333579791" label="Elrohir" category="70" did="1879460947" parentZoneId="1879465383" longitude="54.70406" latitude="-24.090986"/>
+<marker id="1333579792" label="Lornion" category="70" did="1879460944" parentZoneId="1879465383" longitude="54.845272" latitude="-24.062723"/>
+<marker id="1333579793" label="Grethril" category="70" did="1879460953" parentZoneId="1879465383" longitude="54.88162" latitude="-24.012177"/>
+<marker id="1333579795" label="Queen Arwen" category="70" did="1879460452" parentZoneId="1879465383" longitude="54.839844" latitude="-24.032675"/>
+<marker id="1333579796" label="King Elessar" category="70" did="1879460454" parentZoneId="1879465383" longitude="54.8083" latitude="-24.032772"/>
+<marker id="1333579797" label="Galengam" category="70" did="1879460441" parentZoneId="1879465383" longitude="54.81461" latitude="-24.01454"/>
 <marker id="1333587971" label="Door" category="100" did="1879227953" parentZoneId="1879464791" longitude="54.738495" latitude="-22.925371"/>
 <marker id="1333587972" label="Auctioneer" category="53" did="1879313200" parentZoneId="1879464791" longitude="54.866524" latitude="-22.681454"/>
 <marker id="1333587973" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879464791" longitude="54.630215" latitude="-22.689053"/>

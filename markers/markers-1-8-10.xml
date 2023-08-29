@@ -1376,7 +1376,6 @@
 <marker id="413741135" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.431248" latitude="6.090449"/>
 <marker id="413749248" label="Saethoniel" category="70" did="1879098015" parentZoneId="1879063962" longitude="-36.61414" latitude="8.348066"/>
 <marker id="413749249" label="Ongbúrz Defiler" category="70" did="1879094878" parentZoneId="1879063962" longitude="-36.486378" latitude="8.34083"/>
-<marker id="413749250" label="Cinaid" category="70" did="1879063762" parentZoneId="1879063962" longitude="-36.496864" latitude="8.336592"/>
 <marker id="413749251" label="Malavin" category="70" did="1879063763" parentZoneId="1879063962" longitude="-36.50502" latitude="8.345888"/>
 <marker id="413749252" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.517323" latitude="8.145674"/>
 <marker id="413749253" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.517323" latitude="8.145674"/>
@@ -1386,27 +1385,28 @@
 <marker id="413749257" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.517323" latitude="8.145674"/>
 <marker id="413749258" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.517323" latitude="8.145674"/>
 <marker id="413749259" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.517323" latitude="8.145674"/>
-<marker id="413749260" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749261" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749262" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749263" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749264" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749265" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749266" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
-<marker id="413749267" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749268" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749269" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749270" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749271" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749272" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749273" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
-<marker id="413749274" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749275" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749276" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749277" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749278" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749279" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
-<marker id="413749280" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749261" label="Cinaid" category="70" did="1879063762" parentZoneId="1879063962" longitude="-36.496864" latitude="8.336592"/>
+<marker id="413749275" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749276" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749277" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749278" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749279" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749280" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749281" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.467186" latitude="8.050664"/>
+<marker id="413749282" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749283" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749284" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749285" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749286" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749287" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749288" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.475037" latitude="8.211279"/>
+<marker id="413749289" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749290" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749291" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749292" label="Duvárdain Raider" category="71" did="1879059739" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749293" label="Duvárdain Blood-dancer" category="71" did="1879059741" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749294" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
+<marker id="413749295" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.6316" latitude="8.331474"/>
 <marker id="413753344" label="Krûr" category="70" did="1879098008" parentZoneId="1879063962" longitude="-36.557186" latitude="8.483945"/>
 <marker id="413753345" label="Dûnud" category="70" did="1879098009" parentZoneId="1879063962" longitude="-36.535007" latitude="8.477236"/>
 <marker id="413753346" label="Shakh" category="70" did="1879098010" parentZoneId="1879063962" longitude="-36.598152" latitude="8.52871"/>
