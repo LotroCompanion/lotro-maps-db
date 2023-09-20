@@ -996,32 +996,46 @@
 <marker id="1071517700" label="Corsair Drunk" category="71" did="1879315275" parentZoneId="1879316663" longitude="56.380898" latitude="42.83523"/>
 <marker id="1071517701" label="Corsair Drunk" category="71" did="1879315275" parentZoneId="1879316663" longitude="56.37406" latitude="42.80773"/>
 <marker id="1071517702" label="Wine Bottle" category="73" did="1879315133" parentZoneId="1879316663" longitude="56.377205" latitude="42.823025"/>
-<marker id="1071525890" label="Wooden Chest" category="72" did="1879302926" parentZoneId="1879316660" longitude="56.002674" latitude="43.997227"/>
-<marker id="1071525891" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="56.00332" latitude="43.98834"/>
-<marker id="1071525892" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.925545" latitude="44.245155"/>
-<marker id="1071525893" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.927517" latitude="44.185116"/>
-<marker id="1071525894" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.97824" latitude="43.849903"/>
-<marker id="1071525895" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.990234" latitude="43.902733"/>
-<marker id="1071525902" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.941444" latitude="44.23281"/>
-<marker id="1071525903" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.941444" latitude="44.23281"/>
-<marker id="1071525904" label="Fallen Corsair" category="70" did="1879315250" parentZoneId="1879316660" longitude="55.994843" latitude="43.969414"/>
-<marker id="1071525905" label="Ruthless Oath-breaker" category="71" did="1879315415" parentZoneId="1879316660" longitude="55.943672" latitude="44.23289"/>
-<marker id="1071525906" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="56.016132" latitude="43.90963"/>
-<marker id="1071525907" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="56.016132" latitude="43.90963"/>
-<marker id="1071525908" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.982224" latitude="44.00328"/>
-<marker id="1071525909" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.982224" latitude="44.00328"/>
-<marker id="1071525910" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="56.010155" latitude="44.096504"/>
-<marker id="1071525911" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="56.010155" latitude="44.096504"/>
-<marker id="1071525912" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.923454" latitude="44.185898"/>
-<marker id="1071525913" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.923454" latitude="44.185898"/>
-<marker id="1071525914" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.962597" latitude="44.144783"/>
-<marker id="1071525915" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.962597" latitude="44.144783"/>
-<marker id="1071525916" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.973495" latitude="44.208965"/>
-<marker id="1071525917" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.973495" latitude="44.208965"/>
-<marker id="1071525918" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.922577" latitude="44.26115"/>
-<marker id="1071525919" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.922577" latitude="44.26115"/>
-<marker id="1071525920" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.964237" latitude="44.280117"/>
-<marker id="1071525921" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.964237" latitude="44.280117"/>
+<marker id="1071525891" label="Wooden Chest" category="72" did="1879302926" parentZoneId="1879316660" longitude="56.002674" latitude="43.997227"/>
+<marker id="1071525892" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="56.00332" latitude="43.98834"/>
+<marker id="1071525893" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.925545" latitude="44.245155"/>
+<marker id="1071525894" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.927517" latitude="44.185116"/>
+<marker id="1071525895" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.97824" latitude="43.849903"/>
+<marker id="1071525896" label="Corpse" category="72" did="1879302925" parentZoneId="1879316660" longitude="55.990234" latitude="43.902733"/>
+<marker id="1071525897" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.941444" latitude="44.23281"/>
+<marker id="1071525898" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.941444" latitude="44.23281"/>
+<marker id="1071525901" label="Deck-hand" category="71" did="1879468406" parentZoneId="1879316660" longitude="55.988846" latitude="44.16582"/>
+<marker id="1071525902" label="Deck-hand" category="71" did="1879468406" parentZoneId="1879316660" longitude="56.00004" latitude="44.02566"/>
+<marker id="1071525903" label="Deck-hand" category="71" did="1879468406" parentZoneId="1879316660" longitude="55.944744" latitude="44.264393"/>
+<marker id="1071525904" label="Deck-hand" category="71" did="1879468406" parentZoneId="1879316660" longitude="55.949745" latitude="44.177986"/>
+<marker id="1071525906" label="Cutthroat" category="71" did="1879468404" parentZoneId="1879316660" longitude="55.99125" latitude="44.03092"/>
+<marker id="1071525907" label="Cutthroat" category="71" did="1879468404" parentZoneId="1879316660" longitude="55.93611" latitude="44.27123"/>
+<marker id="1071525910" label="Scavenger" category="71" did="1879468402" parentZoneId="1879316660" longitude="55.99746" latitude="44.03572"/>
+<marker id="1071525911" label="Scavenger" category="71" did="1879468402" parentZoneId="1879316660" longitude="55.942165" latitude="44.271835"/>
+<marker id="1071525912" label="Scavenger" category="71" did="1879468402" parentZoneId="1879316660" longitude="55.947166" latitude="44.188046"/>
+<marker id="1071525913" label="Treasure Chest" category="73" did="1879469772" parentZoneId="1879316660" longitude="55.94371" latitude="44.28996"/>
+<marker id="1071525914" label="The Captain" category="71" did="1879468412" parentZoneId="1879316660" longitude="56.00049" latitude="43.904217"/>
+<marker id="1071525915" label="Fallen Corsair" category="70" did="1879315250" parentZoneId="1879316660" longitude="55.994843" latitude="43.969414"/>
+<marker id="1071525916" label="Ruthless Oath-breaker" category="71" did="1879315415" parentZoneId="1879316660" longitude="55.943672" latitude="44.23289"/>
+<marker id="1071525917" label="Cutthroat" category="71" did="1879468404" parentZoneId="1879316660" longitude="55.935955" latitude="44.264355"/>
+<marker id="1071525918" label="Cutthroat" category="71" did="1879468404" parentZoneId="1879316660" longitude="55.940956" latitude="44.183243"/>
+<marker id="1071525919" label="Cutthroat" category="71" did="1879468404" parentZoneId="1879316660" longitude="55.99453" latitude="44.158066"/>
+<marker id="1071525937" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="56.016132" latitude="43.90963"/>
+<marker id="1071525938" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="56.016132" latitude="43.90963"/>
+<marker id="1071525939" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.982224" latitude="44.00328"/>
+<marker id="1071525940" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.982224" latitude="44.00328"/>
+<marker id="1071525941" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="56.010155" latitude="44.096504"/>
+<marker id="1071525942" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="56.010155" latitude="44.096504"/>
+<marker id="1071525943" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.923454" latitude="44.185898"/>
+<marker id="1071525944" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.923454" latitude="44.185898"/>
+<marker id="1071525945" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.962597" latitude="44.144783"/>
+<marker id="1071525946" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.962597" latitude="44.144783"/>
+<marker id="1071525947" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.973495" latitude="44.208965"/>
+<marker id="1071525948" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.973495" latitude="44.208965"/>
+<marker id="1071525949" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.922577" latitude="44.26115"/>
+<marker id="1071525950" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.922577" latitude="44.26115"/>
+<marker id="1071525951" label="Heavy Adorned Chest" category="50" did="1879273162" parentZoneId="1879316660" longitude="55.964237" latitude="44.280117"/>
+<marker id="1071525952" label="Adorned Chest" category="50" did="1879273165" parentZoneId="1879316660" longitude="55.964237" latitude="44.280117"/>
 <marker id="1071534080" label="Soldier" category="71" did="1879309543" parentZoneId="1879310195" longitude="56.79332" latitude="46.235527"/>
 <marker id="1071534081" label="Soldier" category="71" did="1879309543" parentZoneId="1879310195" longitude="56.704823" latitude="46.245487"/>
 <marker id="1071534152" label="Ore" category="73" did="1879312715" parentZoneId="1879310195" longitude="56.27588" latitude="46.73"/>
