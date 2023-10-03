@@ -15693,51 +15693,52 @@
 <marker id="393822224" label="Townsperson" category="70" did="1879077014" parentZoneId="1879064013" longitude="-49.248592" latitude="-30.981934"/>
 <marker id="393822225" label="Townsperson" category="70" did="1879077015" parentZoneId="1879064013" longitude="-49.675663" latitude="-30.895292"/>
 <marker id="393822229" label="Watcher Reedy" category="70" did="1879079038" parentZoneId="1879064013" longitude="-49.389755" latitude="-31.094893"/>
-<marker id="393822230" label="Workbench" category="45" did="1879063081" parentZoneId="1879064013" longitude="-49.283028" latitude="-31.005459"/>
-<marker id="393822231" label="Pell Stoneleaf&#10;Bowyer" category="38" did="1879063255" parentZoneId="1879051235" longitude="-50.09163" latitude="-31.765146"/>
-<marker id="393822232" label="Otwell Gowen&#10;Light Armour Trader" category="38" did="1879063256" parentZoneId="1879051235" longitude="-50.08488" latitude="-31.616922"/>
-<marker id="393822233" label="Raf Silverwind&#10;Medium Armour Trader" category="38" did="1879063257" parentZoneId="1879051235" longitude="-50.090137" latitude="-31.617178"/>
-<marker id="393822234" label="Gareth Somerset&#10;One-handed Weapon Trader" category="38" did="1879063258" parentZoneId="1879051235" longitude="-50.048054" latitude="-31.75576"/>
-<marker id="393822235" label="Orrick Fleetfoot&#10;Two-handed Weapon Trader" category="38" did="1879063259" parentZoneId="1879051235" longitude="-50.054356" latitude="-31.755634"/>
-<marker id="393822236" label="Forge" category="45" did="1879063354" parentZoneId="1879064013" longitude="-49.265" latitude="-30.932617"/>
-<marker id="393822237" label="Oven" category="45" did="1879063367" parentZoneId="1879064013" longitude="-49.33205" latitude="-30.948212"/>
-<marker id="393822238" label="Door" category="100" did="1879063411" parentZoneId="1879064013" longitude="-49.500114" latitude="-31.022324"/>
-<marker id="393822239" label="Door" category="100" did="1879063411" parentZoneId="1879051235" longitude="-50.047276" latitude="-31.820429"/>
-<marker id="393822240" label="Mailbox" category="34" did="1879063475" parentZoneId="1879064013" longitude="-49.42292" latitude="-31.012646"/>
-<marker id="393822241" label="Staddle Gate" category="43" did="1879063589" parentZoneId="1879064013" longitude="-49.886856" latitude="-31.131836"/>
-<marker id="393822242" label="Little Staddlemere" category="43" did="1879063590" parentZoneId="1879064013" longitude="-49.343193" latitude="-31.337002"/>
-<marker id="393822243" label="Staddle" category="43" did="1879063591" parentZoneId="1879064013" longitude="-49.438572" latitude="-31.07661"/>
-<marker id="393822245" label="Town Guard" category="71" did="1879255982" parentZoneId="1879064013" longitude="-49.99113" latitude="-31.097813"/>
-<marker id="393822254" label="Ronald Evergreen&#10;Master of Crafting Guilds" category="42" did="1879124463" parentZoneId="1879064013" longitude="-49.283993" latitude="-30.97994"/>
-<marker id="393822255" label="Ham Rushlight" category="70" did="1879049789" parentZoneId="1879064013" longitude="-49.291943" latitude="-30.948202"/>
+<marker id="393822230" label="Sarabeth Lowbanks" category="70" did="1879062622" parentZoneId="1879064013" longitude="-49.39628" latitude="-31.131327"/>
+<marker id="393822231" label="Workbench" category="45" did="1879063081" parentZoneId="1879064013" longitude="-49.283028" latitude="-31.005459"/>
+<marker id="393822232" label="Pell Stoneleaf&#10;Bowyer" category="38" did="1879063255" parentZoneId="1879051235" longitude="-50.09163" latitude="-31.765146"/>
+<marker id="393822233" label="Otwell Gowen&#10;Light Armour Trader" category="38" did="1879063256" parentZoneId="1879051235" longitude="-50.08488" latitude="-31.616922"/>
+<marker id="393822234" label="Raf Silverwind&#10;Medium Armour Trader" category="38" did="1879063257" parentZoneId="1879051235" longitude="-50.090137" latitude="-31.617178"/>
+<marker id="393822235" label="Gareth Somerset&#10;One-handed Weapon Trader" category="38" did="1879063258" parentZoneId="1879051235" longitude="-50.048054" latitude="-31.75576"/>
+<marker id="393822236" label="Orrick Fleetfoot&#10;Two-handed Weapon Trader" category="38" did="1879063259" parentZoneId="1879051235" longitude="-50.054356" latitude="-31.755634"/>
+<marker id="393822237" label="Forge" category="45" did="1879063354" parentZoneId="1879064013" longitude="-49.265" latitude="-30.932617"/>
+<marker id="393822238" label="Oven" category="45" did="1879063367" parentZoneId="1879064013" longitude="-49.33205" latitude="-30.948212"/>
+<marker id="393822239" label="Door" category="100" did="1879063411" parentZoneId="1879064013" longitude="-49.500114" latitude="-31.022324"/>
+<marker id="393822240" label="Door" category="100" did="1879063411" parentZoneId="1879051235" longitude="-50.047276" latitude="-31.820429"/>
+<marker id="393822241" label="Mailbox" category="34" did="1879063475" parentZoneId="1879064013" longitude="-49.42292" latitude="-31.012646"/>
+<marker id="393822242" label="Staddle Gate" category="43" did="1879063589" parentZoneId="1879064013" longitude="-49.886856" latitude="-31.131836"/>
+<marker id="393822243" label="Little Staddlemere" category="43" did="1879063590" parentZoneId="1879064013" longitude="-49.343193" latitude="-31.337002"/>
+<marker id="393822244" label="Staddle" category="43" did="1879063591" parentZoneId="1879064013" longitude="-49.438572" latitude="-31.07661"/>
+<marker id="393822246" label="Town Guard" category="71" did="1879255982" parentZoneId="1879064013" longitude="-49.99113" latitude="-31.097813"/>
+<marker id="393822255" label="Ronald Evergreen&#10;Master of Crafting Guilds" category="42" did="1879124463" parentZoneId="1879064013" longitude="-49.283993" latitude="-30.97994"/>
+<marker id="393822256" label="Ham Rushlight" category="70" did="1879049789" parentZoneId="1879064013" longitude="-49.291943" latitude="-30.948202"/>
 <marker id="393822261" label="Constable Tanglerush" category="70" did="1879049258" parentZoneId="1879064013" longitude="-49.514492" latitude="-31.088457"/>
-<marker id="393822263" label="Watcher Redweed" category="70" did="1879078883" parentZoneId="1879064013" longitude="-49.398563" latitude="-31.09293"/>
-<marker id="393822264" label="Ethelinda Burr" category="70" did="1879078907" parentZoneId="1879064013" longitude="-49.416504" latitude="-31.13287"/>
-<marker id="393822265" label="Ferdibrand Took" category="70" did="1879078908" parentZoneId="1879064013" longitude="-49.55622" latitude="-31.093847"/>
-<marker id="393822266" label="Ferumbras Attereeve" category="70" did="1879078910" parentZoneId="1879064013" longitude="-49.28288" latitude="-31.022959"/>
-<marker id="393822269" label="Himloc Grouse&#10;Grocer" category="38" did="1879063588" parentZoneId="1879064013" longitude="-49.281258" latitude="-31.034803"/>
-<marker id="393822272" label="Gar" category="70" did="1879078941" parentZoneId="1879064013" longitude="-49.401173" latitude="-31.02336"/>
-<marker id="393822273" label="Longo Daegmund" category="70" did="1879078911" parentZoneId="1879064013" longitude="-49.40454" latitude="-31.02247"/>
-<marker id="393822274" label="Staddle Town Well" category="73" did="1879078955" parentZoneId="1879064013" longitude="-49.3907" latitude="-31.02202"/>
+<marker id="393822264" label="Watcher Redweed" category="70" did="1879078883" parentZoneId="1879064013" longitude="-49.398563" latitude="-31.09293"/>
+<marker id="393822265" label="Ethelinda Burr" category="70" did="1879078907" parentZoneId="1879064013" longitude="-49.416504" latitude="-31.13287"/>
+<marker id="393822266" label="Ferdibrand Took" category="70" did="1879078908" parentZoneId="1879064013" longitude="-49.55622" latitude="-31.093847"/>
+<marker id="393822267" label="Ferumbras Attereeve" category="70" did="1879078910" parentZoneId="1879064013" longitude="-49.28288" latitude="-31.022959"/>
+<marker id="393822272" label="Himloc Grouse&#10;Grocer" category="38" did="1879063588" parentZoneId="1879064013" longitude="-49.281258" latitude="-31.034803"/>
+<marker id="393822273" label="Gar" category="70" did="1879078941" parentZoneId="1879064013" longitude="-49.401173" latitude="-31.02336"/>
+<marker id="393822274" label="Longo Daegmund" category="70" did="1879078911" parentZoneId="1879064013" longitude="-49.40454" latitude="-31.02247"/>
+<marker id="393822275" label="Staddle Town Well" category="73" did="1879078955" parentZoneId="1879064013" longitude="-49.3907" latitude="-31.02202"/>
 <marker id="393822277" label="Nan Henwood&#10;Bree-land Housing Broker" category="38" did="1879096842" parentZoneId="1879064013" longitude="-49.342293" latitude="-31.09961"/>
-<marker id="393822278" label="Joy Bloomer&#10;Fishing Supplier" category="38" did="1879110387" parentZoneId="1879064013" longitude="-49.431522" latitude="-31.246943"/>
-<marker id="393822568" label="Finn" category="70" did="1879184964" parentZoneId="1879064013" longitude="-49.247253" latitude="-30.995468"/>
-<marker id="393822745" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.25616" latitude="-30.984697"/>
-<marker id="393822746" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.253468" latitude="-30.981289"/>
-<marker id="393822747" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.25455" latitude="-30.985098"/>
-<marker id="393822748" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.254433" latitude="-30.992373"/>
-<marker id="393822749" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.254578" latitude="-30.991484"/>
-<marker id="393822750" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.25442" latitude="-30.982538"/>
-<marker id="393822751" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.253643" latitude="-30.986542"/>
-<marker id="393822752" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.25246" latitude="-30.988642"/>
-<marker id="393822753" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.254578" latitude="-30.988592"/>
-<marker id="393822754" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.255753" latitude="-30.981493"/>
-<marker id="393822755" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.253582" latitude="-30.990341"/>
-<marker id="393822756" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.25238" latitude="-30.98496"/>
-<marker id="393822757" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.256054" latitude="-30.986923"/>
-<marker id="393822758" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.255352" latitude="-30.98995"/>
-<marker id="393822759" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.252098" latitude="-30.992842"/>
-<marker id="393822760" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.252254" latitude="-30.983192"/>
+<marker id="393822279" label="Joy Bloomer&#10;Fishing Supplier" category="38" did="1879110387" parentZoneId="1879064013" longitude="-49.431522" latitude="-31.246943"/>
+<marker id="393822569" label="Finn" category="70" did="1879184964" parentZoneId="1879064013" longitude="-49.247253" latitude="-30.995468"/>
+<marker id="393822746" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.25616" latitude="-30.984697"/>
+<marker id="393822747" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.253468" latitude="-30.981289"/>
+<marker id="393822748" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.25455" latitude="-30.985098"/>
+<marker id="393822749" label="Bearded Bear Beer" category="73" did="1879184977" parentZoneId="1879064013" longitude="-49.254433" latitude="-30.992373"/>
+<marker id="393822750" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.254578" latitude="-30.991484"/>
+<marker id="393822751" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.25442" latitude="-30.982538"/>
+<marker id="393822752" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.253643" latitude="-30.986542"/>
+<marker id="393822753" label="Ruddy-nose Lager" category="73" did="1879184978" parentZoneId="1879064013" longitude="-49.25246" latitude="-30.988642"/>
+<marker id="393822754" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.254578" latitude="-30.988592"/>
+<marker id="393822755" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.255753" latitude="-30.981493"/>
+<marker id="393822756" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.253582" latitude="-30.990341"/>
+<marker id="393822757" label="Garnet Smoked Porter" category="73" did="1879184979" parentZoneId="1879064013" longitude="-49.25238" latitude="-30.98496"/>
+<marker id="393822758" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.256054" latitude="-30.986923"/>
+<marker id="393822759" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.255352" latitude="-30.98995"/>
+<marker id="393822760" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.252098" latitude="-30.992842"/>
+<marker id="393822761" label="Stonebrow Stout" category="73" did="1879184980" parentZoneId="1879064013" longitude="-49.252254" latitude="-30.983192"/>
 <marker id="393826304" label="Human Roadsign" category="73" did="1879077026" parentZoneId="1879064013" longitude="-49.683796" latitude="-30.13167"/>
 <marker id="393826305" label="Red Squirrel" category="78" did="1879078235" parentZoneId="1879064013" longitude="-49.470028" latitude="-30.5425"/>
 <marker id="393826307" label="Odo Pickthorn" category="70" did="1879079046" parentZoneId="1879064013" longitude="-49.76824" latitude="-30.34208"/>
