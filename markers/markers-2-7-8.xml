@@ -5127,38 +5127,39 @@
 <marker id="663195677" label="Gellamiel&#10;Roving Threat Quartermaster" category="58" did="1879325715" parentZoneId="1879192400" longitude="-50.93817" latitude="-14.511963"/>
 <marker id="663195678" label="Quartermaster&#10;Legendary Mirkwood Rewards" category="38" did="1879389201" parentZoneId="1879192400" longitude="-51.17818" latitude="-14.343212"/>
 <marker id="663195679" label="Tathariel&#10;Brawler Trainer" category="42" did="1879410372" parentZoneId="1879192400" longitude="-50.89323" latitude="-14.549345"/>
-<marker id="663195682" label="Malledhrim" category="70" did="1879175161" parentZoneId="1879192400" longitude="-51.033485" latitude="-14.56831"/>
-<marker id="663195683" label="Malledhrim Soldier" category="70" did="1879175163" parentZoneId="1879192400" longitude="-50.941513" latitude="-14.61916"/>
-<marker id="663195684" label="Malledhrim Sentinel" category="70" did="1879175162" parentZoneId="1879192400" longitude="-50.92332" latitude="-14.553799"/>
-<marker id="663195685" label="Malledhrim" category="70" did="1879175164" parentZoneId="1879192400" longitude="-51.027557" latitude="-14.583711"/>
-<marker id="663195700" label="Enedhel" category="70" did="1879160697" parentZoneId="1879192400" longitude="-51.463192" latitude="-14.313671"/>
-<marker id="663195707" label="Barvessain" category="70" did="1879155958" parentZoneId="1879192400" longitude="-51.513027" latitude="-14.645713"/>
-<marker id="663195708" label="Malledhrim Sentinel" category="71" did="1879156506" parentZoneId="1879192400" longitude="-51.252567" latitude="-14.375517"/>
-<marker id="663195709" label="Fuirgam" category="70" did="1879156520" parentZoneId="1879192400" longitude="-51.314228" latitude="-14.46455"/>
-<marker id="663195710" label="Agorin" category="70" did="1879156523" parentZoneId="1879192400" longitude="-51.322067" latitude="-14.447842"/>
-<marker id="663195712" label="Lomdognir" category="70" did="1879157789" parentZoneId="1879192400" longitude="-51.30504" latitude="-14.447881"/>
-<marker id="663195713" label="Door" category="100" did="1879157895" parentZoneId="1879192400" longitude="-51.065926" latitude="-14.540615"/>
-<marker id="663195715" label="Galadhrim" category="70" did="1879152344" parentZoneId="1879192400" longitude="-51.39455" latitude="-14.275312"/>
-<marker id="663195716" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.390495" latitude="-14.266572"/>
-<marker id="663195717" label="Galadhrim Archer" category="70" did="1879152423" parentZoneId="1879192400" longitude="-50.929688" latitude="-14.544111"/>
-<marker id="663195718" label="Ost Galadh" category="74" did="1879154405" parentZoneId="1879192400" longitude="-51.106697" latitude="-14.47625"/>
-<marker id="663195722" label="Súlbor" category="70" did="1879175377" parentZoneId="1879192400" longitude="-51.07748" latitude="-14.347558"/>
-<marker id="663195723" label="Gwindíl" category="70" did="1879175376" parentZoneId="1879192400" longitude="-51.093594" latitude="-14.341221"/>
-<marker id="663195732" label="Mannequin" category="70" did="1879238628" parentZoneId="1879192400" longitude="-51.393757" latitude="-14.21374"/>
-<marker id="663195733" label="Mannequin" category="70" did="1879238632" parentZoneId="1879192400" longitude="-51.38459" latitude="-14.238945"/>
-<marker id="663195734" label="Mannequin" category="70" did="1879238633" parentZoneId="1879192400" longitude="-51.39152" latitude="-14.22207"/>
-<marker id="663195735" label="Mannequin" category="70" did="1879238647" parentZoneId="1879192400" longitude="-51.38777" latitude="-14.231289"/>
-<marker id="663195737" label="Gruingalas" category="70" did="1879155959" parentZoneId="1879192400" longitude="-51.36911" latitude="-14.600283"/>
-<marker id="663195738" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.30002" latitude="-14.635185"/>
-<marker id="663195739" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.29426" latitude="-14.628115"/>
-<marker id="663195740" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.29196" latitude="-14.679394"/>
-<marker id="663195775" label="Ost Galadh" category="74" did="1879154405" parentZoneId="1879192400" longitude="-51.27539" latitude="-14.477207"/>
-<marker id="663195776" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.464844" latitude="-14.657529"/>
-<marker id="663195777" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.3132" latitude="-14.479843"/>
-<marker id="663195778" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.49372" latitude="-14.413213"/>
-<marker id="663195779" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.48872" latitude="-14.413213"/>
-<marker id="663195780" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.3082" latitude="-14.479843"/>
-<marker id="663195781" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.459843" latitude="-14.657529"/>
+<marker id="663195680" label="Cairiel&#10;Mariner Trainer" category="42" did="1879457985" parentZoneId="1879192400" longitude="-51.165302" latitude="-14.459658"/>
+<marker id="663195683" label="Malledhrim" category="70" did="1879175161" parentZoneId="1879192400" longitude="-51.033485" latitude="-14.56831"/>
+<marker id="663195684" label="Malledhrim Soldier" category="70" did="1879175163" parentZoneId="1879192400" longitude="-50.941513" latitude="-14.61916"/>
+<marker id="663195685" label="Malledhrim Sentinel" category="70" did="1879175162" parentZoneId="1879192400" longitude="-50.92332" latitude="-14.553799"/>
+<marker id="663195686" label="Malledhrim" category="70" did="1879175164" parentZoneId="1879192400" longitude="-51.027557" latitude="-14.583711"/>
+<marker id="663195701" label="Enedhel" category="70" did="1879160697" parentZoneId="1879192400" longitude="-51.463192" latitude="-14.313671"/>
+<marker id="663195708" label="Barvessain" category="70" did="1879155958" parentZoneId="1879192400" longitude="-51.513027" latitude="-14.645713"/>
+<marker id="663195709" label="Malledhrim Sentinel" category="71" did="1879156506" parentZoneId="1879192400" longitude="-51.252567" latitude="-14.375517"/>
+<marker id="663195710" label="Fuirgam" category="70" did="1879156520" parentZoneId="1879192400" longitude="-51.314228" latitude="-14.46455"/>
+<marker id="663195711" label="Agorin" category="70" did="1879156523" parentZoneId="1879192400" longitude="-51.322067" latitude="-14.447842"/>
+<marker id="663195713" label="Lomdognir" category="70" did="1879157789" parentZoneId="1879192400" longitude="-51.30504" latitude="-14.447881"/>
+<marker id="663195714" label="Door" category="100" did="1879157895" parentZoneId="1879192400" longitude="-51.065926" latitude="-14.540615"/>
+<marker id="663195716" label="Galadhrim" category="70" did="1879152344" parentZoneId="1879192400" longitude="-51.39455" latitude="-14.275312"/>
+<marker id="663195717" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.390495" latitude="-14.266572"/>
+<marker id="663195718" label="Galadhrim Archer" category="70" did="1879152423" parentZoneId="1879192400" longitude="-50.929688" latitude="-14.544111"/>
+<marker id="663195723" label="Súlbor" category="70" did="1879175377" parentZoneId="1879192400" longitude="-51.07748" latitude="-14.347558"/>
+<marker id="663195724" label="Gwindíl" category="70" did="1879175376" parentZoneId="1879192400" longitude="-51.093594" latitude="-14.341221"/>
+<marker id="663195733" label="Mannequin" category="70" did="1879238628" parentZoneId="1879192400" longitude="-51.393757" latitude="-14.21374"/>
+<marker id="663195734" label="Mannequin" category="70" did="1879238632" parentZoneId="1879192400" longitude="-51.38459" latitude="-14.238945"/>
+<marker id="663195735" label="Mannequin" category="70" did="1879238633" parentZoneId="1879192400" longitude="-51.39152" latitude="-14.22207"/>
+<marker id="663195736" label="Mannequin" category="70" did="1879238647" parentZoneId="1879192400" longitude="-51.38777" latitude="-14.231289"/>
+<marker id="663195739" label="Gruingalas" category="70" did="1879155959" parentZoneId="1879192400" longitude="-51.36911" latitude="-14.600283"/>
+<marker id="663195740" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.30002" latitude="-14.635185"/>
+<marker id="663195741" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.29426" latitude="-14.628115"/>
+<marker id="663195742" label="Galadhrim" category="70" did="1879152346" parentZoneId="1879192400" longitude="-51.29196" latitude="-14.679394"/>
+<marker id="663195776" label="Ost Galadh" category="74" did="1879154405" parentZoneId="1879192400" longitude="-51.106697" latitude="-14.47625"/>
+<marker id="663195777" label="Ost Galadh" category="74" did="1879154405" parentZoneId="1879192400" longitude="-51.27539" latitude="-14.477207"/>
+<marker id="663195778" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.464844" latitude="-14.657529"/>
+<marker id="663195779" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.3132" latitude="-14.479843"/>
+<marker id="663195780" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.49372" latitude="-14.413213"/>
+<marker id="663195781" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.48872" latitude="-14.413213"/>
+<marker id="663195782" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.3082" latitude="-14.479843"/>
+<marker id="663195783" label="Remembrance" category="73" did="1879367845" parentZoneId="1879192400" longitude="-51.459843" latitude="-14.657529"/>
 <marker id="663199744" label="Goblin Spy" category="71" did="1879156552" parentZoneId="1879152196" longitude="-51.14244" latitude="-13.822929"/>
 <marker id="663199745" label="Fanged Ruin-hunter" category="71" did="1879154421" parentZoneId="1879152196" longitude="-51.079014" latitude="-13.676924"/>
 <marker id="663199746" label="Ruins-firefly" category="71" did="1879154429" parentZoneId="1879152196" longitude="-51.079014" latitude="-13.676924"/>
