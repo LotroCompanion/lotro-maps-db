@@ -121,9 +121,21 @@
 <marker id="1073381402" label="Thurindol" category="70" did="1879321809" parentZoneId="1879322485" longitude="53.4257" latitude="73.81316"/>
 <marker id="1073381404" label="Anborn" category="70" did="1879321816" parentZoneId="1879322485" longitude="53.395798" latitude="73.806694"/>
 <marker id="1073389568" label="Candúr" category="71" did="1879309355" parentZoneId="1879310672" longitude="53.049786" latitude="75.829"/>
-<marker id="1073397760" label="" category="70" did="1879313195" parentZoneId="1879310673" longitude="53.184277" latitude="76.835724"/>
-<marker id="1073397761" label="Man of Gondor" category="70" did="1879313924" parentZoneId="1879310673" longitude="53.23949" latitude="76.804276"/>
-<marker id="1073397762" label="Door" category="100" did="1879227954" parentZoneId="1879310673" longitude="53.199997" latitude="77.047714"/>
+<marker id="1073397768" label="Warden Trainer" category="42" did="1879313177" parentZoneId="1879310673" longitude="53.115135" latitude="76.90648"/>
+<marker id="1073397769" label="Valmar&#10;Beorning Trainer" category="42" did="1879320641" parentZoneId="1879310673" longitude="53.115135" latitude="76.89736"/>
+<marker id="1073397770" label="Hunter Trainer" category="42" did="1879405364" parentZoneId="1879310673" longitude="53.120155" latitude="76.89746"/>
+<marker id="1073397771" label="Rune-keeper Trainer" category="42" did="1879405374" parentZoneId="1879310673" longitude="53.293613" latitude="76.97271"/>
+<marker id="1073397772" label="Mariner Trainer" category="70" did="1879458039" parentZoneId="1879310673" longitude="53.09633" latitude="76.962204"/>
+<marker id="1073397774" label="Brawler Trainer" category="70" did="1879410370" parentZoneId="1879310673" longitude="53.120155" latitude="76.90594"/>
+<marker id="1073397776" label="Lore-master Trainer" category="42" did="1879313189" parentZoneId="1879310673" longitude="53.13248" latitude="76.82525"/>
+<marker id="1073397777" label="Champion Trainer" category="42" did="1879313207" parentZoneId="1879310673" longitude="53.135254" latitude="76.832344"/>
+<marker id="1073397778" label="Guardian Trainer" category="42" did="1879313208" parentZoneId="1879310673" longitude="53.267128" latitude="76.84771"/>
+<marker id="1073397779" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879310673" longitude="53.275955" latitude="76.96199"/>
+<marker id="1073397780" label="Minstrel Trainer" category="42" did="1879313218" parentZoneId="1879310673" longitude="53.29867" latitude="76.966034"/>
+<marker id="1073397781" label="Burglar Trainer" category="42" did="1879313232" parentZoneId="1879310673" longitude="53.281876" latitude="76.81822"/>
+<marker id="1073397782" label="" category="70" did="1879313195" parentZoneId="1879310673" longitude="53.184277" latitude="76.835724"/>
+<marker id="1073397783" label="Man of Gondor" category="70" did="1879313924" parentZoneId="1879310673" longitude="53.23949" latitude="76.804276"/>
+<marker id="1073397784" label="Door" category="100" did="1879227954" parentZoneId="1879310673" longitude="53.199997" latitude="77.047714"/>
 <marker id="1073405952" label="Townsperson" category="70" did="1879306088" parentZoneId="1879310671" longitude="53.183964" latitude="78.81924"/>
 <marker id="1073405954" label="Door" category="100" did="1879312568" parentZoneId="1879310671" longitude="53.166504" latitude="78.83779"/>
 <marker id="1073405955" label="Townsperson" category="70" did="1879306088" parentZoneId="1879310671" longitude="53.18822" latitude="78.81316"/>
@@ -290,9 +302,11 @@
 <marker id="1073520645" label="Door" category="100" did="1879312568" parentZoneId="1879309969" longitude="54.784317" latitude="75.5618"/>
 <marker id="1073520646" label="Healer" category="70" did="1879309858" parentZoneId="1879309969" longitude="54.791992" latitude="75.61904"/>
 <marker id="1073520648" label="Second Age Amethyst" category="73" did="1879317247" parentZoneId="1879309969" longitude="54.778767" latitude="75.62123"/>
-<marker id="1073528832" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879310670" longitude="54.779022" latitude="77.32139"/>
-<marker id="1073528833" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879310670" longitude="54.821404" latitude="77.32139"/>
-<marker id="1073528836" label="Door" category="100" did="1879227954" parentZoneId="1879310670" longitude="54.8" latitude="77.1541"/>
+<marker id="1073528836" label="Mailbox" category="34" did="1879314516" parentZoneId="1879310670" longitude="54.77828" latitude="77.19554"/>
+<marker id="1073528837" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879310670" longitude="54.824043" latitude="77.24984"/>
+<marker id="1073528838" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879310670" longitude="54.779022" latitude="77.32139"/>
+<marker id="1073528839" label="Auctioneer" category="53" did="1879313200" parentZoneId="1879310670" longitude="54.821404" latitude="77.32139"/>
+<marker id="1073528840" label="Door" category="100" did="1879227954" parentZoneId="1879310670" longitude="54.8" latitude="77.1541"/>
 <marker id="1073537034" label="Child" category="70" did="1879309847" parentZoneId="1879309968" longitude="54.83781" latitude="78.82506"/>
 <marker id="1073537036" label="Child" category="70" did="1879309845" parentZoneId="1879309968" longitude="54.819023" latitude="78.81384"/>
 <marker id="1073537039" label="Limril" category="70" did="1879309848" parentZoneId="1879309968" longitude="54.81732" latitude="78.82715"/>

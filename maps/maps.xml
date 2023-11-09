@@ -1343,6 +1343,97 @@
 <min longitude="-73.2" latitude="22.000004"/>
 <max longitude="-64.391396" latitude="28.606455"/>
 </map>
+<map id="268454229" name="King's Gondor Dol Amroth" imageId="1092851559">
+<geo factor="127.50002">
+<point longitude="-76.4" latitude="-71.984314"/>
+</geo>
+<min longitude="-76.4" latitude="-78.00784"/>
+<max longitude="-68.36863" latitude="-71.984314"/>
+</map>
+<map id="268454233" name="King's Gondor Ringlo Vale" imageId="1092903074">
+<geo factor="80.0">
+<point longitude="-57.199997" latitude="-69.2"/>
+</geo>
+<min longitude="-57.199997" latitude="-78.799995"/>
+<max longitude="-44.399998" latitude="-69.2"/>
+</map>
+<map id="268454237" name="King's Gondor Blackroot Vale" imageId="1092903083">
+<geo factor="53.125">
+<point longitude="-77.22823" latitude="-53.143528"/>
+</geo>
+<min longitude="-77.22823" latitude="-67.6"/>
+<max longitude="-57.95294" latitude="-53.143528"/>
+</map>
+<map id="268454239" name="King's Gondor Lamedon" imageId="1092903078">
+<geo factor="56.25">
+<point longitude="-67.6" latitude="-59.546665"/>
+</geo>
+<min longitude="-67.6" latitude="-73.2"/>
+<max longitude="-49.395554" latitude="-59.546665"/>
+</map>
+<map id="268454241" name="King's Gondor Belfalas" imageId="1092903082">
+<geo factor="30.000002">
+<point longitude="-84.06666" latitude="-69.2"/>
+</geo>
+<min longitude="-84.06666" latitude="-94.799995"/>
+<max longitude="-49.933327" latitude="-69.2"/>
+</map>
+<map id="268454242" name="King's Gondor Dor En Ernil" imageId="1092903079">
+<geo factor="60.000004">
+<point longitude="-57.199997" latitude="-75.6"/>
+</geo>
+<min longitude="-57.199997" latitude="-88.399994"/>
+<max longitude="-40.13333" latitude="-75.6"/>
+</map>
+<map id="268454306" name="The Shield Isles" imageId="1092912025">
+<geo factor="30.625">
+<point longitude="-141.68979" latitude="8.677548"/>
+</geo>
+<min longitude="-141.68979" latitude="-16.400002"/>
+<max longitude="-108.25305" latitude="8.677548"/>
+</map>
+<map id="268454314" name="Anfalas" imageId="1092912274">
+<geo factor="31.25">
+<point longitude="-98.799995" latitude="-53.904"/>
+</geo>
+<min longitude="-98.799995" latitude="-78.479996"/>
+<max longitude="-66.032" latitude="-53.904"/>
+</map>
+<map id="268454317" name="Pinnath Gelin" imageId="1092912273">
+<geo factor="38.5">
+<point longitude="-100.4" latitude="-46.825977"/>
+</geo>
+<min longitude="-100.4" latitude="-66.77403"/>
+<max longitude="-73.8026" latitude="-46.825977"/>
+</map>
+<map id="268454323" name="Outer Gondor" imageId="1092912271">
+<geo factor="29.0">
+<point longitude="-101.2" latitude="-46.71724"/>
+</geo>
+<min longitude="-101.2" latitude="-73.2"/>
+<max longitude="-65.88965" latitude="-46.71724"/>
+</map>
+<map id="268454362" name="Umbar Baharbêl" imageId="1092914926">
+<geo factor="64.25">
+<point longitude="-106.79377" latitude="-15.646689"/>
+</geo>
+<min longitude="-106.79377" latitude="-27.599997"/>
+<max longitude="-90.856026" latitude="-15.646689"/>
+</map>
+<map id="268454363" name="Cape of Umbar" imageId="1092914927">
+<geo factor="33.75">
+<point longitude="-118.0" latitude="-7.9555564"/>
+</geo>
+<min longitude="-118.0" latitude="-30.711111"/>
+<max longitude="-87.659256" latitude="-7.9555564"/>
+</map>
+<map id="268454369" name="Haradwaith" imageId="1092926672">
+<geo factor="1.0">
+<point longitude="0.0" latitude="0.0"/>
+</geo>
+<min longitude="0.0" latitude="-768.0"/>
+<max longitude="1024.0" latitude="0.0"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -9380,11 +9471,11 @@
 <max longitude="-25.408749" latitude="-73.5625"/>
 </map>
 <map id="1879464791" name="House of Coins" imageId="1092821322">
-<geo factor="800.0">
-<point longitude="54.23875" latitude="-22.356249"/>
+<geo factor="600.0">
+<point longitude="54.07166" latitude="-22.231668"/>
 </geo>
-<min longitude="54.23875" latitude="-23.106249"/>
-<max longitude="55.23875" latitude="-22.356249"/>
+<min longitude="54.07166" latitude="-23.231668"/>
+<max longitude="55.40499" latitude="-22.231668"/>
 </map>
 <map id="1879464792" name="Great Hall of the Prince" imageId="1092821323">
 <geo factor="600.00006">
@@ -9408,11 +9499,11 @@
 <max longitude="55.596672" latitude="-17.57667"/>
 </map>
 <map id="1879464795" name="Dol Amroth Warehouse" imageId="1092821326">
-<geo factor="800.0">
-<point longitude="54.265" latitude="-15.88625"/>
+<geo factor="600.0">
+<point longitude="54.09834" latitude="-15.761669"/>
 </geo>
-<min longitude="54.265" latitude="-16.63625"/>
-<max longitude="55.265" latitude="-15.88625"/>
+<min longitude="54.09834" latitude="-16.76167"/>
+<max longitude="55.43167" latitude="-15.761669"/>
 </map>
 <map id="1879464796" name="Armoury of Dol Amroth" imageId="1092821327">
 <geo factor="600.0">
@@ -9428,53 +9519,340 @@
 <min longitude="53.991657" latitude="-13.646669"/>
 <max longitude="55.32499" latitude="-12.646669"/>
 </map>
-<map id="1879465383" name="TBD Shop" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879465383" name="Galengam's Divine and Delicate Draughts" imageId="1092908588">
+<geo factor="600.00006">
+<point longitude="54.128338" latitude="-23.63333"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.128338" latitude="-24.63333"/>
+<max longitude="55.46167" latitude="-23.63333"/>
 </map>
-<map id="1879466488" name="Lord Duinhir's Home" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466488" name="Lord Duinhir's Home" imageId="1092908585">
+<geo factor="600.00006">
+<point longitude="54.11166" latitude="-30.25667"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.11166" latitude="-31.25667"/>
+<max longitude="55.444992" latitude="-30.25667"/>
 </map>
-<map id="1879466489" name="Malthellam's Home" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466489" name="Malthellam's Home" imageId="1092908584">
+<geo factor="600.00006">
+<point longitude="54.14666" latitude="-31.9"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.14666" latitude="-32.899998"/>
+<max longitude="55.479992" latitude="-31.9"/>
 </map>
-<map id="1879466490" name="Lhingroth" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466490" name="Lhingroth" imageId="1092908583">
+<geo factor="599.99994">
+<point longitude="54.01" latitude="-33.348328"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.01" latitude="-34.348328"/>
+<max longitude="55.34333" latitude="-33.348328"/>
 </map>
-<map id="1879466491" name="Barracks" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466491" name="Barracks" imageId="1092908581">
+<geo factor="600.0">
+<point longitude="54.11" latitude="-25.62333"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.11" latitude="-26.62333"/>
+<max longitude="55.443333" latitude="-25.62333"/>
 </map>
-<map id="1879466492" name="Gladion's Home" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466492" name="Gladion's Home" imageId="1092908586">
+<geo factor="720.0">
+<point longitude="54.20416" latitude="-28.77917"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.20416" latitude="-29.612503"/>
+<max longitude="55.31527" latitude="-28.77917"/>
 </map>
-<map id="1879466493" name="The Crossing-hall" imageId="1092819346">
-<geo factor="800.0">
-<point longitude="-26.408749" latitude="-73.5625"/>
+<map id="1879466493" name="The Crossing-hall" imageId="1092908587">
+<geo factor="600.0">
+<point longitude="54.085" latitude="-27.20167"/>
 </geo>
-<min longitude="-26.408749" latitude="-74.3125"/>
-<max longitude="-25.408749" latitude="-73.5625"/>
+<min longitude="54.085" latitude="-28.20167"/>
+<max longitude="55.41833" latitude="-27.20167"/>
+</map>
+<map id="1879469851" name="Guest Chambers" imageId="1092902021">
+<geo factor="600.0">
+<point longitude="52.375" latitude="-19.193329"/>
+</geo>
+<min longitude="52.375" latitude="-20.193329"/>
+<max longitude="53.708332" latitude="-19.193329"/>
+</map>
+<map id="1879469852" name="Guest Chambers" imageId="1092902022">
+<geo factor="600.0">
+<point longitude="52.691658" latitude="-17.5"/>
+</geo>
+<min longitude="52.691658" latitude="-18.5"/>
+<max longitude="54.02499" latitude="-17.5"/>
+</map>
+<map id="1879469853" name="Armoury of Furukzahar" imageId="1092902023">
+<geo factor="600.0">
+<point longitude="52.691658" latitude="-15.9"/>
+</geo>
+<min longitude="52.691658" latitude="-16.9"/>
+<max longitude="54.02499" latitude="-15.9"/>
+</map>
+<map id="1879469854" name="Kitchens of Furukzahar" imageId="1092902024">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-14.299999"/>
+</geo>
+<min longitude="52.53334" latitude="-15.299999"/>
+<max longitude="53.866673" latitude="-14.299999"/>
+</map>
+<map id="1879469855" name="Throne of Furukzahar" imageId="1092902025">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-12.7"/>
+</geo>
+<min longitude="52.53334" latitude="-13.7"/>
+<max longitude="53.866673" latitude="-12.7"/>
+</map>
+<map id="1879470446" name="The Keep of Lond Cirion" imageId="1092902019">
+<geo factor="600.0">
+<point longitude="-89.835" latitude="-69.496666"/>
+</geo>
+<min longitude="-89.835" latitude="-70.496666"/>
+<max longitude="-88.50166" latitude="-69.496666"/>
+</map>
+<map id="1879470447" name="The Keep of Lond Cirion - Bed Chambers" imageId="1092902020">
+<geo factor="600.0">
+<point longitude="-89.835" latitude="-69.496666"/>
+</geo>
+<min longitude="-89.835" latitude="-70.496666"/>
+<max longitude="-88.50166" latitude="-69.496666"/>
+</map>
+<map id="1879470591" name="The Keep of Ost Arndir - Upper Level" imageId="1092902937">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-20.6"/>
+</geo>
+<min longitude="52.53334" latitude="-21.6"/>
+<max longitude="53.866673" latitude="-20.6"/>
+</map>
+<map id="1879470592" name="The Keep of Ost Arndir - Lower Level" imageId="1092902938">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-20.6"/>
+</geo>
+<min longitude="52.53334" latitude="-21.6"/>
+<max longitude="53.866673" latitude="-20.6"/>
+</map>
+<map id="1879470593" name="The Keep of Ost Arndir" imageId="1092902935">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-20.6"/>
+</geo>
+<min longitude="52.53334" latitude="-21.6"/>
+<max longitude="53.866673" latitude="-20.6"/>
+</map>
+<map id="1879470638" name="Nurlagam" imageId="1092903068">
+<geo factor="600.0">
+<point longitude="-91.46666" latitude="-53.383335"/>
+</geo>
+<min longitude="-91.46666" latitude="-54.383335"/>
+<max longitude="-90.13332" latitude="-53.383335"/>
+</map>
+<map id="1879470639" name="Loxhall" imageId="1092903069">
+<geo factor="720.0">
+<point longitude="-88.85416" latitude="-66.38472"/>
+</geo>
+<min longitude="-88.85416" latitude="-67.218056"/>
+<max longitude="-87.74304" latitude="-66.38472"/>
+</map>
+<map id="1879470640" name="Hadorion's Cottage" imageId="1092903070">
+<geo factor="600.0">
+<point longitude="-82.68" latitude="-67.09333"/>
+</geo>
+<min longitude="-82.68" latitude="-68.09333"/>
+<max longitude="-81.346664" latitude="-67.09333"/>
+</map>
+<map id="1879470641" name="Lithengris" imageId="1092903071">
+<geo factor="600.0">
+<point longitude="-70.916664" latitude="-70.299995"/>
+</geo>
+<min longitude="-70.916664" latitude="-71.299995"/>
+<max longitude="-69.58333" latitude="-70.299995"/>
+</map>
+<map id="1879470642" name="Krauzhaf" imageId="1092903072">
+<geo factor="600.0">
+<point longitude="52.135" latitude="-22.29833"/>
+</geo>
+<min longitude="52.135" latitude="-23.29833"/>
+<max longitude="53.46833" latitude="-22.29833"/>
+</map>
+<map id="1879471172" name="The Wave-hunter" imageId="1092903789">
+<geo factor="600.0">
+<point longitude="-89.058334" latitude="-62.296665"/>
+</geo>
+<min longitude="-89.058334" latitude="-63.296665"/>
+<max longitude="-87.725" latitude="-62.296665"/>
+</map>
+<map id="1879471173" name="The Wave-hunter" imageId="1092903790">
+<geo factor="600.0">
+<point longitude="-81.85333" latitude="-82.284996"/>
+</geo>
+<min longitude="-81.85333" latitude="-83.284996"/>
+<max longitude="-80.52" latitude="-82.284996"/>
+</map>
+<map id="1879471174" name="The Wave-hunter" imageId="1092903791">
+<geo factor="600.0">
+<point longitude="-130.65332" latitude="4.115"/>
+</geo>
+<min longitude="-130.65332" latitude="3.1149998"/>
+<max longitude="-129.31999" latitude="4.115"/>
+</map>
+<map id="1879473815" name="Auction House" imageId="1092905268">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-23.9"/>
+</geo>
+<min longitude="52.53334" latitude="-24.9"/>
+<max longitude="53.866673" latitude="-23.9"/>
+</map>
+<map id="1879473816" name="Windshear Styles" imageId="1092905267">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-25.5"/>
+</geo>
+<min longitude="52.53334" latitude="-26.5"/>
+<max longitude="53.866673" latitude="-25.5"/>
+</map>
+<map id="1879473817" name="Training Hall" imageId="1092905264">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-30.25667"/>
+</geo>
+<min longitude="52.53334" latitude="-31.25667"/>
+<max longitude="53.866673" latitude="-30.25667"/>
+</map>
+<map id="1879473818" name="Dockside Apothecary" imageId="1092905263">
+<geo factor="600.0">
+<point longitude="52.456657" latitude="-31.85833"/>
+</geo>
+<min longitude="52.456657" latitude="-32.85833"/>
+<max longitude="53.78999" latitude="-31.85833"/>
+</map>
+<map id="1879473819" name="The Library at Lond Cirion" imageId="1092905266">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-27.099998"/>
+</geo>
+<min longitude="52.53334" latitude="-28.099998"/>
+<max longitude="53.866673" latitude="-27.099998"/>
+</map>
+<map id="1879473820" name="The Brew and Bounty" imageId="1092905265">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-28.699999"/>
+</geo>
+<min longitude="52.53334" latitude="-29.699999"/>
+<max longitude="53.866673" latitude="-28.699999"/>
+</map>
+<map id="1879473821" name="Commerce Hall" imageId="1092905261">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-35.1"/>
+</geo>
+<min longitude="52.53334" latitude="-36.1"/>
+<max longitude="53.866673" latitude="-35.1"/>
+</map>
+<map id="1879473822" name="The Grape and Grog" imageId="1092905262">
+<geo factor="600.0">
+<point longitude="52.53334" latitude="-33.5"/>
+</geo>
+<min longitude="52.53334" latitude="-34.5"/>
+<max longitude="53.866673" latitude="-33.5"/>
+</map>
+<map id="1879475059" name="The Hidden Harbour" imageId="1092906676">
+<geo factor="300.0">
+<point longitude="-148.66667" latitude="80.799995"/>
+</geo>
+<min longitude="-148.66667" latitude="76.799995"/>
+<max longitude="-143.33334" latitude="80.799995"/>
+</map>
+<map id="1879475536" name="Vault" imageId="1092908582">
+<geo factor="600.0">
+<point longitude="54.13334" latitude="-35.05167"/>
+</geo>
+<min longitude="54.13334" latitude="-36.05167"/>
+<max longitude="55.46667" latitude="-35.05167"/>
+</map>
+<map id="1879475796" name="The Eastern Stores" imageId="1092909343">
+<geo factor="899.9999">
+<point longitude="54.215546" latitude="69.24"/>
+</geo>
+<min longitude="54.215546" latitude="68.57333"/>
+<max longitude="55.104435" latitude="69.24"/>
+</map>
+<map id="1879475841" name="Ezôti's Flat" imageId="1092909361">
+<geo factor="600.0">
+<point longitude="-146.58499" latitude="77.7"/>
+</geo>
+<min longitude="-146.58499" latitude="76.7"/>
+<max longitude="-145.25166" latitude="77.7"/>
+</map>
+<map id="1879475842" name="The House of Hármelak" imageId="1092909345">
+<geo factor="900.0">
+<point longitude="53.72334" latitude="76.867775"/>
+</geo>
+<min longitude="53.72334" latitude="74.20111"/>
+<max longitude="55.501118" latitude="76.867775"/>
+</map>
+<map id="1879475843" name="The Citadel of Winds" imageId="1092909344">
+<geo factor="899.9999">
+<point longitude="52.332226" latitude="77.50555"/>
+</geo>
+<min longitude="52.332226" latitude="75.50555"/>
+<max longitude="54.998894" latitude="77.50555"/>
+</map>
+<map id="1879475844" name="The Bloody Eagle" imageId="1092909347">
+<geo factor="800.0">
+<point longitude="54.646248" latitude="74.127495"/>
+</geo>
+<min longitude="54.646248" latitude="73.377495"/>
+<max longitude="55.646248" latitude="74.127495"/>
+</map>
+<map id="1879476325" name="Dâr Tabib" imageId="1092910840">
+<geo factor="300.0">
+<point longitude="-148.68" latitude="77.43666"/>
+</geo>
+<min longitude="-148.68" latitude="73.43666"/>
+<max longitude="-143.34666" latitude="77.43666"/>
+</map>
+<map id="1879476592" name="Khûtra Elder Hall" imageId="1092912161">
+<geo factor="999.9999">
+<point longitude="53.573006" latitude="71.899"/>
+</geo>
+<min longitude="53.573006" latitude="71.299"/>
+<max longitude="54.373005" latitude="71.899"/>
+</map>
+<map id="1879476593" name="Zûfan's Home" imageId="1092912160">
+<geo factor="999.9999">
+<point longitude="53.749004" latitude="70.496994"/>
+</geo>
+<min longitude="53.749004" latitude="69.896996"/>
+<max longitude="54.549004" latitude="70.496994"/>
+</map>
+<map id="1879476594" name="Jid Phêsi" imageId="1092912292">
+<geo factor="600.0">
+<point longitude="-146.86499" latitude="74.549995"/>
+</geo>
+<min longitude="-146.86499" latitude="73.549995"/>
+<max longitude="-145.53166" latitude="74.549995"/>
+</map>
+<map id="1879478181" name="TBD - RAID - ENTRANCE" imageId="1092912569">
+<geo factor="360.0">
+<point longitude="-147.20833" latitude="73.23334"/>
+</geo>
+<min longitude="-147.20833" latitude="71.56667"/>
+<max longitude="-144.9861" latitude="73.23334"/>
+</map>
+<map id="1879478486" name="TBD - RAID - SHIPYARD" imageId="1092915131">
+<geo factor="600.0">
+<point longitude="-147.48167" latitude="71.848335"/>
+</geo>
+<min longitude="-147.48167" latitude="69.848335"/>
+<max longitude="-144.815" latitude="71.848335"/>
+</map>
+<map id="1879478496" name="TBD - RAID - FLOODED SHIPYARD" imageId="1092915144">
+<geo factor="600.0">
+<point longitude="-147.48167" latitude="70.24834"/>
+</geo>
+<min longitude="-147.48167" latitude="68.24834"/>
+<max longitude="-144.815" latitude="70.24834"/>
+</map>
+<map id="1879478783" name="TBD - RAID - BELENDOR'S TOWER" imageId="1092926066">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="67.95166"/>
+</geo>
+<min longitude="-146.66667" latitude="66.95166"/>
+<max longitude="-145.33334" latitude="67.95166"/>
 </map>
 </maps>

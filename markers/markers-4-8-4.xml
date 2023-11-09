@@ -2046,7 +2046,14 @@
 <marker id="1212817410" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.74709" latitude="-71.53311"/>
 <marker id="1212817411" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.911465" latitude="-71.43544"/>
 <marker id="1212817412" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.847294" latitude="-71.41639"/>
-<marker id="1212821504" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-36.005566" latitude="-70.20856"/>
+<marker id="1212821506" label="Healer" category="38" did="1879417110" parentZoneId="1879462984" longitude="-35.614403" latitude="-70.27939"/>
+<marker id="1212821513" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-36.005566" latitude="-70.20856"/>
+<marker id="1212821514" label="Serving Counter" category="73" did="1879470369" parentZoneId="1879462984" longitude="-35.60876" latitude="-70.03257"/>
+<marker id="1212821515" label="Serving Counter" category="73" did="1879470362" parentZoneId="1879462984" longitude="-35.60818" latitude="-70.098076"/>
+<marker id="1212821516" label="Serving Counter" category="73" did="1879470360" parentZoneId="1879462984" longitude="-35.608543" latitude="-70.154465"/>
+<marker id="1212821517" label="Serving Counter" category="73" did="1879470364" parentZoneId="1879462984" longitude="-35.60831" latitude="-70.21929"/>
+<marker id="1212821518" label="Gírma" category="70" did="1879470347" parentZoneId="1879462984" longitude="-35.612656" latitude="-70.21911"/>
+<marker id="1212821519" label="Your Meal" category="73" did="1879470367" parentZoneId="1879462984" longitude="-35.60826" latitude="-70.21929"/>
 <marker id="1212874752" label="Lynx" category="71" did="1879464276" parentZoneId="1879462984" longitude="-35.2" latitude="-72.799995"/>
 <marker id="1212874753" label="Lumbering Cub" category="71" did="1879464277" parentZoneId="1879462984" longitude="-35.2" latitude="-72.799995"/>
 <marker id="1212874754" label="Lumbering Bear" category="71" did="1879464275" parentZoneId="1879462984" longitude="-35.2" latitude="-72.799995"/>
@@ -2578,20 +2585,52 @@
 <marker id="1212882948" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.578915" latitude="-70.871704"/>
 <marker id="1212882949" label="Guard" category="71" did="1879465575" parentZoneId="1879462984" longitude="-34.88464" latitude="-71.06063"/>
 <marker id="1212882952" label="Milestone" category="55" did="1879063371" parentZoneId="1879462984" longitude="-34.94872" latitude="-70.82004"/>
-<marker id="1212882953" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.431885" latitude="-71.45794"/>
-<marker id="1212882954" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.335117" latitude="-71.5216"/>
-<marker id="1212882955" label="Gimli" category="70" did="1879460444" parentZoneId="1879462984" longitude="-34.99135" latitude="-70.83826"/>
-<marker id="1212882956" label="King Elessar" category="70" did="1879460482" parentZoneId="1879462984" longitude="-35.005978" latitude="-70.83905"/>
-<marker id="1212882957" label="Sékhel" category="70" did="1879460498" parentZoneId="1879462984" longitude="-35.005146" latitude="-70.819954"/>
-<marker id="1212882958" label="Kutúkh" category="70" did="1879460496" parentZoneId="1879462984" longitude="-34.992752" latitude="-70.820244"/>
-<marker id="1212882959" label="Caebar" category="70" did="1879460923" parentZoneId="1879462984" longitude="-34.977947" latitude="-70.83802"/>
-<marker id="1212882966" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.078915" latitude="-70.91329"/>
-<marker id="1212887040" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-34.832157" latitude="-70.20856"/>
-<marker id="1212887041" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.286015" latitude="-70.20856"/>
+<marker id="1212882953" label="Alem" category="70" did="1879470350" parentZoneId="1879462984" longitude="-35.55212" latitude="-70.99087"/>
+<marker id="1212882954" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.431885" latitude="-71.45794"/>
+<marker id="1212882955" label="Hillside Buck" category="71" did="1879467244" parentZoneId="1879462984" longitude="-35.335117" latitude="-71.5216"/>
+<marker id="1212882956" label="Gimli" category="70" did="1879460444" parentZoneId="1879462984" longitude="-34.99135" latitude="-70.83826"/>
+<marker id="1212882957" label="King Elessar" category="70" did="1879460482" parentZoneId="1879462984" longitude="-35.005978" latitude="-70.83905"/>
+<marker id="1212882958" label="Sékhel" category="70" did="1879460498" parentZoneId="1879462984" longitude="-35.005146" latitude="-70.819954"/>
+<marker id="1212882959" label="Kutúkh" category="70" did="1879460496" parentZoneId="1879462984" longitude="-34.992752" latitude="-70.820244"/>
+<marker id="1212882960" label="Caebar" category="70" did="1879460923" parentZoneId="1879462984" longitude="-34.977947" latitude="-70.83802"/>
+<marker id="1212882967" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.078915" latitude="-70.91329"/>
+<marker id="1212887040" label="Supplier" category="38" did="1879417115" parentZoneId="1879462984" longitude="-34.962128" latitude="-70.26"/>
+<marker id="1212887041" label="Provisioner" category="38" did="1879417114" parentZoneId="1879462984" longitude="-35.095047" latitude="-70.176956"/>
+<marker id="1212887042" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-34.832157" latitude="-70.20856"/>
+<marker id="1212887043" label="Guard" category="71" did="1879465575" parentZoneId="1879462984" longitude="-35.58669" latitude="-70.533775"/>
+<marker id="1212887047" label="Furukzahar Guard" category="70" did="1879470343" parentZoneId="1879462984" longitude="-35.145664" latitude="-70.377495"/>
+<marker id="1212887048" label="Bezab" category="70" did="1879470346" parentZoneId="1879462984" longitude="-35.174767" latitude="-70.3905"/>
+<marker id="1212887049" label="Dejeni" category="70" did="1879470344" parentZoneId="1879462984" longitude="-35.485596" latitude="-70.27691"/>
+<marker id="1212887051" label="Furukzahar Guard" category="70" did="1879470345" parentZoneId="1879462984" longitude="-35.162254" latitude="-70.37314"/>
+<marker id="1212887052" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-34.947803" latitude="-70.59696"/>
+<marker id="1212887053" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-34.95211" latitude="-70.46379"/>
+<marker id="1212887054" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-34.966892" latitude="-70.54432"/>
+<marker id="1212887055" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.08079" latitude="-70.39623"/>
+<marker id="1212887059" label="Lost Helmet" category="73" did="1879470368" parentZoneId="1879462984" longitude="-35.141785" latitude="-70.420166"/>
+<marker id="1212887061" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.286015" latitude="-70.20856"/>
+<marker id="1212887066" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-34.956192" latitude="-70.17649"/>
+<marker id="1212887067" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.033096" latitude="-70.10573"/>
+<marker id="1212887068" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-34.957012" latitude="-70.06152"/>
 <marker id="1212891136" label="Door" category="100" did="1879139137" parentZoneId="1879462984" longitude="-35.008194" latitude="-69.974434"/>
-<marker id="1212891137" label="Zimikál" category="70" did="1879460474" parentZoneId="1879462984" longitude="-35.33495" latitude="-69.73022"/>
-<marker id="1212891138" label="Gangur Farwend" category="70" did="1879460493" parentZoneId="1879462984" longitude="-35.31001" latitude="-69.65103"/>
-<marker id="1212891139" label="Gimli" category="70" did="1879460938" parentZoneId="1879462984" longitude="-35.344315" latitude="-69.7027"/>
+<marker id="1212891137" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-35.286015" latitude="-69.46988"/>
+<marker id="1212891138" label="Guard" category="71" did="1879465575" parentZoneId="1879462984" longitude="-35.137276" latitude="-69.94384"/>
+<marker id="1212891139" label="Yared" category="70" did="1879470348" parentZoneId="1879462984" longitude="-35.33115" latitude="-69.412796"/>
+<marker id="1212891140" label="Bezab" category="70" did="1879470349" parentZoneId="1879462984" longitude="-35.38779" latitude="-69.63966"/>
+<marker id="1212891141" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.37567" latitude="-69.60221"/>
+<marker id="1212891142" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.34546" latitude="-69.54594"/>
+<marker id="1212891143" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.10045" latitude="-69.31645"/>
+<marker id="1212891144" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.0945" latitude="-69.38947"/>
+<marker id="1212891145" label="Forgotten Weapon" category="73" did="1879470358" parentZoneId="1879462984" longitude="-35.082226" latitude="-69.58761"/>
+<marker id="1212891146" label="Crate of Tools" category="73" did="1879470366" parentZoneId="1879462984" longitude="-35.35076" latitude="-69.40869"/>
+<marker id="1212891147" label="Crate of Tools" category="73" did="1879470366" parentZoneId="1879462984" longitude="-35.343914" latitude="-69.33616"/>
+<marker id="1212891148" label="Crate of Tools" category="73" did="1879470366" parentZoneId="1879462984" longitude="-35.34673" latitude="-69.3519"/>
+<marker id="1212891149" label="Highest Crate" category="73" did="1879470365" parentZoneId="1879462984" longitude="-35.33788" latitude="-69.36096"/>
+<marker id="1212891150" label="Winning Spot" category="73" did="1879470363" parentZoneId="1879462984" longitude="-35.33788" latitude="-69.360954"/>
+<marker id="1212891151" label="Pivotal Crate" category="73" did="1879470361" parentZoneId="1879462984" longitude="-35.328476" latitude="-69.39678"/>
+<marker id="1212891153" label="Gangur Farwend" category="70" did="1879460493" parentZoneId="1879462984" longitude="-35.31001" latitude="-69.65103"/>
+<marker id="1212891154" label="Gimli" category="70" did="1879460938" parentZoneId="1879462984" longitude="-35.344315" latitude="-69.7027"/>
+<marker id="1212891155" label="Zimikál" category="70" did="1879460474" parentZoneId="1879462984" longitude="-35.33495" latitude="-69.72871"/>
+<marker id="1212891158" label="Furukzahar" category="74" did="1879464491" parentZoneId="1879462984" longitude="-34.832157" latitude="-69.46988"/>
 <marker id="1212944384" label="Lynx" category="71" did="1879464276" parentZoneId="1879462984" longitude="-34.399998" latitude="-72.0"/>
 <marker id="1212944385" label="Lumbering Cub" category="71" did="1879464277" parentZoneId="1879462984" longitude="-34.399998" latitude="-72.0"/>
 <marker id="1212944386" label="Lumbering Bear" category="71" did="1879464275" parentZoneId="1879462984" longitude="-34.399998" latitude="-72.0"/>

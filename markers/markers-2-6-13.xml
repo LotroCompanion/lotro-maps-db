@@ -11435,7 +11435,6 @@
 <marker id="651583505" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.84195" latitude="47.177204"/>
 <marker id="651583506" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.84195" latitude="47.177204"/>
 <marker id="651583507" label="Tasks" category="27" did="1879438597" parentZoneId="1879410823" longitude="-64.94822" latitude="46.928204"/>
-<marker id="651583508" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879410823" longitude="-64.93739" latitude="46.92828"/>
 <marker id="651583511" label="Crushed Stones" category="73" did="1879428268" parentZoneId="1879410823" longitude="-64.92736" latitude="47.440975"/>
 <marker id="651583512" label="Stable-master" category="51" did="1879423259" parentZoneId="1879410823" longitude="-64.917915" latitude="47.011658"/>
 <marker id="651583513" label="Healer" category="38" did="1879417110" parentZoneId="1879410823" longitude="-64.95408" latitude="46.942303"/>
@@ -11452,328 +11451,329 @@
 <marker id="651583524" label="Limestone" category="72" did="1879416788" parentZoneId="1879410823" longitude="-64.56105" latitude="47.1233"/>
 <marker id="651583552" label="Órug" category="70" did="1879426303" parentZoneId="1879410823" longitude="-64.92834" latitude="46.95568"/>
 <marker id="651583554" label="Kúzun" category="70" did="1879426291" parentZoneId="1879410823" longitude="-64.938545" latitude="46.961327"/>
-<marker id="651583555" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583556" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583557" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583558" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583559" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583560" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583561" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583562" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583563" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583564" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583565" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583566" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583567" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583568" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583569" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583570" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583571" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583572" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583573" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583574" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583575" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583576" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583577" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583578" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583579" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583580" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
-<marker id="651583581" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583582" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583583" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583584" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583585" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583586" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583587" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583588" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583589" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583590" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583591" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583592" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583593" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583594" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583595" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583596" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583597" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583598" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583599" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583600" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583601" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583602" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583603" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583604" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583605" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583606" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
-<marker id="651583607" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583608" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583609" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583610" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583611" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583612" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583613" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583614" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583615" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583616" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583617" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583618" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583619" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583620" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583621" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583622" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583623" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583624" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583625" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583626" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583627" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583628" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583629" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583630" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583631" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583632" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
-<marker id="651583633" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583634" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583635" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583636" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583637" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583638" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583639" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583640" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583641" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583642" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583643" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583644" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583645" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583646" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583647" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583648" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583649" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583650" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583651" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583652" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583653" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583654" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583655" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583656" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583657" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583658" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
-<marker id="651583659" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583660" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583661" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583662" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583663" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583664" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583665" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583666" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583667" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583668" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583669" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583670" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583671" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583672" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583673" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583674" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583675" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583676" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583677" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583678" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583679" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583680" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583681" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583682" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583683" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583684" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
-<marker id="651583685" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583686" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583687" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583688" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583689" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583690" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583691" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583692" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583693" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583694" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583695" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583696" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583697" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583698" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583699" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583700" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583701" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583702" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583703" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583704" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583705" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583706" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583707" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583708" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583709" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583710" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
-<marker id="651583711" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583712" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583713" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583714" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583715" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583716" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583717" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583718" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583719" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583720" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583721" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583722" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583723" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583724" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583725" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583726" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583727" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583728" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583729" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583730" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583731" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583732" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583733" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583734" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583735" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583736" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
-<marker id="651583737" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583738" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583739" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583740" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583741" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583742" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583743" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583744" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583745" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583746" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583747" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583748" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583749" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583750" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583751" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583752" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583753" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583754" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583755" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583756" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583757" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583758" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583759" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583760" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583761" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583762" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
-<marker id="651583763" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583764" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583765" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583766" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583767" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583768" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583769" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583770" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583771" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583772" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583773" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583774" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583775" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583776" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583777" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583778" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583779" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583780" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583781" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583782" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583783" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583784" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583785" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583786" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583787" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583788" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
-<marker id="651583789" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583790" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583791" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583792" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583793" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583794" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583795" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583796" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583797" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583798" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583799" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583800" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583801" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583802" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583803" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583804" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583805" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583806" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583807" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583808" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583809" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583810" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583811" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583812" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583813" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583814" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
-<marker id="651583815" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583816" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583817" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583818" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583819" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583820" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583821" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583822" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583823" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583824" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583825" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583826" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583827" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583828" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583829" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583830" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583831" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583832" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583833" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583834" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583835" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583836" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583837" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583838" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583839" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583840" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
-<marker id="651583841" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
-<marker id="651583842" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
-<marker id="651583843" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
-<marker id="651583844" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
-<marker id="651583845" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
-<marker id="651583846" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
-<marker id="651583847" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
-<marker id="651583848" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
-<marker id="651583849" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
-<marker id="651583850" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
-<marker id="651583851" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
-<marker id="651583852" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
-<marker id="651583853" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
-<marker id="651583854" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
-<marker id="651583855" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
-<marker id="651583856" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
-<marker id="651583857" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
-<marker id="651583858" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
-<marker id="651583859" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
-<marker id="651583860" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
-<marker id="651583861" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
-<marker id="651583862" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
-<marker id="651583863" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
-<marker id="651583864" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
-<marker id="651583865" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
-<marker id="651583866" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
-<marker id="651583867" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
-<marker id="651583868" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
-<marker id="651583869" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
-<marker id="651583870" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
-<marker id="651583871" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
-<marker id="651583872" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
-<marker id="651583873" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
-<marker id="651583874" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
-<marker id="651583875" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
-<marker id="651583876" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
+<marker id="651583558" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879410823" longitude="-64.93739" latitude="46.92828"/>
+<marker id="651583561" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583562" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583563" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583564" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583565" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583566" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583567" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583568" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583569" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583570" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583571" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583572" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583573" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583574" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583575" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583576" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583577" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583578" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583579" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583580" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583581" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583582" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583583" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583584" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583585" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583586" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.12309" latitude="47.496563"/>
+<marker id="651583587" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583588" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583589" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583590" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583591" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583592" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583593" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583594" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583595" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583596" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583597" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583598" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583599" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583600" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583601" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583602" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583603" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583604" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583605" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583606" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583607" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583608" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583609" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583610" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583611" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583612" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.986694" latitude="47.354317"/>
+<marker id="651583613" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583614" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583615" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583616" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583617" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583618" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583619" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583620" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583621" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583622" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583623" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583624" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583625" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583626" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583627" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583628" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583629" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583630" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583631" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583632" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583633" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583634" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583635" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583636" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583637" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583638" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.91163" latitude="47.495937"/>
+<marker id="651583639" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583640" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583641" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583642" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583643" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583644" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583645" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583646" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583647" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583648" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583649" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583650" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583651" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583652" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583653" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583654" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583655" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583656" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583657" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583658" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583659" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583660" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583661" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583662" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583663" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583664" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.711334" latitude="47.493633"/>
+<marker id="651583665" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583666" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583667" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583668" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583669" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583670" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583671" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583672" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583673" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583674" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583675" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583676" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583677" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583678" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583679" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583680" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583681" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583682" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583683" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583684" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583685" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583686" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583687" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583688" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583689" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583690" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.7125" latitude="47.26871"/>
+<marker id="651583691" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583692" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583693" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583694" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583695" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583696" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583697" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583698" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583699" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583700" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583701" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583702" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583703" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583704" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583705" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583706" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583707" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583708" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583709" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583710" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583711" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583712" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583713" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583714" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583715" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583716" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.4884" latitude="46.921093"/>
+<marker id="651583717" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583718" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583719" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583720" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583721" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583722" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583723" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583724" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583725" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583726" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583727" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583728" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583729" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583730" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583731" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583732" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583733" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583734" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583735" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583736" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583737" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583738" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583739" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583740" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583741" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583742" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.83489" latitude="46.85463"/>
+<marker id="651583743" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583744" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583745" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583746" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583747" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583748" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583749" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583750" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583751" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583752" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583753" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583754" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583755" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583756" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583757" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583758" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583759" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583760" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583761" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583762" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583763" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583764" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583765" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583766" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583767" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583768" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.14212" latitude="47.14611"/>
+<marker id="651583769" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583770" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583771" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583772" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583773" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583774" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583775" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583776" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583777" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583778" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583779" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583780" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583781" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583782" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583783" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583784" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583785" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583786" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583787" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583788" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583789" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583790" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583791" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583792" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583793" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583794" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.13925" latitude="46.87746"/>
+<marker id="651583795" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583796" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583797" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583798" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583799" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583800" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583801" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583802" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583803" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583804" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583805" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583806" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583807" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583808" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583809" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583810" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583811" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583812" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583813" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583814" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583815" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583816" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583817" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583818" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583819" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583820" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-65.15267" latitude="47.000584"/>
+<marker id="651583821" label="Duvárdain Hunter" category="71" did="1879419989" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583822" label="Drear-light" category="71" did="1879419605" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583823" label="Duvárdain Death-seer" category="71" did="1879419988" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583824" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583825" label="Duvárdain Blood-sworn" category="71" did="1879419991" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583826" label="Duvárdain Hunter" category="71" did="1879419990" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583827" label="Duvárdain Death-seer" category="71" did="1879419987" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583828" label="Iron Crown Champion" category="71" did="1879419613" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583829" label="Iron Crown Cultist" category="71" did="1879419615" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583830" label="Dourhand Warrior" category="71" did="1879419614" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583831" label="Dourhand Overseer" category="71" did="1879419609" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583832" label="Duvárdain Blood-sworn" category="71" did="1879419992" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583833" label="Grímklettar Stone-shaper" category="71" did="1879419611" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583834" label="Duvárdain War-chief" category="71" did="1879419994" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583835" label="Carrion-crow" category="71" did="1879419621" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583836" label="Mountain Ram" category="71" did="1879419620" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583837" label="Hill-wolf Scavenger" category="71" did="1879419622" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583838" label="Grímklettar Warrior" category="71" did="1879419617" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583839" label="Iron Crown Cultist" category="71" did="1879419616" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583840" label="Dourhand Drudge" category="71" did="1879419619" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583841" label="Grímklettar Rock-breaker" category="71" did="1879419618" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583842" label="Hill-bat" category="71" did="1879422253" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583843" label="Hill-crawler" category="71" did="1879419625" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583844" label="Iron Crown Sentinel" category="71" did="1879419624" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583845" label="Iron Crown Warrior" category="71" did="1879419627" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583846" label="Dourhand Siege-engineer" category="71" did="1879419626" parentZoneId="1879410823" longitude="-64.59495" latitude="47.128788"/>
+<marker id="651583847" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
+<marker id="651583848" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
+<marker id="651583849" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.70113" latitude="47.49037"/>
+<marker id="651583850" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
+<marker id="651583851" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
+<marker id="651583852" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.62892" latitude="47.22965"/>
+<marker id="651583853" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
+<marker id="651583854" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
+<marker id="651583855" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.74278" latitude="47.069374"/>
+<marker id="651583856" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
+<marker id="651583857" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
+<marker id="651583858" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.45152" latitude="46.89043"/>
+<marker id="651583859" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
+<marker id="651583860" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
+<marker id="651583861" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.82627" latitude="46.87324"/>
+<marker id="651583862" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
+<marker id="651583863" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
+<marker id="651583864" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.03864" latitude="46.872734"/>
+<marker id="651583865" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
+<marker id="651583866" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
+<marker id="651583867" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.155266" latitude="47.18355"/>
+<marker id="651583868" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
+<marker id="651583869" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
+<marker id="651583870" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.17909" latitude="46.898438"/>
+<marker id="651583871" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
+<marker id="651583872" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
+<marker id="651583873" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.886055" latitude="47.057888"/>
+<marker id="651583874" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
+<marker id="651583875" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
+<marker id="651583876" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-65.08976" latitude="47.523827"/>
+<marker id="651583877" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
+<marker id="651583878" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
+<marker id="651583879" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.95054" latitude="47.34877"/>
+<marker id="651583880" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
+<marker id="651583881" label="Lizard" category="78" did="1879419332" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
+<marker id="651583882" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.76316" latitude="47.339275"/>
 <marker id="651587584" label="Grey Hawk" category="78" did="1879419333" parentZoneId="1879410823" longitude="-64.907" latitude="48.162556"/>
 <marker id="651587585" label="Mountain Goat" category="78" did="1879419337" parentZoneId="1879410823" longitude="-64.907" latitude="48.162556"/>
 <marker id="651587586" label="Shadow Grim" category="71" did="1879419607" parentZoneId="1879410823" longitude="-64.80431" latitude="47.97912"/>
