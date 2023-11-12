@@ -1,3 +1,663 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1416679424" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679425" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679426" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679427" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679428" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679429" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679430" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679431" label="Hunter Crab" category="71" did="1879475286" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679432" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679433" label="Scuttling Crab" category="71" did="1879475280" parentZoneId="1879470532" longitude="-95.14422" latitude="-23.905878"/>
+<marker id="1416679440" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.13117" latitude="-23.904667"/>
+<marker id="1416679441" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.13117" latitude="-23.904667"/>
+<marker id="1416679442" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.13117" latitude="-23.904667"/>
+<marker id="1416679443" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.13117" latitude="-23.904667"/>
+<marker id="1416679447" label="Toppled Lamp" category="73" did="1879471356" parentZoneId="1879470532" longitude="-95.21818" latitude="-24.048534"/>
+<marker id="1416679448" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.48927" latitude="-24.116161"/>
+<marker id="1416679449" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.48927" latitude="-24.116161"/>
+<marker id="1416679450" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.48927" latitude="-24.116161"/>
+<marker id="1416679451" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.48927" latitude="-24.116161"/>
+<marker id="1416679452" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.22152" latitude="-23.970272"/>
+<marker id="1416679453" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.22152" latitude="-23.970272"/>
+<marker id="1416679454" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.22152" latitude="-23.970272"/>
+<marker id="1416679455" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.22152" latitude="-23.970272"/>
+<marker id="1416679456" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.44534" latitude="-23.86501"/>
+<marker id="1416679457" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.44534" latitude="-23.86501"/>
+<marker id="1416679458" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.44534" latitude="-23.86501"/>
+<marker id="1416679459" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.44534" latitude="-23.86501"/>
+<marker id="1416679460" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.10353" latitude="-23.727686"/>
+<marker id="1416679461" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.10353" latitude="-23.727686"/>
+<marker id="1416679462" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.10353" latitude="-23.727686"/>
+<marker id="1416679463" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.10353" latitude="-23.727686"/>
+<marker id="1416679464" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.98148" latitude="-23.954863"/>
+<marker id="1416679465" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.98148" latitude="-23.954863"/>
+<marker id="1416679466" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.98148" latitude="-23.954863"/>
+<marker id="1416679467" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.98148" latitude="-23.954863"/>
+<marker id="1416679468" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.05252" latitude="-24.030468"/>
+<marker id="1416679469" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.05252" latitude="-24.030468"/>
+<marker id="1416679470" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.05252" latitude="-24.030468"/>
+<marker id="1416679471" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.05252" latitude="-24.030468"/>
+<marker id="1416679472" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.92834" latitude="-23.861385"/>
+<marker id="1416679473" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.92834" latitude="-23.861385"/>
+<marker id="1416679474" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.92834" latitude="-23.861385"/>
+<marker id="1416679475" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.92834" latitude="-23.861385"/>
+<marker id="1416679476" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.36925" latitude="-24.113838"/>
+<marker id="1416679477" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.36925" latitude="-24.113838"/>
+<marker id="1416679478" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.36925" latitude="-24.113838"/>
+<marker id="1416679479" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.36925" latitude="-24.113838"/>
+<marker id="1416679480" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.06238" latitude="-23.821533"/>
+<marker id="1416679481" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.06238" latitude="-23.821533"/>
+<marker id="1416679482" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.06238" latitude="-23.821533"/>
+<marker id="1416679483" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.06238" latitude="-23.821533"/>
+<marker id="1416679484" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-95.27061" latitude="-23.7787"/>
+<marker id="1416679485" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-95.27061" latitude="-23.7787"/>
+<marker id="1416679486" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-95.27061" latitude="-23.7787"/>
+<marker id="1416679487" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-95.27061" latitude="-23.7787"/>
+<marker id="1416679488" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.89209" latitude="-23.923935"/>
+<marker id="1416679489" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.89209" latitude="-23.923935"/>
+<marker id="1416679490" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.89209" latitude="-23.923935"/>
+<marker id="1416679491" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.89209" latitude="-23.923935"/>
+<marker id="1416679492" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.27872" latitude="-23.936562"/>
+<marker id="1416679493" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.27872" latitude="-23.936562"/>
+<marker id="1416679494" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.27872" latitude="-23.936562"/>
+<marker id="1416679495" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.27872" latitude="-23.936562"/>
+<marker id="1416679496" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.500626" latitude="-23.637032"/>
+<marker id="1416679497" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.500626" latitude="-23.637032"/>
+<marker id="1416679498" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.500626" latitude="-23.637032"/>
+<marker id="1416679499" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.500626" latitude="-23.637032"/>
+<marker id="1416679500" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.8754" latitude="-23.905762"/>
+<marker id="1416679501" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.8754" latitude="-23.905762"/>
+<marker id="1416679502" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.8754" latitude="-23.905762"/>
+<marker id="1416679503" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.8754" latitude="-23.905762"/>
+<marker id="1416679504" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.83799" latitude="-23.742754"/>
+<marker id="1416679505" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.83799" latitude="-23.742754"/>
+<marker id="1416679506" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.83799" latitude="-23.742754"/>
+<marker id="1416679507" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.83799" latitude="-23.742754"/>
+<marker id="1416679508" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.496025" latitude="-24.039492"/>
+<marker id="1416679509" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.496025" latitude="-24.039492"/>
+<marker id="1416679510" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.496025" latitude="-24.039492"/>
+<marker id="1416679511" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.496025" latitude="-24.039492"/>
+<marker id="1416679512" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.519875" latitude="-23.826748"/>
+<marker id="1416679513" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.519875" latitude="-23.826748"/>
+<marker id="1416679514" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.519875" latitude="-23.826748"/>
+<marker id="1416679515" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.519875" latitude="-23.826748"/>
+<marker id="1416679516" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.27027" latitude="-23.871044"/>
+<marker id="1416679517" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.27027" latitude="-23.871044"/>
+<marker id="1416679518" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.27027" latitude="-23.871044"/>
+<marker id="1416679519" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.27027" latitude="-23.871044"/>
+<marker id="1416679520" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.08371" latitude="-23.759443"/>
+<marker id="1416679521" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.08371" latitude="-23.759443"/>
+<marker id="1416679522" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.08371" latitude="-23.759443"/>
+<marker id="1416679523" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.08371" latitude="-23.759443"/>
+<marker id="1416683520" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683521" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683522" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683523" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683524" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683525" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683526" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-95.090836" latitude="-23.361153"/>
+<marker id="1416683527" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.3208" latitude="-23.499111"/>
+<marker id="1416683528" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.3208" latitude="-23.499111"/>
+<marker id="1416683529" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.3208" latitude="-23.499111"/>
+<marker id="1416683530" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.3208" latitude="-23.499111"/>
+<marker id="1416683531" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.12923" latitude="-23.388056"/>
+<marker id="1416683532" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.12923" latitude="-23.388056"/>
+<marker id="1416683533" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.12923" latitude="-23.388056"/>
+<marker id="1416683534" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.12923" latitude="-23.388056"/>
+<marker id="1416683535" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.00985" latitude="-23.227217"/>
+<marker id="1416683536" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.00985" latitude="-23.227217"/>
+<marker id="1416683537" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.00985" latitude="-23.227217"/>
+<marker id="1416683538" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.00985" latitude="-23.227217"/>
+<marker id="1416683539" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.933495" latitude="-23.062159"/>
+<marker id="1416683540" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.933495" latitude="-23.062159"/>
+<marker id="1416683541" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.933495" latitude="-23.062159"/>
+<marker id="1416683542" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.933495" latitude="-23.062159"/>
+<marker id="1416683543" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.99229" latitude="-22.823437"/>
+<marker id="1416683544" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.99229" latitude="-22.823437"/>
+<marker id="1416683545" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.99229" latitude="-22.823437"/>
+<marker id="1416683546" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.99229" latitude="-22.823437"/>
+<marker id="1416683547" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.83504" latitude="-22.957792"/>
+<marker id="1416683548" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.83504" latitude="-22.957792"/>
+<marker id="1416683549" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.83504" latitude="-22.957792"/>
+<marker id="1416683550" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.83504" latitude="-22.957792"/>
+<marker id="1416683551" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.86971" latitude="-23.043016"/>
+<marker id="1416683552" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.86971" latitude="-23.043016"/>
+<marker id="1416683553" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.86971" latitude="-23.043016"/>
+<marker id="1416683554" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.86971" latitude="-23.043016"/>
+<marker id="1416683555" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.097946" latitude="-23.32825"/>
+<marker id="1416683556" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.097946" latitude="-23.32825"/>
+<marker id="1416683557" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.097946" latitude="-23.32825"/>
+<marker id="1416683558" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.097946" latitude="-23.32825"/>
+<marker id="1416683559" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-95.35828" latitude="-23.542694"/>
+<marker id="1416683560" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-95.35828" latitude="-23.542694"/>
+<marker id="1416683561" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-95.35828" latitude="-23.542694"/>
+<marker id="1416683562" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-95.35828" latitude="-23.542694"/>
+<marker id="1416744960" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879470532" longitude="-94.5478" latitude="-23.74286"/>
+<marker id="1416744961" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.60953" latitude="-23.718485"/>
+<marker id="1416744962" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.60953" latitude="-23.718485"/>
+<marker id="1416744963" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.5478" latitude="-23.74286"/>
+<marker id="1416744964" label="Hunter Crab" category="71" did="1879475286" parentZoneId="1879470532" longitude="-94.5478" latitude="-23.74286"/>
+<marker id="1416744965" label="Scuttling Crab" category="71" did="1879475280" parentZoneId="1879470532" longitude="-94.5478" latitude="-23.74286"/>
+<marker id="1416744966" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.24411" latitude="-23.682186"/>
+<marker id="1416744967" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.24411" latitude="-23.682186"/>
+<marker id="1416744968" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.43918" latitude="-23.78377"/>
+<marker id="1416744969" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.43918" latitude="-23.78377"/>
+<marker id="1416744970" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.54502" latitude="-23.675009"/>
+<marker id="1416744971" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.54502" latitude="-23.675009"/>
+<marker id="1416744972" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.72377" latitude="-23.732656"/>
+<marker id="1416744973" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.72377" latitude="-23.732656"/>
+<marker id="1416744974" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.64158" latitude="-23.901249"/>
+<marker id="1416744975" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.64158" latitude="-23.901249"/>
+<marker id="1416744976" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.71036" latitude="-23.864433"/>
+<marker id="1416744977" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.71036" latitude="-23.864433"/>
+<marker id="1416744978" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.71036" latitude="-23.864433"/>
+<marker id="1416744979" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.71036" latitude="-23.864433"/>
+<marker id="1416744980" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.67049" latitude="-23.656416"/>
+<marker id="1416744981" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.67049" latitude="-23.656416"/>
+<marker id="1416744982" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.67049" latitude="-23.656416"/>
+<marker id="1416744983" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.67049" latitude="-23.656416"/>
+<marker id="1416744984" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.51119" latitude="-23.804804"/>
+<marker id="1416744985" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.51119" latitude="-23.804804"/>
+<marker id="1416744986" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.51119" latitude="-23.804804"/>
+<marker id="1416744987" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.51119" latitude="-23.804804"/>
+<marker id="1416744988" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.34599" latitude="-23.6621"/>
+<marker id="1416744989" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.34599" latitude="-23.6621"/>
+<marker id="1416744990" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.34599" latitude="-23.6621"/>
+<marker id="1416744991" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.34599" latitude="-23.6621"/>
+<marker id="1416744992" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.12564" latitude="-23.650713"/>
+<marker id="1416744993" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.12564" latitude="-23.650713"/>
+<marker id="1416744994" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.12564" latitude="-23.650713"/>
+<marker id="1416744995" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.12564" latitude="-23.650713"/>
+<marker id="1416744996" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.30288" latitude="-23.69536"/>
+<marker id="1416744997" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.30288" latitude="-23.69536"/>
+<marker id="1416744998" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.30288" latitude="-23.69536"/>
+<marker id="1416744999" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.30288" latitude="-23.69536"/>
+<marker id="1416745000" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.59428" latitude="-23.697119"/>
+<marker id="1416745001" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.59428" latitude="-23.697119"/>
+<marker id="1416745002" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.59428" latitude="-23.697119"/>
+<marker id="1416745003" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.59428" latitude="-23.697119"/>
+<marker id="1416745004" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.69539" latitude="-23.862158"/>
+<marker id="1416745005" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.69539" latitude="-23.862158"/>
+<marker id="1416745006" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.69539" latitude="-23.862158"/>
+<marker id="1416745007" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.69539" latitude="-23.862158"/>
+<marker id="1416749056" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749057" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749058" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.17405" latitude="-23.48708"/>
+<marker id="1416749059" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749060" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749061" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749062" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.17405" latitude="-23.48708"/>
+<marker id="1416749063" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749064" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749067" label="Tevurin" category="70" did="1879474957" parentZoneId="1879470532" longitude="-94.570015" latitude="-23.403788"/>
+<marker id="1416749069" label="Jadnag" category="70" did="1879474964" parentZoneId="1879470532" longitude="-94.67803" latitude="-23.16293"/>
+<marker id="1416749074" label="Hunter Crab" category="71" did="1879475286" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749075" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749076" label="Scuttling Crab" category="71" did="1879475280" parentZoneId="1879470532" longitude="-94.388084" latitude="-23.190458"/>
+<marker id="1416749077" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.37504" latitude="-23.189247"/>
+<marker id="1416749078" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.37504" latitude="-23.189247"/>
+<marker id="1416749079" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.37504" latitude="-23.189247"/>
+<marker id="1416749088" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.37504" latitude="-23.189247"/>
+<marker id="1416749091" label="Karbah" category="70" did="1879474963" parentZoneId="1879470532" longitude="-94.6002" latitude="-23.319443"/>
+<marker id="1416749092" label="Mallax" category="70" did="1879474960" parentZoneId="1879470532" longitude="-94.66922" latitude="-23.333261"/>
+<marker id="1416749105" label="Khânai" category="70" did="1879474962" parentZoneId="1879470532" longitude="-94.56484" latitude="-23.273594"/>
+<marker id="1416749111" label="Zerkho" category="70" did="1879474958" parentZoneId="1879470532" longitude="-94.53978" latitude="-23.222137"/>
+<marker id="1416749112" label="Dorshet" category="70" did="1879474965" parentZoneId="1879470532" longitude="-94.56156" latitude="-23.175917"/>
+<marker id="1416749113" label="Luthana" category="70" did="1879474966" parentZoneId="1879470532" longitude="-94.55797" latitude="-23.264551"/>
+<marker id="1416749117" label="Abido" category="70" did="1879474956" parentZoneId="1879470532" longitude="-94.76381" latitude="-23.269854"/>
+<marker id="1416749119" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.070175" latitude="-23.369864"/>
+<marker id="1416749120" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.070175" latitude="-23.369864"/>
+<marker id="1416749121" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.070076" latitude="-23.55998"/>
+<marker id="1416749122" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.070076" latitude="-23.55998"/>
+<marker id="1416749123" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-94.29535" latitude="-23.536377"/>
+<marker id="1416749124" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-94.29535" latitude="-23.536377"/>
+<marker id="1416749125" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.32525" latitude="-22.914179"/>
+<marker id="1416749126" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.32525" latitude="-22.914179"/>
+<marker id="1416749127" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.32525" latitude="-22.914179"/>
+<marker id="1416749128" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.32525" latitude="-22.914179"/>
+<marker id="1416749129" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.39732" latitude="-23.147997"/>
+<marker id="1416749130" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.39732" latitude="-23.147997"/>
+<marker id="1416749131" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.39732" latitude="-23.147997"/>
+<marker id="1416749132" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.39732" latitude="-23.147997"/>
+<marker id="1416749133" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.464745" latitude="-23.466318"/>
+<marker id="1416749134" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.464745" latitude="-23.466318"/>
+<marker id="1416749135" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.464745" latitude="-23.466318"/>
+<marker id="1416749136" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.464745" latitude="-23.466318"/>
+<marker id="1416749137" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.7868" latitude="-23.545967"/>
+<marker id="1416749138" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.7868" latitude="-23.545967"/>
+<marker id="1416749139" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.7868" latitude="-23.545967"/>
+<marker id="1416749140" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.7868" latitude="-23.545967"/>
+<marker id="1416749141" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.03471" latitude="-23.085234"/>
+<marker id="1416749142" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.03471" latitude="-23.085234"/>
+<marker id="1416749143" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.03471" latitude="-23.085234"/>
+<marker id="1416749144" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.03471" latitude="-23.085234"/>
+<marker id="1416749145" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.273125" latitude="-23.278467"/>
+<marker id="1416749146" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.273125" latitude="-23.278467"/>
+<marker id="1416749147" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.273125" latitude="-23.278467"/>
+<marker id="1416749148" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.273125" latitude="-23.278467"/>
+<marker id="1416749149" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.106895" latitude="-22.948242"/>
+<marker id="1416749150" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.106895" latitude="-22.948242"/>
+<marker id="1416749151" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.106895" latitude="-22.948242"/>
+<marker id="1416749152" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.106895" latitude="-22.948242"/>
+<marker id="1416749153" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.62836" latitude="-23.54742"/>
+<marker id="1416749154" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.62836" latitude="-23.54742"/>
+<marker id="1416749155" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.62836" latitude="-23.54742"/>
+<marker id="1416749156" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.62836" latitude="-23.54742"/>
+<marker id="1416749157" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.79287" latitude="-23.578535"/>
+<marker id="1416749158" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.79287" latitude="-23.578535"/>
+<marker id="1416749159" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.79287" latitude="-23.578535"/>
+<marker id="1416749160" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.79287" latitude="-23.578535"/>
+<marker id="1416749161" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-94.40783" latitude="-22.871376"/>
+<marker id="1416749162" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-94.40783" latitude="-22.871376"/>
+<marker id="1416749163" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-94.40783" latitude="-22.871376"/>
+<marker id="1416749164" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-94.40783" latitude="-22.871376"/>
+<marker id="1416749165" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.05229" latitude="-22.87413"/>
+<marker id="1416749166" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.05229" latitude="-22.87413"/>
+<marker id="1416749167" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.05229" latitude="-22.87413"/>
+<marker id="1416749168" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.05229" latitude="-22.87413"/>
+<marker id="1416749169" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.26841" latitude="-22.865292"/>
+<marker id="1416749170" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.26841" latitude="-22.865292"/>
+<marker id="1416749171" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.26841" latitude="-22.865292"/>
+<marker id="1416749172" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.26841" latitude="-22.865292"/>
+<marker id="1416749173" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.1103" latitude="-23.16211"/>
+<marker id="1416749174" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.1103" latitude="-23.16211"/>
+<marker id="1416749175" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.1103" latitude="-23.16211"/>
+<marker id="1416749176" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.1103" latitude="-23.16211"/>
+<marker id="1416749177" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.37029" latitude="-22.85542"/>
+<marker id="1416749178" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.37029" latitude="-22.85542"/>
+<marker id="1416749179" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.37029" latitude="-22.85542"/>
+<marker id="1416749180" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.37029" latitude="-22.85542"/>
+<marker id="1416749181" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.72815" latitude="-22.872108"/>
+<marker id="1416749182" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.72815" latitude="-22.872108"/>
+<marker id="1416749183" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.72815" latitude="-22.872108"/>
+<marker id="1416749184" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.72815" latitude="-22.872108"/>
+<marker id="1416749185" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.11712" latitude="-23.266426"/>
+<marker id="1416749186" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.11712" latitude="-23.266426"/>
+<marker id="1416749187" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.11712" latitude="-23.266426"/>
+<marker id="1416749188" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.11712" latitude="-23.266426"/>
+<marker id="1416749189" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.28646" latitude="-23.309902"/>
+<marker id="1416749190" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.28646" latitude="-23.309902"/>
+<marker id="1416749191" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.28646" latitude="-23.309902"/>
+<marker id="1416749192" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.28646" latitude="-23.309902"/>
+<marker id="1416749193" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.38902" latitude="-23.467129"/>
+<marker id="1416749194" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.38902" latitude="-23.467129"/>
+<marker id="1416749195" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.38902" latitude="-23.467129"/>
+<marker id="1416749196" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.38902" latitude="-23.467129"/>
+<marker id="1416749197" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.17572" latitude="-23.504063"/>
+<marker id="1416749198" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.17572" latitude="-23.504063"/>
+<marker id="1416749199" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.17572" latitude="-23.504063"/>
+<marker id="1416749200" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.17572" latitude="-23.504063"/>
+<marker id="1416749201" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.71551" latitude="-23.577393"/>
+<marker id="1416749202" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.71551" latitude="-23.577393"/>
+<marker id="1416749203" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.71551" latitude="-23.577393"/>
+<marker id="1416749204" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.71551" latitude="-23.577393"/>
+<marker id="1416749205" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.44572" latitude="-23.55247"/>
+<marker id="1416749206" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.44572" latitude="-23.55247"/>
+<marker id="1416749207" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.44572" latitude="-23.55247"/>
+<marker id="1416749208" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.44572" latitude="-23.55247"/>
+<marker id="1416749209" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.172966" latitude="-23.329111"/>
+<marker id="1416749210" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.172966" latitude="-23.329111"/>
+<marker id="1416749211" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.172966" latitude="-23.329111"/>
+<marker id="1416749212" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.172966" latitude="-23.329111"/>
+<marker id="1416749213" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.74195" latitude="-22.913183"/>
+<marker id="1416749214" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.74195" latitude="-22.913183"/>
+<marker id="1416749215" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.74195" latitude="-22.913183"/>
+<marker id="1416749216" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.74195" latitude="-22.913183"/>
+<marker id="1416749217" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.47984" latitude="-23.537577"/>
+<marker id="1416749218" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.47984" latitude="-23.537577"/>
+<marker id="1416749219" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.47984" latitude="-23.537577"/>
+<marker id="1416749220" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.47984" latitude="-23.537577"/>
+<marker id="1416753152" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753153" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753154" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753155" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753156" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753157" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753158" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-94.43842" latitude="-22.44839"/>
+<marker id="1416753159" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.0806" latitude="-22.10546"/>
+<marker id="1416753160" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.0806" latitude="-22.10546"/>
+<marker id="1416753161" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.0806" latitude="-22.10546"/>
+<marker id="1416753162" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.0806" latitude="-22.10546"/>
+<marker id="1416753163" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.08435" latitude="-22.283182"/>
+<marker id="1416753164" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.08435" latitude="-22.283182"/>
+<marker id="1416753165" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.08435" latitude="-22.283182"/>
+<marker id="1416753166" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.08435" latitude="-22.283182"/>
+<marker id="1416753167" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.08919" latitude="-22.453848"/>
+<marker id="1416753168" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.08919" latitude="-22.453848"/>
+<marker id="1416753169" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.08919" latitude="-22.453848"/>
+<marker id="1416753170" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.08919" latitude="-22.453848"/>
+<marker id="1416753171" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.09428" latitude="-22.648428"/>
+<marker id="1416753172" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.09428" latitude="-22.648428"/>
+<marker id="1416753173" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.09428" latitude="-22.648428"/>
+<marker id="1416753174" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.09428" latitude="-22.648428"/>
+<marker id="1416753175" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.29373" latitude="-22.720966"/>
+<marker id="1416753176" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.29373" latitude="-22.720966"/>
+<marker id="1416753177" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.29373" latitude="-22.720966"/>
+<marker id="1416753178" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.29373" latitude="-22.720966"/>
+<marker id="1416753179" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.260544" latitude="-22.497606"/>
+<marker id="1416753180" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.260544" latitude="-22.497606"/>
+<marker id="1416753181" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.260544" latitude="-22.497606"/>
+<marker id="1416753182" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.260544" latitude="-22.497606"/>
+<marker id="1416753183" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.246895" latitude="-22.276924"/>
+<marker id="1416753184" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.246895" latitude="-22.276924"/>
+<marker id="1416753185" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.246895" latitude="-22.276924"/>
+<marker id="1416753186" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.246895" latitude="-22.276924"/>
+<marker id="1416753187" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.20966" latitude="-22.067596"/>
+<marker id="1416753188" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.20966" latitude="-22.067596"/>
+<marker id="1416753189" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.20966" latitude="-22.067596"/>
+<marker id="1416753190" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.20966" latitude="-22.067596"/>
+<marker id="1416753191" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.63362" latitude="-22.69291"/>
+<marker id="1416753192" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.63362" latitude="-22.69291"/>
+<marker id="1416753193" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.63362" latitude="-22.69291"/>
+<marker id="1416753194" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.63362" latitude="-22.69291"/>
+<marker id="1416753195" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.78502" latitude="-22.620117"/>
+<marker id="1416753196" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.78502" latitude="-22.620117"/>
+<marker id="1416753197" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.78502" latitude="-22.620117"/>
+<marker id="1416753198" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.78502" latitude="-22.620117"/>
+<marker id="1416753199" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.760704" latitude="-22.387949"/>
+<marker id="1416753200" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.760704" latitude="-22.387949"/>
+<marker id="1416753201" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.760704" latitude="-22.387949"/>
+<marker id="1416753202" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.760704" latitude="-22.387949"/>
+<marker id="1416753203" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.615204" latitude="-22.47249"/>
+<marker id="1416753204" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.615204" latitude="-22.47249"/>
+<marker id="1416753205" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.615204" latitude="-22.47249"/>
+<marker id="1416753206" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.615204" latitude="-22.47249"/>
+<marker id="1416753207" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.59867" latitude="-22.273623"/>
+<marker id="1416753208" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.59867" latitude="-22.273623"/>
+<marker id="1416753209" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.59867" latitude="-22.273623"/>
+<marker id="1416753210" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.59867" latitude="-22.273623"/>
+<marker id="1416753211" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.733185" latitude="-22.102558"/>
+<marker id="1416753212" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.733185" latitude="-22.102558"/>
+<marker id="1416753213" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.733185" latitude="-22.102558"/>
+<marker id="1416753214" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.733185" latitude="-22.102558"/>
+<marker id="1416753215" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.58393" latitude="-22.086864"/>
+<marker id="1416753216" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.58393" latitude="-22.086864"/>
+<marker id="1416753217" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.58393" latitude="-22.086864"/>
+<marker id="1416753218" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.58393" latitude="-22.086864"/>
+<marker id="1416753219" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.68144" latitude="-22.381083"/>
+<marker id="1416753220" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.68144" latitude="-22.381083"/>
+<marker id="1416753221" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.68144" latitude="-22.381083"/>
+<marker id="1416753222" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.68144" latitude="-22.381083"/>
+<marker id="1416753223" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.31455" latitude="-22.65042"/>
+<marker id="1416753224" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.31455" latitude="-22.65042"/>
+<marker id="1416753225" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.31455" latitude="-22.65042"/>
+<marker id="1416753226" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.31455" latitude="-22.65042"/>
+<marker id="1416753227" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-94.125916" latitude="-22.386562"/>
+<marker id="1416753228" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-94.125916" latitude="-22.386562"/>
+<marker id="1416753229" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-94.125916" latitude="-22.386562"/>
+<marker id="1416753230" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-94.125916" latitude="-22.386562"/>
+<marker id="1416814592" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879470532" longitude="-93.79054" latitude="-22.976416"/>
+<marker id="1416814593" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.564285" latitude="-23.119755"/>
+<marker id="1416814594" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.564285" latitude="-23.119755"/>
+<marker id="1416814595" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.79054" latitude="-22.976416"/>
+<marker id="1416814596" label="Hunter Crab" category="71" did="1879475286" parentZoneId="1879470532" longitude="-93.79054" latitude="-22.976416"/>
+<marker id="1416814597" label="Scuttling Crab" category="71" did="1879475280" parentZoneId="1879470532" longitude="-93.79054" latitude="-22.976416"/>
+<marker id="1416814598" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.277794" latitude="-22.858652"/>
+<marker id="1416814599" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.277794" latitude="-22.858652"/>
+<marker id="1416814600" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.204605" latitude="-22.955439"/>
+<marker id="1416814601" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.204605" latitude="-22.955439"/>
+<marker id="1416814602" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.48125" latitude="-22.929413"/>
+<marker id="1416814603" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.48125" latitude="-22.929413"/>
+<marker id="1416814604" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.45337" latitude="-23.11996"/>
+<marker id="1416814605" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.45337" latitude="-23.11996"/>
+<marker id="1416814606" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.66668" latitude="-23.10039"/>
+<marker id="1416814607" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.66668" latitude="-23.10039"/>
+<marker id="1416814608" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.6334" latitude="-23.278477"/>
+<marker id="1416814609" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.6334" latitude="-23.278477"/>
+<marker id="1416814610" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.86558" latitude="-23.241367"/>
+<marker id="1416814611" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.86558" latitude="-23.241367"/>
+<marker id="1416814612" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.86782" latitude="-23.422451"/>
+<marker id="1416814613" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.86782" latitude="-23.422451"/>
+<marker id="1416814614" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.9188" latitude="-22.881523"/>
+<marker id="1416814615" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.9188" latitude="-22.881523"/>
+<marker id="1416814616" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.9188" latitude="-22.881523"/>
+<marker id="1416814617" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.9188" latitude="-22.881523"/>
+<marker id="1416814618" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.872185" latitude="-23.202274"/>
+<marker id="1416814619" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.872185" latitude="-23.202274"/>
+<marker id="1416814620" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.872185" latitude="-23.202274"/>
+<marker id="1416814621" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.872185" latitude="-23.202274"/>
+<marker id="1416814622" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.533585" latitude="-22.93334"/>
+<marker id="1416814623" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.533585" latitude="-22.93334"/>
+<marker id="1416814624" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.533585" latitude="-22.93334"/>
+<marker id="1416814625" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.533585" latitude="-22.93334"/>
+<marker id="1416814626" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.22092" latitude="-22.880018"/>
+<marker id="1416814627" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.22092" latitude="-22.880018"/>
+<marker id="1416814628" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.22092" latitude="-22.880018"/>
+<marker id="1416814629" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.22092" latitude="-22.880018"/>
+<marker id="1416814630" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.39453" latitude="-23.051044"/>
+<marker id="1416814631" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.39453" latitude="-23.051044"/>
+<marker id="1416814632" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.39453" latitude="-23.051044"/>
+<marker id="1416814633" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.39453" latitude="-23.051044"/>
+<marker id="1416814634" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.55564" latitude="-22.957607"/>
+<marker id="1416814635" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.55564" latitude="-22.957607"/>
+<marker id="1416814636" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.55564" latitude="-22.957607"/>
+<marker id="1416814637" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.55564" latitude="-22.957607"/>
+<marker id="1416814638" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.592255" latitude="-23.183271"/>
+<marker id="1416814639" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.592255" latitude="-23.183271"/>
+<marker id="1416814640" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.592255" latitude="-23.183271"/>
+<marker id="1416814641" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.592255" latitude="-23.183271"/>
+<marker id="1416814642" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.89207" latitude="-23.301123"/>
+<marker id="1416814643" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.89207" latitude="-23.301123"/>
+<marker id="1416814644" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.89207" latitude="-23.301123"/>
+<marker id="1416814645" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.89207" latitude="-23.301123"/>
+<marker id="1416814646" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.85568" latitude="-22.931807"/>
+<marker id="1416814647" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.85568" latitude="-22.931807"/>
+<marker id="1416814648" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.85568" latitude="-22.931807"/>
+<marker id="1416814649" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.85568" latitude="-22.931807"/>
+<marker id="1416818688" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818689" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818690" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818691" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818692" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818693" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818694" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-93.614296" latitude="-22.402744"/>
+<marker id="1416818695" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.60123" latitude="-22.401533"/>
+<marker id="1416818704" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.60123" latitude="-22.401533"/>
+<marker id="1416818705" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.60123" latitude="-22.401533"/>
+<marker id="1416818706" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.60123" latitude="-22.401533"/>
+<marker id="1416818707" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.86077" latitude="-22.342812"/>
+<marker id="1416818708" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.86077" latitude="-22.342812"/>
+<marker id="1416818709" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.86077" latitude="-22.342812"/>
+<marker id="1416818710" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.86077" latitude="-22.342812"/>
+<marker id="1416818711" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.57408" latitude="-22.31498"/>
+<marker id="1416818712" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.57408" latitude="-22.31498"/>
+<marker id="1416818713" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.57408" latitude="-22.31498"/>
+<marker id="1416818714" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.57408" latitude="-22.31498"/>
+<marker id="1416818715" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.36035" latitude="-22.264326"/>
+<marker id="1416818716" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.36035" latitude="-22.264326"/>
+<marker id="1416818717" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.36035" latitude="-22.264326"/>
+<marker id="1416818718" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.36035" latitude="-22.264326"/>
+<marker id="1416818719" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.82615" latitude="-22.686104"/>
+<marker id="1416818720" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.82615" latitude="-22.686104"/>
+<marker id="1416818721" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.82615" latitude="-22.686104"/>
+<marker id="1416818722" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.82615" latitude="-22.686104"/>
+<marker id="1416818723" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.356735" latitude="-22.52334"/>
+<marker id="1416818724" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.356735" latitude="-22.52334"/>
+<marker id="1416818725" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.356735" latitude="-22.52334"/>
+<marker id="1416818726" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.356735" latitude="-22.52334"/>
+<marker id="1416818727" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.86455" latitude="-22.532938"/>
+<marker id="1416818728" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.86455" latitude="-22.532938"/>
+<marker id="1416818729" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.86455" latitude="-22.532938"/>
+<marker id="1416818730" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.86455" latitude="-22.532938"/>
+<marker id="1416818731" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.334595" latitude="-22.642979"/>
+<marker id="1416818732" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.334595" latitude="-22.642979"/>
+<marker id="1416818733" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.334595" latitude="-22.642979"/>
+<marker id="1416818734" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.334595" latitude="-22.642979"/>
+<marker id="1416818735" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.53118" latitude="-22.783476"/>
+<marker id="1416818736" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.53118" latitude="-22.783476"/>
+<marker id="1416818737" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.53118" latitude="-22.783476"/>
+<marker id="1416818738" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.53118" latitude="-22.783476"/>
+<marker id="1416818739" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.26359" latitude="-22.122637"/>
+<marker id="1416818740" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.26359" latitude="-22.122637"/>
+<marker id="1416818741" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.26359" latitude="-22.122637"/>
+<marker id="1416818742" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.26359" latitude="-22.122637"/>
+<marker id="1416818743" label="Iridescent Ore Deposit" category="50" did="1879474054" parentZoneId="1879470532" longitude="-93.93387" latitude="-22.037256"/>
+<marker id="1416818744" label="Heavy Palm Branches" category="50" did="1879474052" parentZoneId="1879470532" longitude="-93.93387" latitude="-22.037256"/>
+<marker id="1416818745" label="Palm Branches" category="50" did="1879474053" parentZoneId="1879470532" longitude="-93.93387" latitude="-22.037256"/>
+<marker id="1416818746" label="Rich Iridescent Ore Deposit" category="50" did="1879474050" parentZoneId="1879470532" longitude="-93.93387" latitude="-22.037256"/>
+<marker id="1416818747" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.89035" latitude="-22.106426"/>
+<marker id="1416818748" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.89035" latitude="-22.106426"/>
+<marker id="1416818749" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.89035" latitude="-22.106426"/>
+<marker id="1416818750" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.89035" latitude="-22.106426"/>
+<marker id="1416818751" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.68426" latitude="-22.067207"/>
+<marker id="1416818752" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.68426" latitude="-22.067207"/>
+<marker id="1416818753" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.68426" latitude="-22.067207"/>
+<marker id="1416818754" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.68426" latitude="-22.067207"/>
+<marker id="1416818755" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.47302" latitude="-22.07288"/>
+<marker id="1416818756" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.47302" latitude="-22.07288"/>
+<marker id="1416818757" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.47302" latitude="-22.07288"/>
+<marker id="1416818758" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.47302" latitude="-22.07288"/>
+<marker id="1416818759" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.26972" latitude="-22.083838"/>
+<marker id="1416818760" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.26972" latitude="-22.083838"/>
+<marker id="1416818761" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.26972" latitude="-22.083838"/>
+<marker id="1416818762" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.26972" latitude="-22.083838"/>
+<marker id="1416818763" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.28799" latitude="-22.308369"/>
+<marker id="1416818764" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.28799" latitude="-22.308369"/>
+<marker id="1416818765" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.28799" latitude="-22.308369"/>
+<marker id="1416818766" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.28799" latitude="-22.308369"/>
+<marker id="1416818767" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.30828" latitude="-22.47126"/>
+<marker id="1416818768" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.30828" latitude="-22.47126"/>
+<marker id="1416818769" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.30828" latitude="-22.47126"/>
+<marker id="1416818770" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.30828" latitude="-22.47126"/>
+<marker id="1416818771" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.307495" latitude="-22.688662"/>
+<marker id="1416818772" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.307495" latitude="-22.688662"/>
+<marker id="1416818773" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.307495" latitude="-22.688662"/>
+<marker id="1416818774" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.307495" latitude="-22.688662"/>
+<marker id="1416818775" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.560265" latitude="-22.557549"/>
+<marker id="1416818776" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.560265" latitude="-22.557549"/>
+<marker id="1416818777" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.560265" latitude="-22.557549"/>
+<marker id="1416818778" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.560265" latitude="-22.557549"/>
+<marker id="1416818779" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.77518" latitude="-22.65749"/>
+<marker id="1416818780" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.77518" latitude="-22.65749"/>
+<marker id="1416818781" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.77518" latitude="-22.65749"/>
+<marker id="1416818782" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.77518" latitude="-22.65749"/>
+<marker id="1416818783" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.953835" latitude="-22.707382"/>
+<marker id="1416818784" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.953835" latitude="-22.707382"/>
+<marker id="1416818785" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.953835" latitude="-22.707382"/>
+<marker id="1416818786" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.953835" latitude="-22.707382"/>
+<marker id="1416818787" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.91112" latitude="-22.501503"/>
+<marker id="1416818788" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.91112" latitude="-22.501503"/>
+<marker id="1416818789" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.91112" latitude="-22.501503"/>
+<marker id="1416818790" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.91112" latitude="-22.501503"/>
+<marker id="1416818791" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.70942" latitude="-22.398075"/>
+<marker id="1416818792" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.70942" latitude="-22.398075"/>
+<marker id="1416818793" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.70942" latitude="-22.398075"/>
+<marker id="1416818794" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.70942" latitude="-22.398075"/>
+<marker id="1416818795" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.9139" latitude="-22.213583"/>
+<marker id="1416818796" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.9139" latitude="-22.213583"/>
+<marker id="1416818797" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.9139" latitude="-22.213583"/>
+<marker id="1416818798" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.9139" latitude="-22.213583"/>
+<marker id="1416818799" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.63197" latitude="-22.241621"/>
+<marker id="1416818800" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.63197" latitude="-22.241621"/>
+<marker id="1416818801" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.63197" latitude="-22.241621"/>
+<marker id="1416818802" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.63197" latitude="-22.241621"/>
+<marker id="1416818803" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.75697" latitude="-22.438389"/>
+<marker id="1416818804" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.75697" latitude="-22.438389"/>
+<marker id="1416818805" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.75697" latitude="-22.438389"/>
+<marker id="1416818806" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.75697" latitude="-22.438389"/>
+<marker id="1416818807" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.70574" latitude="-22.169502"/>
+<marker id="1416818808" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.70574" latitude="-22.169502"/>
+<marker id="1416818809" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.70574" latitude="-22.169502"/>
+<marker id="1416818810" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.70574" latitude="-22.169502"/>
+<marker id="1416818811" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.285576" latitude="-22.267538"/>
+<marker id="1416818812" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.285576" latitude="-22.267538"/>
+<marker id="1416818813" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.285576" latitude="-22.267538"/>
+<marker id="1416818814" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.285576" latitude="-22.267538"/>
 <marker id="1416884224" label="Bâlakhat" category="43" did="1879477164" parentZoneId="1879470532" longitude="-92.76062" latitude="-22.524715"/>
+<marker id="1416884225" label="Savannah Stalker" category="71" did="1879470981" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884226" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884227" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.74916" latitude="-22.437246"/>
+<marker id="1416884228" label="Savannah Pride-mate" category="71" did="1879471010" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884229" label="Boar" category="71" did="1879471031" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884230" label="Aggressive Boar" category="71" did="1879471037" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884231" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.74916" latitude="-22.437246"/>
+<marker id="1416884232" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884233" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884235" label="Hunter Crab" category="71" did="1879475286" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884236" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884237" label="Scuttling Crab" category="71" did="1879475280" parentZoneId="1879470532" longitude="-92.81779" latitude="-22.295849"/>
+<marker id="1416884240" label="Treasure Cache" category="73" did="1879474822" parentZoneId="1879470532" longitude="-92.96974" latitude="-22.013428"/>
+<marker id="1416884241" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.48877" latitude="-22.33496"/>
+<marker id="1416884242" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.48877" latitude="-22.33496"/>
+<marker id="1416884243" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.5714" latitude="-22.18207"/>
+<marker id="1416884244" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.5714" latitude="-22.18207"/>
+<marker id="1416884245" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.77628" latitude="-22.307236"/>
+<marker id="1416884246" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.77628" latitude="-22.307236"/>
+<marker id="1416884247" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.64534" latitude="-22.455135"/>
+<marker id="1416884248" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.64534" latitude="-22.455135"/>
+<marker id="1416884249" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.89227" latitude="-22.462734"/>
+<marker id="1416884250" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.89227" latitude="-22.462734"/>
+<marker id="1416884251" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.79372" latitude="-22.627665"/>
+<marker id="1416884252" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.79372" latitude="-22.627665"/>
+<marker id="1416884253" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.01743" latitude="-22.591328"/>
+<marker id="1416884254" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.01743" latitude="-22.591328"/>
+<marker id="1416884255" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-93.16185" latitude="-22.741405"/>
+<marker id="1416884256" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-93.16185" latitude="-22.741405"/>
+<marker id="1416884257" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.95219" latitude="-22.773417"/>
+<marker id="1416884258" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.95219" latitude="-22.773417"/>
+<marker id="1416884259" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.52023" latitude="-22.221132"/>
+<marker id="1416884260" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.52023" latitude="-22.221132"/>
+<marker id="1416884261" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.52023" latitude="-22.221132"/>
+<marker id="1416884262" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.52023" latitude="-22.221132"/>
+<marker id="1416884263" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.6228" latitude="-22.40832"/>
+<marker id="1416884264" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.6228" latitude="-22.40832"/>
+<marker id="1416884265" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.6228" latitude="-22.40832"/>
+<marker id="1416884266" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.6228" latitude="-22.40832"/>
+<marker id="1416884267" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.81683" latitude="-22.36787"/>
+<marker id="1416884268" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.81683" latitude="-22.36787"/>
+<marker id="1416884269" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.81683" latitude="-22.36787"/>
+<marker id="1416884270" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.81683" latitude="-22.36787"/>
+<marker id="1416884271" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.86865" latitude="-22.589043"/>
+<marker id="1416884272" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.86865" latitude="-22.589043"/>
+<marker id="1416884273" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.86865" latitude="-22.589043"/>
+<marker id="1416884274" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.86865" latitude="-22.589043"/>
+<marker id="1416884275" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.06871" latitude="-22.714901"/>
+<marker id="1416884276" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.06871" latitude="-22.714901"/>
+<marker id="1416884277" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.06871" latitude="-22.714901"/>
+<marker id="1416884278" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.06871" latitude="-22.714901"/>
+<marker id="1416884279" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.597084" latitude="-22.06664"/>
+<marker id="1416884280" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.597084" latitude="-22.06664"/>
+<marker id="1416884281" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.597084" latitude="-22.06664"/>
+<marker id="1416884282" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.597084" latitude="-22.06664"/>
+<marker id="1416884283" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.853775" latitude="-22.119219"/>
+<marker id="1416884284" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.853775" latitude="-22.119219"/>
+<marker id="1416884285" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.853775" latitude="-22.119219"/>
+<marker id="1416884286" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.853775" latitude="-22.119219"/>
+<marker id="1416884287" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.03947" latitude="-22.07917"/>
+<marker id="1416884288" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.03947" latitude="-22.07917"/>
+<marker id="1416884289" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.03947" latitude="-22.07917"/>
+<marker id="1416884290" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.03947" latitude="-22.07917"/>
+<marker id="1416884291" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.174644" latitude="-22.08163"/>
+<marker id="1416884292" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.174644" latitude="-22.08163"/>
+<marker id="1416884293" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.174644" latitude="-22.08163"/>
+<marker id="1416884294" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.174644" latitude="-22.08163"/>
+<marker id="1416884295" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.15381" latitude="-22.257421"/>
+<marker id="1416884296" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.15381" latitude="-22.257421"/>
+<marker id="1416884297" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.15381" latitude="-22.257421"/>
+<marker id="1416884298" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.15381" latitude="-22.257421"/>
+<marker id="1416884299" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.16366" latitude="-22.49159"/>
+<marker id="1416884300" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.16366" latitude="-22.49159"/>
+<marker id="1416884301" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.16366" latitude="-22.49159"/>
+<marker id="1416884302" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.16366" latitude="-22.49159"/>
+<marker id="1416884303" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-93.088806" latitude="-22.46536"/>
+<marker id="1416884304" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-93.088806" latitude="-22.46536"/>
+<marker id="1416884305" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-93.088806" latitude="-22.46536"/>
+<marker id="1416884306" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-93.088806" latitude="-22.46536"/>
+<marker id="1416884307" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.85779" latitude="-22.138973"/>
+<marker id="1416884308" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.85779" latitude="-22.138973"/>
+<marker id="1416884309" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.85779" latitude="-22.138973"/>
+<marker id="1416884310" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.85779" latitude="-22.138973"/>
+<marker id="1416884311" label="Rabbit" category="78" did="1879443703" parentZoneId="1879470532" longitude="-92.58126" latitude="-22.1058"/>
+<marker id="1416884312" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879470532" longitude="-92.58126" latitude="-22.1058"/>
+<marker id="1416884313" label="Jerboa" category="78" did="1879478483" parentZoneId="1879470532" longitude="-92.58126" latitude="-22.1058"/>
+<marker id="1416884314" label="Dune Snake" category="78" did="1879086605" parentZoneId="1879470532" longitude="-92.58126" latitude="-22.1058"/>
+<marker id="1416949760" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.29183" latitude="-22.11164"/>
+<marker id="1416949761" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.29183" latitude="-22.11164"/>
+<marker id="1416949762" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.158554" latitude="-22.06038"/>
+<marker id="1416949763" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.158554" latitude="-22.06038"/>
+<marker id="1416949764" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.333046" latitude="-22.09159"/>
+<marker id="1416949765" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.333046" latitude="-22.09159"/>
+<marker id="1416949766" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879470532" longitude="-92.34744" latitude="-22.243906"/>
+<marker id="1416949767" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879470532" longitude="-92.34744" latitude="-22.243906"/>
 </markers>
