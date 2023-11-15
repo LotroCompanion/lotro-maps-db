@@ -5,12 +5,21 @@
 <marker id="1400909827" label="Healer" category="38" did="1879465906" parentZoneId="1879474985" longitude="-107.83386" latitude="-19.35872"/>
 <marker id="1400909828" label="Provisioner" category="38" did="1879465904" parentZoneId="1879474985" longitude="-107.790474" latitude="-19.222538"/>
 <marker id="1400909829" label="Supplier" category="38" did="1879465894" parentZoneId="1879474985" longitude="-108.1092" latitude="-19.235233"/>
+<marker id="1400909830" label="Khûtra" category="43" did="1879477158" parentZoneId="1879474985" longitude="-108.06702" latitude="-19.020702"/>
 <marker id="1400909831" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879474985" longitude="-108.257225" latitude="-19.068623"/>
 <marker id="1400909832" label="Adon" category="70" did="1879471223" parentZoneId="1879474985" longitude="-107.90576" latitude="-19.035448"/>
+<marker id="1400909833" label="Madag" category="70" did="1879471230" parentZoneId="1879474985" longitude="-108.12277" latitude="-19.03498"/>
+<marker id="1400909834" label="Roshat" category="70" did="1879471231" parentZoneId="1879474985" longitude="-108.11649" latitude="-19.034023"/>
 <marker id="1400909835" label="Malthak" category="70" did="1879471228" parentZoneId="1879474985" longitude="-107.810165" latitude="-18.920341"/>
+<marker id="1400909836" label="Ilaya" category="70" did="1879471229" parentZoneId="1879474985" longitude="-107.806015" latitude="-18.926064"/>
+<marker id="1400909837" label="Umaris" category="70" did="1879471225" parentZoneId="1879474985" longitude="-108.088" latitude="-19.298544"/>
 <marker id="1400909838" label="Miritah" category="70" did="1879474034" parentZoneId="1879474985" longitude="-108.21869" latitude="-19.05746"/>
 <marker id="1400909839" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.95178" latitude="-19.196524"/>
+<marker id="1400909840" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879474985" longitude="-108.25582" latitude="-19.072412"/>
 <marker id="1400909844" label="Diseased Goat" category="78" did="1879479062" parentZoneId="1879474985" longitude="-107.835175" latitude="-18.881748"/>
+<marker id="1400909845" label="Ziriha" category="70" did="1879474854" parentZoneId="1879474985" longitude="-108.0939" latitude="-19.252676"/>
+<marker id="1400909846" label="Gadir" category="70" did="1879474855" parentZoneId="1879474985" longitude="-107.90088" latitude="-19.041864"/>
+<marker id="1400909847" label="Ekhmun" category="70" did="1879474858" parentZoneId="1879474985" longitude="-108.09945" latitude="-19.248066"/>
 <marker id="1400909848" label="Afflicted Khûtra Villager" category="70" did="1879474856" parentZoneId="1879474985" longitude="-107.69738" latitude="-19.244598"/>
 <marker id="1400909849" label="Afflicted Khûtra Villager" category="70" did="1879474857" parentZoneId="1879474985" longitude="-107.66307" latitude="-19.22456"/>
 <marker id="1400909850" label="Watchman" category="71" did="1879474943" parentZoneId="1879474985" longitude="-108.17101" latitude="-19.075665"/>
@@ -18,6 +27,8 @@
 <marker id="1400909855" label="Door" category="100" did="1879475785" parentZoneId="1879474985" longitude="-107.751656" latitude="-18.893505"/>
 <marker id="1400909857" label="Afflicted Khûtra Villager" category="70" did="1879476788" parentZoneId="1879474985" longitude="-107.672646" latitude="-19.244287"/>
 <marker id="1400909858" label="Afflicted Khûtra Villager" category="70" did="1879476786" parentZoneId="1879474985" longitude="-107.693275" latitude="-19.225517"/>
+<marker id="1400909860" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.77662" latitude="-18.972685"/>
+<marker id="1400909861" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-108.04244" latitude="-19.395477"/>
 <marker id="1400909862" label="Bôdo" category="70" did="1879470624" parentZoneId="1879474985" longitude="-108.12992" latitude="-19.038818"/>
 <marker id="1400909863" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.96245" latitude="-19.196943"/>
 <marker id="1400909864" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.9601" latitude="-19.190664"/>
@@ -39,26 +50,8 @@
 <marker id="1400909881" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.90644" latitude="-18.932617"/>
 <marker id="1400909882" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.901344" latitude="-18.93797"/>
 <marker id="1400909883" label="Chicken" category="70" did="1879076798" parentZoneId="1879474985" longitude="-107.90531" latitude="-18.944736"/>
-<marker id="1400909919" label="Diseased Goat" category="78" did="1879479062" parentZoneId="1879474985" longitude="-107.82061" latitude="-18.89414"/>
-<marker id="1400909920" label="Diseased Goat" category="78" did="1879479062" parentZoneId="1879474985" longitude="-107.804726" latitude="-18.873144"/>
-<marker id="1400909952" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.73826" latitude="-18.977695"/>
-<marker id="1400909953" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.75409" latitude="-18.952158"/>
-<marker id="1400909954" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.77662" latitude="-18.972685"/>
-<marker id="1400909955" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.76781" latitude="-18.966406"/>
-<marker id="1400909956" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.75304" latitude="-18.98668"/>
-<marker id="1400909957" label="Diseased Pig" category="78" did="1879478168" parentZoneId="1879474985" longitude="-107.75016" latitude="-18.967987"/>
-<marker id="1400909978" label="Ilaya" category="70" did="1879471229" parentZoneId="1879474985" longitude="-107.806015" latitude="-18.926064"/>
-<marker id="1400909979" label="Umaris" category="70" did="1879471225" parentZoneId="1879474985" longitude="-108.088" latitude="-19.298544"/>
-<marker id="1400909980" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-108.04244" latitude="-19.395477"/>
-<marker id="1400909981" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-107.909355" latitude="-19.435312"/>
-<marker id="1400909982" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-108.314285" latitude="-19.46583"/>
-<marker id="1400909984" label="Gadir" category="70" did="1879474855" parentZoneId="1879474985" longitude="-107.90088" latitude="-19.041864"/>
-<marker id="1400909985" label="Ziriha" category="70" did="1879474854" parentZoneId="1879474985" longitude="-108.0939" latitude="-19.252676"/>
-<marker id="1400909987" label="Ekhmun" category="70" did="1879474858" parentZoneId="1879474985" longitude="-108.09945" latitude="-19.248066"/>
-<marker id="1400909988" label="Khûtra" category="43" did="1879477158" parentZoneId="1879474985" longitude="-108.06702" latitude="-19.020702"/>
-<marker id="1400909989" label="Madag" category="70" did="1879471230" parentZoneId="1879474985" longitude="-108.12277" latitude="-19.03498"/>
-<marker id="1400909990" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879474985" longitude="-108.25582" latitude="-19.072412"/>
-<marker id="1400909996" label="Roshat" category="70" did="1879471231" parentZoneId="1879474985" longitude="-108.11649" latitude="-19.034023"/>
+<marker id="1400909927" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-107.909355" latitude="-19.435312"/>
+<marker id="1400909928" label="Good Fishing Spot" category="73" did="1879478182" parentZoneId="1879474985" longitude="-108.314285" latitude="-19.46583"/>
 <marker id="1400913920" label="Corsair Watchman" category="71" did="1879470991" parentZoneId="1879474985" longitude="-108.00828" latitude="-18.389784"/>
 <marker id="1400913921" label="Corsair Deck-hand" category="71" did="1879470985" parentZoneId="1879474985" longitude="-108.00828" latitude="-18.389784"/>
 <marker id="1400913922" label="Sea-hawk" category="71" did="1879470995" parentZoneId="1879474985" longitude="-108.00828" latitude="-18.389784"/>
@@ -6823,17 +6816,17 @@
 <marker id="1401630764" label="Disgusting Harbour-filth" category="73" did="1879475752" parentZoneId="1879470534" longitude="-99.25203" latitude="-19.094198"/>
 <marker id="1401630766" label="Disgusting Harbour-filth" category="73" did="1879475752" parentZoneId="1879470534" longitude="-98.847595" latitude="-19.478994"/>
 <marker id="1401630767" label="Disgusting Harbour-filth" category="73" did="1879475752" parentZoneId="1879470534" longitude="-99.538574" latitude="-19.547"/>
-<marker id="1401634818" label="Provisioner" category="38" did="1879465908" parentZoneId="1879470534" longitude="-99.13777" latitude="-18.603857"/>
-<marker id="1401634819" label="Supplier" category="38" did="1879465900" parentZoneId="1879470534" longitude="-99.185005" latitude="-18.583838"/>
-<marker id="1401634820" label="Forge-master" category="29" did="1879465916" parentZoneId="1879470534" longitude="-99.21162" latitude="-18.616026"/>
-<marker id="1401634822" label="Mistress of Apprentices" category="42" did="1879479049" parentZoneId="1879470534" longitude="-99.101944" latitude="-18.653955"/>
-<marker id="1401634823" label="The Drowned Prince" category="43" did="1879477105" parentZoneId="1879470534" longitude="-99.18227" latitude="-18.449306"/>
-<marker id="1401634824" label="The Hungry Deep Tavern" category="43" did="1879476886" parentZoneId="1879470534" longitude="-98.9503" latitude="-18.270761"/>
-<marker id="1401634825" label="Forge" category="45" did="1879475456" parentZoneId="1879470534" longitude="-99.20907" latitude="-18.637442"/>
-<marker id="1401634826" label="Oven" category="45" did="1879475455" parentZoneId="1879470534" longitude="-99.10039" latitude="-18.600683"/>
+<marker id="1401634816" label="The Hungry Deep Tavern" category="43" did="1879476886" parentZoneId="1879470534" longitude="-98.9503" latitude="-18.270761"/>
+<marker id="1401634821" label="Provisioner" category="38" did="1879465908" parentZoneId="1879470534" longitude="-99.13777" latitude="-18.603857"/>
+<marker id="1401634822" label="Supplier" category="38" did="1879465900" parentZoneId="1879470534" longitude="-99.185005" latitude="-18.583838"/>
+<marker id="1401634823" label="Forge-master" category="29" did="1879465916" parentZoneId="1879470534" longitude="-99.21162" latitude="-18.616026"/>
+<marker id="1401634825" label="Mistress of Apprentices" category="42" did="1879479049" parentZoneId="1879470534" longitude="-99.101944" latitude="-18.653955"/>
+<marker id="1401634826" label="The Drowned Prince" category="43" did="1879477105" parentZoneId="1879470534" longitude="-99.18227" latitude="-18.449306"/>
 <marker id="1401634827" label="Mailbox" category="34" did="1879475053" parentZoneId="1879470534" longitude="-99.232185" latitude="-18.614756"/>
+<marker id="1401634828" label="Oven" category="45" did="1879475455" parentZoneId="1879470534" longitude="-99.10039" latitude="-18.600683"/>
 <marker id="1401634829" label="Workbench" category="45" did="1879475452" parentZoneId="1879470534" longitude="-99.084595" latitude="-18.66248"/>
 <marker id="1401634830" label="Study" category="45" did="1879475453" parentZoneId="1879470534" longitude="-99.242966" latitude="-18.428896"/>
+<marker id="1401634831" label="Forge" category="45" did="1879475456" parentZoneId="1879470534" longitude="-99.20907" latitude="-18.637442"/>
 <marker id="1401634832" label="Shrine of He-Who-Sees-All" category="74" did="1879476877" parentZoneId="1879470534" longitude="-98.84396" latitude="-18.739824"/>
 <marker id="1401634835" label="Upper Ward Resident" category="70" did="1879471279" parentZoneId="1879470534" longitude="-99.153145" latitude="-18.026436"/>
 <marker id="1401634836" label="Sirgon" category="70" did="1879471291" parentZoneId="1879470534" longitude="-99.35958" latitude="-18.305546"/>
@@ -9711,33 +9704,33 @@
 <marker id="1401815111" label="Kina's Guard" category="71" did="1879477250" parentZoneId="1879470534" longitude="-97.1777" latitude="-21.561054"/>
 <marker id="1401819136" label="Stable-master" category="51" did="1879476319" parentZoneId="1879470534" longitude="-96.42907" latitude="-20.507215"/>
 <marker id="1401819137" label="Waterway Market" category="43" did="1879477128" parentZoneId="1879470534" longitude="-96.90922" latitude="-20.57076"/>
-<marker id="1401819138" label="Waterway Market" category="43" did="1879477128" parentZoneId="1879470534" longitude="-96.6714" latitude="-20.57076"/>
-<marker id="1401819139" label="The Fathomwell" category="43" did="1879477134" parentZoneId="1879470534" longitude="-96.55125" latitude="-21.038828"/>
-<marker id="1401819140" label="The Broken Pillar Tavern" category="43" did="1879477137" parentZoneId="1879470534" longitude="-96.95621" latitude="-20.929316"/>
-<marker id="1401819141" label="Forge" category="45" did="1879475456" parentZoneId="1879470534" longitude="-96.47533" latitude="-20.620722"/>
-<marker id="1401819143" label="Study" category="45" did="1879475453" parentZoneId="1879470534" longitude="-96.80656" latitude="-20.626934"/>
-<marker id="1401819147" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879470534" longitude="-96.494804" latitude="-20.483027"/>
-<marker id="1401819148" label="Râhal Bakh&#10;The Lower Ward" category="41" did="1879478933" parentZoneId="1879470534" longitude="-96.81348" latitude="-20.766787"/>
-<marker id="1401819149" label="Tasks" category="27" did="1879475223" parentZoneId="1879470534" longitude="-96.49339" latitude="-20.486816"/>
-<marker id="1401819150" label="Oven" category="45" did="1879475455" parentZoneId="1879470534" longitude="-96.476616" latitude="-20.50999"/>
-<marker id="1401819151" label="Workbench" category="45" did="1879475452" parentZoneId="1879470534" longitude="-96.778435" latitude="-20.613125"/>
-<marker id="1401819154" label="Post Notice" category="73" did="1879475500" parentZoneId="1879470534" longitude="-96.80533" latitude="-20.87751"/>
-<marker id="1401819159" label="Elrohir" category="70" did="1879471297" parentZoneId="1879470534" longitude="-96.42376" latitude="-20.531904"/>
-<marker id="1401819160" label="Elladan" category="70" did="1879471334" parentZoneId="1879470534" longitude="-96.42397" latitude="-20.540224"/>
-<marker id="1401819161" label="Zuhûr" category="70" did="1879477055" parentZoneId="1879470534" longitude="-96.83656" latitude="-20.666084"/>
-<marker id="1401819162" label="Waterway Market Vendor" category="70" did="1879477053" parentZoneId="1879470534" longitude="-96.52463" latitude="-20.671455"/>
-<marker id="1401819163" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.90812" latitude="-20.92418"/>
-<marker id="1401819164" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.808044" latitude="-20.7979"/>
-<marker id="1401819165" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.890274" latitude="-20.873476"/>
-<marker id="1401819166" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-97.04433" latitude="-20.887032"/>
-<marker id="1401819167" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.83954" latitude="-20.954618"/>
-<marker id="1401819168" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.858185" latitude="-20.856152"/>
-<marker id="1401819169" label="Zuhûr" category="70" did="1879477049" parentZoneId="1879470534" longitude="-96.52676" latitude="-20.61376"/>
-<marker id="1401819170" label="Waterway Market Vendor" category="70" did="1879477062" parentZoneId="1879470534" longitude="-96.776245" latitude="-20.696737"/>
-<marker id="1401819171" label="Waterway Market Vendor" category="70" did="1879477056" parentZoneId="1879470534" longitude="-96.6994" latitude="-20.650156"/>
-<marker id="1401819172" label="Waterway Market Vendor" category="70" did="1879477067" parentZoneId="1879470534" longitude="-96.548775" latitude="-20.507177"/>
-<marker id="1401819173" label="Jidâlo" category="70" did="1879477064" parentZoneId="1879470534" longitude="-96.9883" latitude="-20.991192"/>
-<marker id="1401819174" label="Hûmaz" category="70" did="1879477065" parentZoneId="1879470534" longitude="-96.498024" latitude="-20.856298"/>
+<marker id="1401819138" label="The Fathomwell" category="43" did="1879477134" parentZoneId="1879470534" longitude="-96.55125" latitude="-21.038828"/>
+<marker id="1401819139" label="The Broken Pillar Tavern" category="43" did="1879477137" parentZoneId="1879470534" longitude="-96.95621" latitude="-20.929316"/>
+<marker id="1401819140" label="Forge" category="45" did="1879475456" parentZoneId="1879470534" longitude="-96.47533" latitude="-20.620722"/>
+<marker id="1401819146" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879470534" longitude="-96.494804" latitude="-20.483027"/>
+<marker id="1401819147" label="Râhal Bakh&#10;The Lower Ward" category="41" did="1879478933" parentZoneId="1879470534" longitude="-96.81348" latitude="-20.766787"/>
+<marker id="1401819148" label="Tasks" category="27" did="1879475223" parentZoneId="1879470534" longitude="-96.49339" latitude="-20.486816"/>
+<marker id="1401819149" label="Oven" category="45" did="1879475455" parentZoneId="1879470534" longitude="-96.476616" latitude="-20.50999"/>
+<marker id="1401819150" label="Workbench" category="45" did="1879475452" parentZoneId="1879470534" longitude="-96.778435" latitude="-20.613125"/>
+<marker id="1401819151" label="Study" category="45" did="1879475453" parentZoneId="1879470534" longitude="-96.80656" latitude="-20.626934"/>
+<marker id="1401819153" label="Post Notice" category="73" did="1879475500" parentZoneId="1879470534" longitude="-96.80533" latitude="-20.87751"/>
+<marker id="1401819158" label="Elrohir" category="70" did="1879471297" parentZoneId="1879470534" longitude="-96.42376" latitude="-20.531904"/>
+<marker id="1401819159" label="Elladan" category="70" did="1879471334" parentZoneId="1879470534" longitude="-96.42397" latitude="-20.540224"/>
+<marker id="1401819160" label="Zuhûr" category="70" did="1879477055" parentZoneId="1879470534" longitude="-96.83656" latitude="-20.666084"/>
+<marker id="1401819161" label="Waterway Market Vendor" category="70" did="1879477053" parentZoneId="1879470534" longitude="-96.52463" latitude="-20.671455"/>
+<marker id="1401819162" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.90812" latitude="-20.92418"/>
+<marker id="1401819163" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.808044" latitude="-20.7979"/>
+<marker id="1401819164" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.890274" latitude="-20.873476"/>
+<marker id="1401819165" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-97.04433" latitude="-20.887032"/>
+<marker id="1401819166" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.83954" latitude="-20.954618"/>
+<marker id="1401819167" label="The Ballast's Shipmate" category="70" did="1879477051" parentZoneId="1879470534" longitude="-96.858185" latitude="-20.856152"/>
+<marker id="1401819168" label="Zuhûr" category="70" did="1879477049" parentZoneId="1879470534" longitude="-96.52676" latitude="-20.61376"/>
+<marker id="1401819169" label="Waterway Market Vendor" category="70" did="1879477062" parentZoneId="1879470534" longitude="-96.776245" latitude="-20.696737"/>
+<marker id="1401819170" label="Waterway Market Vendor" category="70" did="1879477056" parentZoneId="1879470534" longitude="-96.6994" latitude="-20.650156"/>
+<marker id="1401819171" label="Waterway Market Vendor" category="70" did="1879477067" parentZoneId="1879470534" longitude="-96.548775" latitude="-20.507177"/>
+<marker id="1401819172" label="Jidâlo" category="70" did="1879477064" parentZoneId="1879470534" longitude="-96.9883" latitude="-20.991192"/>
+<marker id="1401819173" label="Hûmaz" category="70" did="1879477065" parentZoneId="1879470534" longitude="-96.498024" latitude="-20.856298"/>
+<marker id="1401819221" label="Waterway Market" category="74" did="1879477128" parentZoneId="1879470534" longitude="-96.6714" latitude="-20.57076"/>
 <marker id="1401823237" label="Zadok" category="70" did="1879475486" parentZoneId="1879470534" longitude="-97.14945" latitude="-20.054512"/>
 <marker id="1401823238" label="Ahûzath" category="70" did="1879475489" parentZoneId="1879470534" longitude="-97.1208" latitude="-20.335762"/>
 <marker id="1401823239" label="Post Notice" category="73" did="1879475500" parentZoneId="1879470534" longitude="-97.03113" latitude="-20.353662"/>

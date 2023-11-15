@@ -131,7 +131,7 @@
 <link parentId="268453922" contentLayerId="0" target="268439511" label="To: Evendim" from="-69.44109/-23.293156"/>
 <link parentId="268453922" contentLayerId="0" target="268437576" label="To: Ered Luin" from="-88.29041/-24.432882"/>
 <link parentId="268453997" contentLayerId="0" target="268444443" label="To: Enedwaith" from="-18.337778/-60.631104"/>
-<link parentId="268453997" contentLayerId="0" target="268454010" label="To: " from="-34.40889/-60.27555"/>
+<link parentId="268453997" contentLayerId="0" target="268454010" label="To: Mossward" from="-34.40889/-60.27555"/>
 <link parentId="268453997" contentLayerId="0" target="268453878" label="To: The Angle of Mitheithel" from="-20.89778/-42.568882"/>
 <link parentId="268453997" contentLayerId="0" target="268442268" label="To: Eregion" from="-16.133335/-50.177773"/>
 <link parentId="268453997" contentLayerId="0" target="268454004" label="To: Cardolan" from="-37.786667/-52.382217"/>
@@ -658,10 +658,10 @@
 <link parentId="1879326884" contentLayerId="2" target="1879328273" label="To: Cisterns of Minas Tirith" from="-19.760733/-67.648315" to="54.065037/50.598827" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="0" target="1879326986" label="To: The Merry Swan" from="-19.785595/-66.979645" to="53.24381/67.21726" type="TO_DUNGEON"/>
 <link parentId="1879415444" contentLayerId="0" target="1879415453" label="To: Deluxe Premium House" from="-135.6343/-106.35949" to="-136.39983/-106.73929" type="TO_DUNGEON"/>
-<link parentId="1879326884" contentLayerId="0" target="1879328878" label="To: The Mûmak and Keep" from="-20.147177/-67.18655" to="55.033005/41.102245" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879051250" label="To: Weapons and Armour Shop" from="-134.21422/65.42234" to="53.278145/-50.816788" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879085887" label="To: The Lowbanks' Estate" from="-133.77605/64.201775" to="53.999725/-49.323563" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879232820" label="To: Artie Root's House" from="-133.43594/64.23275" to="-134.0371/63.57916" type="TO_DUNGEON"/>
+<link parentId="1879326884" contentLayerId="0" target="1879328878" label="To: The Mûmak and Keep" from="-20.147177/-67.18655" to="55.033005/41.102245" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879051248" label="To: The Cat Lady's House" from="-133.71526/65.02701" to="53.20871/-53.165764" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879085888" label="To: Scholar's Stair Archives" from="-133.24759/64.73404" to="53.971348/-50.90827" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879085888" label="To: Scholar's Stair Archives" from="-133.31253/64.802536" to="54.04998/-50.842934" type="TO_DUNGEON"/>
@@ -713,12 +713,12 @@
 <link parentId="1879063932" contentLayerId="268435481" target="1879048400" label="To: Mirkstone Tunnels" from="-104.9591/-14.613399" to="51.524414/76.12847" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879048488" label="To: Silver Deep Guard-house" from="-103.64419/-15.070449" to="53.163025/-25.143496" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879223137" label="To: The Keg-race of Thorin's Hall" from="-103.64353/-14.957187" to="54.38295/-111.00475" type="TO_DUNGEON"/>
-<link parentId="1879326884" contentLayerId="0" target="1879328874" label="To: Houses of Lore" from="-19.53794/-66.25495" to="54.58252/33.36497" type="TO_DUNGEON"/>
 <link parentId="1879063921" contentLayerId="0" target="1879092133" label="To: Sarnúr Great Hall" from="-103.31948/-20.608486" to="53.353455/64.3759" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879200631" label="To: Crafting Hall" from="-103.536736/-15.075088" to="51.69078/51.842598" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879048295" label="To: Thorin's Hall" from="-103.208046/-13.679502" to="47.574257/75.44818" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879162981" label="To: The Festival Arena" from="-103.306046/-13.763525" to="52.82742/-105.676056" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879190616" label="To: The Greenhouse" from="-102.959694/-13.785976" to="51.629257/74.85056" type="TO_DUNGEON"/>
+<link parentId="1879326884" contentLayerId="0" target="1879328874" label="To: Houses of Lore" from="-19.53794/-66.25495" to="54.58252/33.36497" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="268435481" target="1879051237" label="To: Rockbelly Pit" from="-102.52729/-15.848408" to="51.240505/75.28899" type="TO_DUNGEON"/>
 <link parentId="1879063932" contentLayerId="0" target="1879051237" label="To: Rockbelly Pit" from="-102.30006/-15.746044" to="51.107265/75.122696" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328476" label="To: Houses of Healing" from="-19.301025/-66.05074" to="53.61402/54.11611" type="TO_DUNGEON"/>
@@ -828,14 +828,14 @@
 <link parentId="1879098737" contentLayerId="0" target="1879102343" label="To: Deluxe House" from="-73.81141/-36.169014" to="43.320644/53.505623" type="TO_DUNGEON"/>
 <link parentId="1879064018" contentLayerId="0" target="1879048517" label="To: Gerebert's House" from="-72.34896/-33.552128" to="53.02873/-8.413242" type="TO_DUNGEON"/>
 <link parentId="1879102449" contentLayerId="0" target="1879111364" label="To: Great Lodge of Sûri-kylä" from="-71.99413/19.540195" to="50.717537/64.345505" type="TO_DUNGEON"/>
-<link parentId="1879326884" contentLayerId="2" target="1879329823" label="To: The House of Craft" from="-18.127304/-64.83831" to="56.400173/62.476387" type="TO_DUNGEON"/>
 <link parentId="1879064018" contentLayerId="0" target="1879048525" label="To: Great Smials" from="-71.13309/-33.60452" to="53.284237/-6.4746485" type="TO_DUNGEON"/>
 <link parentId="1879064018" contentLayerId="0" target="1879048509" label="To: Esilia's House" from="-71.08316/-33.044598" to="53.144375/-11.519228" type="TO_DUNGEON"/>
 <link parentId="1879064017" contentLayerId="0" target="1879048196" label="To: The Ivy Bush" from="-71.13417/-31.348934" to="-70.8582/-31.572655" type="TO_DUNGEON"/>
-<link parentId="1879326884" contentLayerId="0" target="1879328475" label="To: Upper Stores" from="-18.595585/-65.067795" to="53.5033/50.850544" type="TO_DUNGEON"/>
+<link parentId="1879326884" contentLayerId="2" target="1879329823" label="To: The House of Craft" from="-18.127304/-64.83831" to="56.400173/62.476387" type="TO_DUNGEON"/>
 <link parentId="1879064026" contentLayerId="0" target="1879051240" label="To: Bag End" from="-71.317215/-29.350195" to="54.187733/-33.061806" type="TO_DUNGEON"/>
 <link parentId="1879064026" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="-71.57563/-29.57746" to="51.684277/16.725176" type="TO_DUNGEON"/>
 <link parentId="1879064026" contentLayerId="0" target="1879223137" label="To: The Keg-race of Thorin's Hall" from="-71.21095/-29.823133" to="54.38295/-111.00475" type="TO_DUNGEON"/>
+<link parentId="1879326884" contentLayerId="0" target="1879328475" label="To: Upper Stores" from="-18.595585/-65.067795" to="53.5033/50.850544" type="TO_DUNGEON"/>
 <link parentId="1879326884" contentLayerId="2" target="1879328830" label="To: Forges of Cirion" from="-18.47455/-64.5012" to="53.02246/62.900993" type="TO_DUNGEON"/>
 <link parentId="1879064017" contentLayerId="0" target="1879048205" label="To: The Green Dragon" from="-69.63698/-31.804922" to="-69.45532/-32.971066" type="TO_DUNGEON"/>
 <link parentId="1879191260" contentLayerId="268435510" target="1879191259" label="To: Blackwold Camp" from="-67.18266/-34.546856" to="-68.074684/-34.33622" type="TO_DUNGEON"/>
@@ -907,10 +907,10 @@
 <link parentId="1879064015" contentLayerId="0" target="1879048557" label="To: The Prancing Pony" from="-51.286083/-29.526386" to="53.293613/1.0342871" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879048557" label="To: The Prancing Pony" from="-51.27912/-29.640635" to="53.151543/1.2117089" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879048557" label="To: The Prancing Pony" from="-51.25453/-29.604755" to="53.152107/1.0211035" type="TO_DUNGEON"/>
-<link parentId="1879326884" contentLayerId="2" target="1879328882" label="To: Clothiers' Fellow-hall" from="-17.98625/-66.254814" to="55.07504/62.800194" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879051230" label="To: Bree-town Auction Hall" from="-50.5936/-31.937069" to="53.047012/-48.623604" type="TO_DUNGEON"/>
 <link parentId="1879064015" contentLayerId="0" target="1879051230" label="To: Bree-town Auction Hall" from="-50.461433/-31.970097" to="52.954414/-48.52093" type="TO_DUNGEON"/>
 <link parentId="1879064012" contentLayerId="0" target="1879048542" label="To: Ellie Cutleaf's House" from="-50.574287/-28.136444" to="53.210075/-2.780664" type="TO_DUNGEON"/>
+<link parentId="1879326884" contentLayerId="2" target="1879328882" label="To: Clothiers' Fellow-hall" from="-17.98625/-66.254814" to="55.07504/62.800194" type="TO_DUNGEON"/>
 <link parentId="1879064013" contentLayerId="0" target="1879051235" label="To: Staddle Arms" from="-49.499218/-31.023066" to="-50.04712/-31.80831" type="TO_DUNGEON"/>
 <link parentId="1879064012" contentLayerId="0" target="1879048648" label="To: The Comb and Wattle Inn" from="-49.417862/-28.7083" to="54.318184/77.33978" type="TO_DUNGEON"/>
 <link parentId="1879064012" contentLayerId="0" target="1879048459" label="To: Training Hall" from="-49.312214/-28.742235" to="53.226776/-52.331596" type="TO_DUNGEON"/>
@@ -1110,10 +1110,10 @@
 <link parentId="1879324341" contentLayerId="268436135" target="1879323954" label="To: The Dome of Stars" from="-9.434677/63.403435" to="54.07445/31.220507" type="TO_DUNGEON"/>
 <link parentId="1879324341" contentLayerId="268436136" target="1879323954" label="To: The Dome of Stars" from="-9.434677/63.403435" to="54.07445/31.220507" type="TO_DUNGEON"/>
 <link parentId="1879320844" contentLayerId="0" target="1879323603" label="To: Osgiliath Culverts" from="-8.814209/-62.690796" to="53.204002/68.69019" type="TO_DUNGEON"/>
-<link parentId="1879320844" contentLayerId="0" target="1879323954" label="To: The Dome of Stars" from="-9.0859375/-61.52615" to="54.106873/30.92078" type="TO_DUNGEON"/>
 <link parentId="1879063946" contentLayerId="268435531" target="1879084147" label="To: Bávor Wyrm-brand's Tomb" from="0.8221191/-17.525625" to="1.6073339/-18.478184" type="TO_DUNGEON"/>
 <link parentId="1879063946" contentLayerId="268435531" target="1879084147" label="To: Bávor Wyrm-brand's Tomb" from="0.8590039/-17.724375" to="1.6073339/-18.478184" type="TO_DUNGEON"/>
 <link parentId="1879063946" contentLayerId="268435531" target="1879084147" label="To: Bávor Wyrm-brand's Tomb" from="0.7980957/-17.44621" to="1.6073339/-18.478184" type="TO_DUNGEON"/>
+<link parentId="1879320844" contentLayerId="0" target="1879323954" label="To: The Dome of Stars" from="-9.0859375/-61.52615" to="54.106873/30.92078" type="TO_DUNGEON"/>
 <link parentId="1879324341" contentLayerId="268436135" target="1879323954" label="To: The Dome of Stars" from="-9.085556/63.273727" to="54.106873/30.92078" type="TO_DUNGEON"/>
 <link parentId="1879324341" contentLayerId="268436136" target="1879323954" label="To: The Dome of Stars" from="-9.085556/63.273727" to="54.106873/30.92078" type="TO_DUNGEON"/>
 <link parentId="1879320844" contentLayerId="2" target="1879324061" label="To: Houses of Healing" from="-7.4446483/-62.0193" to="54.80002/67.43539" type="TO_DUNGEON"/>
@@ -1174,10 +1174,10 @@
 <link parentId="1879048687" contentLayerId="2" target="1879087594" label="To: The Eyes and Guard Tavern" from="51.31709/-117.96314" to="53.227146/-119.20778" type="TO_DUNGEON"/>
 <link parentId="1879048687" contentLayerId="0" target="1879087594" label="To: The Eyes and Guard Tavern" from="51.378475/-117.862755" to="53.607986/-121.052704" type="TO_DUNGEON"/>
 <link parentId="1879389689" contentLayerId="0" target="1879389689" label="To: Gorthad Nûr, the Deep-barrow" from="54.683884/60.599648" to="54.684334/60.613026" type="TO_DUNGEON"/>
-<link parentId="1879470534" contentLayerId="0" target="1879475844" label="To: The Bloody Eagle" from="-97.572945/-19.698565" to="54.93951/73.78045" type="TO_DUNGEON"/>
 <link parentId="1879198096" contentLayerId="0" target="1879198101" label="To: Sâri-surma" from="51.306854/9.557217" to="49.984688/12.382871" type="TO_DUNGEON"/>
 <link parentId="1879198101" contentLayerId="0" target="1879198096" label="To: Sâri-surma" from="49.978592/12.427148" to="51.233047/9.562998" type="TO_DUNGEON"/>
 <link parentId="1879198101" contentLayerId="2" target="1879198101" label="To: Sâri-surma" from="50.78947/11.6659565" to="49.984688/12.382871" type="TO_DUNGEON"/>
+<link parentId="1879470534" contentLayerId="0" target="1879475844" label="To: The Bloody Eagle" from="-97.572945/-19.698565" to="54.93951/73.78045" type="TO_DUNGEON"/>
 <link parentId="1879354367" contentLayerId="2" target="1879354365" label="To: Tower of Cirith Ungol" from="54.798515/70.81303" to="54.781364/70.79947" type="TO_DUNGEON"/>
 <link parentId="1879354365" contentLayerId="2" target="1879354367" label="To: Tower of Cirith Ungol" from="54.802635/70.7889" to="54.806973/70.81109" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="52.04242/16.800419" to="51.87084/16.768436" type="TO_DUNGEON"/>
@@ -1185,7 +1185,6 @@
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.85992/16.767754" to="51.739803/16.75411" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879191263" label="To: The Haunted Burrow" from="52.043633/16.733437" to="51.633633/16.85201" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879191262" label="To: The Haunted Burrow" from="51.80996/16.915302" to="51.685818/16.754824" type="TO_DUNGEON"/>
-<link parentId="1879470534" contentLayerId="0" target="1879475841" label="To: Ezôti's Flat" from="-97.31648/-18.29671" to="-146.00723/77.2083" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.636074/16.956581" to="51.638454/17.073124" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.75002/16.855703" to="51.638454/17.073124" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.734257/16.895283" to="51.87084/16.768436" type="TO_DUNGEON"/>
@@ -1207,6 +1206,7 @@
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.698338/17.216991" to="51.638454/17.073124" type="TO_DUNGEON"/>
 <link parentId="1879190927" contentLayerId="0" target="1879190927" label="To: The Haunted Burrow" from="51.67031/17.21747" to="51.87084/16.768436" type="TO_DUNGEON"/>
 <link parentId="1879185843" contentLayerId="0" target="1879185847" label="To: Zudrugund" from="51.081192/17.762138" to="52.569317/20.23247" type="TO_DUNGEON"/>
+<link parentId="1879470534" contentLayerId="0" target="1879475841" label="To: Ezôti's Flat" from="-97.31648/-18.29671" to="-146.00723/77.2083" type="TO_DUNGEON"/>
 <link parentId="1879185846" contentLayerId="0" target="1879185844" label="To: Minas Elendúr" from="52.037693/20.774765" to="52.25123/22.25535" type="TO_DUNGEON"/>
 <link parentId="1879185846" contentLayerId="0" target="1879185844" label="To: Minas Elendúr" from="52.318516/20.291426" to="52.456192/21.943213" type="TO_DUNGEON"/>
 <link parentId="1879185846" contentLayerId="0" target="1879185844" label="To: Minas Elendúr" from="52.194626/20.592852" to="52.040817/22.189785" type="TO_DUNGEON"/>
@@ -1308,19 +1308,19 @@
 <link parentId="1879466306" contentLayerId="0" target="1879470638" label="To: Nurlagam" from="-90.73652/-53.821365" to="-90.79939/-53.985287" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879473816" label="To: Windshear Styles" from="-89.44193/-69.45439" to="53.21078/-25.95912" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879473818" label="To: Dockside Apothecary" from="-89.62653/-69.35282" to="53.135487/-32.363056" type="TO_DUNGEON"/>
-<link parentId="1879470534" contentLayerId="0" target="1879475796" label="To: The Eastern Stores" from="-96.35592/-20.885292" to="54.714626/68.82523" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879473820" label="To: The Brew and Bounty" from="-89.382286/-69.09408" to="53.25998/-29.19002" type="TO_DUNGEON"/>
-<link parentId="1879466308" contentLayerId="0" target="1879473817" label="To: Training Hall" from="-88.86954/-70.509125" to="53.249783/-30.79993" type="TO_DUNGEON"/>
 <link parentId="1879399990" contentLayerId="268436504" target="1879399990" label="To: Spring of the Red Maid" from="53.1882/56.53676" to="53.188496/56.49967" type="TO_DUNGEON"/>
+<link parentId="1879466308" contentLayerId="0" target="1879473817" label="To: Training Hall" from="-88.86954/-70.509125" to="53.249783/-30.79993" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879470446" label="To: The Keep of Lond Cirion" from="-89.00535/-69.32512" to="-89.063866/-70.000435" type="TO_DUNGEON"/>
 <link parentId="1879092133" contentLayerId="0" target="1879092135" label="To: Sarnúr Keep" from="52.98283/65.80117" to="51.02002/65.19316" type="TO_DUNGEON"/>
 <link parentId="1879092133" contentLayerId="0" target="1879092138" label="To: Sarnúr Caverns" from="52.899216/65.05369" to="51.931484/64.99467" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879473819" label="To: The Library at Lond Cirion" from="-88.9149/-69.69325" to="53.269043/-27.601376" type="TO_DUNGEON"/>
+<link parentId="1879470534" contentLayerId="0" target="1879475796" label="To: The Eastern Stores" from="-96.35592/-20.885292" to="54.714626/68.82523" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879473815" label="To: Auction House" from="-89.00015/-68.63712" to="53.25076/-24.399755" type="TO_DUNGEON"/>
 <link parentId="1879466308" contentLayerId="0" target="1879470639" label="To: Loxhall" from="-88.07784/-66.382195" to="-88.44215/-66.80487" type="TO_DUNGEON"/>
 <link parentId="1879466314" contentLayerId="268436754" target="1879471172" label="To: The Wave-hunter" from="-87.82157/-62.298016" to="-88.38645/-62.79031" type="TO_DUNGEON"/>
-<link parentId="1879466306" contentLayerId="0" target="1879470592" label="To: The Keep of Ost Arndir - Lower Level" from="-84.845055/-53.24489" to="53.15998/-21.199453" type="TO_DUNGEON"/>
 <link parentId="1879457147" contentLayerId="0" target="1879102732" label="To: Laerdan's Chamber" from="54.021816/63.239902" to="50.81041/67.62662" type="TO_DUNGEON"/>
+<link parentId="1879466306" contentLayerId="0" target="1879470592" label="To: The Keep of Ost Arndir - Lower Level" from="-84.845055/-53.24489" to="53.15998/-21.199453" type="TO_DUNGEON"/>
 <link parentId="1879466306" contentLayerId="0" target="1879470591" label="To: The Keep of Ost Arndir - Upper Level" from="-84.400826/-53.42303" to="53.20041/-21.344248" type="TO_DUNGEON"/>
 <link parentId="1879457147" contentLayerId="0" target="1879358082" label="To: Tham Send, the Hall of Rest" from="53.871365/63.23787" to="50.81078/-21.93332" type="TO_DUNGEON"/>
 <link parentId="1879457147" contentLayerId="0" target="1879147416" label="To: Scholar's Guild-hall" from="53.921894/62.985134" to="51.648357/42.188885" type="TO_DUNGEON"/>
@@ -1361,10 +1361,10 @@
 <link parentId="1879101849" contentLayerId="0" target="1879101848" label="To: Goblin-town Tunnels" from="55.75662/-66.79992" to="55.76756/-67.49178" type="TO_DUNGEON"/>
 <link parentId="1879101645" contentLayerId="0" target="1879101642" label="To: Den of the Northern Army" from="54.757538/-68.07065" to="54.82121/-64.43791" type="TO_DUNGEON"/>
 <link parentId="1879101645" contentLayerId="0" target="1879101640" label="To: Goblin-town" from="56.554882/-68.11096" to="54.92496/-64.678856" type="TO_DUNGEON"/>
-<link parentId="1879466308" contentLayerId="0" target="1879470640" label="To: Hadorion's Cottage" from="-81.64572/-67.00097" to="-82.0013/-67.58574" type="TO_DUNGEON"/>
 <link parentId="1879101645" contentLayerId="0" target="1879101849" label="To: Goblin-town Tunnels" from="55.395527/-67.96554" to="55.394882/-68.602104" type="TO_DUNGEON"/>
 <link parentId="1879101645" contentLayerId="0" target="1879101849" label="To: Goblin-town Tunnels" from="55.76922/-68.03073" to="55.765194/-68.65522" type="TO_DUNGEON"/>
 <link parentId="1879101645" contentLayerId="0" target="1879101849" label="To: Goblin-town Tunnels" from="55.957264/-67.84314" to="55.95617/-68.485535" type="TO_DUNGEON"/>
+<link parentId="1879466308" contentLayerId="0" target="1879470640" label="To: Hadorion's Cottage" from="-81.64572/-67.00097" to="-82.0013/-67.58574" type="TO_DUNGEON"/>
 <link parentId="1879101644" contentLayerId="0" target="1879101849" label="To: Goblin-town Tunnels" from="54.911133/-66.28287" to="54.30818/-67.87223" type="TO_DUNGEON"/>
 <link parentId="1879101640" contentLayerId="0" target="1879101645" label="To: Goblin-town Tunnels" from="54.942127/-64.64953" to="56.512928/-68.10687" type="TO_DUNGEON"/>
 <link parentId="1879101642" contentLayerId="0" target="1879101645" label="To: Goblin-town Tunnels" from="54.803593/-64.404976" to="54.75506/-68.11304" type="TO_DUNGEON"/>
@@ -1493,17 +1493,17 @@
 <link parentId="1879407601" contentLayerId="0" target="1879407792" label="To: The Mûmak and Keep" from="-56.9458/20.812782" to="53.429802/41.101658" type="TO_DUNGEON"/>
 <link parentId="1879256896" contentLayerId="0" target="1879284917" label="To: Food Store-house" from="-82.13642/-62.54165" to="-82.10513/-62.994953" type="TO_DUNGEON"/>
 <link parentId="1879407601" contentLayerId="0" target="1879407791" label="To: The Merry Swan" from="-56.585594/21.020351" to="53.24381/67.21726" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="0" target="1879407783" label="To: Blue Theatre" from="-56.59191/21.45748" to="53.204727/25.778349" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="0" target="1879291169" label="To: Soothsayer Cave" from="-80.77464/-47.495068" to="-14.840605/-119.44407" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="0" target="1879278985" label="To: The Mud" from="-79.790504/-48.112747" to="-22.621698/-119.47026" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="0" target="1879278986" label="To: Woodhurst Tavern" from="-79.73939/-47.231148" to="-11.669706/-119.498276" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="2" target="1879277252" label="To: Woodhurst Mead Hall" from="-80.303375/-47.091694" to="-13.273643/-119.312965" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="0" target="1879407783" label="To: Blue Theatre" from="-56.59191/21.45748" to="53.204727/25.778349" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="0" target="1879277486" label="To: Herubrand's Hideout" from="-79.24702/-46.854652" to="-16.333155/-119.64549" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="0" target="1879278984" label="To: General Store" from="-79.406525/-47.20046" to="-21.144375/-119.41396" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="2" target="1879407795" label="To: The Thirsty Seer" from="-56.53731/21.81876" to="53.33412/27.499228" type="TO_DUNGEON"/>
 <link parentId="1879256895" contentLayerId="2" target="1879277807" label="To: Brockbridge Mead Hall" from="-77.67553/-51.014843" to="-18.057451/-119.453354" type="TO_DUNGEON"/>
 <link parentId="1879109910" contentLayerId="0" target="1879144820" label="To: Ghâr-bayur" from="-77.86804/-13.469746" to="54.68486/49.948925" type="TO_DUNGEON"/>
 <link parentId="1879410822" contentLayerId="0" target="1879422155" label="To: Thyrstáth" from="-77.0/45.46795" to="-76.98576/45.203865" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="2" target="1879407795" label="To: The Thirsty Seer" from="-56.53731/21.81876" to="53.33412/27.499228" type="TO_DUNGEON"/>
 <link parentId="1879410822" contentLayerId="0" target="1879422240" label="To: Draurákh" from="-76.82132/48.847107" to="-77.0498/48.968105" type="TO_DUNGEON"/>
 <link parentId="1879456564" contentLayerId="2" target="1879475536" label="To: Vault" from="-55.807842/-67.05228" to="54.799843/-35.634792" type="TO_DUNGEON"/>
 <link parentId="1879252019" contentLayerId="0" target="1879263225" label="To: Tavern" from="-74.32225/-60.704613" to="49.99988/-20.391943" type="TO_DUNGEON"/>
@@ -1533,7 +1533,6 @@
 <link parentId="1879063919" contentLayerId="0" target="1879231859" label="To: Tatwine's House" from="-72.47537/-99.96488" to="53.20154/-10.794814" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879231859" label="To: Tatwine's House" from="-72.53062/-99.99991" to="53.20154/-10.794814" type="TO_DUNGEON"/>
 <link parentId="1879252019" contentLayerId="0" target="1879253578" label="To: Meduseld" from="-72.80136/-62.354828" to="-73.20628/-62.388935" type="TO_DUNGEON"/>
-<link parentId="1879456564" contentLayerId="0" target="1879465383" label="To: Galengam's Divine and Delicate Draughts" from="-56.18707/-67.20475" to="54.819294/-24.162695" type="TO_DUNGEON"/>
 <link parentId="1879253578" contentLayerId="0" target="1879278674" label="To: Éowyn's Quarters" from="-73.0704/-62.853806" to="48.399746/-30.122314" type="TO_DUNGEON"/>
 <link parentId="1879252019" contentLayerId="0" target="1879283256" label="To: Signoth's Estate" from="-72.49055/-61.022026" to="48.416836/-18.360664" type="TO_DUNGEON"/>
 <link parentId="1879252019" contentLayerId="2" target="1879267569" label="To: Gríma's Quarters" from="-72.49042/-61.177647" to="48.401443/-25.228144" type="TO_DUNGEON"/>
@@ -1542,6 +1541,7 @@
 <link parentId="1879256900" contentLayerId="0" target="1879283162" label="To: Mágla's Home" from="-72.542885/-53.879944" to="48.403164/-20.38831" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="2" target="1879282500" label="To: Middlemead Mead Hall" from="-73.00277/-53.438534" to="49.94242/34.14664" type="TO_DUNGEON"/>
 <link parentId="1879410822" contentLayerId="0" target="1879422235" label="To: Bagud-dum" from="-72.54642/44.120937" to="-73.30005/44.394432" type="TO_DUNGEON"/>
+<link parentId="1879456564" contentLayerId="0" target="1879465383" label="To: Galengam's Divine and Delicate Draughts" from="-56.18707/-67.20475" to="54.819294/-24.162695" type="TO_DUNGEON"/>
 <link parentId="1879456564" contentLayerId="2" target="1879310672" label="To: Candúr's Hideout" from="-55.604794/-64.9355" to="52.882713/75.824234" type="TO_DUNGEON"/>
 <link parentId="1879407601" contentLayerId="2" target="1879407793" label="To: The Splintered Shield" from="-55.601933/20.605206" to="55.024178/27.499697" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="2" target="1879284882" label="To: Gurz-shâpol" from="-71.74578/-69.61221" to="48.396053/-17.12412" type="TO_DUNGEON"/>
@@ -1553,15 +1553,13 @@
 <link parentId="1879063919" contentLayerId="0" target="1879284913" label="To: Marton Cellar" from="-72.35574/76.96756" to="-86.768005/-56.22038" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284915" label="To: Marton Cellar" from="-71.76032/77.05295" to="-85.396484/-56.289368" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284914" label="To: Marton Mead Hall" from="-71.989204/76.8359" to="-86.161095/-56.891903" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="0" target="1879407788" label="To: High Stables Interior" from="-55.644333/22.648973" to="53.23295/34.65451" type="TO_DUNGEON"/>
 <link parentId="1879399333" contentLayerId="268435473" target="1879401200" label="To: Look-out Tower" from="-71.34104/-67.31025" to="48.028027/77.18045" type="TO_DUNGEON"/>
 <link parentId="1879399333" contentLayerId="268435473" target="1879401200" label="To: Look-out Tower" from="-71.49239/-67.33566" to="48.046425/77.09365" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="0" target="1879407786" label="To: Southern Great Guest-house" from="-55.85288/22.183886" to="53.100586/31.811132" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="0" target="1879407788" label="To: High Stables Interior" from="-55.644333/22.648973" to="53.23295/34.65451" type="TO_DUNGEON"/>
 <link parentId="1879399333" contentLayerId="0" target="1879401199" label="To: Deluxe Premium House" from="-71.02873/-67.17835" to="48.425213/77.254135" type="TO_DUNGEON"/>
 <link parentId="1879399333" contentLayerId="0" target="1879401199" label="To: Deluxe Premium House" from="-71.03759/-67.27652" to="48.30256/77.1868" type="TO_DUNGEON"/>
 <link parentId="1879399333" contentLayerId="0" target="1879401200" label="To: Look-out Tower" from="-71.340324/-67.310074" to="48.028027/77.18045" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="0" target="1879407790" label="To: Merethrond - Banquet Hall" from="-55.93382/22.662655" to="53.10008/30.066816" type="TO_DUNGEON"/>
-<link parentId="1879407601" contentLayerId="268436399" target="1879407790" label="To: Merethrond - Banquet Hall" from="-55.93382/22.662655" to="53.10008/30.066816" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="0" target="1879407786" label="To: Southern Great Guest-house" from="-55.85288/22.183886" to="53.100586/31.811132" type="TO_DUNGEON"/>
 <link parentId="1879399332" contentLayerId="0" target="1879401198" label="To: Deluxe Premium House" from="-70.93992/-59.27156" to="48.425213/78.827225" type="TO_DUNGEON"/>
 <link parentId="1879399332" contentLayerId="0" target="1879401198" label="To: Deluxe Premium House" from="-70.950096/-59.353306" to="48.522755/78.78816" type="TO_DUNGEON"/>
 <link parentId="1879399332" contentLayerId="0" target="1879402074" label="To: Deluxe Premium House - Barn" from="-70.94142/-59.092426" to="48.40414/78.99318" type="TO_DUNGEON"/>
@@ -1571,6 +1569,8 @@
 <link parentId="1879399332" contentLayerId="0" target="1879401198" label="To: Deluxe Premium House" from="-71.201515/-56.850822" to="48.522755/78.78816" type="TO_DUNGEON"/>
 <link parentId="1879399332" contentLayerId="0" target="1879401198" label="To: Deluxe Premium House" from="-71.137955/-56.798187" to="48.425213/78.827225" type="TO_DUNGEON"/>
 <link parentId="1879399332" contentLayerId="0" target="1879402074" label="To: Deluxe Premium House - Barn" from="-71.06414/-56.758163" to="48.40414/78.99318" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="0" target="1879407790" label="To: Merethrond - Banquet Hall" from="-55.93382/22.662655" to="53.10008/30.066816" type="TO_DUNGEON"/>
+<link parentId="1879407601" contentLayerId="268436399" target="1879407790" label="To: Merethrond - Banquet Hall" from="-55.93382/22.662655" to="53.10008/30.066816" type="TO_DUNGEON"/>
 <link parentId="1879457229" contentLayerId="0" target="1879457394" label="To: Premium Kinship House" from="-71.031395/25.014091" to="41.199978/79.05888" type="TO_DUNGEON"/>
 <link parentId="1879457229" contentLayerId="0" target="1879457394" label="To: Premium Kinship House" from="-71.033936/24.784668" to="41.19957/78.732086" type="TO_DUNGEON"/>
 <link parentId="1879457229" contentLayerId="0" target="1879457394" label="To: Premium Kinship House" from="-71.300285/24.93658" to="40.925194/78.85871" type="TO_DUNGEON"/>
@@ -1710,10 +1710,9 @@
 <link parentId="1879384450" contentLayerId="0" target="1879388665" label="To: Shathur-munzu" from="-63.672344/-5.592627" to="43.9134/-61.03621" type="TO_DUNGEON"/>
 <link parentId="1879256898" contentLayerId="0" target="1879267137" label="To: Aldburg Armoury" from="-63.450546/-69.502914" to="48.40043/-23.67959" type="TO_DUNGEON"/>
 <link parentId="1879256898" contentLayerId="0" target="1879291310" label="To: Aldburg Barber" from="-63.47868/-69.070885" to="45.48623/-111.620514" type="TO_DUNGEON"/>
-<link parentId="1879456569" contentLayerId="0" target="1879461249" label="To: Hall of Ost Anglebed" from="-39.157597/-78.489975" to="53.243767/75.22068" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231810" label="To: Wada's House" from="-63.578407/-26.47748" to="53.20158/3.6230469" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231629" label="To: Supplier's Home" from="-63.45397/-26.436562" to="53.19922/0.3752539" type="TO_DUNGEON"/>
-<link parentId="1879456569" contentLayerId="0" target="1879461250" label="To: Prison" from="-38.86995/-78.6172" to="53.40793/74.055954" type="TO_DUNGEON"/>
+<link parentId="1879456569" contentLayerId="0" target="1879461249" label="To: Hall of Ost Anglebed" from="-39.157597/-78.489975" to="53.243767/75.22068" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231859" label="To: Tatwine's House" from="-63.317207/-26.24586" to="53.20154/-10.794814" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879229009" label="To: Stangard Jail" from="-62.983387/-26.193857" to="53.52039/17.550694" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879230185" label="To: Skirmish Hall" from="-63.193398/-26.377031" to="53.201015/16.491934" type="TO_DUNGEON"/>
@@ -1721,6 +1720,7 @@
 <link parentId="1879232928" contentLayerId="0" target="1879231809" label="To: Dunstan's House" from="-63.32823/-26.017225" to="53.19617/-4.388506" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231629" label="To: Supplier's Home" from="-63.50543/-26.410135" to="53.202087/0.4167578" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879232929" label="To: Stangard Stables" from="-63.062263/-26.45329" to="53.19957/5.2225294" type="TO_DUNGEON"/>
+<link parentId="1879456569" contentLayerId="0" target="1879461250" label="To: Prison" from="-38.86995/-78.6172" to="53.40793/74.055954" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231858" label="To: Sabert's House" from="-63.595566/-25.219862" to="53.187225/-6.026084" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879230295" label="To: Stangard Tavern" from="-63.319336/-25.41836" to="53.19957/11.725898" type="TO_DUNGEON"/>
 <link parentId="1879232928" contentLayerId="0" target="1879231275" label="To: Stangard Kennel" from="-63.11215/-25.91998" to="53.200996/6.804785" type="TO_DUNGEON"/>
@@ -1828,7 +1828,6 @@
 <link parentId="1879456571" contentLayerId="0" target="1879461816" label="To: Sirgon's Manor" from="-32.635635/-82.52916" to="-33.17245/-82.650955" type="TO_DUNGEON"/>
 <link parentId="1879222976" contentLayerId="0" target="1879232077" label="To: Ost Celebrant Ruins" from="-56.788006/-30.918993" to="-57.32504/-31.521435" type="TO_DUNGEON"/>
 <link parentId="1879456571" contentLayerId="0" target="1879461816" label="To: Sirgon's Manor" from="-32.53708/-82.749214" to="-33.019814/-82.99365" type="TO_DUNGEON"/>
-<link parentId="1879478783" contentLayerId="0" target="1879478496" label="To: TBD - RAID - FLOODED SHIPYARD" from="-145.99986/67.45621" to="-146.00395/69.43332" type="TO_DUNGEON"/>
 <link parentId="1879152194" contentLayerId="0" target="1879154457" label="To: Agistath" from="-56.455585/-11.699609" to="54.797146/-94.93472" type="TO_DUNGEON"/>
 <link parentId="1879387598" contentLayerId="0" target="1879387595" label="To: Avabárg" from="-57.08825/5.291396" to="53.200233/54.822067" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="0" target="1879255315" label="To: House" from="-55.99878/-58.232883" to="41.202637/-34.78905" type="TO_DUNGEON"/>
@@ -1836,13 +1835,13 @@
 <link parentId="1879231079" contentLayerId="0" target="1879255325" label="To: House" from="-56.05631/-57.800884" to="44.39492/-34.78703" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="0" target="1879255318" label="To: House" from="-55.944286/-57.393856" to="46.321365/-35.248848" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="0" target="1879255319" label="To: House" from="-56.00785/-57.306683" to="47.577557/-34.67634" type="TO_DUNGEON"/>
-<link parentId="1879478496" contentLayerId="0" target="1879478783" label="To: TBD - RAID - BELENDOR'S TOWER" from="-146.00186/69.45687" to="-146.00055/67.47381" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="0" target="1879255324" label="To: House" from="-56.03694/-56.9661" to="49.244297/-34.636356" type="TO_DUNGEON"/>
-<link parentId="1879478496" contentLayerId="0" target="1879478181" label="To: TBD - RAID - ENTRANCE" from="-146.30054/69.18441" to="-145.87607/72.40053" type="TO_DUNGEON"/>
+<link parentId="1879478783" contentLayerId="0" target="1879478496" label="To: TBD - RAID - FLOODED SHIPYARD" from="-145.99986/67.45621" to="-146.00395/69.43332" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879245350" label="To: Sahard's Farm" from="-56.256855/-54.184956" to="50.04541/10.163632" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879245349" label="To: Sahard's Barn" from="-56.224922/-54.24645" to="50.027363/8.402627" type="TO_DUNGEON"/>
+<link parentId="1879478496" contentLayerId="0" target="1879478783" label="To: TBD - RAID - BELENDOR'S TOWER" from="-146.00186/69.45687" to="-146.00055/67.47381" type="TO_DUNGEON"/>
+<link parentId="1879478496" contentLayerId="0" target="1879478181" label="To: TBD - RAID - ENTRANCE" from="-146.30054/69.18441" to="-145.87607/72.40053" type="TO_DUNGEON"/>
 <link parentId="1879478486" contentLayerId="0" target="1879478486" label="To: TBD - RAID - SHIPYARD" from="-146.00186/71.05688" to="-146.00395/71.03332" type="TO_DUNGEON"/>
-<link parentId="1879478486" contentLayerId="0" target="1879478181" label="To: TBD - RAID - ENTRANCE" from="-146.30054/70.78442" to="-145.87607/72.40053" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879246485" label="To: The Reeve's Kitchen" from="-56.04819/-43.069946" to="49.990234/-2.7766697" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879246522" label="To: Ordwacer's Home" from="-56.21248/-43.04895" to="50.04541/-4.23625" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879248094" label="To: Inhild's Home" from="-56.375935/-43.294193" to="50.010136/-5.947373" type="TO_DUNGEON"/>
@@ -1859,17 +1858,18 @@
 <link parentId="1879231079" contentLayerId="0" target="1879255321" label="To: Mead Hall" from="-55.355206/-57.49122" to="39.44758/-35.015057" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879245618" label="To: Cliving Jail" from="-55.418514/-43.081966" to="49.98482/5.312666" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879246005" label="To: Mead Hall of Cliving" from="-55.47359/-42.99578" to="49.875584/3.3711913" type="TO_DUNGEON"/>
-<link parentId="1879478181" contentLayerId="0" target="1879478486" label="To: TBD - RAID - SHIPYARD" from="-145.85822/72.40203" to="-146.27933/70.79004" type="TO_DUNGEON"/>
-<link parentId="1879462982" contentLayerId="0" target="1879461253" label="To: Great Hall of Tumladen" from="-30.605839/-75.80943" to="-30.75622/-76.7851" type="TO_DUNGEON"/>
+<link parentId="1879478486" contentLayerId="0" target="1879478181" label="To: TBD - RAID - ENTRANCE" from="-146.30054/70.78442" to="-145.87607/72.40053" type="TO_DUNGEON"/>
 <link parentId="1879231080" contentLayerId="0" target="1879253222" label="To: Farm Homestead" from="-55.300194/-33.5087" to="50.15748/-107.05822" type="TO_DUNGEON"/>
+<link parentId="1879462982" contentLayerId="0" target="1879461253" label="To: Great Hall of Tumladen" from="-30.605839/-75.80943" to="-30.75622/-76.7851" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="2" target="1879244936" label="To: Mead Hall of Walstow" from="-54.11493/-62.288055" to="-146.00201/-35.67237" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="2" target="1879244892" label="To: Winsig's House" from="-54.404198/-62.241077" to="-145.99683/-37.18831" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="2" target="1879244890" label="To: Hubryt's House" from="-54.542988/-62.086414" to="-144.39442/-35.601513" type="TO_DUNGEON"/>
 <link parentId="1879231079" contentLayerId="0" target="1879244886" label="To: Walstow Legendary Services" from="-54.416756/-62.726112" to="-144.39442/-37.20151" type="TO_DUNGEON"/>
-<link parentId="1879456572" contentLayerId="0" target="1879464251" label="To: Roaring Cavern" from="-30.486464/-74.1271" to="-30.800184/-75.01133" type="TO_DUNGEON"/>
+<link parentId="1879478181" contentLayerId="0" target="1879478486" label="To: TBD - RAID - SHIPYARD" from="-145.85822/72.40203" to="-146.27933/70.79004" type="TO_DUNGEON"/>
 <link parentId="1879231080" contentLayerId="0" target="1879243895" label="To: Dwolung Hole" from="-54.620274/-40.743084" to="43.558243/-105.13155" type="TO_DUNGEON"/>
 <link parentId="1879384447" contentLayerId="0" target="1879387149" label="To: Fil Sulmog" from="-54.132313/8.234776" to="44.028477/-59.411312" type="TO_DUNGEON"/>
 <link parentId="1879400521" contentLayerId="0" target="1879406844" label="To: Tithroz" from="-54.23454/17.616425" to="51.597694/34.079063" type="TO_DUNGEON"/>
+<link parentId="1879456572" contentLayerId="0" target="1879464251" label="To: Roaring Cavern" from="-30.486464/-74.1271" to="-30.800184/-75.01133" type="TO_DUNGEON"/>
 <link parentId="1879231078" contentLayerId="0" target="1879248938" label="To: Randgar's Home" from="-53.76878/-44.255623" to="49.99498/-9.190469" type="TO_DUNGEON"/>
 <link parentId="1879231080" contentLayerId="0" target="1879240968" label="To: Mead Hall of Langhold" from="-53.374863/-36.13621" to="52.24703/-119.01539" type="TO_DUNGEON"/>
 <link parentId="1879231080" contentLayerId="0" target="1879245998" label="To: Ransacked Home" from="-53.36245/-35.770546" to="51.597187/-103.86437" type="TO_DUNGEON"/>
@@ -1898,8 +1898,8 @@
 <link parentId="1879256451" contentLayerId="0" target="1879253230" label="To: Harwick General Store" from="-52.144382/-38.91368" to="48.513515/-107.150665" type="TO_DUNGEON"/>
 <link parentId="1879256451" contentLayerId="0" target="1879253228" label="To: Harwick Quartermaster Shop" from="-52.373337/-39.203213" to="51.78041/-107.12905" type="TO_DUNGEON"/>
 <link parentId="1879256451" contentLayerId="0" target="1879253226" label="To: Fisherman's Shop" from="-51.968857/-39.078495" to="55.09246/-106.99532" type="TO_DUNGEON"/>
-<link parentId="1879462983" contentLayerId="0" target="1879461251" label="To: Hall of the Gentle Hand" from="-25.556406/-73.21611" to="-25.585976/-73.08388" type="TO_DUNGEON"/>
 <link parentId="1879231075" contentLayerId="0" target="1879250332" label="To: The Under-wall" from="-51.123943/-54.97686" to="-51.210983/-54.71614" type="TO_DUNGEON"/>
+<link parentId="1879462983" contentLayerId="0" target="1879461251" label="To: Hall of the Gentle Hand" from="-25.556406/-73.21611" to="-25.585976/-73.08388" type="TO_DUNGEON"/>
 <link parentId="1879462983" contentLayerId="0" target="1879464349" label="To: Imloth Melui Warehouse" from="-25.211533/-73.50861" to="-26.042744/-73.93711" type="TO_DUNGEON"/>
 <link parentId="1879192400" contentLayerId="0" target="1879162305" label="To: Gadorgar" from="-51.410633/-14.623545" to="56.38916/10.07331" type="TO_DUNGEON"/>
 <link parentId="1879192400" contentLayerId="0" target="1879167018" label="To: Crafting Hall" from="-51.065926/-14.541493" to="56.241386/6.5808396" type="TO_DUNGEON"/>
@@ -1935,10 +1935,10 @@
 <link parentId="1879462983" contentLayerId="0" target="1879463578" label="To: Imloth Melui Guard-house" from="-24.272148/-73.12872" to="-24.399609/-73.126884" type="TO_DUNGEON"/>
 <link parentId="1879289542" contentLayerId="0" target="1879297032" label="To: Great Hall of the Hornburg" from="-32.726357/68.888824" to="-32.45627/69.218025" type="TO_DUNGEON"/>
 <link parentId="1879289542" contentLayerId="0" target="1879297032" label="To: Great Hall of the Hornburg" from="-32.80708/68.78246" to="-32.35164/68.66203" type="TO_DUNGEON"/>
-<link parentId="1879462983" contentLayerId="0" target="1879461252" label="To: Hall of Lady Vanyalos" from="-23.002705/-72.98807" to="-23.60084/-72.88893" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284912" label="To: Marton Cellar" from="-28.84041/76.173965" to="-86.77166/-57.01136" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284913" label="To: Marton Cellar" from="-29.15574/76.96756" to="-86.768005/-56.22038" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284915" label="To: Marton Cellar" from="-28.560331/77.05295" to="-85.396484/-56.289368" type="TO_DUNGEON"/>
+<link parentId="1879462983" contentLayerId="0" target="1879461252" label="To: Hall of Lady Vanyalos" from="-23.002705/-72.98807" to="-23.60084/-72.88893" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284914" label="To: Marton Mead Hall" from="-28.789207/76.8359" to="-86.161095/-56.891903" type="TO_DUNGEON"/>
 <link parentId="1879362296" contentLayerId="0" target="1879364722" label="To: Burnwater House" from="-26.85081/17.077549" to="51.529335/75.70189" type="TO_DUNGEON"/>
 <link parentId="1879362296" contentLayerId="0" target="1879364716" label="To: Lake-town Trading Hall" from="-27.216347/17.122421" to="51.640427/76.79992" type="TO_DUNGEON"/>
@@ -1982,18 +1982,18 @@
 <link parentId="1879334675" contentLayerId="2" target="1879328273" label="To: Cisterns of Minas Tirith" from="-19.025303/-67.662315" to="54.498318/50.016834" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="2" target="1879330366" label="To: The Splintered Shield" from="-18.803623/-67.39512" to="55.025234/27.499775" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879328706" label="To: Middle Stores" from="-19.295126/-66.89718" to="52.791504/64.19976" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879335461" label="To: Houses of Lore" from="-19.53794/-66.25495" to="54.58252/33.36497" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284912" label="To: Marton Cellar" from="-14.44041/76.173965" to="-86.77166/-57.01136" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284913" label="To: Marton Cellar" from="-14.755742/76.96756" to="-86.768005/-56.22038" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284915" label="To: Marton Cellar" from="-14.160332/77.05295" to="-85.396484/-56.289368" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879335461" label="To: Houses of Lore" from="-19.53794/-66.25495" to="54.58252/33.36497" type="TO_DUNGEON"/>
 <link parentId="1879063919" contentLayerId="0" target="1879284914" label="To: Marton Mead Hall" from="-14.389209/76.8359" to="-86.161095/-56.891903" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="2" target="1879335458" label="To: House of Remedies" from="-19.301025/-66.05074" to="53.61402/54.11611" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879334979" label="To: House of Rest" from="-19.35334/-66.015236" to="56.096855/77.336876" type="TO_DUNGEON"/>
 <link parentId="1879368364" contentLayerId="0" target="1879379374" label="To: Olin's Forge" from="-11.303144/31.18493" to="54.62123/-87.609474" type="TO_DUNGEON"/>
 <link parentId="1879368364" contentLayerId="0" target="1879368835" label="To: Járnfast" from="-3.4568455/28.488085" to="52.604805/48.52543" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879334978" label="To: The High Hall" from="-18.99245/-66.04441" to="56.53068/78.76459" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879334979" label="To: House of Rest" from="-19.35334/-66.015236" to="56.096855/77.336876" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="12.092891/31.253319" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="12.094794/31.255428" to="43.343555/57.28465" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879334978" label="To: The High Hall" from="-18.99245/-66.04441" to="56.53068/78.76459" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="11.777139/32.04534" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="12.268056/31.962196" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="11.779668/32.044052" to="43.343555/57.28465" type="TO_DUNGEON"/>
@@ -2006,11 +2006,10 @@
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="12.887841/31.060741" to="43.343555/57.28465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="12.540088/32.122295" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="12.541387/32.124813" to="43.343555/57.28465" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879328879" label="To: Tower of Ecthelion" from="-19.255762/-65.60523" to="55.26289/47.595154" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="12.808456/32.56833" to="41.24162/58.17465" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879335465" label="To: Dome of the Sun" from="-18.83543/-65.238434" to="54.80039/49.069412" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879328879" label="To: Tower of Ecthelion" from="-19.255762/-65.60523" to="55.26289/47.595154" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="12.806924/32.570713" to="43.343555/57.28465" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879335462" label="To: High Stables of Minas Tirith" from="-18.844336/-65.35102" to="54.832947/34.65451" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879335465" label="To: Dome of the Sun" from="-18.83543/-65.238434" to="54.80039/49.069412" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="13.844423/31.333534" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="0" target="1879102311" label="To: Standard House" from="13.5689745/31.044716" to="41.24162/58.17465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="13.842314/31.33544" to="43.343555/57.28465" type="TO_DUNGEON"/>
@@ -2025,6 +2024,7 @@
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="13.830263/32.526394" to="43.343555/57.28465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="13.31207/32.981552" to="43.343555/57.28465" type="TO_DUNGEON"/>
 <link parentId="1879256900" contentLayerId="268435473" target="1879102346" label="To: Deluxe House" from="13.860801/32.9966" to="43.343555/57.28465" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879335462" label="To: High Stables of Minas Tirith" from="-18.844336/-65.35102" to="54.832947/34.65451" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879341325" label="To: Hall of the King" from="-19.234638/-65.590744" to="55.259686/14.795234" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879335471" label="To: The Haven" from="-18.08335/-66.73301" to="56.399414/64.52359" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879335464" label="To: The Old Archives" from="-18.38214/-65.594406" to="54.720215/39.489315" type="TO_DUNGEON"/>
@@ -2037,9 +2037,9 @@
 <link parentId="1879388665" contentLayerId="268436463" target="1879409237" label="To: Annâk-khurfu" from="43.93996/-61.042904" to="47.57549/69.32572" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879393500" label="To: The Eagle and Star" from="-17.40128/-66.66218" to="56.32715/59.496307" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="2" target="1879335468" label="To: Old Guest-house" from="-16.955029/-66.38899" to="54.62113/66.012596" type="TO_DUNGEON"/>
-<link parentId="1879334675" contentLayerId="0" target="1879335463" label="To: City Stables of Minas Tirith" from="-16.972939/-65.60012" to="54.84404/36.299248" type="TO_DUNGEON"/>
 <link parentId="1879253539" contentLayerId="0" target="1879253456" label="To: Harwick Barracks" from="45.208828/-106.799255" to="47.366016/-105.266685" type="TO_DUNGEON"/>
 <link parentId="1879438603" contentLayerId="0" target="1879422284" label="To: Shakhajât Throne-room" from="44.966015/53.39955" to="47.02709/53.384766" type="TO_DUNGEON"/>
+<link parentId="1879334675" contentLayerId="0" target="1879335463" label="To: City Stables of Minas Tirith" from="-16.972939/-65.60012" to="54.84404/36.299248" type="TO_DUNGEON"/>
 <link parentId="1879334675" contentLayerId="0" target="1879328876" label="To: City Stables of Minas Tirith" from="-16.868145/-65.556076" to="54.599297/36.315548" type="TO_DUNGEON"/>
 <link parentId="1879339141" contentLayerId="0" target="1879327487" label="To: Hall of Crithost" from="-16.021465/-53.532784" to="-16.351444/-54.233925" type="TO_DUNGEON"/>
 <link parentId="1879334685" contentLayerId="0" target="1879339255" label="To: Círgalar" from="-12.668701/-51.127186" to="54.72039/19.793749" type="TO_DUNGEON"/>
@@ -2048,8 +2048,8 @@
 <link parentId="1879063919" contentLayerId="0" target="1879322487" label="To: Abandoned Vault" from="-11.174824/-76.11895" to="53.00025/70.76406" type="TO_DUNGEON"/>
 <link parentId="1879443658" contentLayerId="268436646" target="1879443657" label="To: Caverns of Clovengap" from="46.900684/47.41541" to="45.30902/51.075897" type="TO_DUNGEON"/>
 <link parentId="1879443657" contentLayerId="268436646" target="1879443658" label="To: The Hiddenhoard of Abnankâra" from="45.308907/51.114704" to="46.904922/47.465157" type="TO_DUNGEON"/>
-<link parentId="1879334677" contentLayerId="0" target="1879339574" label="To: Palace of Eldacar" from="-11.245313/-61.16403" to="56.604843/72.175934" type="TO_DUNGEON"/>
 <link parentId="1879443657" contentLayerId="268436646" target="1879443658" label="To: The Hiddenhoard of Abnankâra" from="45.330994/49.358418" to="46.904922/47.465157" type="TO_DUNGEON"/>
+<link parentId="1879334677" contentLayerId="0" target="1879339574" label="To: Palace of Eldacar" from="-11.245313/-61.16403" to="56.604843/72.175934" type="TO_DUNGEON"/>
 <link parentId="1879422284" contentLayerId="0" target="1879438603" label="To: Shakhajât" from="47.025818/53.41375" to="44.96629/53.420254" type="TO_DUNGEON"/>
 <link parentId="1879418730" contentLayerId="0" target="1879418730" label="To: Hives of Brúvraum" from="46.71035/55.993553" to="46.710117/56.01463" type="TO_DUNGEON"/>
 <link parentId="1879418494" contentLayerId="2" target="1879418494" label="To: Kallamdâm" from="46.62781/57.99994" to="46.65742/58.000683" type="TO_DUNGEON"/>
@@ -2108,9 +2108,9 @@
 <link parentId="1879389185" contentLayerId="0" target="1879393871" label="To: Barad Arthir, the Lofty Watch-fort" from="1.0545899/-67.131836" to="56.4141/55.222343" type="TO_DUNGEON"/>
 <link parentId="1879389185" contentLayerId="0" target="1879395610" label="To: The Altar of Despair" from="0.9876172/-67.56848" to="56.083965/50.000057" type="TO_DUNGEON"/>
 <link parentId="1879261116" contentLayerId="0" target="1879261116" label="To: Prison" from="49.909824/-16.49499" to="49.945038/-17.19839" type="TO_DUNGEON"/>
-<link parentId="1879389185" contentLayerId="268436368" target="1879393870" label="To: Barad Elenath, the Star-gazers' Spire" from="0.91292965/-66.816246" to="56.416817/58.289333" type="TO_DUNGEON"/>
 <link parentId="1879261116" contentLayerId="0" target="1879261116" label="To: Prison" from="49.94301/-17.198477" to="49.911854/-16.494902" type="TO_DUNGEON"/>
 <link parentId="1879260995" contentLayerId="0" target="1879260995" label="To: Aldburg Auction Hall" from="50.07338/-15.726787" to="50.070213/-15.728183" type="TO_DUNGEON"/>
+<link parentId="1879389185" contentLayerId="268436368" target="1879393870" label="To: Barad Elenath, the Star-gazers' Spire" from="0.91292965/-66.816246" to="56.416817/58.289333" type="TO_DUNGEON"/>
 <link parentId="1879389185" contentLayerId="0" target="1879393870" label="To: Barad Elenath, the Star-gazers' Spire" from="0.6125097/-66.73967" to="56.415684/58.420856" type="TO_DUNGEON"/>
 <link parentId="1879389185" contentLayerId="0" target="1879393872" label="To: Barad Orhant, the Tower of the Treegarth" from="0.53527343/-66.11071" to="56.41455/53.623005" type="TO_DUNGEON"/>
 <link parentId="1879260472" contentLayerId="0" target="1879260472" label="To: Aldburg Skirmish Hall" from="50.066387/-14.087119" to="50.066387/-14.094785" type="TO_DUNGEON"/>

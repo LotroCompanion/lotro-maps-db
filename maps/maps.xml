@@ -510,49 +510,49 @@
 <min longitude="-93.32716" latitude="-66.817116"/>
 <max longitude="-84.70108" latitude="-60.347553"/>
 </map>
-<map id="268450268" name="" imageId="1091814179">
+<map id="268450268" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-108.52717" latitude="72.45244"/>
 </geo>
 <min longitude="-108.52717" latitude="65.98287"/>
 <max longitude="-99.90108" latitude="72.45244"/>
 </map>
-<map id="268450269" name="" imageId="1091814179">
+<map id="268450269" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-94.12717" latitude="72.45244"/>
 </geo>
 <min longitude="-94.12717" latitude="65.98287"/>
 <max longitude="-85.50108" latitude="72.45244"/>
 </map>
-<map id="268450270" name="" imageId="1091814179">
+<map id="268450270" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-79.72717" latitude="72.45244"/>
 </geo>
 <min longitude="-79.72717" latitude="65.98287"/>
 <max longitude="-71.10109" latitude="72.45244"/>
 </map>
-<map id="268450271" name="" imageId="1091814179">
+<map id="268450271" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-65.32717" latitude="72.45244"/>
 </geo>
 <min longitude="-65.32717" latitude="65.98287"/>
 <max longitude="-56.701084" latitude="72.45244"/>
 </map>
-<map id="268450272" name="" imageId="1091814179">
+<map id="268450272" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-50.927177" latitude="72.45244"/>
 </geo>
 <min longitude="-50.927177" latitude="65.98287"/>
 <max longitude="-42.30109" latitude="72.45244"/>
 </map>
-<map id="268450273" name="" imageId="1091814179">
+<map id="268450273" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-36.527176" latitude="72.45244"/>
 </geo>
 <min longitude="-36.527176" latitude="65.98287"/>
 <max longitude="-27.901089" latitude="72.45244"/>
 </map>
-<map id="268450274" name="" imageId="1091814179">
+<map id="268450274" name="West Rohan: Helm's Deep" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-22.127178" latitude="72.45244"/>
 </geo>
@@ -622,13 +622,6 @@
 <min longitude="31.272793" latitude="-73.63006"/>
 <max longitude="37.47764" latitude="-68.976425"/>
 </map>
-<map id="268450803" name="" imageId="1091915269">
-<geo factor="158.59999">
-<point longitude="-130.42874" latitude="-32.380577"/>
-</geo>
-<min longitude="-130.42874" latitude="-37.222946"/>
-<max longitude="-123.972244" latitude="-32.380577"/>
-</map>
 <map id="268450864" name="Dead Marshes" imageId="1091930489">
 <geo factor="110.0">
 <point longitude="-19.50909" latitude="-25.045458"/>
@@ -678,7 +671,7 @@
 <min longitude="-56.659737" latitude="11.599998"/>
 <max longitude="-51.340256" latitude="15.589609"/>
 </map>
-<map id="268450899" name="" imageId="1091942716">
+<map id="268450899" name="Pelargir Epic Battle" imageId="1091942716">
 <geo factor="147.5">
 <point longitude="-131.11186" latitude="0.5762695"/>
 </geo>
@@ -727,14 +720,14 @@
 <min longitude="-13.491767" latitude="-65.97176"/>
 <max longitude="-3.8541203" latitude="-58.74353"/>
 </map>
-<map id="268451023" name="" imageId="1091956289">
+<map id="268451023" name="Osgiliath" imageId="1091956289">
 <geo factor="106.25">
 <point longitude="-13.482353" latitude="66.01883"/>
 </geo>
 <min longitude="-13.482353" latitude="58.790596"/>
 <max longitude="-3.8447065" latitude="66.01883"/>
 </map>
-<map id="268451074" name="" imageId="1091970169">
+<map id="268451074" name="Osgiliath" imageId="1091970169">
 <geo factor="106.25">
 <point longitude="-87.09176" latitude="66.028244"/>
 </geo>
@@ -769,14 +762,14 @@
 <min longitude="-33.961903" latitude="-73.809525"/>
 <max longitude="5.0476227" latitude="-44.552383"/>
 </map>
-<map id="268451154" name="" imageId="1091983087">
+<map id="268451154" name="Minas Tirith" imageId="1091983087">
 <geo factor="112.5">
 <point longitude="-24.097773" latitude="62.61334"/>
 </geo>
 <min longitude="-24.097773" latitude="55.78667"/>
 <max longitude="-14.99555" latitude="62.61334"/>
 </map>
-<map id="268451156" name="" imageId="1091983087">
+<map id="268451156" name="Old Anórien" imageId="1091983087">
 <geo factor="112.5">
 <point longitude="12.675556" latitude="62.61334"/>
 </geo>
@@ -804,42 +797,42 @@
 <min longitude="-50.43333" latitude="-58.1"/>
 <max longitude="-16.3" latitude="-32.5"/>
 </map>
-<map id="268451286" name="" imageId="1092006288">
+<map id="268451286" name="Pelennor" imageId="1092006288">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451289" name="" imageId="1092006290">
+<map id="268451289" name="Pelennor" imageId="1092006290">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451290" name="" imageId="1092006287">
+<map id="268451290" name="Pelennor" imageId="1092006287">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451291" name="" imageId="1092006289">
+<map id="268451291" name="Pelennor" imageId="1092006289">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451292" name="" imageId="1092006286">
+<map id="268451292" name="Pelennor" imageId="1092006286">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451575" name="" imageId="1092172168">
+<map id="268451575" name="Pelennor" imageId="1092172168">
 <geo factor="156.25">
 <point longitude="-54.627197" latitude="26.153603"/>
 </geo>
@@ -895,7 +888,7 @@
 <min longitude="-17.039999" latitude="-41.5"/>
 <max longitude="3.4400005" latitude="-26.14"/>
 </map>
-<map id="268451976" name="" imageId="1092278582">
+<map id="268451976" name="Morannon (War of the Last Alliance)" imageId="1092278582">
 <geo factor="90.0">
 <point longitude="-11.36667" latitude="-32.399998"/>
 </geo>
@@ -1259,7 +1252,7 @@
 <min longitude="-146.8" latitude="-76.376"/>
 <max longitude="-138.608" latitude="-70.232"/>
 </map>
-<map id="268453919" name="" imageId="1092709851">
+<map id="268453919" name="Glittering Caves" imageId="1092709851">
 <geo factor="125.0">
 <point longitude="-146.8" latitude="-59.032"/>
 </geo>
@@ -1287,7 +1280,7 @@
 <min longitude="-58.8" latitude="-59.599995"/>
 <max longitude="-23.18261" latitude="-32.88695"/>
 </map>
-<map id="268454010" name="" imageId="1092751428">
+<map id="268454010" name="Mossward" imageId="1092751428">
 <geo factor="657.5">
 <point longitude="-35.6" latitude="-60.18555"/>
 </geo>
