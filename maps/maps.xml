@@ -9848,4 +9848,32 @@
 <min longitude="-146.66667" latitude="66.95166"/>
 <max longitude="-145.33334" latitude="67.95166"/>
 </map>
+<map id="1879479411" name="Dâr Hadim&#10;Swain's Guild-hall" imageId="1092927331">
+<geo factor="600.0">
+<point longitude="-146.62332" latitude="66.52334"/>
+</geo>
+<min longitude="-146.62332" latitude="65.52334"/>
+<max longitude="-145.29" latitude="66.52334"/>
+</map>
+<map id="1879479412" name="Dâr Hadim&#10;Swain's Guild-hall" imageId="1092927330">
+<geo factor="600.0">
+<point longitude="-146.62332" latitude="66.52334"/>
+</geo>
+<min longitude="-146.62332" latitude="65.52334"/>
+<max longitude="-145.29" latitude="66.52334"/>
+</map>
+<map id="1879479413" name="The Khâlbina" imageId="1092927429">
+<geo factor="600.0">
+<point longitude="-132.30667" latitude="-11.03833"/>
+</geo>
+<min longitude="-132.30667" latitude="-12.03833"/>
+<max longitude="-130.97334" latitude="-11.03833"/>
+</map>
+<map id="1879479473" name="The Khâlbina" imageId="1092927439">
+<geo factor="600.0">
+<point longitude="-117.90667" latitude="-13.43833"/>
+</geo>
+<min longitude="-117.90667" latitude="-14.43833"/>
+<max longitude="-116.57333" latitude="-13.43833"/>
+</map>
 </maps>

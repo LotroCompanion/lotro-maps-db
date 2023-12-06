@@ -542,13 +542,15 @@
 <marker id="1195421697" label="Mailbox" category="34" did="1879314516" parentZoneId="1879456564" longitude="-56.75831" latitude="-64.139336"/>
 <marker id="1195421698" label="Milestone" category="55" did="1879314524" parentZoneId="1879456564" longitude="-56.808075" latitude="-64.16092"/>
 <marker id="1195421699" label="Healer" category="38" did="1879461258" parentZoneId="1879456564" longitude="-57.05496" latitude="-64.24897"/>
-<marker id="1195421700" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.968163" latitude="-64.00688"/>
-<marker id="1195421703" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.98045" latitude="-64.20443"/>
-<marker id="1195421704" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.190098" latitude="-64.1296"/>
-<marker id="1195421705" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.067226" latitude="-63.867836"/>
-<marker id="1195421706" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.735195" latitude="-63.92199"/>
-<marker id="1195421709" label="Watchman" category="71" did="1879474943" parentZoneId="1879456564" longitude="-56.95109" latitude="-64.29958"/>
-<marker id="1195421711" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.817665" latitude="-63.99514"/>
+<marker id="1195421700" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879456564" longitude="-57.07531" latitude="-64.09509"/>
+<marker id="1195421701" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.968163" latitude="-64.00688"/>
+<marker id="1195421702" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879456564" longitude="-57.079334" latitude="-64.09553"/>
+<marker id="1195421706" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.98045" latitude="-64.20443"/>
+<marker id="1195421707" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.190098" latitude="-64.1296"/>
+<marker id="1195421708" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.067226" latitude="-63.867836"/>
+<marker id="1195421709" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.735195" latitude="-63.92199"/>
+<marker id="1195421712" label="Watchman" category="71" did="1879474943" parentZoneId="1879456564" longitude="-56.95109" latitude="-64.29958"/>
+<marker id="1195421736" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.817665" latitude="-63.99514"/>
 <marker id="1195425792" label="Tathrendalf" category="74" did="1879466453" parentZoneId="1879456564" longitude="-56.815174" latitude="-62.940754"/>
 <marker id="1195425793" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879456564" longitude="-56.8" latitude="-63.199997"/>
 <marker id="1195425794" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879456564" longitude="-56.8" latitude="-63.199997"/>
@@ -2309,28 +2311,30 @@
 <marker id="1195536385" label="Provisioner" category="38" did="1879461256" parentZoneId="1879456564" longitude="-55.584812" latitude="-67.34291"/>
 <marker id="1195536386" label="Stable-master" category="51" did="1879470768" parentZoneId="1879456564" longitude="-55.077118" latitude="-67.170654"/>
 <marker id="1195536387" label="Calembel" category="43" did="1879465582" parentZoneId="1879456564" longitude="-55.486736" latitude="-67.1486"/>
-<marker id="1195536390" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.391933" latitude="-67.55476"/>
-<marker id="1195536391" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.365948" latitude="-67.53578"/>
-<marker id="1195536392" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.307274" latitude="-67.50085"/>
-<marker id="1195536393" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.193386" latitude="-67.55617"/>
-<marker id="1195536394" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.180195" latitude="-67.58361"/>
-<marker id="1195536395" label="Haelam" category="70" did="1879466114" parentZoneId="1879456564" longitude="-55.14994" latitude="-67.18682"/>
-<marker id="1195536396" label="Tharnion" category="70" did="1879466185" parentZoneId="1879456564" longitude="-54.847576" latitude="-67.09023"/>
-<marker id="1195536397" label="Bandron" category="70" did="1879466564" parentZoneId="1879456564" longitude="-55.25196" latitude="-67.431656"/>
-<marker id="1195536398" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.182266" latitude="-66.97253"/>
-<marker id="1195536399" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.07539" latitude="-66.86333"/>
-<marker id="1195536400" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-54.911396" latitude="-67.03045"/>
-<marker id="1195536401" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-54.955856" latitude="-67.19735"/>
-<marker id="1195536402" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.453327" latitude="-67.194664"/>
-<marker id="1195536403" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.234665" latitude="-67.22663"/>
-<marker id="1195536404" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.28113" latitude="-66.877304"/>
-<marker id="1195536405" label="Burning Brazier" category="73" did="1879466584" parentZoneId="1879456564" longitude="-55.186024" latitude="-67.46508"/>
-<marker id="1195536406" label="Dúnach" category="70" did="1879465809" parentZoneId="1879456564" longitude="-55.4174" latitude="-67.55895"/>
-<marker id="1195536407" label="Blood Stain" category="73" did="1879465823" parentZoneId="1879456564" longitude="-55.413094" latitude="-67.56403"/>
-<marker id="1195536418" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-55.19244" latitude="-67.40329"/>
-<marker id="1195536419" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-54.813396" latitude="-67.406494"/>
-<marker id="1195536420" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-55.296894" latitude="-66.982086"/>
-<marker id="1195536421" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-54.825333" latitude="-66.982086"/>
+<marker id="1195536391" label="Tasks" category="27" did="1879475223" parentZoneId="1879456564" longitude="-55.429726" latitude="-66.94992"/>
+<marker id="1195536393" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.391933" latitude="-67.55476"/>
+<marker id="1195536394" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.365948" latitude="-67.53578"/>
+<marker id="1195536395" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.307274" latitude="-67.50085"/>
+<marker id="1195536396" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.193386" latitude="-67.55617"/>
+<marker id="1195536397" label="Blood Stain" category="73" did="1879465990" parentZoneId="1879456564" longitude="-55.180195" latitude="-67.58361"/>
+<marker id="1195536398" label="Haelam" category="70" did="1879466114" parentZoneId="1879456564" longitude="-55.14994" latitude="-67.18682"/>
+<marker id="1195536399" label="Tharnion" category="70" did="1879466185" parentZoneId="1879456564" longitude="-54.847576" latitude="-67.09023"/>
+<marker id="1195536409" label="Dúnach" category="70" did="1879465809" parentZoneId="1879456564" longitude="-55.4174" latitude="-67.55895"/>
+<marker id="1195536410" label="Blood Stain" category="73" did="1879465823" parentZoneId="1879456564" longitude="-55.413094" latitude="-67.56403"/>
+<marker id="1195536443" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-55.19244" latitude="-67.40329"/>
+<marker id="1195536444" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-54.813396" latitude="-67.406494"/>
+<marker id="1195536445" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-55.296894" latitude="-66.982086"/>
+<marker id="1195536446" label="Calembel" category="74" did="1879465582" parentZoneId="1879456564" longitude="-54.825333" latitude="-66.982086"/>
+<marker id="1195536448" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.234665" latitude="-67.22663"/>
+<marker id="1195536449" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.28113" latitude="-66.877304"/>
+<marker id="1195536450" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.182266" latitude="-66.97253"/>
+<marker id="1195536451" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.07539" latitude="-66.86333"/>
+<marker id="1195536452" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-54.911396" latitude="-67.03045"/>
+<marker id="1195536453" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-54.955856" latitude="-67.19735"/>
+<marker id="1195536454" label="Burning Brazier" category="73" did="1879466584" parentZoneId="1879456564" longitude="-55.186024" latitude="-67.46508"/>
+<marker id="1195536455" label="Galengam's Notice" category="73" did="1879466576" parentZoneId="1879456564" longitude="-55.453327" latitude="-67.194664"/>
+<marker id="1195536462" label="Bandron" category="70" did="1879466564" parentZoneId="1879456564" longitude="-55.25196" latitude="-67.431656"/>
+<marker id="1195536463" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879456564" longitude="-55.4337" latitude="-66.94918"/>
 <marker id="1195540480" label="Sickle-fly" category="71" did="1879466511" parentZoneId="1879456564" longitude="-55.199997" latitude="-66.4"/>
 <marker id="1195540481" label="Wild Boar" category="71" did="1879466517" parentZoneId="1879456564" longitude="-55.199997" latitude="-66.4"/>
 <marker id="1195540482" label="Ruddy Aurochs" category="71" did="1879466514" parentZoneId="1879456564" longitude="-55.199997" latitude="-66.4"/>
@@ -5496,15 +5500,17 @@
 <marker id="1195966670" label="Deer" category="78" did="1879080635" parentZoneId="1879456570" longitude="-49.2699" latitude="-72.78804"/>
 <marker id="1195966671" label="Squirrel" category="78" did="1879078796" parentZoneId="1879456570" longitude="-49.2699" latitude="-72.78804"/>
 <marker id="1195966672" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879456570" longitude="-49.2699" latitude="-72.78804"/>
-<marker id="1195970561" label="Door" category="100" did="1879227953" parentZoneId="1879456570" longitude="-49.50251" latitude="-72.18467"/>
-<marker id="1195970562" label="Watchman" category="71" did="1879474943" parentZoneId="1879456570" longitude="-49.890312" latitude="-71.725464"/>
-<marker id="1195970567" label="Arvaethor" category="70" did="1879466396" parentZoneId="1879456570" longitude="-49.864628" latitude="-72.08294"/>
-<marker id="1195970568" label="Dervorin" category="70" did="1879465892" parentZoneId="1879456570" longitude="-49.879227" latitude="-72.01124"/>
-<marker id="1195970569" label="Nodaer" category="70" did="1879466082" parentZoneId="1879456570" longitude="-49.522938" latitude="-72.206665"/>
-<marker id="1195970571" label="Amarion" category="70" did="1879466200" parentZoneId="1879456570" longitude="-49.857197" latitude="-71.75401"/>
-<marker id="1195970572" label="Erthadis" category="70" did="1879466197" parentZoneId="1879456570" longitude="-49.993034" latitude="-72.004684"/>
-<marker id="1195970573" label="Callothor" category="70" did="1879466196" parentZoneId="1879456570" longitude="-49.48189" latitude="-72.148895"/>
-<marker id="1195970575" label="Ethring" category="74" did="1879466411" parentZoneId="1879456570" longitude="-49.658085" latitude="-72.168434"/>
+<marker id="1195970560" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879456570" longitude="-49.878555" latitude="-72.06213"/>
+<marker id="1195970561" label="Ethring" category="74" did="1879466411" parentZoneId="1879456570" longitude="-49.658085" latitude="-72.168434"/>
+<marker id="1195970563" label="Door" category="100" did="1879227953" parentZoneId="1879456570" longitude="-49.50251" latitude="-72.18467"/>
+<marker id="1195970564" label="Watchman" category="71" did="1879474943" parentZoneId="1879456570" longitude="-49.890312" latitude="-71.725464"/>
+<marker id="1195970566" label="Nodaer" category="70" did="1879466082" parentZoneId="1879456570" longitude="-49.522938" latitude="-72.206665"/>
+<marker id="1195970567" label="Callothor" category="70" did="1879466196" parentZoneId="1879456570" longitude="-49.48189" latitude="-72.148895"/>
+<marker id="1195970568" label="Erthadis" category="70" did="1879466197" parentZoneId="1879456570" longitude="-49.993034" latitude="-72.004684"/>
+<marker id="1195970569" label="Amarion" category="70" did="1879466200" parentZoneId="1879456570" longitude="-49.857197" latitude="-71.75401"/>
+<marker id="1195970570" label="Arvaethor" category="70" did="1879466396" parentZoneId="1879456570" longitude="-49.864628" latitude="-72.08294"/>
+<marker id="1195970571" label="Dervorin" category="70" did="1879465892" parentZoneId="1879456570" longitude="-49.879227" latitude="-72.01124"/>
+<marker id="1195970573" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879456570" longitude="-49.87998" latitude="-72.05835"/>
 <marker id="1195974656" label="Fox" category="78" did="1879078196" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>
 <marker id="1195974657" label="Squirrel" category="78" did="1879078796" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>
 <marker id="1195974658" label="Rabbit" category="78" did="1879079062" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>

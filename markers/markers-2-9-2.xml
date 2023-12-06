@@ -130,7 +130,7 @@
 <marker id="690700305" label="Gundabad Archer" category="71" did="1879408722" parentZoneId="1879407741" longitude="-22.113895" latitude="-95.54937"/>
 <marker id="690700306" label="Gundabad Archer" category="71" did="1879408722" parentZoneId="1879407741" longitude="-22.119297" latitude="-95.55873"/>
 <marker id="690700307" label="Gundabad Archer" category="71" did="1879408722" parentZoneId="1879407741" longitude="-22.124346" latitude="-95.56759"/>
-<marker id="690708481" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-22.05251" latitude="-93.714294"/>
+<marker id="690708481" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-22.05251" latitude="-93.714294"/>
 <marker id="690708482" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-22.155634" latitude="-93.63711"/>
 <marker id="690708483" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-22.05378" latitude="-93.59132"/>
 <marker id="690708484" label="Gundabad Orc-captain" category="71" did="1879411524" parentZoneId="1879407741" longitude="-22.135645" latitude="-93.64841"/>
@@ -238,15 +238,15 @@
 <marker id="690765826" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879407741" longitude="-21.47747" latitude="-95.192535"/>
 <marker id="690765827" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879407741" longitude="-21.47747" latitude="-95.192535"/>
 <marker id="690765828" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879407741" longitude="-21.47747" latitude="-95.192535"/>
-<marker id="690765829" label="Grush-and-Flak" category="71" did="1879410846" parentZoneId="1879407741" longitude="-21.570604" latitude="-95.25396"/>
-<marker id="690765830" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
-<marker id="690765831" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.261171" latitude="-95.567276"/>
-<marker id="690765832" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.33373" latitude="-94.97119"/>
-<marker id="690765833" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
-<marker id="690765834" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.547148" latitude="-94.97311"/>
-<marker id="690765835" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.565351" latitude="-95.28446"/>
-<marker id="690765836" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.579433" latitude="-95.224236"/>
-<marker id="690765837" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.514082" latitude="-95.40697"/>
+<marker id="690765829" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.514082" latitude="-95.40697"/>
+<marker id="690765830" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.579433" latitude="-95.224236"/>
+<marker id="690765831" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.565351" latitude="-95.28446"/>
+<marker id="690765832" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.547148" latitude="-94.97311"/>
+<marker id="690765833" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-21.33373" latitude="-94.97119"/>
+<marker id="690765834" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-21.261171" latitude="-95.567276"/>
+<marker id="690765835" label="Grush-and-Flak" category="71" did="1879410846" parentZoneId="1879407741" longitude="-21.570604" latitude="-95.25396"/>
+<marker id="690765836" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
+<marker id="690765837" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
 <marker id="690765838" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
 <marker id="690765839" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
 <marker id="690765840" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.471523" latitude="-95.370224"/>
@@ -436,9 +436,9 @@
 <marker id="690766043" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.336582" latitude="-95.48808"/>
 <marker id="690766044" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-21.336582" latitude="-95.48808"/>
 <marker id="690766045" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-21.336582" latitude="-95.48808"/>
-<marker id="690769925" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
-<marker id="690769926" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
-<marker id="690769927" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.24784" latitude="-94.115585"/>
+<marker id="690769921" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.24784" latitude="-94.115585"/>
+<marker id="690769926" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
+<marker id="690769927" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
 <marker id="690769928" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
 <marker id="690769929" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
 <marker id="690769930" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.36578" latitude="-94.38945"/>
@@ -565,7 +565,7 @@
 <marker id="690770072" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.239618" latitude="-94.36775"/>
 <marker id="690770073" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-21.239618" latitude="-94.36775"/>
 <marker id="690770074" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-21.239618" latitude="-94.36775"/>
-<marker id="690774024" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.433603" latitude="-93.60917"/>
+<marker id="690774017" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.433603" latitude="-93.60917"/>
 <marker id="690774025" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.4121" latitude="-93.67247"/>
 <marker id="690774026" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.368418" latitude="-93.59751"/>
 <marker id="690774027" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.270292" latitude="-93.629265"/>
@@ -614,11 +614,11 @@
 <marker id="690774077" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.35744" latitude="-93.57638"/>
 <marker id="690774078" label="Bagûd-mekhem" category="74" did="1879410816" parentZoneId="1879407741" longitude="-21.601631" latitude="-93.389435"/>
 <marker id="690814977" label="Treasure Cache" category="73" did="1879407942" parentZoneId="1879400512" longitude="-21.020155" latitude="-98.4834"/>
-<marker id="690827269" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
-<marker id="690827270" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.573652" latitude="-95.78242"/>
-<marker id="690827271" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
-<marker id="690827272" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.071768" latitude="-96.04483"/>
-<marker id="690827273" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.10372" latitude="-95.82535"/>
+<marker id="690827269" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.10372" latitude="-95.82535"/>
+<marker id="690827270" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.071768" latitude="-96.04483"/>
+<marker id="690827271" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.573652" latitude="-95.78242"/>
+<marker id="690827272" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
+<marker id="690827273" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
 <marker id="690827274" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
 <marker id="690827275" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.766474" latitude="-95.84617"/>
 <marker id="690827276" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.548838" latitude="-95.797905"/>
@@ -836,19 +836,19 @@
 <marker id="690827524" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-21.094492" latitude="-95.93797"/>
 <marker id="690827525" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-21.094492" latitude="-95.93797"/>
 <marker id="690831361" label="Azgh-buzru, the War-fell" category="43" did="1879411487" parentZoneId="1879407741" longitude="-20.8" latitude="-95.2"/>
-<marker id="690831362" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.755625" latitude="-95.42574"/>
-<marker id="690831363" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.79913" latitude="-95.045"/>
-<marker id="690831364" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.449755" latitude="-95.21736"/>
-<marker id="690831365" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
-<marker id="690831366" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.695116" latitude="-95.53949"/>
-<marker id="690831367" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.82708" latitude="-94.99551"/>
-<marker id="690831368" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.79707" latitude="-95.19039"/>
-<marker id="690831369" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.874678" latitude="-95.084236"/>
-<marker id="690831370" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.768242" latitude="-95.23128"/>
-<marker id="690831371" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.60207" latitude="-95.306015"/>
-<marker id="690831372" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
-<marker id="690831373" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.999268" latitude="-95.58316"/>
-<marker id="690831374" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.028027" latitude="-95.26793"/>
+<marker id="690831362" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.028027" latitude="-95.26793"/>
+<marker id="690831363" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-20.999268" latitude="-95.58316"/>
+<marker id="690831364" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.768242" latitude="-95.23128"/>
+<marker id="690831365" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.79707" latitude="-95.19039"/>
+<marker id="690831366" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.695116" latitude="-95.53949"/>
+<marker id="690831367" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.60207" latitude="-95.306015"/>
+<marker id="690831368" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.874678" latitude="-95.084236"/>
+<marker id="690831369" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.82708" latitude="-94.99551"/>
+<marker id="690831370" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.755625" latitude="-95.42574"/>
+<marker id="690831371" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.79913" latitude="-95.045"/>
+<marker id="690831372" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.449755" latitude="-95.21736"/>
+<marker id="690831373" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
+<marker id="690831374" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
 <marker id="690831375" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
 <marker id="690831376" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.785683" latitude="-95.28439"/>
 <marker id="690831377" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.714296" latitude="-95.52921"/>
@@ -1133,23 +1133,23 @@
 <marker id="690835458" label="Langflood Branches" category="50" did="1879406846" parentZoneId="1879407741" longitude="-20.77577" latitude="-94.42607"/>
 <marker id="690835459" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879407741" longitude="-20.77577" latitude="-94.42607"/>
 <marker id="690835460" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879407741" longitude="-20.77577" latitude="-94.42607"/>
-<marker id="690835461" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.868975" latitude="-94.50825"/>
-<marker id="690835462" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.808651" latitude="-94.33158"/>
-<marker id="690835463" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.732178" latitude="-94.33386"/>
-<marker id="690835464" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.729296" latitude="-94.3125"/>
-<marker id="690835465" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.779999" latitude="-94.434746"/>
-<marker id="690835466" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.579384" latitude="-94.41992"/>
-<marker id="690835467" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.8962" latitude="-94.66983"/>
-<marker id="690835468" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.77705" latitude="-94.1474"/>
-<marker id="690835469" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-21.123241" latitude="-94.03587"/>
-<marker id="690835470" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
-<marker id="690835471" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.557753" latitude="-94.5131"/>
-<marker id="690835472" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.750937" latitude="-94.023415"/>
-<marker id="690835473" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
-<marker id="690835474" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.141161" latitude="-94.26097"/>
-<marker id="690835475" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.908848" latitude="-94.035545"/>
-<marker id="690835476" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-21.087715" latitude="-94.33379"/>
-<marker id="690835477" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.646347" latitude="-94.579956"/>
+<marker id="690835461" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.087715" latitude="-94.33379"/>
+<marker id="690835462" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-21.141161" latitude="-94.26097"/>
+<marker id="690835463" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-20.646347" latitude="-94.579956"/>
+<marker id="690835464" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-20.908848" latitude="-94.035545"/>
+<marker id="690835465" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.557753" latitude="-94.5131"/>
+<marker id="690835466" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.750937" latitude="-94.023415"/>
+<marker id="690835467" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.868975" latitude="-94.50825"/>
+<marker id="690835468" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.808651" latitude="-94.33158"/>
+<marker id="690835469" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.732178" latitude="-94.33386"/>
+<marker id="690835470" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.729296" latitude="-94.3125"/>
+<marker id="690835471" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.779999" latitude="-94.434746"/>
+<marker id="690835472" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.579384" latitude="-94.41992"/>
+<marker id="690835473" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.8962" latitude="-94.66983"/>
+<marker id="690835474" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.77705" latitude="-94.1474"/>
+<marker id="690835475" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-21.123241" latitude="-94.03587"/>
+<marker id="690835476" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
+<marker id="690835477" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
 <marker id="690835478" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
 <marker id="690835479" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.830282" latitude="-94.48146"/>
 <marker id="690835480" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.556894" latitude="-94.49027"/>
@@ -1377,13 +1377,13 @@
 <marker id="690835740" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-20.612656" latitude="-94.750565"/>
 <marker id="690835741" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-20.612656" latitude="-94.750565"/>
 <marker id="690839553" label="Bagûd-mekhem" category="43" did="1879410816" parentZoneId="1879407741" longitude="-20.8" latitude="-93.6"/>
-<marker id="690839554" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.965693" latitude="-93.78182"/>
-<marker id="690839555" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.075155" latitude="-93.82352"/>
-<marker id="690839556" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.144003" latitude="-93.781815"/>
-<marker id="690839557" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.073847" latitude="-93.72278"/>
-<marker id="690839558" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.147108" latitude="-93.874756"/>
-<marker id="690839559" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.09622" latitude="-93.69887"/>
-<marker id="690839560" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.682255" latitude="-93.84938"/>
+<marker id="690839554" label="Gundabad Hill-crusher" category="71" did="1879408092" parentZoneId="1879407741" longitude="-20.682255" latitude="-93.84938"/>
+<marker id="690839555" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-20.965693" latitude="-93.78182"/>
+<marker id="690839556" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.075155" latitude="-93.82352"/>
+<marker id="690839557" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.144003" latitude="-93.781815"/>
+<marker id="690839558" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.073847" latitude="-93.72278"/>
+<marker id="690839559" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.147108" latitude="-93.874756"/>
+<marker id="690839560" label="Orkish Orders" category="73" did="1879411315" parentZoneId="1879407741" longitude="-21.09622" latitude="-93.69887"/>
 <marker id="690839561" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.13742" latitude="-93.80742"/>
 <marker id="690839562" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-21.143457" latitude="-93.83949"/>
 <marker id="690839563" label="Gundabad Orc-archer" category="71" did="1879411525" parentZoneId="1879407741" longitude="-20.865097" latitude="-93.339355"/>
@@ -2134,7 +2134,6 @@
 <marker id="690893058" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-20.313759" latitude="-95.9221"/>
 <marker id="690896897" label="Forge-master" category="29" did="1879362364" parentZoneId="1879412693" longitude="-20.398407" latitude="-95.591835"/>
 <marker id="690896898" label="Healer" category="38" did="1879362353" parentZoneId="1879412693" longitude="-20.405928" latitude="-95.5736"/>
-<marker id="690896899" label="Provisioner" category="38" did="1879362360" parentZoneId="1879412693" longitude="-20.443876" latitude="-95.57462"/>
 <marker id="690896908" label="Door" category="100" did="1879063335" parentZoneId="1879407741" longitude="-19.892782" latitude="-94.87493"/>
 <marker id="690896909" label="Door" category="100" did="1879063335" parentZoneId="1879412693" longitude="-20.530937" latitude="-95.57336"/>
 <marker id="690896910" label="Milestone" category="55" did="1879063371" parentZoneId="1879407741" longitude="-19.829111" latitude="-94.92572"/>
@@ -2146,13 +2145,14 @@
 <marker id="690896918" label="Gundabad Orc-soldier" category="71" did="1879411527" parentZoneId="1879407741" longitude="-20.217686" latitude="-95.36984"/>
 <marker id="690896919" label="Gundabad Orc-defiler" category="71" did="1879411523" parentZoneId="1879407741" longitude="-20.217686" latitude="-95.36984"/>
 <marker id="690896920" label="Metal Base" category="73" did="1879412631" parentZoneId="1879407741" longitude="-20.302637" latitude="-95.07327"/>
-<marker id="690896928" label="Supplier" category="38" did="1879362361" parentZoneId="1879412693" longitude="-20.451063" latitude="-95.57258"/>
-<marker id="690896929" label="Signal Horn" category="73" did="1879409478" parentZoneId="1879412693" longitude="-20.428358" latitude="-95.55348"/>
-<marker id="690896930" label="Bróin" category="70" did="1879409558" parentZoneId="1879412693" longitude="-20.423252" latitude="-95.583984"/>
-<marker id="690896931" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.7737" latitude="-95.437614"/>
-<marker id="690896932" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.129883" latitude="-95.269844"/>
-<marker id="690896933" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.287842" latitude="-94.93398"/>
-<marker id="690896934" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.288603" latitude="-94.85318"/>
+<marker id="690896925" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.288603" latitude="-94.85318"/>
+<marker id="690896928" label="Provisioner" category="38" did="1879362360" parentZoneId="1879412693" longitude="-20.443876" latitude="-95.57462"/>
+<marker id="690896929" label="Supplier" category="38" did="1879362361" parentZoneId="1879412693" longitude="-20.451063" latitude="-95.57258"/>
+<marker id="690896930" label="Signal Horn" category="73" did="1879409478" parentZoneId="1879412693" longitude="-20.428358" latitude="-95.55348"/>
+<marker id="690896931" label="Bróin" category="70" did="1879409558" parentZoneId="1879412693" longitude="-20.423252" latitude="-95.583984"/>
+<marker id="690896932" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.7737" latitude="-95.437614"/>
+<marker id="690896933" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.129883" latitude="-95.269844"/>
+<marker id="690896934" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.287842" latitude="-94.93398"/>
 <marker id="690896935" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.304043" latitude="-94.8673"/>
 <marker id="690896936" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.285692" latitude="-94.87732"/>
 <marker id="690896937" label="Dréri" category="70" did="1879411581" parentZoneId="1879407741" longitude="-20.15168" latitude="-95.31433"/>
@@ -2283,13 +2283,13 @@
 <marker id="690897096" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.324911" latitude="-95.41153"/>
 <marker id="690897097" label="Cold-drake" category="71" did="1879411529" parentZoneId="1879407741" longitude="-20.324911" latitude="-95.41153"/>
 <marker id="690897098" label="Cold-whelpling" category="71" did="1879411530" parentZoneId="1879407741" longitude="-20.324911" latitude="-95.41153"/>
-<marker id="690900993" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.162851" latitude="-94.15363"/>
-<marker id="690900994" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.156776" latitude="-94.657814"/>
-<marker id="690900995" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.915478" latitude="-94.27321"/>
-<marker id="690900996" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.719336" latitude="-94.36858"/>
-<marker id="690900997" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.05162" latitude="-94.51965"/>
-<marker id="690900998" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-19.996895" latitude="-94.436386"/>
-<marker id="690900999" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.206825" latitude="-94.35022"/>
+<marker id="690900993" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-20.206825" latitude="-94.35022"/>
+<marker id="690900994" label="Gundabad Stone-heaver" category="71" did="1879408097" parentZoneId="1879407741" longitude="-19.996895" latitude="-94.436386"/>
+<marker id="690900995" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.162851" latitude="-94.15363"/>
+<marker id="690900996" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-20.156776" latitude="-94.657814"/>
+<marker id="690900997" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.915478" latitude="-94.27321"/>
+<marker id="690900998" label="Injured Soldier" category="70" did="1879411344" parentZoneId="1879407741" longitude="-19.719336" latitude="-94.36858"/>
+<marker id="690900999" label="Gundabad Siege-troll" category="71" did="1879411484" parentZoneId="1879407741" longitude="-20.05162" latitude="-94.51965"/>
 <marker id="690901000" label="Gundabad Shield-crusher" category="71" did="1879411486" parentZoneId="1879407741" longitude="-20.05162" latitude="-94.51965"/>
 <marker id="690901001" label="Gundabad Goblin-sapper" category="71" did="1879411503" parentZoneId="1879407741" longitude="-20.05162" latitude="-94.51965"/>
 <marker id="690901002" label="Gundabad Goblin-assassin" category="71" did="1879411504" parentZoneId="1879407741" longitude="-20.05162" latitude="-94.51965"/>

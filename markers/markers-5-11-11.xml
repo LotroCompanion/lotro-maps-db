@@ -13,17 +13,12 @@
 <marker id="1539170315" label="Watery Funnel" category="71" did="1879470998" parentZoneId="1879063919" longitude="4.517256" latitude="27.957"/>
 <marker id="1539170316" label="Corsair Sneak" category="71" did="1879470999" parentZoneId="1879063919" longitude="4.49999" latitude="28.277733"/>
 <marker id="1539170317" label="Haradrim Sorcerer" category="71" did="1879470996" parentZoneId="1879063919" longitude="4.4756837" latitude="28.320038"/>
-<marker id="1539170318" label="Sea-hawk" category="71" did="1879470995" parentZoneId="1879063919" longitude="4.5823536" latitude="27.709307"/>
 <marker id="1539170319" label="Corsair Raider" category="71" did="1879470992" parentZoneId="1879063919" longitude="4.5329685" latitude="28.277294"/>
-<marker id="1539170320" label="Sea-hawk" category="71" did="1879470993" parentZoneId="1879063919" longitude="4.5706544" latitude="27.709307"/>
-<marker id="1539170321" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879063919" longitude="4.5283985" latitude="28.087772"/>
 <marker id="1539170322" label="Sure-footed Ewe" category="71" did="1879471007" parentZoneId="1879063919" longitude="4.5141697" latitude="27.678955"/>
 <marker id="1539170323" label="Sandstorm" category="71" did="1879471004" parentZoneId="1879063919" longitude="4.5281935" latitude="27.957"/>
 <marker id="1539170324" label="Sure-stride Ewe" category="71" did="1879471005" parentZoneId="1879063919" longitude="4.4531736" latitude="27.67623"/>
-<marker id="1539170325" label="Umbari Lizard" category="71" did="1879471002" parentZoneId="1879063919" longitude="4.454492" latitude="27.761806"/>
 <marker id="1539170326" label="Hard-shell Crab" category="71" did="1879471003" parentZoneId="1879063919" longitude="4.521299" latitude="27.76331"/>
 <marker id="1539170327" label="Chirping Neekerbreeker" category="71" did="1879471000" parentZoneId="1879063919" longitude="4.5487304" latitude="27.763397"/>
-<marker id="1539170328" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879063919" longitude="4.5134373" latitude="28.087772"/>
 <marker id="1539170329" label="Shore Crab" category="71" did="1879471015" parentZoneId="1879063919" longitude="4.527959" latitude="27.76331"/>
 <marker id="1539170330" label="Corsair Sniper" category="71" did="1879471012" parentZoneId="1879063919" longitude="4.493779" latitude="28.277733"/>
 <marker id="1539170331" label="Umbari Hatchling" category="71" did="1879471013" parentZoneId="1879063919" longitude="4.6464744" latitude="28.28704"/>
@@ -53,8 +48,6 @@
 <marker id="1539170355" label="Scuttling Crab" category="71" did="1879471032" parentZoneId="1879063919" longitude="4.5351853" latitude="27.76331"/>
 <marker id="1539170356" label="Stinging Sea-fly Swarm" category="71" did="1879471033" parentZoneId="1879063919" longitude="4.488877" latitude="27.738056"/>
 <marker id="1539170357" label="Umbari Spitter" category="71" did="1879471046" parentZoneId="1879063919" longitude="4.6728024" latitude="28.28704"/>
-<marker id="1539170358" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879063919" longitude="4.5572557" latitude="28.087772"/>
-<marker id="1539170359" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879063919" longitude="4.497832" latitude="27.707842"/>
 <marker id="1539170360" label="Goblin Corsair Berserk" category="71" did="1879471042" parentZoneId="1879063919" longitude="4.503486" latitude="28.203613"/>
 <marker id="1539170361" label="Phârakab" category="71" did="1879471043" parentZoneId="1879063919" longitude="4.488672" latitude="27.76331"/>
 <marker id="1539170362" label="Goblin Corsair Harpooner" category="71" did="1879471040" parentZoneId="1879063919" longitude="4.524551" latitude="28.203613"/>
@@ -74,7 +67,6 @@
 <marker id="1539170378" label="Sinja" category="71" did="1879471241" parentZoneId="1879063919" longitude="4.4478126" latitude="27.860409"/>
 <marker id="1539170379" label="Kabûro" category="71" did="1879471255" parentZoneId="1879063919" longitude="4.440576" latitude="27.860409"/>
 <marker id="1539170380" label="Skûr" category="71" did="1879471250" parentZoneId="1879063919" longitude="4.4329004" latitude="27.860409"/>
-<marker id="1539170381" label="Ghadamût" category="71" did="1879471248" parentZoneId="1879063919" longitude="4.5436716" latitude="28.087772"/>
 <marker id="1539170399" label="Food Crate" category="73" did="1879471246" parentZoneId="1879063919" longitude="5.1335645" latitude="27.67329"/>
 <marker id="1539170400" label="Sealed Case" category="73" did="1879471239" parentZoneId="1879063919" longitude="5.1388865" latitude="27.67329"/>
 <marker id="1539170401" label="Tree Branch" category="73" did="1879473897" parentZoneId="1879063919" longitude="5.0586815" latitude="27.67202"/>
@@ -91,5 +83,14 @@
 <marker id="1539170416" label="Sea Shell" category="73" did="1879474043" parentZoneId="1879063919" longitude="5.030078" latitude="27.67202"/>
 <marker id="1539170417" label="Log" category="73" did="1879473894" parentZoneId="1879063919" longitude="5.047119" latitude="27.67202"/>
 <marker id="1539170418" label="Phial of Huorn Sap" category="73" did="1879474041" parentZoneId="1879063919" longitude="5.021836" latitude="27.67202"/>
-<marker id="1539170422" label="Blocking Rubble" category="73" did="1879474042" parentZoneId="1879063919" longitude="5.122295" latitude="27.747393"/>
+<marker id="1539170449" label="Ghadamût" category="71" did="1879471248" parentZoneId="1879063919" longitude="4.5436716" latitude="28.087772"/>
+<marker id="1539170453" label="Umbari Lizard" category="71" did="1879471002" parentZoneId="1879063919" longitude="4.454492" latitude="27.761806"/>
+<marker id="1539170456" label="Desert Cow" category="71" did="1879475285" parentZoneId="1879063919" longitude="4.497832" latitude="27.707842"/>
+<marker id="1539170460" label="Sea-hawk" category="71" did="1879470993" parentZoneId="1879063919" longitude="4.5706544" latitude="27.709307"/>
+<marker id="1539170461" label="Sea-hawk" category="71" did="1879470995" parentZoneId="1879063919" longitude="4.5823536" latitude="27.709307"/>
+<marker id="1539170472" label="Elder Thick-hide Crocodile" category="71" did="1879471001" parentZoneId="1879063919" longitude="4.5134373" latitude="28.087772"/>
+<marker id="1539170473" label="Thick-hide Crocodile" category="71" did="1879471044" parentZoneId="1879063919" longitude="4.5572557" latitude="28.087772"/>
+<marker id="1539170474" label="Saltwater Crocodile" category="71" did="1879471006" parentZoneId="1879063919" longitude="4.5283985" latitude="28.087772"/>
+<marker id="1539170477" label="Desert Buffalo" category="71" did="1879471045" parentZoneId="1879063919" longitude="4.497832" latitude="27.707842"/>
+<marker id="1539170480" label="Blocking Rubble" category="73" did="1879474042" parentZoneId="1879063919" longitude="5.122295" latitude="27.747393"/>
 </markers>

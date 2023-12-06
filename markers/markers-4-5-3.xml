@@ -1974,7 +1974,7 @@
 <marker id="1161609216" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.838165" latitude="-75.73161"/>
 <marker id="1161613316" label="Bard of Gondor" category="54" did="1879313190" parentZoneId="1879456562" longitude="-72.7398" latitude="-75.15963"/>
 <marker id="1161613317" label="Stable-master" category="23" did="1879470687" parentZoneId="1879456562" longitude="-72.486565" latitude="-75.45138"/>
-<marker id="1161613319" label="Quartermaster&#10;The Renewal of Gondor Rewards" category="61" did="1879465583" parentZoneId="1879456562" longitude="-72.48531" latitude="-75.42848"/>
+<marker id="1161613319" label="King's Gondor Quartermaster&#10;The Renewal of Gondor Rewards" category="61" did="1879465583" parentZoneId="1879456562" longitude="-72.48531" latitude="-75.42848"/>
 <marker id="1161613328" label="Mellien" category="70" did="1879465784" parentZoneId="1879456562" longitude="-72.486374" latitude="-75.43605"/>
 <marker id="1161613329" label="Mug of Spilled Ale" category="73" did="1879465821" parentZoneId="1879456562" longitude="-73.031456" latitude="-74.91936"/>
 <marker id="1161613330" label="Yârlag" category="71" did="1879466349" parentZoneId="1879456562" longitude="-73.003136" latitude="-74.942406"/>
@@ -3308,10 +3308,13 @@
 <marker id="1161674752" label="Tavern Keep" category="38" did="1879313174" parentZoneId="1879456562" longitude="-71.80134" latitude="-75.89148"/>
 <marker id="1161674755" label="Rossaran" category="70" did="1879460476" parentZoneId="1879456562" longitude="-72.11772" latitude="-76.10681"/>
 <marker id="1161674756" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.04165" latitude="-75.77049"/>
-<marker id="1161678849" label="Milestone" category="55" did="1879313700" parentZoneId="1879456562" longitude="-72.14425" latitude="-75.35916"/>
-<marker id="1161678852" label="Mailbox" category="34" did="1879313699" parentZoneId="1879456562" longitude="-72.10302" latitude="-75.29472"/>
-<marker id="1161678853" label="Beriaudur" category="70" did="1879460952" parentZoneId="1879456562" longitude="-71.75192" latitude="-75.38695"/>
-<marker id="1161678855" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.97295" latitude="-74.97567"/>
+<marker id="1161678854" label="Tasks" category="27" did="1879475223" parentZoneId="1879456562" longitude="-72.32175" latitude="-75.20473"/>
+<marker id="1161678855" label="Milestone" category="55" did="1879313700" parentZoneId="1879456562" longitude="-72.14425" latitude="-75.35916"/>
+<marker id="1161678856" label="Mailbox" category="34" did="1879313699" parentZoneId="1879456562" longitude="-72.10302" latitude="-75.29472"/>
+<marker id="1161678873" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879456562" longitude="-72.31725" latitude="-75.5179"/>
+<marker id="1161678883" label="Beriaudur" category="70" did="1879460952" parentZoneId="1879456562" longitude="-71.75192" latitude="-75.38695"/>
+<marker id="1161678884" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.97295" latitude="-74.97567"/>
+<marker id="1161678889" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879456562" longitude="-72.32575" latitude="-75.20527"/>
 <marker id="1161682944" label="King's Gondor West Reflecting Pool" category="52" did="1879476725" parentZoneId="1879456562" longitude="-72.08583" latitude="-74.03852"/>
 <marker id="1161682946" label="Door" category="100" did="1879227952" parentZoneId="1879456562" longitude="-72.246574" latitude="-74.41195"/>
 <marker id="1161682948" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.979805" latitude="-74.177986"/>
