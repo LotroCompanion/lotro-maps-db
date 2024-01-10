@@ -9876,4 +9876,11 @@
 <min longitude="-117.90667" latitude="-14.43833"/>
 <max longitude="-116.57333" latitude="-13.43833"/>
 </map>
+<map id="1879480640" name="Apothecary" imageId="1092933481">
+<geo factor="599.99994">
+<point longitude="54.125" latitude="-36.7"/>
+</geo>
+<min longitude="54.125" latitude="-37.7"/>
+<max longitude="55.458332" latitude="-36.7"/>
+</map>
 </maps>
