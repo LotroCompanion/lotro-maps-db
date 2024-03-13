@@ -183,13 +183,14 @@
 <marker id="647155723" label="Rock-worm" category="71" did="1879387941" parentZoneId="1879387796" longitude="-68.08838" latitude="1.8360058"/>
 <marker id="647155724" label="Rock-worm" category="71" did="1879387941" parentZoneId="1879387796" longitude="-68.0712" latitude="1.7881445"/>
 <marker id="647155725" label="Cold-worm" category="71" did="1879387940" parentZoneId="1879387796" longitude="-68.07751" latitude="1.9073242"/>
-<marker id="647155726" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879387796" longitude="-68.09979" latitude="1.5275879"/>
-<marker id="647155727" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879387796" longitude="-68.11281" latitude="1.5223925"/>
-<marker id="647155728" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-68.0269" latitude="1.2192578"/>
-<marker id="647155729" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-67.776955" latitude="1.3175"/>
-<marker id="647155730" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-67.777" latitude="1.22958"/>
-<marker id="647155731" label="Kidzul-kâlah" category="43" did="1879384515" parentZoneId="1879387796" longitude="-67.949745" latitude="1.3105078"/>
-<marker id="647155733" label="Shadow Source" category="73" did="1879388918" parentZoneId="1879387796" longitude="-67.943405" latitude="1.472793"/>
+<marker id="647155727" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879387796" longitude="-68.04785" latitude="1.5700488"/>
+<marker id="647155728" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879387796" longitude="-68.05505" latitude="1.5704492"/>
+<marker id="647155729" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-68.0269" latitude="1.2192578"/>
+<marker id="647155730" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-67.776955" latitude="1.3175"/>
+<marker id="647155731" label="Wandering Lost-light" category="71" did="1879387299" parentZoneId="1879387796" longitude="-67.777" latitude="1.22958"/>
+<marker id="647155734" label="Shadow Source" category="73" did="1879388918" parentZoneId="1879387796" longitude="-67.943405" latitude="1.472793"/>
+<marker id="647155735" label="Kidzul-kâlah" category="43" did="1879384515" parentZoneId="1879387796" longitude="-67.949745" latitude="1.3105078"/>
+<marker id="647155738" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879387796" longitude="-68.06961" latitude="1.5752343"/>
 <marker id="647159809" label="Orc Corpse" category="73" did="1879388230" parentZoneId="1879387796" longitude="-67.77708" latitude="2.784463"/>
 <marker id="647159810" label="Orc Corpse" category="73" did="1879388230" parentZoneId="1879387796" longitude="-67.8942" latitude="2.5128613"/>
 <marker id="647159811" label="Vales Artifact Chest" category="50" did="1879388909" parentZoneId="1879387796" longitude="-67.85889" latitude="2.2824218"/>
@@ -3043,11 +3044,13 @@
 <marker id="647577606" label="Dusk Stalker" category="71" did="1879387042" parentZoneId="1879384450" longitude="-62.745857" latitude="-5.729443"/>
 <marker id="647577607" label="Dusk Stalker" category="71" did="1879387042" parentZoneId="1879384450" longitude="-62.44658" latitude="-5.841758"/>
 <marker id="647577609" label="Ránulur, Chieftain of Wargs" category="71" did="1879387034" parentZoneId="1879384450" longitude="-62.086227" latitude="-5.8550973"/>
-<marker id="647577610" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879384450" longitude="-62.560654" latitude="-5.838955"/>
-<marker id="647577611" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879384450" longitude="-62.559834" latitude="-5.845859"/>
-<marker id="647577616" label="Baradal" category="70" did="1879386554" parentZoneId="1879384450" longitude="-62.27244" latitude="-5.8348045"/>
-<marker id="647577617" label="Shathur-munzu" category="74" did="1879384500" parentZoneId="1879384450" longitude="-62.648495" latitude="-5.3194532"/>
-<marker id="647577618" label="Baradal" category="70" did="1879386554" parentZoneId="1879384450" longitude="-62.27159" latitude="-5.838828"/>
+<marker id="647577612" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879384450" longitude="-62.59288" latitude="-5.8055663"/>
+<marker id="647577613" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879384450" longitude="-62.591415" latitude="-5.812334"/>
+<marker id="647577616" label="Shathur-munzu" category="74" did="1879384500" parentZoneId="1879384450" longitude="-62.648495" latitude="-5.3194532"/>
+<marker id="647577617" label="Baradal" category="70" did="1879386554" parentZoneId="1879384450" longitude="-62.27159" latitude="-5.838828"/>
+<marker id="647577618" label="Baradal" category="70" did="1879386554" parentZoneId="1879384450" longitude="-62.27244" latitude="-5.8348045"/>
+<marker id="647577624" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879384450" longitude="-62.578533" latitude="-5.842627"/>
+<marker id="647577625" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879384450" longitude="-62.58199" latitude="-5.798135"/>
 <marker id="647602176" label="Wandering Gloom" category="71" did="1879387286" parentZoneId="1879384446" longitude="-62.279842" latitude="-0.4553125"/>
 <marker id="647602177" label="Lost Spirit" category="71" did="1879387293" parentZoneId="1879384446" longitude="-62.279842" latitude="-0.4553125"/>
 <marker id="647602178" label="Gladden Gloomwater" category="71" did="1879387302" parentZoneId="1879384446" longitude="-62.279842" latitude="-0.4553125"/>
@@ -6192,7 +6195,7 @@
 <marker id="647708830" label="Garsind" category="70" did="1879386548" parentZoneId="1879384450" longitude="-60.80567" latitude="-5.992949"/>
 <marker id="647708831" label="Baradal" category="70" did="1879386562" parentZoneId="1879384450" longitude="-61.128063" latitude="-5.7060447"/>
 <marker id="647708833" label="Frightened Villager" category="70" did="1879387668" parentZoneId="1879384450" longitude="-60.897285" latitude="-5.7518945"/>
-<marker id="647708834" label="Suspicious Villager " category="70" did="1879387667" parentZoneId="1879384450" longitude="-61.079697" latitude="-5.748994"/>
+<marker id="647708834" label="Suspicious Villager" category="70" did="1879387667" parentZoneId="1879384450" longitude="-61.079697" latitude="-5.748994"/>
 <marker id="647708835" label="Superstitious Villager" category="70" did="1879387666" parentZoneId="1879384450" longitude="-60.805866" latitude="-5.682949"/>
 <marker id="647708841" label="Baradal" category="70" did="1879386562" parentZoneId="1879384450" longitude="-60.807507" latitude="-5.985527"/>
 <marker id="647708843" label="Arhaim" category="43" did="1879387643" parentZoneId="1879384450" longitude="-60.941814" latitude="-5.7774315"/>

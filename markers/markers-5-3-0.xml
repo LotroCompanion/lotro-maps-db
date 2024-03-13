@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1393459200" label="Door" category="100" did="1879475787" parentZoneId="1879063919" longitude="-97.197945" latitude="-117.233406"/>
-<marker id="1393459201" label="Hadorion" category="70" did="1879475494" parentZoneId="1879063919" longitude="-96.811386" latitude="-117.211754"/>
-<marker id="1393459202" label="Khâshap" category="70" did="1879475495" parentZoneId="1879063919" longitude="-96.77659" latitude="-117.29867"/>
-<marker id="1393459203" label="Khâshap" category="70" did="1879475490" parentZoneId="1879063919" longitude="-96.76787" latitude="-117.29011"/>
-<marker id="1393459204" label="Khâshap" category="70" did="1879475491" parentZoneId="1879063919" longitude="-96.75279" latitude="-117.271255"/>
-<marker id="1393459205" label="Khâshap" category="70" did="1879475488" parentZoneId="1879063919" longitude="-96.7609" latitude="-117.2806"/>
-<marker id="1393459206" label="Hadorion" category="70" did="1879480352" parentZoneId="1879063919" longitude="-96.863396" latitude="-117.21303"/>
-<marker id="1393459207" label="Khâshap" category="70" did="1879480353" parentZoneId="1879063919" longitude="-96.781525" latitude="-117.24883"/>
+<marker id="1393389568" label="Khâshap's Chest - Tier 2" category="72" did="1879481999" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389569" label="Khâshap's Chest - Tier 5" category="72" did="1879481997" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389570" label="Khâshap's Chest - Tier 4" category="72" did="1879481993" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389571" label="Khâshap's Chest - Tier 1" category="72" did="1879482006" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389572" label="Khâshap's Chest - Tier 3" category="72" did="1879482001" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389573" label="Control Point" category="73" did="1879152429" parentZoneId="1879470534" longitude="-97.233765" latitude="-118.63063"/>
+<marker id="1393389574" label="Fire" category="100" did="1879192382" parentZoneId="1879470534" longitude="-97.2297" latitude="-118.54055"/>
+<marker id="1393389575" label="Jephai Look-out" category="71" did="1879483495" parentZoneId="1879470534" longitude="-97.80193" latitude="-118.03506"/>
+<marker id="1393389576" label="Jephai Look-out" category="71" did="1879483495" parentZoneId="1879470534" longitude="-97.28064" latitude="-118.48097"/>
+<marker id="1393389577" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.62085" latitude="-118.023285"/>
+<marker id="1393389578" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.66188" latitude="-118.19278"/>
+<marker id="1393389579" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.52477" latitude="-118.27463"/>
+<marker id="1393389580" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.29825" latitude="-118.56024"/>
+<marker id="1393389581" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.2933" latitude="-118.55519"/>
+<marker id="1393389582" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.29517" latitude="-118.68273"/>
+<marker id="1393389583" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.29103" latitude="-118.68559"/>
+<marker id="1393389584" label="Khâshap, Ifrinn's Abomination" category="71" did="1879480431" parentZoneId="1879470534" longitude="-97.23009" latitude="-118.66036"/>
+<marker id="1393389585" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.645836" latitude="-118.02414"/>
+<marker id="1393389586" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.76545" latitude="-118.09351"/>
+<marker id="1393389587" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.72967" latitude="-118.02384"/>
+<marker id="1393389588" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.63877" latitude="-118.0191"/>
+<marker id="1393389589" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.69111" latitude="-118.12493"/>
+<marker id="1393389590" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.707466" latitude="-118.17501"/>
+<marker id="1393389591" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.55474" latitude="-118.22466"/>
+<marker id="1393389592" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.357506" latitude="-118.48121"/>
+<marker id="1393389593" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.78687" latitude="-118.13025"/>
+<marker id="1393389594" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.61796" latitude="-118.025085"/>
+<marker id="1393389595" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.719864" latitude="-118.022896"/>
+<marker id="1393389596" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.63002" latitude="-118.14765"/>
+<marker id="1393389597" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.38638" latitude="-118.363914"/>
+<marker id="1393389598" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.34815" latitude="-118.48627"/>
+<marker id="1393389599" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.82223" latitude="-118.104744"/>
+<marker id="1393389600" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.68793" latitude="-118.02118"/>
+<marker id="1393389601" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.6323" latitude="-118.0281"/>
+<marker id="1393389602" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.632065" latitude="-118.13928"/>
+<marker id="1393389603" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.54531" latitude="-118.23136"/>
+<marker id="1393389604" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.41595" latitude="-118.38075"/>
+<marker id="1393389605" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.285164" latitude="-118.49179"/>
+<marker id="1393389606" label="Khâshap" category="71" did="1879480434" parentZoneId="1879470534" longitude="-97.23003" latitude="-118.66378"/>
+<marker id="1393389607" label="Khâshap, Ifrinn's Abomination" category="71" did="1879480432" parentZoneId="1879470534" longitude="-97.23017" latitude="-118.65933"/>
+<marker id="1393389608" label="Khâshap's Chest - Solo" category="72" did="1879481968" parentZoneId="1879470534" longitude="-97.23271" latitude="-118.666664"/>
+<marker id="1393389609" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.61996" latitude="-118.03098"/>
+<marker id="1393389610" label="Jephai Mender" category="71" did="1879483505" parentZoneId="1879470534" longitude="-97.35269" latitude="-118.482895"/>
+<marker id="1393389611" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.28863" latitude="-118.684784"/>
+<marker id="1393389612" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.63372" latitude="-118.03342"/>
+<marker id="1393389613" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.292755" latitude="-118.68282"/>
+<marker id="1393389614" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.70173" latitude="-118.15316"/>
+<marker id="1393389615" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.465935" latitude="-118.25636"/>
+<marker id="1393389616" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.4995" latitude="-118.298805"/>
+<marker id="1393389617" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.43075" latitude="-118.3954"/>
+<marker id="1393389618" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.36433" latitude="-118.48348"/>
+<marker id="1393389619" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.29949" latitude="-118.55941"/>
+<marker id="1393389620" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.2933" latitude="-118.556694"/>
+<marker id="1393389621" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.76368" latitude="-118.0828"/>
+<marker id="1393393664" label="Khâshap" category="70" did="1879475495" parentZoneId="1879470534" longitude="-97.955154" latitude="-117.727516"/>
+<marker id="1393393665" label="Khâshap" category="70" did="1879475490" parentZoneId="1879470534" longitude="-97.56193" latitude="-117.56324"/>
+<marker id="1393393666" label="Khâshap" category="70" did="1879475488" parentZoneId="1879470534" longitude="-97.26064" latitude="-117.676796"/>
+<marker id="1393393667" label="Control Point" category="73" did="1879152429" parentZoneId="1879470534" longitude="-97.966225" latitude="-117.632484"/>
+<marker id="1393393668" label="Door" category="100" did="1879368137" parentZoneId="1879470534" longitude="-97.966324" latitude="-117.72199"/>
+<marker id="1393393669" label="Door" category="100" did="1879368137" parentZoneId="1879470534" longitude="-97.94402" latitude="-117.537476"/>
+<marker id="1393393670" label="Door" category="100" did="1879368137" parentZoneId="1879470534" longitude="-97.3583" latitude="-117.72201"/>
+<marker id="1393393671" label="Portcullis" category="100" did="1879481688" parentZoneId="1879470534" longitude="-97.96482" latitude="-117.72501"/>
+<marker id="1393393672" label="Portcullis" category="100" did="1879481689" parentZoneId="1879470534" longitude="-97.94425" latitude="-117.53639"/>
+<marker id="1393393673" label="Utho's Chest - Tier 2" category="72" did="1879481958" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393674" label="Jephai Look-out" category="71" did="1879483495" parentZoneId="1879470534" longitude="-97.28164" latitude="-117.72874"/>
+<marker id="1393393675" label="Jephai Look-out" category="71" did="1879483495" parentZoneId="1879470534" longitude="-97.760895" latitude="-117.397095"/>
+<marker id="1393393676" label="Utho's Chest - Tier 5" category="72" did="1879481954" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393677" label="Utho's Chest - Tier 4" category="72" did="1879481953" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393678" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.282326" latitude="-117.7235"/>
+<marker id="1393393679" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.61239" latitude="-117.600624"/>
+<marker id="1393393680" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.74857" latitude="-117.413826"/>
+<marker id="1393393681" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.83445" latitude="-117.422966"/>
+<marker id="1393393682" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.90829" latitude="-117.983475"/>
+<marker id="1393393683" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.84025" latitude="-117.45408"/>
+<marker id="1393393684" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.54623" latitude="-117.71398"/>
+<marker id="1393393685" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.65803" latitude="-117.561485"/>
+<marker id="1393393686" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.23441" latitude="-117.712364"/>
+<marker id="1393393687" label="Jephai Bomber" category="71" did="1879480428" parentZoneId="1879470534" longitude="-97.59505" latitude="-117.352936"/>
+<marker id="1393393688" label="Utho's Chest - Tier 1" category="72" did="1879481964" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393689" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.53893" latitude="-117.71566"/>
+<marker id="1393393690" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.607086" latitude="-117.45152"/>
+<marker id="1393393691" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.797905" latitude="-117.40576"/>
+<marker id="1393393692" label="Jephai Trapper" category="71" did="1879480429" parentZoneId="1879470534" longitude="-97.94976" latitude="-117.97283"/>
+<marker id="1393393693" label="Utho's Chest - Tier 3" category="72" did="1879481962" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393694" label="Utho, the Grasper" category="71" did="1879480427" parentZoneId="1879470534" longitude="-97.965546" latitude="-117.693016"/>
+<marker id="1393393695" label="Utho's Chest - Solo" category="72" did="1879481960" parentZoneId="1879470534" longitude="-97.96565" latitude="-117.7087"/>
+<marker id="1393393696" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.81959" latitude="-117.40127"/>
+<marker id="1393393697" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.81513" latitude="-117.42597"/>
+<marker id="1393393698" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.5435" latitude="-117.71455"/>
+<marker id="1393393699" label="Jephai Trapper" category="71" did="1879480438" parentZoneId="1879470534" longitude="-97.86532" latitude="-117.98115"/>
+<marker id="1393393700" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.553474" latitude="-117.63722"/>
+<marker id="1393393701" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.597244" latitude="-117.58271"/>
+<marker id="1393393702" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.56376" latitude="-117.54605"/>
+<marker id="1393393703" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.495056" latitude="-117.48293"/>
+<marker id="1393393704" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.59584" latitude="-117.36761"/>
+<marker id="1393393705" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.73385" latitude="-117.41786"/>
+<marker id="1393393706" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.86058" latitude="-117.41757"/>
+<marker id="1393393707" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.55006" latitude="-117.63208"/>
+<marker id="1393393708" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.613945" latitude="-117.611725"/>
+<marker id="1393393709" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.24021" latitude="-117.572845"/>
+<marker id="1393393710" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.56136" latitude="-117.546425"/>
+<marker id="1393393711" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.50287" latitude="-117.489716"/>
+<marker id="1393393712" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.750435" latitude="-117.40902"/>
+<marker id="1393393713" label="Utho, the Grasper" category="71" did="1879480435" parentZoneId="1879470534" longitude="-97.96556" latitude="-117.69298"/>
+<marker id="1393393714" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.54084" latitude="-117.7181"/>
+<marker id="1393393715" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.83241" latitude="-117.450485"/>
+<marker id="1393393716" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.652534" latitude="-117.56544"/>
+<marker id="1393393717" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.64547" latitude="-117.44542"/>
+<marker id="1393393718" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.60184" latitude="-117.35273"/>
+<marker id="1393393719" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.512924" latitude="-117.65133"/>
+<marker id="1393393720" label="Jephai Bomber" category="71" did="1879480433" parentZoneId="1879470534" longitude="-97.232185" latitude="-117.7067"/>
+<marker id="1393393721" label="Jephai Mender" category="71" did="1879483505" parentZoneId="1879470534" longitude="-97.90189" latitude="-117.9528"/>
+<marker id="1393393722" label="Jephai Bomber" category="71" did="1879484273" parentZoneId="1879470534" longitude="-97.972885" latitude="-117.59279"/>
+<marker id="1393393723" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.62065" latitude="-117.64267"/>
+<marker id="1393393724" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.302574" latitude="-117.73913"/>
+<marker id="1393393725" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.542946" latitude="-117.36342"/>
+<marker id="1393393726" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.73927" latitude="-117.400894"/>
+<marker id="1393393727" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.94196" latitude="-117.988075"/>
+<marker id="1393455104" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.13801" latitude="-118.553955"/>
+<marker id="1393455105" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.14244" latitude="-118.55035"/>
+<marker id="1393455106" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.14258" latitude="-118.67301"/>
+<marker id="1393455107" label="Jephai Sniper" category="71" did="1879480430" parentZoneId="1879470534" longitude="-97.146904" latitude="-118.677055"/>
+<marker id="1393455108" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.14251" latitude="-118.67387"/>
+<marker id="1393455109" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.143005" latitude="-118.55006"/>
+<marker id="1393455110" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.1393" latitude="-118.553604"/>
+<marker id="1393455111" label="Jephai Sniper" category="71" did="1879480440" parentZoneId="1879470534" longitude="-97.14621" latitude="-118.676414"/>
+<marker id="1393459200" label="Door" category="100" did="1879475787" parentZoneId="1879470534" longitude="-97.197945" latitude="-117.233406"/>
+<marker id="1393459201" label="Khâshap" category="70" did="1879475491" parentZoneId="1879470534" longitude="-96.96858" latitude="-117.69895"/>
+<marker id="1393459202" label="Door" category="100" did="1879368137" parentZoneId="1879470534" longitude="-97.12901" latitude="-117.636856"/>
+<marker id="1393459203" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.11217" latitude="-117.64901"/>
+<marker id="1393459204" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.15859" latitude="-117.57054"/>
+<marker id="1393459205" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.10844" latitude="-117.644066"/>
+<marker id="1393459206" label="Jephai Bruiser" category="71" did="1879480439" parentZoneId="1879470534" longitude="-97.16164" latitude="-117.566124"/>
+<marker id="1393459207" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.12047" latitude="-117.6424"/>
+<marker id="1393459208" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.11737" latitude="-117.63679"/>
+<marker id="1393459209" label="Jephai Bruiser" category="71" did="1879480437" parentZoneId="1879470534" longitude="-97.156425" latitude="-117.57373"/>
+<marker id="1393459210" label="Jephai Mender" category="71" did="1879483505" parentZoneId="1879470534" longitude="-97.105545" latitude="-117.638145"/>
+<marker id="1393459211" label="Khâshap" category="70" did="1879480353" parentZoneId="1879470534" longitude="-96.781525" latitude="-117.24883"/>
 </markers>

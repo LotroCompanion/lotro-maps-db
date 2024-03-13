@@ -9780,10 +9780,10 @@
 </map>
 <map id="1879475843" name="The Citadel of Winds" imageId="1092909344">
 <geo factor="899.9999">
-<point longitude="52.332226" latitude="77.50555"/>
+<point longitude="52.582226" latitude="77.50555"/>
 </geo>
-<min longitude="52.332226" latitude="75.50555"/>
-<max longitude="54.998894" latitude="77.50555"/>
+<min longitude="52.582226" latitude="75.50555"/>
+<max longitude="55.248894" latitude="77.50555"/>
 </map>
 <map id="1879475844" name="The Bloody Eagle" imageId="1092909347">
 <geo factor="800.0">
@@ -9820,28 +9820,28 @@
 <min longitude="-146.86499" latitude="73.549995"/>
 <max longitude="-145.53166" latitude="74.549995"/>
 </map>
-<map id="1879478181" name="TBD - RAID - ENTRANCE" imageId="1092912569">
+<map id="1879478181" name="The Mâkhda Khorbo -- Hidden Entrance" imageId="1092912569">
 <geo factor="360.0">
 <point longitude="-147.20833" latitude="73.23334"/>
 </geo>
 <min longitude="-147.20833" latitude="71.56667"/>
 <max longitude="-144.9861" latitude="73.23334"/>
 </map>
-<map id="1879478486" name="TBD - RAID - SHIPYARD" imageId="1092915131">
+<map id="1879478486" name="The Mâkhda Khorbo -- Dry Docks" imageId="1092915131">
 <geo factor="600.0">
-<point longitude="-147.48167" latitude="71.848335"/>
+<point longitude="-147.58167" latitude="71.848335"/>
 </geo>
-<min longitude="-147.48167" latitude="69.848335"/>
-<max longitude="-144.815" latitude="71.848335"/>
+<min longitude="-147.58167" latitude="69.848335"/>
+<max longitude="-144.915" latitude="71.848335"/>
 </map>
-<map id="1879478496" name="TBD - RAID - FLOODED SHIPYARD" imageId="1092915144">
+<map id="1879478496" name="The Mâkhda Khorbo -- Flooded Docks" imageId="1092915144">
 <geo factor="600.0">
 <point longitude="-147.48167" latitude="70.24834"/>
 </geo>
 <min longitude="-147.48167" latitude="68.24834"/>
 <max longitude="-144.815" latitude="70.24834"/>
 </map>
-<map id="1879478783" name="TBD - RAID - BELENDOR'S TOWER" imageId="1092926066">
+<map id="1879478783" name="The Mâkhda Khorbo -- Iron Stairwell" imageId="1092926066">
 <geo factor="600.0">
 <point longitude="-146.66667" latitude="67.95166"/>
 </geo>
@@ -9875,6 +9875,13 @@
 </geo>
 <min longitude="-117.90667" latitude="-14.43833"/>
 <max longitude="-116.57333" latitude="-13.43833"/>
+</map>
+<map id="1879480482" name="Dahâl Huliz, The Arena" imageId="1092934374">
+<geo factor="599.99994">
+<point longitude="52.581657" latitude="67.905"/>
+</geo>
+<min longitude="52.581657" latitude="65.905"/>
+<max longitude="55.248325" latitude="67.905"/>
 </map>
 <map id="1879480640" name="Apothecary" imageId="1092933481">
 <geo factor="599.99994">

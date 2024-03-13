@@ -1,4 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1357971456" label="Control Point" category="73" did="1879152429" parentZoneId="1879478783" longitude="-146.08522" latitude="67.58158"/>
+<marker id="1357971457" label="Lêshana" category="71" did="1879480650" parentZoneId="1879478783" longitude="-146.11101" latitude="67.578926"/>
+<marker id="1357971458" label="Lêshana" category="71" did="1879480650" parentZoneId="1879478783" longitude="-146.07683" latitude="67.55359"/>
+<marker id="1357971459" label="Door" category="100" did="1879475787" parentZoneId="1879478783" longitude="-145.99889" latitude="67.46449"/>
+<marker id="1357971460" label="Door" category="100" did="1879475787" parentZoneId="1879478783" longitude="-145.93507" latitude="67.48441"/>
+<marker id="1357971461" label="Belondor's Chest - Tier 1" category="72" did="1879481943" parentZoneId="1879478783" longitude="-146.04007" latitude="67.6008"/>
+<marker id="1357971462" label="Belondor's Chest - Tier 5" category="72" did="1879481948" parentZoneId="1879478783" longitude="-146.04007" latitude="67.6008"/>
+<marker id="1357971463" label="Belondor's Chest - Tier 4" category="72" did="1879481947" parentZoneId="1879478783" longitude="-146.04007" latitude="67.6008"/>
+<marker id="1357971464" label="Belondor's Chest - Tier 3" category="72" did="1879481957" parentZoneId="1879478783" longitude="-146.04007" latitude="67.6008"/>
+<marker id="1357971465" label="Belondor's Chest - Tier 2" category="72" did="1879481952" parentZoneId="1879478783" longitude="-146.04007" latitude="67.6008"/>
+<marker id="1357971466" label="Door" category="100" did="1879157894" parentZoneId="1879478783" longitude="-146.0483" latitude="67.55217"/>
+<marker id="1357971467" label="Talkênza" category="71" did="1879479179" parentZoneId="1879478783" longitude="-146.08409" latitude="67.57045"/>
+<marker id="1357971468" label="Talkênza" category="71" did="1879479179" parentZoneId="1879478783" longitude="-146.06822" latitude="67.55947"/>
+<marker id="1357971469" label="Khalmôz" category="71" did="1879479177" parentZoneId="1879478783" longitude="-146.0745" latitude="67.57726"/>
+<marker id="1357971470" label="Khalmôz" category="71" did="1879479177" parentZoneId="1879478783" longitude="-146.06493" latitude="67.56801"/>
+<marker id="1357971471" label="Corsair Shade Grim-caller" category="71" did="1879479189" parentZoneId="1879478783" longitude="-145.90295" latitude="67.65844"/>
+<marker id="1357971472" label="Corsair Shade Grim-caller" category="71" did="1879479189" parentZoneId="1879478783" longitude="-145.9661" latitude="67.691795"/>
+<marker id="1357971473" label="Corsair Shade Grim-caller" category="71" did="1879479189" parentZoneId="1879478783" longitude="-145.90805" latitude="67.56955"/>
+<marker id="1357971474" label="Corsair Shade Grim-caller" category="71" did="1879479189" parentZoneId="1879478783" longitude="-146.02757" latitude="67.67459"/>
+<marker id="1357971475" label="Corsair Shade Crocodile-tamer" category="71" did="1879479186" parentZoneId="1879478783" longitude="-146.0289" latitude="67.68301"/>
+<marker id="1357971476" label="Corsair Shade Crocodile-tamer" category="71" did="1879479186" parentZoneId="1879478783" longitude="-145.91139" latitude="67.581696"/>
+<marker id="1357971477" label="Corsair Shade Crocodile-tamer" category="71" did="1879479186" parentZoneId="1879478783" longitude="-145.9163" latitude="67.65923"/>
+<marker id="1357971478" label="Corsair Shade Crocodile-tamer" category="71" did="1879479186" parentZoneId="1879478783" longitude="-145.95209" latitude="67.6872"/>
+<marker id="1357971479" label="Sallax" category="71" did="1879479194" parentZoneId="1879478783" longitude="-146.08647" latitude="67.58422"/>
+<marker id="1357971480" label="Sallax" category="71" did="1879479194" parentZoneId="1879478783" longitude="-146.06099" latitude="67.558784"/>
+<marker id="1357971481" label="Mairan" category="71" did="1879479206" parentZoneId="1879478783" longitude="-146.0692" latitude="67.58759"/>
+<marker id="1357971482" label="Mairan" category="71" did="1879479206" parentZoneId="1879478783" longitude="-146.07104" latitude="67.55256"/>
+<marker id="1357971483" label="Hâkraph" category="71" did="1879479202" parentZoneId="1879478783" longitude="-146.10184" latitude="67.56658"/>
+<marker id="1357971484" label="Hâkraph" category="71" did="1879479202" parentZoneId="1879478783" longitude="-146.08235" latitude="67.55508"/>
+<marker id="1357971485" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478783" longitude="-146.01756" latitude="67.673164"/>
+<marker id="1357971486" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478783" longitude="-145.95172" latitude="67.69758"/>
+<marker id="1357971487" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478783" longitude="-145.91045" latitude="67.63365"/>
+<marker id="1357971488" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478783" longitude="-145.91806" latitude="67.57397"/>
+<marker id="1357971489" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478783" longitude="-145.92432" latitude="67.59043"/>
+<marker id="1357971490" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478783" longitude="-145.92769" latitude="67.65312"/>
+<marker id="1357971491" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478783" longitude="-145.96574" latitude="67.67037"/>
+<marker id="1357971492" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478783" longitude="-146.02783" latitude="67.66713"/>
+<marker id="1357971493" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478783" longitude="-146.019" latitude="67.6876"/>
+<marker id="1357971494" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478783" longitude="-145.91608" latitude="67.64412"/>
+<marker id="1357971495" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478783" longitude="-145.95247" latitude="67.67736"/>
+<marker id="1357971496" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478783" longitude="-145.92609" latitude="67.573784"/>
+<marker id="1357971497" label="Corsair Shade Crab-tamer" category="71" did="1879479219" parentZoneId="1879478783" longitude="-145.93468" latitude="67.5715"/>
+<marker id="1357971498" label="Corsair Shade Crab-tamer" category="71" did="1879479219" parentZoneId="1879478783" longitude="-146.0166" latitude="67.68053"/>
+<marker id="1357971499" label="Corsair Shade Crab-tamer" category="71" did="1879479219" parentZoneId="1879478783" longitude="-145.8953" latitude="67.648674"/>
+<marker id="1357971500" label="Corsair Shade Crab-tamer" category="71" did="1879479219" parentZoneId="1879478783" longitude="-145.96623" latitude="67.67914"/>
+<marker id="1357971501" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478783" longitude="-145.91591" latitude="67.590385"/>
+<marker id="1357971502" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478783" longitude="-145.8911" latitude="67.656876"/>
+<marker id="1357971503" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478783" longitude="-145.96516" latitude="67.70078"/>
+<marker id="1357971504" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478783" longitude="-146.02849" latitude="67.69195"/>
+<marker id="1357971505" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478783" longitude="-145.9205" latitude="67.58227"/>
+<marker id="1357971506" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478783" longitude="-146.02777" latitude="67.67951"/>
+<marker id="1357971507" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478783" longitude="-145.90764" latitude="67.65"/>
+<marker id="1357971508" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478783" longitude="-145.96127" latitude="67.68703"/>
+<marker id="1357971509" label="Belondor" category="71" did="1879479225" parentZoneId="1879478783" longitude="-146.07889" latitude="67.56255"/>
+<marker id="1357971510" label="Belondor" category="71" did="1879479225" parentZoneId="1879478783" longitude="-146.06313" latitude="67.54855"/>
+<marker id="1357971511" label="Door" category="100" did="1879368137" parentZoneId="1879478783" longitude="-146.04819" latitude="67.6482"/>
+<marker id="1357971512" label="Door" category="100" did="1879368137" parentZoneId="1879478783" longitude="-145.95341" latitude="67.55072"/>
+<marker id="1357979648" label="Door" category="100" did="1879368135" parentZoneId="1879478496" longitude="-146.00323" latitude="69.386284"/>
+<marker id="1357979649" label="Control Point" category="73" did="1879152429" parentZoneId="1879478496" longitude="-146.01904" latitude="69.31443"/>
+<marker id="1357979650" label="Forgotten Smuggler's Chest - Tier 4" category="72" did="1879481926" parentZoneId="1879478496" longitude="-146.0019" latitude="69.344376"/>
+<marker id="1357979651" label="Forgotten Smuggler's Chest - Tier 1" category="72" did="1879481925" parentZoneId="1879478496" longitude="-146.0019" latitude="69.344376"/>
+<marker id="1357979652" label="Forgotten Smuggler's Chest - Tier 3" category="72" did="1879481935" parentZoneId="1879478496" longitude="-146.0019" latitude="69.344376"/>
+<marker id="1357979653" label="Forgotten Smuggler's Chest - Tier 2" category="72" did="1879481932" parentZoneId="1879478496" longitude="-146.0019" latitude="69.344376"/>
+<marker id="1357979654" label="Forgotten Smuggler's Chest - Tier 5" category="72" did="1879481929" parentZoneId="1879478496" longitude="-146.0019" latitude="69.344376"/>
+<marker id="1357979655" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-145.86162" latitude="68.96527"/>
+<marker id="1357979656" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-145.86166" latitude="69.02509"/>
+<marker id="1357979657" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-145.85704" latitude="69.10287"/>
+<marker id="1357979658" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-146.1356" latitude="69.11272"/>
+<marker id="1357979659" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-146.13142" latitude="69.02379"/>
+<marker id="1357979660" label="Derelict Boat" category="70" did="1879482731" parentZoneId="1879478496" longitude="-146.12474" latitude="68.96055"/>
+<marker id="1357979661" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478496" longitude="-146.19753" latitude="68.943146"/>
+<marker id="1357979662" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478496" longitude="-145.79434" latitude="68.93814"/>
+<marker id="1357979663" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478496" longitude="-146.2019" latitude="69.04629"/>
+<marker id="1357979664" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478496" longitude="-146.20204" latitude="68.94867"/>
+<marker id="1357979665" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478496" longitude="-145.79984" latitude="68.94367"/>
+<marker id="1357979666" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478496" longitude="-145.79533" latitude="69.04129"/>
+<marker id="1357979667" label="Umshûra the Glutton" category="71" did="1879479176" parentZoneId="1879478496" longitude="-145.99272" latitude="69.22078"/>
+<marker id="1357979668" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-146.20099" latitude="69.12488"/>
+<marker id="1357979669" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-146.20528" latitude="69.03869"/>
+<marker id="1357979670" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-146.20679" latitude="68.94316"/>
+<marker id="1357979671" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-145.80022" latitude="68.93816"/>
+<marker id="1357979672" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-145.79488" latitude="69.03369"/>
+<marker id="1357979673" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478496" longitude="-145.79181" latitude="69.11988"/>
+<marker id="1357979674" label="Tethered Energy" category="71" did="1879479184" parentZoneId="1879478496" longitude="-146.06348" latitude="69.32066"/>
+<marker id="1357979675" label="Tethered Energy" category="71" did="1879479184" parentZoneId="1879478496" longitude="-145.98677" latitude="69.32246"/>
+<marker id="1357979676" label="Tethered Energy" category="71" did="1879479184" parentZoneId="1879478496" longitude="-145.92006" latitude="69.311134"/>
+<marker id="1357979677" label="Tethered Energy" category="71" did="1879479184" parentZoneId="1879478496" longitude="-145.96086" latitude="69.29365"/>
+<marker id="1357979678" label="Tethered Energy" category="71" did="1879479184" parentZoneId="1879478496" longitude="-146.02512" latitude="69.29381"/>
+<marker id="1357979679" label="Umshûra's Sturdy Tentacle" category="71" did="1879479199" parentZoneId="1879478496" longitude="-145.933" latitude="69.20248"/>
+<marker id="1357979680" label="Umshûra's Sturdy Tentacle" category="71" did="1879479199" parentZoneId="1879478496" longitude="-146.06294" latitude="69.20171"/>
+<marker id="1357979681" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-145.81259" latitude="68.93646"/>
+<marker id="1357979682" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-145.81099" latitude="69.01391"/>
+<marker id="1357979683" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-145.8126" latitude="69.1024"/>
+<marker id="1357979684" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-146.18243" latitude="69.10359"/>
+<marker id="1357979685" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-146.1772" latitude="69.01424"/>
+<marker id="1357979686" label="Umshûra's Great Crushing Tentacle" category="71" did="1879482029" parentZoneId="1879478496" longitude="-146.1706" latitude="68.950134"/>
+<marker id="1357979687" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478496" longitude="-146.20049" latitude="69.1314"/>
+<marker id="1357979688" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478496" longitude="-145.79132" latitude="69.1264"/>
+<marker id="1357979689" label="Bull Crocodile" category="71" did="1879479209" parentZoneId="1879478496" longitude="-145.99083" latitude="69.32845"/>
+<marker id="1357979690" label="Bull Crocodile" category="71" did="1879479209" parentZoneId="1879478496" longitude="-145.92413" latitude="69.31711"/>
+<marker id="1357979691" label="Bull Crocodile" category="71" did="1879479209" parentZoneId="1879478496" longitude="-145.95692" latitude="69.2948"/>
+<marker id="1357979692" label="Bull Crocodile" category="71" did="1879479209" parentZoneId="1879478496" longitude="-146.02917" latitude="69.299805"/>
+<marker id="1357979693" label="Bull Crocodile" category="71" did="1879479209" parentZoneId="1879478496" longitude="-146.06754" latitude="69.32666"/>
+<marker id="1357979694" label="Umshûra's Sweeping Tentacle" category="71" did="1879479223" parentZoneId="1879478496" longitude="-146.11816" latitude="69.180115"/>
+<marker id="1357979695" label="Umshûra's Sweeping Tentacle" category="71" did="1879479223" parentZoneId="1879478496" longitude="-145.86568" latitude="69.175896"/>
+<marker id="1357979696" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478496" longitude="-146.20085" latitude="69.12048"/>
+<marker id="1357979697" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478496" longitude="-145.79169" latitude="69.115486"/>
+<marker id="1357979698" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478496" longitude="-146.20177" latitude="69.031715"/>
+<marker id="1357979699" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478496" longitude="-145.79518" latitude="69.02672"/>
+<marker id="1357979700" label="Umshûra's Slapping Tentacle" category="71" did="1879479229" parentZoneId="1879478496" longitude="-145.84029" latitude="69.18217"/>
+<marker id="1357979701" label="Umshûra's Slapping Tentacle" category="71" did="1879479229" parentZoneId="1879478496" longitude="-146.14915" latitude="69.17432"/>
+<marker id="1357979702" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478496" longitude="-146.20274" latitude="68.938614"/>
+<marker id="1357979703" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478496" longitude="-145.80028" latitude="68.93361"/>
+<marker id="1357979704" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478496" longitude="-146.19638" latitude="69.037636"/>
+<marker id="1357979705" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478496" longitude="-145.79762" latitude="69.12023"/>
+<marker id="1357979706" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478496" longitude="-145.7898" latitude="69.036385"/>
+<marker id="1357979707" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478496" longitude="-146.19554" latitude="69.12524"/>
+<marker id="1357979708" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.066" latitude="69.31953"/>
+<marker id="1357979709" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.06012" latitude="69.32453"/>
+<marker id="1357979710" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.05888" latitude="69.316444"/>
+<marker id="1357979711" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.98848" latitude="69.32953"/>
+<marker id="1357979712" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.98724" latitude="69.32144"/>
+<marker id="1357979713" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.99434" latitude="69.32453"/>
+<marker id="1357979714" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.92958" latitude="69.31291"/>
+<marker id="1357979715" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.92249" latitude="69.30982"/>
+<marker id="1357979716" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.92372" latitude="69.31791"/>
+<marker id="1357979717" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.95923" latitude="69.29541"/>
+<marker id="1357979718" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.958" latitude="69.28732"/>
+<marker id="1357979719" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-145.96509" latitude="69.290405"/>
+<marker id="1357979720" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.0304" latitude="69.29541"/>
+<marker id="1357979721" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.0233" latitude="69.29232"/>
+<marker id="1357979722" label="Deep Crab" category="71" did="1879479234" parentZoneId="1879478496" longitude="-146.02454" latitude="69.30041"/>
+<marker id="1357987840" label="Nakási Wave-reaper" category="70" did="1879481647" parentZoneId="1879478486" longitude="-145.99974" latitude="70.51232"/>
+<marker id="1357987841" label="Nakási Wave-reaper" category="70" did="1879481647" parentZoneId="1879478486" longitude="-145.98326" latitude="70.86959"/>
+<marker id="1357987842" label="Belondor" category="70" did="1879481648" parentZoneId="1879478486" longitude="-146.00005" latitude="70.87022"/>
+<marker id="1357987843" label="Azagath Sea-shadow" category="70" did="1879481649" parentZoneId="1879478486" longitude="-146.00232" latitude="70.96744"/>
+<marker id="1357987844" label="Lêshana" category="71" did="1879480650" parentZoneId="1879478486" longitude="-146.0162" latitude="70.84621"/>
+<marker id="1357987845" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478486" longitude="-146.02261" latitude="70.956795"/>
+<marker id="1357987846" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478486" longitude="-146.03548" latitude="70.87285"/>
+<marker id="1357987847" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478486" longitude="-145.99821" latitude="70.84041"/>
+<marker id="1357987848" label="Corsair Shade Keen-eye" category="71" did="1879479174" parentZoneId="1879478486" longitude="-146.09398" latitude="70.862495"/>
+<marker id="1357987849" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478486" longitude="-145.96684" latitude="70.94949"/>
+<marker id="1357987850" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478486" longitude="-146.02684" latitude="70.88264"/>
+<marker id="1357987851" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478486" longitude="-146.09554" latitude="70.872536"/>
+<marker id="1357987852" label="Corsair Shade Striker" category="71" did="1879479183" parentZoneId="1879478486" longitude="-145.98958" latitude="70.85021"/>
+<marker id="1357987853" label="Lêshana" category="71" did="1879479178" parentZoneId="1879478486" longitude="-145.97624" latitude="70.84385"/>
+<marker id="1357987854" label="Talkênza" category="71" did="1879479179" parentZoneId="1879478486" longitude="-146.00847" latitude="70.8583"/>
+<marker id="1357987855" label="Khalmôz" category="71" did="1879479177" parentZoneId="1879478486" longitude="-146.00873" latitude="70.84627"/>
+<marker id="1357987856" label="Umini" category="71" did="1879479190" parentZoneId="1879478486" longitude="-145.97461" latitude="70.85641"/>
+<marker id="1357987857" label="Umini" category="71" did="1879479190" parentZoneId="1879478486" longitude="-145.9039" latitude="70.50213"/>
+<marker id="1357987858" label="Corsair Shade Grim-caller" category="71" did="1879479189" parentZoneId="1879478486" longitude="-145.82744" latitude="70.80201"/>
+<marker id="1357987859" label="Corsair Shade Crocodile-tamer" category="71" did="1879479186" parentZoneId="1879478486" longitude="-145.82687" latitude="70.80777"/>
+<marker id="1357987860" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478486" longitude="-146.00168" latitude="70.92512"/>
+<marker id="1357987861" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478486" longitude="-146.03563" latitude="70.86668"/>
+<marker id="1357987862" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478486" longitude="-146.10107" latitude="70.865425"/>
+<marker id="1357987863" label="Corsair Shade Soother" category="71" did="1879479187" parentZoneId="1879478486" longitude="-145.99835" latitude="70.83426"/>
+<marker id="1357987864" label="Nâxam" category="71" did="1879479196" parentZoneId="1879478486" longitude="-145.98314" latitude="70.8558"/>
+<marker id="1357987865" label="Nâxam" category="71" did="1879479196" parentZoneId="1879478486" longitude="-145.96384" latitude="70.51009"/>
+<marker id="1357987866" label="Sallax" category="71" did="1879479194" parentZoneId="1879478486" longitude="-146.01498" latitude="70.8581"/>
+<marker id="1357987867" label="Shayuz" category="71" did="1879479192" parentZoneId="1879478486" longitude="-146.07451" latitude="70.50826"/>
+<marker id="1357987868" label="Shayuz" category="71" did="1879479192" parentZoneId="1879478486" longitude="-145.9835" latitude="70.84399"/>
+<marker id="1357987869" label="Mairan" category="71" did="1879479206" parentZoneId="1879478486" longitude="-146.00131" latitude="70.85812"/>
+<marker id="1357987870" label="Hâkraph" category="71" did="1879479202" parentZoneId="1879478486" longitude="-145.99988" latitude="70.845955"/>
+<marker id="1357987871" label="Hadûlo" category="71" did="1879479203" parentZoneId="1879478486" longitude="-145.94777" latitude="70.508224"/>
+<marker id="1357987872" label="Hadûlo" category="71" did="1879479203" parentZoneId="1879478486" longitude="-145.98997" latitude="70.85631"/>
+<marker id="1357987873" label="Imephâr" category="71" did="1879479200" parentZoneId="1879478486" longitude="-145.9677" latitude="70.84576"/>
+<marker id="1357987874" label="Imephâr" category="71" did="1879479200" parentZoneId="1879478486" longitude="-146.08875" latitude="70.50805"/>
+<marker id="1357987875" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478486" longitude="-145.8319" latitude="70.8033"/>
+<marker id="1357987876" label="Corsair Shade Ravager" category="71" did="1879479201" parentZoneId="1879478486" longitude="-146.20088" latitude="70.637085"/>
+<marker id="1357987877" label="Châki" category="71" did="1879479215" parentZoneId="1879478486" longitude="-146.05357" latitude="70.50809"/>
+<marker id="1357987878" label="Châki" category="71" did="1879479215" parentZoneId="1879478486" longitude="-146.0325" latitude="70.506874"/>
+<marker id="1357987879" label="Châki" category="71" did="1879479215" parentZoneId="1879478486" longitude="-145.9905" latitude="70.84385"/>
+<marker id="1357987880" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478486" longitude="-145.82127" latitude="70.816696"/>
+<marker id="1357987881" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478486" longitude="-146.19405" latitude="70.61914"/>
+<marker id="1357987882" label="Corsair Shade Sorcerer" category="71" did="1879479212" parentZoneId="1879478486" longitude="-146.20691" latitude="70.62177"/>
+<marker id="1357987883" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478486" longitude="-145.83234" latitude="70.81146"/>
+<marker id="1357987884" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478486" longitude="-146.2082" latitude="70.636444"/>
+<marker id="1357987885" label="Corsair Shade Striker" category="71" did="1879479210" parentZoneId="1879478486" longitude="-146.1935" latitude="70.63672"/>
+<marker id="1357987886" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478486" longitude="-146.01988" latitude="70.92467"/>
+<marker id="1357987887" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478486" longitude="-146.03548" latitude="70.884"/>
+<marker id="1357987888" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478486" longitude="-145.99821" latitude="70.85158"/>
+<marker id="1357987889" label="Corsair Shade Ravager" category="71" did="1879479211" parentZoneId="1879478486" longitude="-146.09567" latitude="70.88025"/>
+<marker id="1357987890" label="Ramish" category="71" did="1879479208" parentZoneId="1879478486" longitude="-145.93004" latitude="70.50689"/>
+<marker id="1357987891" label="Ramish" category="71" did="1879479208" parentZoneId="1879478486" longitude="-145.983" latitude="70.85095"/>
+<marker id="1357987892" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478486" longitude="-145.97658" latitude="70.92473"/>
+<marker id="1357987893" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478486" longitude="-146.02483" latitude="70.87285"/>
+<marker id="1357987894" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478486" longitude="-146.11008" latitude="70.86227"/>
+<marker id="1357987895" label="Corsair Shade Crocodile-tamer" category="71" did="1879479220" parentZoneId="1879478486" longitude="-145.98755" latitude="70.84041"/>
+<marker id="1357987896" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478486" longitude="-146.00153" latitude="70.97412"/>
+<marker id="1357987897" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478486" longitude="-146.03548" latitude="70.87742"/>
+<marker id="1357987898" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478486" longitude="-145.99821" latitude="70.845"/>
+<marker id="1357987899" label="Corsair Shade Crab-tamer" category="71" did="1879479221" parentZoneId="1879478486" longitude="-146.11084" latitude="70.87933"/>
+<marker id="1357987900" label="Corsair Shade Crab-tamer" category="71" did="1879479219" parentZoneId="1879478486" longitude="-145.82684" latitude="70.81422"/>
+<marker id="1357987901" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478486" longitude="-145.82103" latitude="70.80498"/>
+<marker id="1357987902" label="Corsair Shade Keen-eye" category="71" did="1879479216" parentZoneId="1879478486" longitude="-146.19844" latitude="70.628555"/>
+<marker id="1357987903" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478486" longitude="-145.82204" latitude="70.81017"/>
+<marker id="1357987904" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478486" longitude="-146.20737" latitude="70.62888"/>
+<marker id="1357987905" label="Corsair Shade Soother" category="71" did="1879479228" parentZoneId="1879478486" longitude="-146.19164" latitude="70.62852"/>
+<marker id="1357987906" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478486" longitude="-146.0456" latitude="70.87285"/>
+<marker id="1357987907" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478486" longitude="-146.00833" latitude="70.84041"/>
+<marker id="1357987908" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478486" longitude="-146.11009" latitude="70.8691"/>
+<marker id="1357987909" label="Corsair Shade Grim-caller" category="71" did="1879479226" parentZoneId="1879478486" longitude="-146.03343" latitude="70.93494"/>
+<marker id="1357987910" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478486" longitude="-145.983" latitude="70.837265"/>
+<marker id="1357987911" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478486" longitude="-146.10086" latitude="70.87287"/>
+<marker id="1357987912" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478486" longitude="-146.0301" latitude="70.88832"/>
+<marker id="1357987913" label="Corsair Shade Sorcerer" category="71" did="1879479227" parentZoneId="1879478486" longitude="-145.98988" latitude="70.91947"/>
+<marker id="1357987914" label="Door" category="100" did="1879368135" parentZoneId="1879478486" longitude="-146.23013" latitude="70.79963"/>
+<marker id="1357987915" label="Door" category="100" did="1879368135" parentZoneId="1879478486" longitude="-146.00323" latitude="70.98629"/>
+<marker id="1357996033" label="Nakási Wave-reaper" category="70" did="1879481647" parentZoneId="1879478181" longitude="-145.88507" latitude="72.39199"/>
+<marker id="1357996034" label="Control Point" category="73" did="1879152429" parentZoneId="1879478181" longitude="-145.93163" latitude="72.40203"/>
+<marker id="1357996035" label="Belondor" category="70" did="1879481648" parentZoneId="1879478181" longitude="-145.88412" latitude="72.40679"/>
+<marker id="1357996036" label="Azagath Sea-shadow" category="70" did="1879481649" parentZoneId="1879478181" longitude="-145.8864" latitude="72.40367"/>
+<marker id="1357996038" label="Well-worn Corsair's Chest - Tier 4" category="72" did="1879481950" parentZoneId="1879478181" longitude="-145.91553" latitude="72.43039"/>
+<marker id="1357996039" label="Well-worn Corsair's Chest- Tier 1" category="72" did="1879481945" parentZoneId="1879478181" longitude="-145.91551" latitude="72.43039"/>
+<marker id="1357996040" label="Well-worn Corsair's Chest - Tier 2" category="72" did="1879481959" parentZoneId="1879478181" longitude="-145.91551" latitude="72.43039"/>
+<marker id="1357996041" label="Well-worn Corsair's Chest - Tier 5" category="72" did="1879481955" parentZoneId="1879478181" longitude="-145.91553" latitude="72.43043"/>
+<marker id="1357996042" label="Well-worn Corsair's Chest - Tier 3" category="72" did="1879481963" parentZoneId="1879478181" longitude="-145.91551" latitude="72.43039"/>
+<marker id="1357996057" label="Azagath's Sea-shadow" category="71" did="1879479213" parentZoneId="1879478181" longitude="-145.97453" latitude="72.4032"/>
+<marker id="1357996058" label="Azagath's Sea-shadow" category="71" did="1879479213" parentZoneId="1879478181" longitude="-145.87326" latitude="72.3992"/>
+<marker id="1357996061" label="Door" category="100" did="1879368135" parentZoneId="1879478181" longitude="-145.88612" latitude="72.400406"/>
+<marker id="1357996062" label="Door" category="100" did="1879368135" parentZoneId="1879478181" longitude="-146.13968" latitude="72.395134"/>
+<marker id="1357996064" label="Door" category="100" did="1879368135" parentZoneId="1879478181" longitude="-146.20427" latitude="72.425934"/>
+<marker id="1357996065" label="Door" category="100" did="1879368135" parentZoneId="1879478181" longitude="-146.24927" latitude="72.37762"/>
+<marker id="1357996073" label="Umaris" category="70" did="1879482819" parentZoneId="1879478181" longitude="-146.22913" latitude="72.428764"/>
+<marker id="1357996074" label="Jadazin" category="71" did="1879479195" parentZoneId="1879478181" longitude="-145.89876" latitude="72.40595"/>
+<marker id="1357996075" label="Nâxam" category="71" did="1879480646" parentZoneId="1879478181" longitude="-145.90048" latitude="72.39404"/>
+<marker id="1357996076" label="Ishakhâr" category="71" did="1879479217" parentZoneId="1879478181" longitude="-145.97441" latitude="72.42144"/>
+<marker id="1357996077" label="Ishakhâr" category="71" did="1879479217" parentZoneId="1879478181" longitude="-145.97464" latitude="72.42146"/>
+<marker id="1357996078" label="Karanzôr" category="71" did="1879479214" parentZoneId="1879478181" longitude="-145.89952" latitude="72.405876"/>
+<marker id="1357996079" label="Zagarón" category="71" did="1879479188" parentZoneId="1879478181" longitude="-145.86658" latitude="72.393555"/>
+<marker id="1357996080" label="Zagarón" category="71" did="1879479188" parentZoneId="1879478181" longitude="-145.97025" latitude="72.36992"/>
+<marker id="1357996081" label="Zagarón" category="71" did="1879479188" parentZoneId="1879478181" longitude="-145.97113" latitude="72.36973"/>
+<marker id="1357996082" label="Phêrida" category="71" did="1879479180" parentZoneId="1879478181" longitude="-145.8673" latitude="72.40129"/>
+<marker id="1357996083" label="Phêrida" category="71" did="1879479180" parentZoneId="1879478181" longitude="-145.92516" latitude="72.44267"/>
+<marker id="1357996084" label="Phêrida" category="71" did="1879479180" parentZoneId="1879478181" longitude="-145.92589" latitude="72.442535"/>
+<marker id="1357996085" label="Dulgakhó" category="71" did="1879479181" parentZoneId="1879478181" longitude="-145.90176" latitude="72.39498"/>
+<marker id="1357996086" label="Burkhad" category="71" did="1879479185" parentZoneId="1879478181" longitude="-145.8677" latitude="72.40998"/>
+<marker id="1357996087" label="Burkhad" category="71" did="1879479185" parentZoneId="1879478181" longitude="-145.93779" latitude="72.39451"/>
+<marker id="1357996088" label="Burkhad" category="71" did="1879479185" parentZoneId="1879478181" longitude="-145.93764" latitude="72.39441"/>
+<marker id="1357996089" label="Êphaltud" category="71" did="1879479198" parentZoneId="1879478181" longitude="-145.94336" latitude="72.35596"/>
+<marker id="1357996090" label="Nûralai" category="71" did="1879479197" parentZoneId="1879478181" longitude="-145.90074" latitude="72.40615"/>
 <marker id="1358004233" label="Umbari Scout" category="70" did="1879478372" parentZoneId="1879476594" longitude="-145.91827" latitude="73.99949"/>
 <marker id="1358004255" label="Ghax-hophra Worker" category="71" did="1879475482" parentZoneId="1879476594" longitude="-146.10953" latitude="73.93884"/>
 <marker id="1358004256" label="Ghax-hophra Worker" category="71" did="1879475482" parentZoneId="1879476594" longitude="-146.08603" latitude="73.77744"/>

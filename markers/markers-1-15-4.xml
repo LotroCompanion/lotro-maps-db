@@ -24,10 +24,10 @@
 <marker id="524955662" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.66484" latitude="-70.27823"/>
 <marker id="524955663" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.93363" latitude="-70.278244"/>
 <marker id="524955664" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.79867" latitude="-70.35271"/>
-<marker id="524955665" label="Dúnedain" category="70" did="1879094961" parentZoneId="1879090259" longitude="53.310078" latitude="-70.157234"/>
-<marker id="524955666" label="Dúnedain" category="70" did="1879094961" parentZoneId="1879090259" longitude="53.755997" latitude="-70.18529"/>
-<marker id="524955667" label="Dúnedain" category="70" did="1879094962" parentZoneId="1879090259" longitude="53.81998" latitude="-70.25492"/>
-<marker id="524955668" label="Dúnedain" category="70" did="1879094962" parentZoneId="1879090259" longitude="53.325176" latitude="-70.240265"/>
+<marker id="524955665" label="Dúnadan" category="70" did="1879094961" parentZoneId="1879090259" longitude="53.310078" latitude="-70.157234"/>
+<marker id="524955666" label="Dúnadan" category="70" did="1879094961" parentZoneId="1879090259" longitude="53.755997" latitude="-70.18529"/>
+<marker id="524955667" label="Dúnadan" category="70" did="1879094962" parentZoneId="1879090259" longitude="53.81998" latitude="-70.25492"/>
+<marker id="524955668" label="Dúnadan" category="70" did="1879094962" parentZoneId="1879090259" longitude="53.325176" latitude="-70.240265"/>
 <marker id="524955671" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.934765" latitude="-70.2783"/>
 <marker id="524955672" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.798553" latitude="-70.35244"/>
 <marker id="524955673" label="Door" category="100" did="1879081256" parentZoneId="1879090259" longitude="53.664783" latitude="-70.278175"/>
@@ -1888,425 +1888,426 @@
 <marker id="525127753" label="Horm, The Pit Beast" category="71" did="1879097672" parentZoneId="1879101643" longitude="54.518887" latitude="-62.640648"/>
 <marker id="525127754" label="Bhoghad, Emissary to Goblin-town" category="71" did="1879097674" parentZoneId="1879101643" longitude="54.492676" latitude="-62.770397"/>
 <marker id="525127755" label="The Great Goblin's Den" category="74" did="1879097614" parentZoneId="1879101643" longitude="54.202263" latitude="-62.93267"/>
-<marker id="525135882" label="Boulder" category="100" did="1879101481" parentZoneId="1879256517" longitude="54.211502" latitude="-62.4473"/>
-<marker id="525135883" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.199707" latitude="-60.88075"/>
-<marker id="525135884" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256516" longitude="54.741013" latitude="-61.228996"/>
-<marker id="525135885" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.195312" latitude="-61.786892"/>
-<marker id="525135886" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.381874" latitude="-61.279915"/>
-<marker id="525135887" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.216053" latitude="-62.036118"/>
-<marker id="525135888" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.313126" latitude="-61.00871"/>
-<marker id="525135889" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="53.918846" latitude="-61.20278"/>
-<marker id="525135890" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.339256" latitude="-61.529278"/>
-<marker id="525135891" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.220703" latitude="-61.872055"/>
-<marker id="525135892" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.09072" latitude="-61.52196"/>
-<marker id="525135893" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.198513" latitude="-62.281746"/>
-<marker id="525135894" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.076855" latitude="-61.002514"/>
-<marker id="525135895" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.654648" latitude="-61.206043"/>
-<marker id="525135896" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.150703" latitude="-62.058037"/>
-<marker id="525135897" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.09287" latitude="-61.42449"/>
-<marker id="525135898" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.35121" latitude="-61.281963"/>
-<marker id="525135899" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256516" longitude="54.69301" latitude="-61.332684"/>
-<marker id="525135900" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.630077" latitude="-61.20554"/>
-<marker id="525135901" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.078026" latitude="-61.27589"/>
-<marker id="525135902" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.051327" latitude="-61.04735"/>
-<marker id="525135903" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.065254" latitude="-61.27646"/>
-<marker id="525135904" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.141365" latitude="-61.42037"/>
-<marker id="525135905" label="Brosh" category="71" did="1879256869" parentZoneId="1879256517" longitude="54.278202" latitude="-60.86881"/>
-<marker id="525135906" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.673416" latitude="-60.748417"/>
-<marker id="525135907" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.304764" latitude="-61.214935"/>
-<marker id="525135908" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.302048" latitude="-61.2066"/>
-<marker id="525135909" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.296326" latitude="-61.213047"/>
-<marker id="525135910" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.3083" latitude="-61.202988"/>
-<marker id="525135911" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.220642" latitude="-60.998726"/>
-<marker id="525135912" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.340214" latitude="-60.76441"/>
-<marker id="525135913" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.25998" latitude="-60.778015"/>
-<marker id="525135914" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256516" longitude="54.752556" latitude="-61.249397"/>
-<marker id="525135915" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256516" longitude="54.745075" latitude="-61.2526"/>
-<marker id="525135916" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="53.923904" latitude="-61.217834"/>
-<marker id="525135917" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.30656" latitude="-60.999058"/>
-<marker id="525135918" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.19539" latitude="-61.883007"/>
-<marker id="525135919" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.195312" latitude="-62.222557"/>
-<marker id="525135920" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.078358" latitude="-60.992138"/>
-<marker id="525135921" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.191074" latitude="-61.50334"/>
-<marker id="525135922" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.210545" latitude="-62.031116"/>
-<marker id="525135923" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.047363" latitude="-61.597824"/>
-<marker id="525135924" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.224373" latitude="-62.030586"/>
-<marker id="525135925" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.151035" latitude="-61.47638"/>
-<marker id="525135926" label="Mârubh" category="71" did="1879256873" parentZoneId="1879256517" longitude="54.10945" latitude="-60.871845"/>
-<marker id="525135927" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.23564" latitude="-61.79348"/>
-<marker id="525135928" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256516" longitude="54.742012" latitude="-61.238792"/>
-<marker id="525135929" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="53.940544" latitude="-61.149384"/>
-<marker id="525135930" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256516" longitude="54.702263" latitude="-61.27693"/>
-<marker id="525135931" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.17873" latitude="-61.4631"/>
-<marker id="525135932" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="53.93453" latitude="-61.034695"/>
-<marker id="525135933" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.220135" latitude="-62.22096"/>
-<marker id="525135934" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.148357" latitude="-62.078007"/>
-<marker id="525135935" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.64289" latitude="-61.175224"/>
-<marker id="525135936" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.222813" latitude="-61.89243"/>
-<marker id="525135937" label="Control Point" category="73" did="1879152429" parentZoneId="1879256517" longitude="54.158573" latitude="-61.30367"/>
-<marker id="525135938" label="Control Point" category="73" did="1879152429" parentZoneId="1879256517" longitude="54.158436" latitude="-61.303738"/>
-<marker id="525135939" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.04906" latitude="-61.40379"/>
-<marker id="525135940" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.351795" latitude="-61.275715"/>
-<marker id="525135941" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.235703" latitude="-61.799717"/>
-<marker id="525135942" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256516" longitude="54.734394" latitude="-61.234287"/>
-<marker id="525135943" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.20955" latitude="-61.95933"/>
-<marker id="525135944" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256516" longitude="54.749687" latitude="-61.298847"/>
-<marker id="525135945" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.196735" latitude="-62.231777"/>
-<marker id="525135946" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="53.892536" latitude="-61.04278"/>
-<marker id="525135947" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.225193" latitude="-61.5248"/>
-<marker id="525135948" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.07658" latitude="-61.211494"/>
-<marker id="525135949" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.06367" latitude="-61.266884"/>
-<marker id="525135950" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.069782" latitude="-61.61463"/>
-<marker id="525135953" label="Private Encounter Quest Bestower" category="73" did="1879205420" parentZoneId="1879256517" longitude="54.170994" latitude="-60.85047"/>
-<marker id="525135954" label="Unstable Sapper" category="71" did="1879256883" parentZoneId="1879256517" longitude="54.251347" latitude="-60.94738"/>
-<marker id="525135955" label="Grudom" category="71" did="1879256882" parentZoneId="1879256516" longitude="54.255234" latitude="-61.151737"/>
-<marker id="525135956" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.036446" latitude="-61.350647"/>
-<marker id="525135957" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.285896" latitude="-60.974854"/>
-<marker id="525135958" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.213924" latitude="-61.443962"/>
-<marker id="525135959" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.67078" latitude="-61.184536"/>
-<marker id="525135960" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.284863" latitude="-61.019253"/>
-<marker id="525135961" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.95035" latitude="-61.18301"/>
-<marker id="525135962" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256516" longitude="54.730526" latitude="-61.32742"/>
-<marker id="525135963" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.970974" latitude="-61.049583"/>
-<marker id="525135964" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.895584" latitude="-61.08394"/>
-<marker id="525135965" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.092888" latitude="-61.06369"/>
-<marker id="525135966" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.104023" latitude="-61.025276"/>
-<marker id="525135967" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.188457" latitude="-60.92652"/>
-<marker id="525135968" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.096855" latitude="-61.248695"/>
-<marker id="525135969" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256517" longitude="54.218124" latitude="-61.792294"/>
-<marker id="525135970" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256516" longitude="54.697422" latitude="-61.322983"/>
-<marker id="525135971" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256517" longitude="54.21488" latitude="-61.86909"/>
-<marker id="525135972" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.784275" latitude="-60.74959"/>
-<marker id="525135973" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.800056" latitude="-60.784817"/>
-<marker id="525135974" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.301582" latitude="-61.199154"/>
-<marker id="525135975" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.23912" latitude="-60.996838"/>
-<marker id="525135976" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.224842" latitude="-60.997673"/>
-<marker id="525135977" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.298122" latitude="-61.21203"/>
-<marker id="525135978" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.300545" latitude="-61.220383"/>
-<marker id="525135979" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.365116" latitude="-60.760235"/>
-<marker id="525135980" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.26533" latitude="-60.83749"/>
-<marker id="525135981" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.22537" latitude="-60.85495"/>
-<marker id="525135982" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.157322" latitude="-60.856792"/>
-<marker id="525135983" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.221874" latitude="-60.859188"/>
-<marker id="525135984" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.162792" latitude="-60.859688"/>
-<marker id="525135985" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.156464" latitude="-60.85094"/>
-<marker id="525135986" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.20781" latitude="-60.974735"/>
-<marker id="525135987" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.217693" latitude="-60.863514"/>
-<marker id="525135988" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.20072" latitude="-60.975822"/>
-<marker id="525135989" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.243378" latitude="-60.87165"/>
-<marker id="525135990" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.19234" latitude="-60.9762"/>
-<marker id="525135991" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.2533" latitude="-60.88581"/>
-<marker id="525135992" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.17703" latitude="-60.974506"/>
-<marker id="525135993" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.27918" latitude="-60.858982"/>
-<marker id="525135994" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.18484" latitude="-60.97569"/>
-<marker id="525135995" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.245193" latitude="-60.851093"/>
-<marker id="525135996" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.269043" latitude="-60.87553"/>
-<marker id="525135997" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.144394" latitude="-60.866306"/>
-<marker id="525135998" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.140957" latitude="-60.8467"/>
-<marker id="525135999" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.114216" latitude="-60.866463"/>
-<marker id="525136000" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.12166" latitude="-60.84405"/>
-<marker id="525136001" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.14584" latitude="-60.85931"/>
-<marker id="525136002" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.259216" latitude="-60.827892"/>
-<marker id="525136003" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.106403" latitude="-60.832798"/>
-<marker id="525136004" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.112186" latitude="-60.824768"/>
-<marker id="525136005" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.262928" latitude="-60.847923"/>
-<marker id="525136006" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.22123" latitude="-62.13202"/>
-<marker id="525136007" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.077087" latitude="-61.268665"/>
-<marker id="525136008" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.07449" latitude="-61.506596"/>
-<marker id="525136009" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.50703" latitude="-61.19031"/>
-<marker id="525136010" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.277283" latitude="-60.88318"/>
-<marker id="525136011" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.27916" latitude="-60.85139"/>
-<marker id="525136012" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.118767" latitude="-60.88349"/>
-<marker id="525136013" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.106133" latitude="-60.856377"/>
-<marker id="525136014" label="Rope" category="48" did="1879244093" parentZoneId="1879256517" longitude="54.71617" latitude="-61.316174"/>
-<marker id="525136015" label="Rope" category="48" did="1879244093" parentZoneId="1879256516" longitude="54.744278" latitude="-61.311665"/>
-<marker id="525136016" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879256517" longitude="54.15592" latitude="-60.855335"/>
-<marker id="525136017" label="Gate" category="100" did="1879077831" parentZoneId="1879256516" longitude="54.234745" latitude="-60.977776"/>
-<marker id="525136018" label="Gate" category="100" did="1879077831" parentZoneId="1879256516" longitude="54.31863" latitude="-61.213768"/>
-<marker id="525136019" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.218594" latitude="-61.358578"/>
-<marker id="525136020" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.32832" latitude="-61.404007"/>
-<marker id="525136021" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.199997" latitude="-60.973766"/>
-<marker id="525136022" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.18416" latitude="-60.974567"/>
-<marker id="525136023" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.179863" latitude="-60.86772"/>
-<marker id="525136024" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.2016" latitude="-60.86738"/>
-<marker id="525136025" label="Small Fancy Chest" category="72" did="1879258351" parentZoneId="1879256517" longitude="54.22086" latitude="-60.857635"/>
-<marker id="525136026" label="Small Chest" category="72" did="1879258348" parentZoneId="1879256516" longitude="54.283672" latitude="-61.179256"/>
-<marker id="525136027" label="Small Fancy Chest" category="72" did="1879258355" parentZoneId="1879256517" longitude="54.22086" latitude="-60.857635"/>
-<marker id="525136028" label="Small Chest" category="72" did="1879258353" parentZoneId="1879256516" longitude="54.286484" latitude="-61.18171"/>
-<marker id="525136029" label="Fancy Gold Chest" category="72" did="1879258352" parentZoneId="1879256517" longitude="54.160294" latitude="-60.85327"/>
-<marker id="525136030" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.131638" latitude="-62.05884"/>
-<marker id="525136031" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.28818" latitude="-62.07773"/>
-<marker id="525136032" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.05955" latitude="-61.277267"/>
-<marker id="525136033" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.0774" latitude="-61.276684"/>
-<marker id="525136034" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.13873" latitude="-61.420967"/>
-<marker id="525136035" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.138474" latitude="-61.43614"/>
-<marker id="525136036" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.270996" latitude="-61.279453"/>
-<marker id="525136037" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.246464" latitude="-61.2151"/>
-<marker id="525136038" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.519783" latitude="-61.317234"/>
-<marker id="525136039" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.17045" latitude="-61.53286"/>
-<marker id="525136040" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.161053" latitude="-61.53858"/>
-<marker id="525136041" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="53.877636" latitude="-61.088207"/>
-<marker id="525136042" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.345684" latitude="-61.623257"/>
-<marker id="525136043" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.38916" latitude="-61.517803"/>
-<marker id="525136044" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.391758" latitude="-61.5312"/>
-<marker id="525136053" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.23375" latitude="-61.791695"/>
-<marker id="525136054" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.333397" latitude="-61.190517"/>
-<marker id="525136055" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.518692" latitude="-61.131317"/>
-<marker id="525136056" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.058926" latitude="-61.513916"/>
-<marker id="525136057" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="53.958008" latitude="-61.253456"/>
-<marker id="525136058" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.337383" latitude="-61.529724"/>
-<marker id="525136059" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.282715" latitude="-61.872192"/>
-<marker id="525136060" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.94174" latitude="-61.022774"/>
-<marker id="525136061" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.35119" latitude="-61.449062"/>
-<marker id="525136062" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.05797" latitude="-61.208313"/>
-<marker id="525136063" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.964157" latitude="-61.015297"/>
-<marker id="525136064" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.358418" latitude="-61.459675"/>
-<marker id="525136065" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.08217" latitude="-61.212162"/>
-<marker id="525136066" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.351387" latitude="-61.463192"/>
-<marker id="525136067" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.113865" latitude="-61.2224"/>
-<marker id="525136068" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.03492" latitude="-61.59095"/>
-<marker id="525136069" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.128906" latitude="-61.8565"/>
-<marker id="525136070" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.043125" latitude="-61.587593"/>
-<marker id="525136071" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.28666" latitude="-61.06709"/>
-<marker id="525136072" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.11578" latitude="-61.870956"/>
-<marker id="525136073" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.037693" latitude="-61.579765"/>
-<marker id="525136074" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.319023" latitude="-61.04233"/>
-<marker id="525136075" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.12031" latitude="-61.476536"/>
-<marker id="525136076" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.03744" latitude="-61.47835"/>
-<marker id="525136077" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.077244" latitude="-61.36324"/>
-<marker id="525136078" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.06734" latitude="-61.34562"/>
-<marker id="525136079" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.38912" latitude="-61.316483"/>
-<marker id="525136080" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.39824" latitude="-61.36097"/>
-<marker id="525136081" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.922733" latitude="-61.22318"/>
-<marker id="525136082" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.471268" latitude="-61.365417"/>
-<marker id="525136083" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.94334" latitude="-61.148827"/>
-<marker id="525136084" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.44871" latitude="-61.370564"/>
-<marker id="525136085" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.270878" latitude="-61.454334"/>
-<marker id="525136086" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.465076" latitude="-61.369953"/>
-<marker id="525136087" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.267597" latitude="-61.465637"/>
-<marker id="525136088" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.267323" latitude="-61.442608"/>
-<marker id="525136089" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.228806" latitude="-62.162952"/>
-<marker id="525136090" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.938084" latitude="-61.132927"/>
-<marker id="525136091" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.11615" latitude="-62.073666"/>
-<marker id="525136092" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.973396" latitude="-61.01742"/>
-<marker id="525136093" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.116074" latitude="-62.066586"/>
-<marker id="525136094" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.3708" latitude="-61.284615"/>
-<marker id="525136095" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.28957" latitude="-62.06416"/>
-<marker id="525136096" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.42957" latitude="-61.163967"/>
-<marker id="525136097" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.53209" latitude="-61.30729"/>
-<marker id="525136098" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="53.869705" latitude="-61.09494"/>
-<marker id="525136099" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.28969" latitude="-61.408073"/>
-<marker id="525136100" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.254997" latitude="-61.532173"/>
-<marker id="525136123" label="Warlord Shárnakh" category="71" did="1879387272" parentZoneId="1879256517" longitude="54.19045" latitude="-60.8512"/>
-<marker id="525136124" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.340622" latitude="-61.099266"/>
-<marker id="525136125" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.029686" latitude="-61.21554"/>
-<marker id="525136126" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.14166" latitude="-61.650494"/>
-<marker id="525136127" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.252987" latitude="-61.652943"/>
-<marker id="525136128" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.229763" latitude="-61.362415"/>
-<marker id="525136129" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.217342" latitude="-62.334873"/>
-<marker id="525136130" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.198887" latitude="-62.188137"/>
-<marker id="525136131" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.217987" latitude="-61.691353"/>
-<marker id="525136132" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.512245" latitude="-61.195576"/>
-<marker id="525136133" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.205605" latitude="-62.374973"/>
-<marker id="525136134" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.32752" latitude="-61.404354"/>
-<marker id="525136135" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.02951" latitude="-61.335617"/>
-<marker id="525136136" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.198162" latitude="-62.374817"/>
-<marker id="525136137" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.031326" latitude="-61.5819"/>
-<marker id="525136138" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03129" latitude="-61.582386"/>
-<marker id="525136139" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03125" latitude="-61.582264"/>
-<marker id="525136140" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.031208" latitude="-61.581997"/>
-<marker id="525136141" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03035" latitude="-61.58225"/>
-<marker id="525136142" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28045" latitude="-61.85992"/>
-<marker id="525136143" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27961" latitude="-61.86039"/>
-<marker id="525136144" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280937" latitude="-62.05919"/>
-<marker id="525136145" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280388" latitude="-61.859436"/>
-<marker id="525136146" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.279743" latitude="-61.860752"/>
-<marker id="525136147" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280018" latitude="-61.86022"/>
-<marker id="525136148" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.357185" latitude="-61.64631"/>
-<marker id="525136149" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.356735" latitude="-61.645588"/>
-<marker id="525136150" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.357166" latitude="-61.645603"/>
-<marker id="525136151" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.35703" latitude="-61.64541"/>
-<marker id="525136152" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.356915" latitude="-61.645477"/>
-<marker id="525136153" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.281307" latitude="-62.05898"/>
-<marker id="525136154" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28113" latitude="-62.059338"/>
-<marker id="525136155" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.281113" latitude="-62.059296"/>
-<marker id="525136156" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28127" latitude="-62.059307"/>
-<marker id="525136157" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27371" latitude="-61.449055"/>
-<marker id="525136158" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.272774" latitude="-61.448975"/>
-<marker id="525136159" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.2732" latitude="-61.449013"/>
-<marker id="525136160" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27287" latitude="-61.448975"/>
-<marker id="525136161" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.272556" latitude="-61.44874"/>
-<marker id="525136162" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.207695" latitude="-61.382156"/>
-<marker id="525136163" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.23291" latitude="-61.379242"/>
-<marker id="525136164" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.323418" latitude="-61.41182"/>
-<marker id="525136165" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.030994" latitude="-61.346653"/>
-<marker id="525136166" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.21494" latitude="-62.31762"/>
-<marker id="525136167" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.206093" latitude="-62.11395"/>
-<marker id="525136168" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.205467" latitude="-61.966335"/>
-<marker id="525136169" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.205723" latitude="-61.763676"/>
-<marker id="525136170" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.09273" latitude="-61.50953"/>
-<marker id="525136171" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.339413" latitude="-61.53166"/>
-<marker id="525136172" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.189198" latitude="-61.616875"/>
-<marker id="525136173" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.21078" latitude="-61.61643"/>
-<marker id="525136174" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.045036" latitude="-61.617878"/>
-<marker id="525136175" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.04488" latitude="-61.617752"/>
-<marker id="525136176" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044804" latitude="-61.618565"/>
-<marker id="525136177" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044434" latitude="-61.618553"/>
-<marker id="525136178" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16363" latitude="-62.04237"/>
-<marker id="525136179" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166153" latitude="-61.442844"/>
-<marker id="525136180" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166775" latitude="-61.443436"/>
-<marker id="525136181" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16445" latitude="-62.042065"/>
-<marker id="525136182" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.1667" latitude="-61.4434"/>
-<marker id="525136183" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.164413" latitude="-62.041874"/>
-<marker id="525136184" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16705" latitude="-61.444046"/>
-<marker id="525136185" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16412" latitude="-62.042297"/>
-<marker id="525136186" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166172" latitude="-61.442795"/>
-<marker id="525136187" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16445" latitude="-62.041943"/>
-<marker id="525136188" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358475" latitude="-61.45789"/>
-<marker id="525136189" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358593" latitude="-61.45761"/>
-<marker id="525136190" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358494" latitude="-61.45814"/>
-<marker id="525136191" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358337" latitude="-61.457718"/>
-<marker id="525136192" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.35758" latitude="-61.45805"/>
-<marker id="525136193" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13078" latitude="-61.879936"/>
-<marker id="525136194" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13078" latitude="-61.88003"/>
-<marker id="525136195" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13084" latitude="-61.88015"/>
-<marker id="525136196" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13086" latitude="-61.880196"/>
-<marker id="525136197" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13084" latitude="-61.88018"/>
-<marker id="525136198" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044296" latitude="-61.61899"/>
-<marker id="525136199" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.166485" latitude="-62.04132"/>
-<marker id="525136200" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.282715" latitude="-62.056805"/>
-<marker id="525136201" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.12982" latitude="-61.88273"/>
-<marker id="525136202" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.282227" latitude="-61.857075"/>
-<marker id="525136203" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.162968" latitude="-61.440037"/>
-<marker id="525136204" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.27834" latitude="-61.449596"/>
-<marker id="525136205" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.36111" latitude="-61.4585"/>
-<marker id="525136206" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.35701" latitude="-61.650726"/>
-<marker id="525136207" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.026814" latitude="-61.581425"/>
-<marker id="525136208" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.040623" latitude="-61.620922"/>
-<marker id="525136209" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.30668" latitude="-61.10486"/>
-<marker id="525136210" label="The Great Goblin's Treasure" category="73" did="1879408870" parentZoneId="1879256517" longitude="54.037224" latitude="-61.14949"/>
-<marker id="525136211" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.01" latitude="-61.212948"/>
-<marker id="525136212" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.36998" latitude="-61.083466"/>
-<marker id="525136213" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.210606" latitude="-62.079636"/>
-<marker id="525136214" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.028748" latitude="-61.22695"/>
-<marker id="525136215" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.343243" latitude="-61.06901"/>
-<marker id="525136216" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.192673" latitude="-60.877224"/>
-<marker id="525136217" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.068184" latitude="-61.123726"/>
-<marker id="525136218" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.196503" latitude="-61.853516"/>
-<marker id="525136219" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.20994" latitude="-60.97789"/>
-<marker id="525136220" label="Hukmún" category="71" did="1879408853" parentZoneId="1879256517" longitude="54.18988" latitude="-61.00836"/>
-<marker id="525136221" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.2507" latitude="-61.46068"/>
-<marker id="525136222" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.20955" latitude="-61.263317"/>
-<marker id="525136223" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.1284" latitude="-61.222534"/>
-<marker id="525136224" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.28035" latitude="-61.146626"/>
-<marker id="525136225" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.2882" latitude="-60.986248"/>
-<marker id="525136226" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.083084" latitude="-60.99703"/>
-<marker id="525136227" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.37125" latitude="-61.276615"/>
-<marker id="525136228" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.183846" latitude="-61.45661"/>
-<marker id="525136229" label="Lever" category="100" did="1879150297" parentZoneId="1879256517" longitude="54.19209" latitude="-60.834377"/>
-<marker id="525136230" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.189648" latitude="-61.632412"/>
-<marker id="525136231" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.219395" latitude="-61.35008"/>
-<marker id="525136232" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.486153" latitude="-61.20355"/>
-<marker id="525136233" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.183357" latitude="-60.963993"/>
-<marker id="525136234" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.20064" latitude="-60.964"/>
-<marker id="525136235" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.3592" latitude="-61.2805"/>
-<marker id="525136236" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.202656" latitude="-62.313156"/>
-<marker id="525136237" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.208748" latitude="-61.632763"/>
-<marker id="525136238" label="Summoning Horn" category="73" did="1879409281" parentZoneId="1879256517" longitude="54.19791" latitude="-62.395393"/>
-<marker id="525136239" label="Scout-master Ausma" category="71" did="1879409283" parentZoneId="1879256517" longitude="54.305897" latitude="-61.23222"/>
-<marker id="525136240" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.31029" latitude="-61.09881"/>
-<marker id="525136243" label="Gundabad Warrior" category="71" did="1879409295" parentZoneId="1879256517" longitude="54.300175" latitude="-61.12134"/>
-<marker id="525136244" label="Gundabad Warrior" category="71" did="1879409295" parentZoneId="1879256517" longitude="54.323788" latitude="-61.11998"/>
-<marker id="525136245" label="Gate Lock" category="73" did="1879410890" parentZoneId="1879256517" longitude="54.30904" latitude="-61.103977"/>
-<marker id="525136246" label="Gundabad Defiler" category="71" did="1879409300" parentZoneId="1879256517" longitude="54.288124" latitude="-61.00457"/>
-<marker id="525136247" label="Gundabad Defiler" category="71" did="1879409300" parentZoneId="1879256517" longitude="54.26045" latitude="-61.019245"/>
-<marker id="525136248" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.251053" latitude="-60.83327"/>
-<marker id="525136249" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.255585" latitude="-60.840942"/>
-<marker id="525136250" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.199863" latitude="-61.582382"/>
-<marker id="525136251" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.20289" latitude="-62.26547"/>
-<marker id="525136252" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.209473" latitude="-61.707397"/>
-<marker id="525136253" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.199413" latitude="-61.70728"/>
-<marker id="525136254" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.22322" latitude="-61.369377"/>
-<marker id="525136255" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.211758" latitude="-61.369724"/>
-<marker id="525136256" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.031815" latitude="-61.234932"/>
-<marker id="525136257" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.50123" latitude="-61.201576"/>
-<marker id="525136258" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.262833" latitude="-61.243076"/>
-<marker id="525136259" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.272285" latitude="-61.261967"/>
-<marker id="525136260" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.126423" latitude="-60.827778"/>
-<marker id="525136261" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.117325" latitude="-61.278976"/>
-<marker id="525136262" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.212128" latitude="-62.266956"/>
-<marker id="525136263" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.122673" latitude="-60.837116"/>
-<marker id="525136264" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.127518" latitude="-61.260727"/>
-<marker id="525136265" label="Brogasht, the Great Goblin" category="71" did="1879409306" parentZoneId="1879256517" longitude="54.18213" latitude="-60.872265"/>
-<marker id="525136266" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.284607" latitude="-61.04962"/>
-<marker id="525136267" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.200684" latitude="-62.204838"/>
-<marker id="525136268" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.285076" latitude="-62.07088"/>
-<marker id="525136269" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.126522" latitude="-62.06892"/>
-<marker id="525136270" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.281445" latitude="-61.871716"/>
-<marker id="525136271" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.120274" latitude="-61.86846"/>
-<marker id="525136272" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.184414" latitude="-61.574486"/>
-<marker id="525136273" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.21455" latitude="-61.573074"/>
-<marker id="525136274" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.208477" latitude="-61.42288"/>
-<marker id="525136275" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.228886" latitude="-61.419895"/>
-<marker id="525136276" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.090096" latitude="-61.23206"/>
-<marker id="525136277" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.37166" latitude="-61.266785"/>
-<marker id="525136278" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.419373" latitude="-61.217243"/>
-<marker id="525136279" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.41984" latitude="-61.19357"/>
-<marker id="525136280" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.20779" latitude="-62.207836"/>
-<marker id="525136282" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.141113" latitude="-61.87879"/>
-<marker id="525136283" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.2016" latitude="-61.773064"/>
-<marker id="525136284" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.20998" latitude="-61.77485"/>
-<marker id="525136285" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.163925" latitude="-61.657333"/>
-<marker id="525136286" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.230976" latitude="-61.653313"/>
-<marker id="525136287" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.183846" latitude="-61.481735"/>
-<marker id="525136288" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.23537" latitude="-61.482376"/>
-<marker id="525136289" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.215527" latitude="-61.273376"/>
-<marker id="525136290" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.208065" latitude="-62.11851"/>
-<marker id="525136291" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.13412" latitude="-62.076946"/>
-<marker id="525136292" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.132225" latitude="-62.06394"/>
-<marker id="525136293" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.279667" latitude="-62.059772"/>
-<marker id="525136294" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.284317" latitude="-62.077316"/>
-<marker id="525136295" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.203827" latitude="-61.97294"/>
-<marker id="525136296" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.222595" latitude="-61.960606"/>
-<marker id="525136297" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.26652" latitude="-61.871677"/>
-<marker id="525136298" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.13455" latitude="-61.863266"/>
-<marker id="525136299" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.213005" latitude="-62.146355"/>
-<marker id="525136300" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.28996" latitude="-61.04431"/>
-<marker id="525136301" label="Hórin" category="71" did="1879412145" parentZoneId="1879256517" longitude="54.28793" latitude="-61.231712"/>
-<marker id="525136302" label="Gorgar the Ruthless" category="71" did="1879412144" parentZoneId="1879256517" longitude="54.198532" latitude="-60.87165"/>
-<marker id="525136303" label="Uloga, The Great Goblin" category="71" did="1879256878" parentZoneId="1879256517" longitude="54.1908" latitude="-60.842327"/>
-<marker id="525136304" label="Uloga, The Great Goblin" category="71" did="1879256878" parentZoneId="1879256517" longitude="54.192284" latitude="-60.977795"/>
-<marker id="525136305" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.17045" latitude="-62.38168"/>
-<marker id="525136306" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.180584" latitude="-62.27247"/>
-<marker id="525136307" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.230137" latitude="-62.168674"/>
-<marker id="525136308" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.242558" latitude="-61.94997"/>
-<marker id="525136309" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.163124" latitude="-61.632412"/>
-<marker id="525136310" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.24127" latitude="-61.360424"/>
-<marker id="525136311" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.03502" latitude="-61.529808"/>
-<marker id="525136312" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.012207" latitude="-61.37971"/>
-<marker id="525136313" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="53.874588" latitude="-61.125805"/>
-<marker id="525136314" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="53.999763" latitude="-61.08128"/>
-<marker id="525136315" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.143356" latitude="-61.239857"/>
-<marker id="525136316" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.39715" latitude="-61.51931"/>
-<marker id="525136317" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.347713" latitude="-61.431797"/>
-<marker id="525136318" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.54486" latitude="-61.27266"/>
-<marker id="525136319" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.51289" latitude="-61.158558"/>
-<marker id="525136320" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.525486" latitude="-61.196552"/>
-<marker id="525136321" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.2507" latitude="-61.354137"/>
-<marker id="525136322" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.14902" latitude="-61.565075"/>
-<marker id="525136323" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.240993" latitude="-61.619404"/>
-<marker id="525136324" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.183125" latitude="-60.871513"/>
-<marker id="525136325" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.19953" latitude="-60.872272"/>
-<marker id="525136326" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.2016" latitude="-61.26301"/>
-<marker id="525136327" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.217773" latitude="-61.65296"/>
-<marker id="525136328" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.353962" latitude="-61.632416"/>
-<marker id="525136329" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.028515" latitude="-61.39237"/>
-<marker id="525136330" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.016052" latitude="-61.055874"/>
-<marker id="525136331" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.412067" latitude="-61.294697"/>
-<marker id="525136332" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.19539" latitude="-61.24679"/>
-<marker id="525136333" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.19197" latitude="-61.85736"/>
-<marker id="525136334" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.200935" latitude="-62.382103"/>
-<marker id="525136354" label="Gate Lock" category="73" did="1879409568" parentZoneId="1879256517" longitude="54.309177" latitude="-61.10383"/>
+<marker id="525135883" label="Boulder" category="100" did="1879101481" parentZoneId="1879256517" longitude="54.211502" latitude="-62.4473"/>
+<marker id="525135884" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.199707" latitude="-60.88075"/>
+<marker id="525135885" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256516" longitude="54.741013" latitude="-61.228996"/>
+<marker id="525135886" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.195312" latitude="-61.786892"/>
+<marker id="525135887" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.381874" latitude="-61.279915"/>
+<marker id="525135888" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.216053" latitude="-62.036118"/>
+<marker id="525135889" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.313126" latitude="-61.00871"/>
+<marker id="525135890" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="53.918846" latitude="-61.20278"/>
+<marker id="525135891" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.339256" latitude="-61.529278"/>
+<marker id="525135892" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.220703" latitude="-61.872055"/>
+<marker id="525135893" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.09072" latitude="-61.52196"/>
+<marker id="525135894" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.198513" latitude="-62.281746"/>
+<marker id="525135895" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.076855" latitude="-61.002514"/>
+<marker id="525135896" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.654648" latitude="-61.206043"/>
+<marker id="525135897" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.150703" latitude="-62.058037"/>
+<marker id="525135898" label="Goblin-town Warrior" category="71" did="1879256871" parentZoneId="1879256517" longitude="54.09287" latitude="-61.42449"/>
+<marker id="525135899" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.35121" latitude="-61.281963"/>
+<marker id="525135900" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256516" longitude="54.69301" latitude="-61.332684"/>
+<marker id="525135901" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.630077" latitude="-61.20554"/>
+<marker id="525135902" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.078026" latitude="-61.27589"/>
+<marker id="525135903" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.051327" latitude="-61.04735"/>
+<marker id="525135904" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.065254" latitude="-61.27646"/>
+<marker id="525135905" label="Trained Warg" category="71" did="1879256870" parentZoneId="1879256517" longitude="54.141365" latitude="-61.42037"/>
+<marker id="525135906" label="Brosh" category="71" did="1879256869" parentZoneId="1879256517" longitude="54.278202" latitude="-60.86881"/>
+<marker id="525135907" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.673416" latitude="-60.748417"/>
+<marker id="525135908" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.304764" latitude="-61.214935"/>
+<marker id="525135909" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.302048" latitude="-61.2066"/>
+<marker id="525135910" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.296326" latitude="-61.213047"/>
+<marker id="525135911" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.3083" latitude="-61.202988"/>
+<marker id="525135912" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.220642" latitude="-60.998726"/>
+<marker id="525135913" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.340214" latitude="-60.76441"/>
+<marker id="525135914" label="Emaciated Warrior" category="71" did="1879256868" parentZoneId="1879256516" longitude="54.25998" latitude="-60.778015"/>
+<marker id="525135915" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256516" longitude="54.752556" latitude="-61.249397"/>
+<marker id="525135916" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256516" longitude="54.745075" latitude="-61.2526"/>
+<marker id="525135917" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="53.923904" latitude="-61.217834"/>
+<marker id="525135918" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.30656" latitude="-60.999058"/>
+<marker id="525135919" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.19539" latitude="-61.883007"/>
+<marker id="525135920" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.195312" latitude="-62.222557"/>
+<marker id="525135921" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.078358" latitude="-60.992138"/>
+<marker id="525135922" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.191074" latitude="-61.50334"/>
+<marker id="525135923" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.210545" latitude="-62.031116"/>
+<marker id="525135924" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.047363" latitude="-61.597824"/>
+<marker id="525135925" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.224373" latitude="-62.030586"/>
+<marker id="525135926" label="Goblin-town Archer" category="71" did="1879256874" parentZoneId="1879256517" longitude="54.151035" latitude="-61.47638"/>
+<marker id="525135927" label="Mârubh" category="71" did="1879256873" parentZoneId="1879256517" longitude="54.10945" latitude="-60.871845"/>
+<marker id="525135928" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.23564" latitude="-61.79348"/>
+<marker id="525135929" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256516" longitude="54.742012" latitude="-61.238792"/>
+<marker id="525135930" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="53.940544" latitude="-61.149384"/>
+<marker id="525135931" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256516" longitude="54.702263" latitude="-61.27693"/>
+<marker id="525135932" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.17873" latitude="-61.4631"/>
+<marker id="525135933" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="53.93453" latitude="-61.034695"/>
+<marker id="525135934" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.220135" latitude="-62.22096"/>
+<marker id="525135935" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.148357" latitude="-62.078007"/>
+<marker id="525135936" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.64289" latitude="-61.175224"/>
+<marker id="525135937" label="Goblin-town Wound-tender" category="71" did="1879256872" parentZoneId="1879256517" longitude="54.222813" latitude="-61.89243"/>
+<marker id="525135938" label="Control Point" category="73" did="1879152429" parentZoneId="1879256517" longitude="54.158573" latitude="-61.30367"/>
+<marker id="525135939" label="Control Point" category="73" did="1879152429" parentZoneId="1879256517" longitude="54.158436" latitude="-61.303738"/>
+<marker id="525135940" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.04906" latitude="-61.40379"/>
+<marker id="525135941" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.351795" latitude="-61.275715"/>
+<marker id="525135942" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.235703" latitude="-61.799717"/>
+<marker id="525135943" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256516" longitude="54.734394" latitude="-61.234287"/>
+<marker id="525135944" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.20955" latitude="-61.95933"/>
+<marker id="525135945" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256516" longitude="54.749687" latitude="-61.298847"/>
+<marker id="525135946" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.196735" latitude="-62.231777"/>
+<marker id="525135947" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="53.892536" latitude="-61.04278"/>
+<marker id="525135948" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.225193" latitude="-61.5248"/>
+<marker id="525135949" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.07658" latitude="-61.211494"/>
+<marker id="525135950" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.06367" latitude="-61.266884"/>
+<marker id="525135951" label="Goblin-town Sneak" category="71" did="1879256879" parentZoneId="1879256517" longitude="54.069782" latitude="-61.61463"/>
+<marker id="525135954" label="Private Encounter Quest Bestower" category="73" did="1879205420" parentZoneId="1879256517" longitude="54.170994" latitude="-60.85047"/>
+<marker id="525135955" label="Unstable Sapper" category="71" did="1879256883" parentZoneId="1879256517" longitude="54.251347" latitude="-60.94738"/>
+<marker id="525135956" label="Grudom" category="71" did="1879256882" parentZoneId="1879256516" longitude="54.255234" latitude="-61.151737"/>
+<marker id="525135957" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.036446" latitude="-61.350647"/>
+<marker id="525135958" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.285896" latitude="-60.974854"/>
+<marker id="525135959" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.213924" latitude="-61.443962"/>
+<marker id="525135960" label="Goblin-town Boggart" category="71" did="1879256881" parentZoneId="1879256517" longitude="54.67078" latitude="-61.184536"/>
+<marker id="525135961" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.284863" latitude="-61.019253"/>
+<marker id="525135962" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.95035" latitude="-61.18301"/>
+<marker id="525135963" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256516" longitude="54.730526" latitude="-61.32742"/>
+<marker id="525135964" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.970974" latitude="-61.049583"/>
+<marker id="525135965" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="53.895584" latitude="-61.08394"/>
+<marker id="525135966" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.092888" latitude="-61.06369"/>
+<marker id="525135967" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.104023" latitude="-61.025276"/>
+<marker id="525135968" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.188457" latitude="-60.92652"/>
+<marker id="525135969" label="Goblin-town Sapper" category="71" did="1879256880" parentZoneId="1879256517" longitude="54.096855" latitude="-61.248695"/>
+<marker id="525135970" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256517" longitude="54.218124" latitude="-61.792294"/>
+<marker id="525135971" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256516" longitude="54.697422" latitude="-61.322983"/>
+<marker id="525135972" label="Cave Bat" category="71" did="1879256887" parentZoneId="1879256517" longitude="54.21488" latitude="-61.86909"/>
+<marker id="525135973" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.784275" latitude="-60.74959"/>
+<marker id="525135974" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.800056" latitude="-60.784817"/>
+<marker id="525135975" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.301582" latitude="-61.199154"/>
+<marker id="525135976" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.23912" latitude="-60.996838"/>
+<marker id="525135977" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.224842" latitude="-60.997673"/>
+<marker id="525135978" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.298122" latitude="-61.21203"/>
+<marker id="525135979" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.300545" latitude="-61.220383"/>
+<marker id="525135980" label="Emaciated Archer" category="71" did="1879256886" parentZoneId="1879256516" longitude="54.365116" latitude="-60.760235"/>
+<marker id="525135981" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.26533" latitude="-60.83749"/>
+<marker id="525135982" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.22537" latitude="-60.85495"/>
+<marker id="525135983" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.157322" latitude="-60.856792"/>
+<marker id="525135984" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.221874" latitude="-60.859188"/>
+<marker id="525135985" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.162792" latitude="-60.859688"/>
+<marker id="525135986" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.156464" latitude="-60.85094"/>
+<marker id="525135987" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.20781" latitude="-60.974735"/>
+<marker id="525135988" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.217693" latitude="-60.863514"/>
+<marker id="525135989" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.20072" latitude="-60.975822"/>
+<marker id="525135990" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.243378" latitude="-60.87165"/>
+<marker id="525135991" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.19234" latitude="-60.9762"/>
+<marker id="525135992" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.2533" latitude="-60.88581"/>
+<marker id="525135993" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.17703" latitude="-60.974506"/>
+<marker id="525135994" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.27918" latitude="-60.858982"/>
+<marker id="525135995" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.18484" latitude="-60.97569"/>
+<marker id="525135996" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.245193" latitude="-60.851093"/>
+<marker id="525135997" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.269043" latitude="-60.87553"/>
+<marker id="525135998" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.144394" latitude="-60.866306"/>
+<marker id="525135999" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.140957" latitude="-60.8467"/>
+<marker id="525136000" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.114216" latitude="-60.866463"/>
+<marker id="525136001" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.12166" latitude="-60.84405"/>
+<marker id="525136002" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.14584" latitude="-60.85931"/>
+<marker id="525136003" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.259216" latitude="-60.827892"/>
+<marker id="525136004" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.106403" latitude="-60.832798"/>
+<marker id="525136005" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.112186" latitude="-60.824768"/>
+<marker id="525136006" label="Goblin Lickspittle" category="71" did="1879256885" parentZoneId="1879256517" longitude="54.262928" latitude="-60.847923"/>
+<marker id="525136007" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.22123" latitude="-62.13202"/>
+<marker id="525136008" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.077087" latitude="-61.268665"/>
+<marker id="525136009" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.07449" latitude="-61.506596"/>
+<marker id="525136010" label="Goblin-town Look-out" category="71" did="1879256890" parentZoneId="1879256517" longitude="54.50703" latitude="-61.19031"/>
+<marker id="525136011" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.277283" latitude="-60.88318"/>
+<marker id="525136012" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.27916" latitude="-60.85139"/>
+<marker id="525136013" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.118767" latitude="-60.88349"/>
+<marker id="525136014" label="Rabid Warg" category="71" did="1879256888" parentZoneId="1879256517" longitude="54.106133" latitude="-60.856377"/>
+<marker id="525136015" label="Rope" category="48" did="1879244093" parentZoneId="1879256517" longitude="54.71617" latitude="-61.316174"/>
+<marker id="525136016" label="Rope" category="48" did="1879244093" parentZoneId="1879256516" longitude="54.744278" latitude="-61.311665"/>
+<marker id="525136017" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879256517" longitude="54.15592" latitude="-60.855335"/>
+<marker id="525136018" label="Gate" category="100" did="1879077831" parentZoneId="1879256516" longitude="54.234745" latitude="-60.977776"/>
+<marker id="525136019" label="Gate" category="100" did="1879077831" parentZoneId="1879256516" longitude="54.31863" latitude="-61.213768"/>
+<marker id="525136020" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.218594" latitude="-61.358578"/>
+<marker id="525136021" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.32832" latitude="-61.404007"/>
+<marker id="525136022" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.199997" latitude="-60.973766"/>
+<marker id="525136023" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.18416" latitude="-60.974567"/>
+<marker id="525136024" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.179863" latitude="-60.86772"/>
+<marker id="525136025" label="Goblin-town Warrior" category="71" did="1879258205" parentZoneId="1879256517" longitude="54.2016" latitude="-60.86738"/>
+<marker id="525136026" label="Small Fancy Chest" category="72" did="1879258351" parentZoneId="1879256517" longitude="54.22086" latitude="-60.857635"/>
+<marker id="525136027" label="Small Chest" category="72" did="1879258348" parentZoneId="1879256516" longitude="54.283672" latitude="-61.179256"/>
+<marker id="525136028" label="Small Fancy Chest" category="72" did="1879258355" parentZoneId="1879256517" longitude="54.22086" latitude="-60.857635"/>
+<marker id="525136029" label="Small Chest" category="72" did="1879258353" parentZoneId="1879256516" longitude="54.286484" latitude="-61.18171"/>
+<marker id="525136030" label="Fancy Gold Chest" category="72" did="1879258352" parentZoneId="1879256517" longitude="54.160294" latitude="-60.85327"/>
+<marker id="525136031" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.131638" latitude="-62.05884"/>
+<marker id="525136032" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.28818" latitude="-62.07773"/>
+<marker id="525136033" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.05955" latitude="-61.277267"/>
+<marker id="525136034" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.0774" latitude="-61.276684"/>
+<marker id="525136035" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.13873" latitude="-61.420967"/>
+<marker id="525136036" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.138474" latitude="-61.43614"/>
+<marker id="525136037" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.270996" latitude="-61.279453"/>
+<marker id="525136038" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.246464" latitude="-61.2151"/>
+<marker id="525136039" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.519783" latitude="-61.317234"/>
+<marker id="525136040" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.17045" latitude="-61.53286"/>
+<marker id="525136041" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.161053" latitude="-61.53858"/>
+<marker id="525136042" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="53.877636" latitude="-61.088207"/>
+<marker id="525136043" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.345684" latitude="-61.623257"/>
+<marker id="525136044" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.38916" latitude="-61.517803"/>
+<marker id="525136045" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879256517" longitude="54.391758" latitude="-61.5312"/>
+<marker id="525136054" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.23375" latitude="-61.791695"/>
+<marker id="525136055" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.333397" latitude="-61.190517"/>
+<marker id="525136056" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.518692" latitude="-61.131317"/>
+<marker id="525136057" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.058926" latitude="-61.513916"/>
+<marker id="525136058" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="53.958008" latitude="-61.253456"/>
+<marker id="525136059" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.337383" latitude="-61.529724"/>
+<marker id="525136060" label="Goblin-town Spy" category="71" did="1879386850" parentZoneId="1879256517" longitude="54.282715" latitude="-61.872192"/>
+<marker id="525136061" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.94174" latitude="-61.022774"/>
+<marker id="525136062" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.35119" latitude="-61.449062"/>
+<marker id="525136063" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.05797" latitude="-61.208313"/>
+<marker id="525136064" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.964157" latitude="-61.015297"/>
+<marker id="525136065" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.358418" latitude="-61.459675"/>
+<marker id="525136066" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.08217" latitude="-61.212162"/>
+<marker id="525136067" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.351387" latitude="-61.463192"/>
+<marker id="525136068" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.113865" latitude="-61.2224"/>
+<marker id="525136069" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.03492" latitude="-61.59095"/>
+<marker id="525136070" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.128906" latitude="-61.8565"/>
+<marker id="525136071" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.043125" latitude="-61.587593"/>
+<marker id="525136072" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.28666" latitude="-61.06709"/>
+<marker id="525136073" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.11578" latitude="-61.870956"/>
+<marker id="525136074" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.037693" latitude="-61.579765"/>
+<marker id="525136075" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.319023" latitude="-61.04233"/>
+<marker id="525136076" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.12031" latitude="-61.476536"/>
+<marker id="525136077" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.03744" latitude="-61.47835"/>
+<marker id="525136078" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.077244" latitude="-61.36324"/>
+<marker id="525136079" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.06734" latitude="-61.34562"/>
+<marker id="525136080" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.38912" latitude="-61.316483"/>
+<marker id="525136081" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.39824" latitude="-61.36097"/>
+<marker id="525136082" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.922733" latitude="-61.22318"/>
+<marker id="525136083" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.471268" latitude="-61.365417"/>
+<marker id="525136084" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.94334" latitude="-61.148827"/>
+<marker id="525136085" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.44871" latitude="-61.370564"/>
+<marker id="525136086" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.270878" latitude="-61.454334"/>
+<marker id="525136087" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.465076" latitude="-61.369953"/>
+<marker id="525136088" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.267597" latitude="-61.465637"/>
+<marker id="525136089" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.267323" latitude="-61.442608"/>
+<marker id="525136090" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.228806" latitude="-62.162952"/>
+<marker id="525136091" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.938084" latitude="-61.132927"/>
+<marker id="525136092" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.11615" latitude="-62.073666"/>
+<marker id="525136093" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="53.973396" latitude="-61.01742"/>
+<marker id="525136094" label="Goblin-town Worker" category="71" did="1879386796" parentZoneId="1879256517" longitude="54.116074" latitude="-62.066586"/>
+<marker id="525136095" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.3708" latitude="-61.284615"/>
+<marker id="525136096" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.28957" latitude="-62.06416"/>
+<marker id="525136097" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.42957" latitude="-61.163967"/>
+<marker id="525136098" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.53209" latitude="-61.30729"/>
+<marker id="525136099" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="53.869705" latitude="-61.09494"/>
+<marker id="525136100" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.28969" latitude="-61.408073"/>
+<marker id="525136101" label="Goblin-town Sapper" category="71" did="1879386828" parentZoneId="1879256517" longitude="54.254997" latitude="-61.532173"/>
+<marker id="525136124" label="Warlord Shárnakh" category="71" did="1879387272" parentZoneId="1879256517" longitude="54.19045" latitude="-60.8512"/>
+<marker id="525136125" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.340622" latitude="-61.099266"/>
+<marker id="525136126" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.029686" latitude="-61.21554"/>
+<marker id="525136127" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.14166" latitude="-61.650494"/>
+<marker id="525136128" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.252987" latitude="-61.652943"/>
+<marker id="525136129" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.229763" latitude="-61.362415"/>
+<marker id="525136130" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.217342" latitude="-62.334873"/>
+<marker id="525136131" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.198887" latitude="-62.188137"/>
+<marker id="525136132" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.217987" latitude="-61.691353"/>
+<marker id="525136133" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879256517" longitude="54.512245" latitude="-61.195576"/>
+<marker id="525136134" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.205605" latitude="-62.374973"/>
+<marker id="525136135" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.32752" latitude="-61.404354"/>
+<marker id="525136136" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.02951" latitude="-61.335617"/>
+<marker id="525136137" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.198162" latitude="-62.374817"/>
+<marker id="525136138" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.031326" latitude="-61.5819"/>
+<marker id="525136139" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03129" latitude="-61.582386"/>
+<marker id="525136140" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03125" latitude="-61.582264"/>
+<marker id="525136141" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.031208" latitude="-61.581997"/>
+<marker id="525136142" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.03035" latitude="-61.58225"/>
+<marker id="525136143" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28045" latitude="-61.85992"/>
+<marker id="525136144" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27961" latitude="-61.86039"/>
+<marker id="525136145" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280937" latitude="-62.05919"/>
+<marker id="525136146" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280388" latitude="-61.859436"/>
+<marker id="525136147" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.279743" latitude="-61.860752"/>
+<marker id="525136148" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.280018" latitude="-61.86022"/>
+<marker id="525136149" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.357185" latitude="-61.64631"/>
+<marker id="525136150" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.356735" latitude="-61.645588"/>
+<marker id="525136151" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.357166" latitude="-61.645603"/>
+<marker id="525136152" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.35703" latitude="-61.64541"/>
+<marker id="525136153" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.356915" latitude="-61.645477"/>
+<marker id="525136154" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.281307" latitude="-62.05898"/>
+<marker id="525136155" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28113" latitude="-62.059338"/>
+<marker id="525136156" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.281113" latitude="-62.059296"/>
+<marker id="525136157" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.28127" latitude="-62.059307"/>
+<marker id="525136158" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27371" latitude="-61.449055"/>
+<marker id="525136159" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.272774" latitude="-61.448975"/>
+<marker id="525136160" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.2732" latitude="-61.449013"/>
+<marker id="525136161" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.27287" latitude="-61.448975"/>
+<marker id="525136162" label="Attacking Goblin Spearman" category="71" did="1879408873" parentZoneId="1879256517" longitude="54.272556" latitude="-61.44874"/>
+<marker id="525136163" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.207695" latitude="-61.382156"/>
+<marker id="525136164" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.23291" latitude="-61.379242"/>
+<marker id="525136165" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.323418" latitude="-61.41182"/>
+<marker id="525136166" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.030994" latitude="-61.346653"/>
+<marker id="525136167" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.21494" latitude="-62.31762"/>
+<marker id="525136168" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.206093" latitude="-62.11395"/>
+<marker id="525136169" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.205467" latitude="-61.966335"/>
+<marker id="525136170" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.205723" latitude="-61.763676"/>
+<marker id="525136171" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.09273" latitude="-61.50953"/>
+<marker id="525136172" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.339413" latitude="-61.53166"/>
+<marker id="525136173" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.189198" latitude="-61.616875"/>
+<marker id="525136174" label="Goblin-town Soldier" category="71" did="1879408874" parentZoneId="1879256517" longitude="54.21078" latitude="-61.61643"/>
+<marker id="525136175" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.045036" latitude="-61.617878"/>
+<marker id="525136176" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.04488" latitude="-61.617752"/>
+<marker id="525136177" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044804" latitude="-61.618565"/>
+<marker id="525136178" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044434" latitude="-61.618553"/>
+<marker id="525136179" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16363" latitude="-62.04237"/>
+<marker id="525136180" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166153" latitude="-61.442844"/>
+<marker id="525136181" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166775" latitude="-61.443436"/>
+<marker id="525136182" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16445" latitude="-62.042065"/>
+<marker id="525136183" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.1667" latitude="-61.4434"/>
+<marker id="525136184" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.164413" latitude="-62.041874"/>
+<marker id="525136185" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16705" latitude="-61.444046"/>
+<marker id="525136186" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16412" latitude="-62.042297"/>
+<marker id="525136187" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.166172" latitude="-61.442795"/>
+<marker id="525136188" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.16445" latitude="-62.041943"/>
+<marker id="525136189" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358475" latitude="-61.45789"/>
+<marker id="525136190" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358593" latitude="-61.45761"/>
+<marker id="525136191" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358494" latitude="-61.45814"/>
+<marker id="525136192" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.358337" latitude="-61.457718"/>
+<marker id="525136193" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.35758" latitude="-61.45805"/>
+<marker id="525136194" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13078" latitude="-61.879936"/>
+<marker id="525136195" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13078" latitude="-61.88003"/>
+<marker id="525136196" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13084" latitude="-61.88015"/>
+<marker id="525136197" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13086" latitude="-61.880196"/>
+<marker id="525136198" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.13084" latitude="-61.88018"/>
+<marker id="525136199" label="Attacking Goblin Skirmisher" category="71" did="1879408852" parentZoneId="1879256517" longitude="54.044296" latitude="-61.61899"/>
+<marker id="525136200" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.166485" latitude="-62.04132"/>
+<marker id="525136201" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.282715" latitude="-62.056805"/>
+<marker id="525136202" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.12982" latitude="-61.88273"/>
+<marker id="525136203" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.282227" latitude="-61.857075"/>
+<marker id="525136204" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.162968" latitude="-61.440037"/>
+<marker id="525136205" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.27834" latitude="-61.449596"/>
+<marker id="525136206" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.36111" latitude="-61.4585"/>
+<marker id="525136207" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.35701" latitude="-61.650726"/>
+<marker id="525136208" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.026814" latitude="-61.581425"/>
+<marker id="525136209" label="Goblin Door" category="73" did="1879408863" parentZoneId="1879256517" longitude="54.040623" latitude="-61.620922"/>
+<marker id="525136210" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879256517" longitude="54.209393" latitude="-62.395195"/>
+<marker id="525136211" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.30668" latitude="-61.10486"/>
+<marker id="525136212" label="The Great Goblin's Treasure" category="73" did="1879408870" parentZoneId="1879256517" longitude="54.037224" latitude="-61.14949"/>
+<marker id="525136213" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.01" latitude="-61.212948"/>
+<marker id="525136214" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.36998" latitude="-61.083466"/>
+<marker id="525136215" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.210606" latitude="-62.079636"/>
+<marker id="525136216" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.028748" latitude="-61.22695"/>
+<marker id="525136217" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.343243" latitude="-61.06901"/>
+<marker id="525136218" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.192673" latitude="-60.877224"/>
+<marker id="525136219" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.068184" latitude="-61.123726"/>
+<marker id="525136220" label="Goblin-town Sentry" category="71" did="1879408877" parentZoneId="1879256517" longitude="54.196503" latitude="-61.853516"/>
+<marker id="525136221" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.20994" latitude="-60.97789"/>
+<marker id="525136222" label="Hukmún" category="71" did="1879408853" parentZoneId="1879256517" longitude="54.18988" latitude="-61.00836"/>
+<marker id="525136223" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.2507" latitude="-61.46068"/>
+<marker id="525136224" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.20955" latitude="-61.263317"/>
+<marker id="525136225" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.1284" latitude="-61.222534"/>
+<marker id="525136226" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.28035" latitude="-61.146626"/>
+<marker id="525136227" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.2882" latitude="-60.986248"/>
+<marker id="525136228" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.083084" latitude="-60.99703"/>
+<marker id="525136229" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.37125" latitude="-61.276615"/>
+<marker id="525136230" label="Goblin-town Sapper" category="71" did="1879408882" parentZoneId="1879256517" longitude="54.183846" latitude="-61.45661"/>
+<marker id="525136231" label="Lever" category="100" did="1879150297" parentZoneId="1879256517" longitude="54.19209" latitude="-60.834377"/>
+<marker id="525136232" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.189648" latitude="-61.632412"/>
+<marker id="525136233" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.219395" latitude="-61.35008"/>
+<marker id="525136234" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.486153" latitude="-61.20355"/>
+<marker id="525136235" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.183357" latitude="-60.963993"/>
+<marker id="525136236" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.20064" latitude="-60.964"/>
+<marker id="525136237" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.3592" latitude="-61.2805"/>
+<marker id="525136238" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.202656" latitude="-62.313156"/>
+<marker id="525136239" label="Goblin-town Soldier" category="71" did="1879408862" parentZoneId="1879256517" longitude="54.208748" latitude="-61.632763"/>
+<marker id="525136240" label="Summoning Horn" category="73" did="1879409281" parentZoneId="1879256517" longitude="54.19791" latitude="-62.395393"/>
+<marker id="525136241" label="Scout-master Ausma" category="71" did="1879409283" parentZoneId="1879256517" longitude="54.305897" latitude="-61.23222"/>
+<marker id="525136242" label="Gate" category="100" did="1879077831" parentZoneId="1879256517" longitude="54.31029" latitude="-61.09881"/>
+<marker id="525136245" label="Gundabad Warrior" category="71" did="1879409295" parentZoneId="1879256517" longitude="54.300175" latitude="-61.12134"/>
+<marker id="525136246" label="Gundabad Warrior" category="71" did="1879409295" parentZoneId="1879256517" longitude="54.323788" latitude="-61.11998"/>
+<marker id="525136247" label="Gate Lock" category="73" did="1879410890" parentZoneId="1879256517" longitude="54.30904" latitude="-61.103977"/>
+<marker id="525136248" label="Gundabad Defiler" category="71" did="1879409300" parentZoneId="1879256517" longitude="54.288124" latitude="-61.00457"/>
+<marker id="525136249" label="Gundabad Defiler" category="71" did="1879409300" parentZoneId="1879256517" longitude="54.26045" latitude="-61.019245"/>
+<marker id="525136250" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.251053" latitude="-60.83327"/>
+<marker id="525136251" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.255585" latitude="-60.840942"/>
+<marker id="525136252" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.199863" latitude="-61.582382"/>
+<marker id="525136253" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.20289" latitude="-62.26547"/>
+<marker id="525136254" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.209473" latitude="-61.707397"/>
+<marker id="525136255" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.199413" latitude="-61.70728"/>
+<marker id="525136256" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.22322" latitude="-61.369377"/>
+<marker id="525136257" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.211758" latitude="-61.369724"/>
+<marker id="525136258" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.031815" latitude="-61.234932"/>
+<marker id="525136259" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.50123" latitude="-61.201576"/>
+<marker id="525136260" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.262833" latitude="-61.243076"/>
+<marker id="525136261" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.272285" latitude="-61.261967"/>
+<marker id="525136262" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.126423" latitude="-60.827778"/>
+<marker id="525136263" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.117325" latitude="-61.278976"/>
+<marker id="525136264" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.212128" latitude="-62.266956"/>
+<marker id="525136265" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.122673" latitude="-60.837116"/>
+<marker id="525136266" label="Goblin-town Soldier" category="71" did="1879409309" parentZoneId="1879256517" longitude="54.127518" latitude="-61.260727"/>
+<marker id="525136267" label="Brogasht, the Great Goblin" category="71" did="1879409306" parentZoneId="1879256517" longitude="54.18213" latitude="-60.872265"/>
+<marker id="525136268" label="Dwarf Scout" category="70" did="1879408295" parentZoneId="1879256517" longitude="54.284607" latitude="-61.04962"/>
+<marker id="525136269" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.200684" latitude="-62.204838"/>
+<marker id="525136270" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.285076" latitude="-62.07088"/>
+<marker id="525136271" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.126522" latitude="-62.06892"/>
+<marker id="525136272" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.281445" latitude="-61.871716"/>
+<marker id="525136273" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.120274" latitude="-61.86846"/>
+<marker id="525136274" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.184414" latitude="-61.574486"/>
+<marker id="525136275" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.21455" latitude="-61.573074"/>
+<marker id="525136276" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.208477" latitude="-61.42288"/>
+<marker id="525136277" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.228886" latitude="-61.419895"/>
+<marker id="525136278" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.090096" latitude="-61.23206"/>
+<marker id="525136279" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.37166" latitude="-61.266785"/>
+<marker id="525136280" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.419373" latitude="-61.217243"/>
+<marker id="525136281" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.41984" latitude="-61.19357"/>
+<marker id="525136282" label="Goblin-town Sapper" category="71" did="1879409313" parentZoneId="1879256517" longitude="54.20779" latitude="-62.207836"/>
+<marker id="525136284" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.141113" latitude="-61.87879"/>
+<marker id="525136285" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.2016" latitude="-61.773064"/>
+<marker id="525136286" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.20998" latitude="-61.77485"/>
+<marker id="525136287" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.163925" latitude="-61.657333"/>
+<marker id="525136288" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.230976" latitude="-61.653313"/>
+<marker id="525136289" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.183846" latitude="-61.481735"/>
+<marker id="525136290" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.23537" latitude="-61.482376"/>
+<marker id="525136291" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.215527" latitude="-61.273376"/>
+<marker id="525136292" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.208065" latitude="-62.11851"/>
+<marker id="525136293" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.13412" latitude="-62.076946"/>
+<marker id="525136294" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.132225" latitude="-62.06394"/>
+<marker id="525136295" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.279667" latitude="-62.059772"/>
+<marker id="525136296" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.284317" latitude="-62.077316"/>
+<marker id="525136297" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.203827" latitude="-61.97294"/>
+<marker id="525136298" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.222595" latitude="-61.960606"/>
+<marker id="525136299" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.26652" latitude="-61.871677"/>
+<marker id="525136300" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.13455" latitude="-61.863266"/>
+<marker id="525136301" label="Goblin-town Sentry" category="71" did="1879409315" parentZoneId="1879256517" longitude="54.213005" latitude="-62.146355"/>
+<marker id="525136302" label="Mission Reward" category="72" did="1879408297" parentZoneId="1879256517" longitude="54.28996" latitude="-61.04431"/>
+<marker id="525136303" label="Hórin" category="71" did="1879412145" parentZoneId="1879256517" longitude="54.28793" latitude="-61.231712"/>
+<marker id="525136304" label="Gorgar the Ruthless" category="71" did="1879412144" parentZoneId="1879256517" longitude="54.198532" latitude="-60.87165"/>
+<marker id="525136305" label="Uloga, The Great Goblin" category="71" did="1879256878" parentZoneId="1879256517" longitude="54.1908" latitude="-60.842327"/>
+<marker id="525136306" label="Uloga, The Great Goblin" category="71" did="1879256878" parentZoneId="1879256517" longitude="54.192284" latitude="-60.977795"/>
+<marker id="525136307" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.17045" latitude="-62.38168"/>
+<marker id="525136308" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.180584" latitude="-62.27247"/>
+<marker id="525136309" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.230137" latitude="-62.168674"/>
+<marker id="525136310" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.242558" latitude="-61.94997"/>
+<marker id="525136311" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.163124" latitude="-61.632412"/>
+<marker id="525136312" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.24127" latitude="-61.360424"/>
+<marker id="525136313" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.03502" latitude="-61.529808"/>
+<marker id="525136314" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.012207" latitude="-61.37971"/>
+<marker id="525136315" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="53.874588" latitude="-61.125805"/>
+<marker id="525136316" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="53.999763" latitude="-61.08128"/>
+<marker id="525136317" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.143356" latitude="-61.239857"/>
+<marker id="525136318" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.39715" latitude="-61.51931"/>
+<marker id="525136319" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.347713" latitude="-61.431797"/>
+<marker id="525136320" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.54486" latitude="-61.27266"/>
+<marker id="525136321" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.51289" latitude="-61.158558"/>
+<marker id="525136322" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.525486" latitude="-61.196552"/>
+<marker id="525136323" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.2507" latitude="-61.354137"/>
+<marker id="525136324" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.14902" latitude="-61.565075"/>
+<marker id="525136325" label="Ideal Drawing Location" category="73" did="1879387273" parentZoneId="1879256517" longitude="54.240993" latitude="-61.619404"/>
+<marker id="525136326" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.183125" latitude="-60.871513"/>
+<marker id="525136327" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.19953" latitude="-60.872272"/>
+<marker id="525136328" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.2016" latitude="-61.26301"/>
+<marker id="525136329" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.217773" latitude="-61.65296"/>
+<marker id="525136330" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.353962" latitude="-61.632416"/>
+<marker id="525136331" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.028515" latitude="-61.39237"/>
+<marker id="525136332" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.016052" latitude="-61.055874"/>
+<marker id="525136333" label="Frost-bound Hobgoblin" category="71" did="1879387271" parentZoneId="1879256517" longitude="54.412067" latitude="-61.294697"/>
+<marker id="525136334" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.19539" latitude="-61.24679"/>
+<marker id="525136335" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.19197" latitude="-61.85736"/>
+<marker id="525136336" label="Goblin-town" category="43" did="1879387279" parentZoneId="1879256517" longitude="54.200935" latitude="-62.382103"/>
+<marker id="525136356" label="Gate Lock" category="73" did="1879409568" parentZoneId="1879256517" longitude="54.309177" latitude="-61.10383"/>
 <marker id="525234176" label="Fotri" category="70" did="1879363682" parentZoneId="1879112699" longitude="56.25705" latitude="-67.524055"/>
 <marker id="525234177" label="Gate" category="100" did="1879079659" parentZoneId="1879112699" longitude="55.24953" latitude="-67.63529"/>
 <marker id="525234178" label="Gate" category="100" did="1879079659" parentZoneId="1879112699" longitude="55.616737" latitude="-67.41623"/>

@@ -42,57 +42,94 @@
 <marker id="1610305548" label="Umaris" category="70" did="1879478856" parentZoneId="1879476592" longitude="53.99367" latitude="71.58832"/>
 <marker id="1610305555" label="Heshra" category="70" did="1879471227" parentZoneId="1879476592" longitude="53.96924" latitude="71.504845"/>
 <marker id="1610305556" label="Roshat" category="70" did="1879478822" parentZoneId="1879476592" longitude="53.94326" latitude="71.586365"/>
-<marker id="1610313743" label="King's Gondor Quartermaster&#10;The Renewal of Gondor Rewards" category="61" did="1879465583" parentZoneId="1879475844" longitude="55.107597" latitude="73.82809"/>
-<marker id="1610313746" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879478376" parentZoneId="1879475844" longitude="55.221054" latitude="73.818474"/>
-<marker id="1610313747" label="Ledger-keepers Quartermaster&#10;Allegiance Vendor" category="58" did="1879479244" parentZoneId="1879475844" longitude="55.208923" latitude="73.71275"/>
-<marker id="1610313748" label="Order of the Eagle Quartermaster&#10;Allegiance Vendor" category="58" did="1879479243" parentZoneId="1879475844" longitude="55.11949" latitude="73.827225"/>
-<marker id="1610313749" label="Provisioner" category="38" did="1879480334" parentZoneId="1879475844" longitude="55.10301" latitude="73.71121"/>
-<marker id="1610313750" label="Healer" category="38" did="1879480335" parentZoneId="1879475844" longitude="55.1649" latitude="73.713394"/>
-<marker id="1610313751" label="Supplier" category="38" did="1879480338" parentZoneId="1879475844" longitude="55.109333" latitude="73.71158"/>
-<marker id="1610313752" label="Door" category="100" did="1879475745" parentZoneId="1879475844" longitude="54.927986" latitude="73.781525"/>
-<marker id="1610313760" label="Akurga's Spear" category="73" did="1879475749" parentZoneId="1879475844" longitude="55.271404" latitude="73.781425"/>
-<marker id="1610313762" label="The Bane of Umbar" category="73" did="1879475747" parentZoneId="1879475844" longitude="55.257282" latitude="73.79764"/>
-<marker id="1610313763" label="Akálam" category="70" did="1879475780" parentZoneId="1879475844" longitude="55.256054" latitude="73.80289"/>
-<marker id="1610313764" label="Khôltekh the Cunning" category="70" did="1879475769" parentZoneId="1879475844" longitude="55.24734" latitude="73.735115"/>
-<marker id="1610313765" label="Eshmun" category="70" did="1879475770" parentZoneId="1879475844" longitude="55.181442" latitude="73.75863"/>
-<marker id="1610313770" label="Deshra" category="70" did="1879478373" parentZoneId="1879475844" longitude="55.208633" latitude="73.76147"/>
-<marker id="1610313771" label="Malthak" category="70" did="1879478374" parentZoneId="1879475844" longitude="55.208065" latitude="73.80115"/>
-<marker id="1610313776" label="Umbar Quartermaster&#10;The City of Umbar Rewards" category="58" did="1879476792" parentZoneId="1879475844" longitude="55.213943" latitude="73.71716"/>
-<marker id="1610321924" label="Door" category="100" did="1879475787" parentZoneId="1879475842" longitude="54.568573" latitude="75.28223"/>
-<marker id="1610321925" label="Parrot" category="78" did="1879473809" parentZoneId="1879475842" longitude="54.573105" latitude="75.966774"/>
-<marker id="1610321926" label="White Peacock" category="78" did="1879368232" parentZoneId="1879475842" longitude="54.526424" latitude="75.84873"/>
-<marker id="1610321927" label="Blue Peacock" category="78" did="1879368234" parentZoneId="1879475842" longitude="54.60828" latitude="75.80701"/>
-<marker id="1610321928" label="Green Peacock" category="78" did="1879368241" parentZoneId="1879475842" longitude="54.57338" latitude="75.788376"/>
-<marker id="1610321929" label="Bown Cat" category="78" did="1879337311" parentZoneId="1879475842" longitude="54.57834" latitude="75.46115"/>
-<marker id="1610321930" label="Smoky-grey Cat" category="78" did="1879337312" parentZoneId="1879475842" longitude="54.550056" latitude="75.32908"/>
-<marker id="1610321931" label="Cozy Tabby Cat" category="78" did="1879418590" parentZoneId="1879475842" longitude="54.626385" latitude="75.64029"/>
-<marker id="1610321932" label="Dappled Tri-colour Cat" category="78" did="1879418587" parentZoneId="1879475842" longitude="54.514492" latitude="75.53203"/>
-<marker id="1610321933" label="Cozy Grey Cat" category="78" did="1879418586" parentZoneId="1879475842" longitude="54.478397" latitude="75.620445"/>
-<marker id="1610321934" label="Very Fancy Cat" category="78" did="1879321864" parentZoneId="1879475842" longitude="54.598026" latitude="75.44719"/>
-<marker id="1610321935" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.59996" latitude="75.38965"/>
-<marker id="1610321936" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.56088" latitude="75.44004"/>
-<marker id="1610321937" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.562088" latitude="75.740685"/>
-<marker id="1610321938" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.575466" latitude="75.986404"/>
-<marker id="1610321943" label="Hármelak, the Golden Queen" category="70" did="1879474776" parentZoneId="1879475842" longitude="54.592793" latitude="75.40262"/>
-<marker id="1610321944" label="Hármelak, the Golden Queen" category="70" did="1879474768" parentZoneId="1879475842" longitude="54.56779" latitude="75.44297"/>
-<marker id="1610321945" label="Hármelak, the Golden Queen" category="70" did="1879474777" parentZoneId="1879475842" longitude="54.567966" latitude="75.74855"/>
-<marker id="1610321946" label="Hármelak, the Golden Queen" category="70" did="1879474780" parentZoneId="1879475842" longitude="54.568516" latitude="75.97199"/>
-<marker id="1610330117" label="Door" category="100" did="1879328991" parentZoneId="1879475843" longitude="54.018906" latitude="76.75019"/>
-<marker id="1610330118" label="Door" category="100" did="1879475787" parentZoneId="1879475843" longitude="53.19629" latitude="76.50521"/>
-<marker id="1610330119" label="True-tongue" category="70" did="1879475558" parentZoneId="1879475843" longitude="53.828926" latitude="76.52351"/>
-<marker id="1610330120" label="Nakási Wave-reaper" category="70" did="1879475557" parentZoneId="1879475843" longitude="53.927402" latitude="76.55732"/>
-<marker id="1610330121" label="Silverfroth" category="70" did="1879475566" parentZoneId="1879475843" longitude="53.833534" latitude="76.5299"/>
-<marker id="1610330122" label="Grey-eye" category="70" did="1879475567" parentZoneId="1879475843" longitude="53.837753" latitude="76.48734"/>
-<marker id="1610330123" label="Belondor" category="70" did="1879475562" parentZoneId="1879475843" longitude="53.92861" latitude="76.36178"/>
-<marker id="1610330124" label="Roamingstar" category="70" did="1879475563" parentZoneId="1879475843" longitude="53.831524" latitude="76.493805"/>
-<marker id="1610330125" label="Herald of the Citadel" category="70" did="1879475560" parentZoneId="1879475843" longitude="53.86375" latitude="76.542946"/>
-<marker id="1610330126" label="Water-bearer Enât" category="70" did="1879475574" parentZoneId="1879475843" longitude="53.851913" latitude="76.46929"/>
-<marker id="1610330127" label="Jajax" category="70" did="1879475575" parentZoneId="1879475843" longitude="53.86" latitude="76.54967"/>
-<marker id="1610330128" label="Water-bearer Ushu" category="70" did="1879475573" parentZoneId="1879475843" longitude="53.88652" latitude="76.444824"/>
-<marker id="1610330129" label="Water-bearer" category="70" did="1879475570" parentZoneId="1879475843" longitude="53.88582" latitude="76.40957"/>
-<marker id="1610330130" label="Water-bearer" category="70" did="1879475570" parentZoneId="1879475843" longitude="53.875114" latitude="76.46951"/>
-<marker id="1610330131" label="Thorongil" category="70" did="1879475571" parentZoneId="1879475843" longitude="53.919453" latitude="76.36636"/>
-<marker id="1610330132" label="Lone Lady" category="70" did="1879475568" parentZoneId="1879475843" longitude="53.82992" latitude="76.51318"/>
-<marker id="1610330133" label="Azagath Sea-shadow" category="70" did="1879475578" parentZoneId="1879475843" longitude="53.914062" latitude="76.555"/>
-<marker id="1610330134" label="Veiled Elf" category="70" did="1879475577" parentZoneId="1879475843" longitude="53.857616" latitude="76.557556"/>
+<marker id="1610313744" label="King's Gondor Quartermaster&#10;The Renewal of Gondor Rewards" category="61" did="1879465583" parentZoneId="1879475844" longitude="55.107597" latitude="73.82809"/>
+<marker id="1610313747" label="Delving Quartermaster&#10;Delving Reward Vendor" category="58" did="1879478376" parentZoneId="1879475844" longitude="55.221054" latitude="73.818474"/>
+<marker id="1610313748" label="Ledger-keepers Quartermaster&#10;Allegiance Vendor" category="58" did="1879479244" parentZoneId="1879475844" longitude="55.208923" latitude="73.71275"/>
+<marker id="1610313749" label="Order of the Eagle Quartermaster&#10;Allegiance Vendor" category="58" did="1879479243" parentZoneId="1879475844" longitude="55.11949" latitude="73.827225"/>
+<marker id="1610313750" label="Provisioner" category="38" did="1879480334" parentZoneId="1879475844" longitude="55.10301" latitude="73.71121"/>
+<marker id="1610313751" label="Healer" category="38" did="1879480335" parentZoneId="1879475844" longitude="55.1649" latitude="73.713394"/>
+<marker id="1610313752" label="Supplier" category="38" did="1879480338" parentZoneId="1879475844" longitude="55.109333" latitude="73.71158"/>
+<marker id="1610313753" label="Door" category="100" did="1879475745" parentZoneId="1879475844" longitude="54.927986" latitude="73.781525"/>
+<marker id="1610313760" label="Eshmun" category="70" did="1879475770" parentZoneId="1879475844" longitude="55.181442" latitude="73.75863"/>
+<marker id="1610313761" label="Akurga's Spear" category="73" did="1879475749" parentZoneId="1879475844" longitude="55.271404" latitude="73.781425"/>
+<marker id="1610313762" label="Akálam&#10;Tavern Keep" category="38" did="1879475780" parentZoneId="1879475844" longitude="55.256054" latitude="73.80289"/>
+<marker id="1610313763" label="The Bane of Umbar" category="73" did="1879475747" parentZoneId="1879475844" longitude="55.257282" latitude="73.79764"/>
+<marker id="1610313765" label="Khôltekh the Cunning" category="70" did="1879475769" parentZoneId="1879475844" longitude="55.24734" latitude="73.735115"/>
+<marker id="1610313771" label="Deshra" category="70" did="1879478373" parentZoneId="1879475844" longitude="55.208633" latitude="73.76147"/>
+<marker id="1610313776" label="Malthak" category="70" did="1879478374" parentZoneId="1879475844" longitude="55.208065" latitude="73.80115"/>
+<marker id="1610313777" label="Umbar Quartermaster&#10;The City of Umbar Rewards" category="58" did="1879476792" parentZoneId="1879475844" longitude="55.213943" latitude="73.71716"/>
+<marker id="1610321925" label="Door" category="100" did="1879475787" parentZoneId="1879475842" longitude="54.568573" latitude="75.28223"/>
+<marker id="1610321926" label="Parrot" category="78" did="1879473809" parentZoneId="1879475842" longitude="54.573105" latitude="75.966774"/>
+<marker id="1610321927" label="White Peacock" category="78" did="1879368232" parentZoneId="1879475842" longitude="54.526424" latitude="75.84873"/>
+<marker id="1610321928" label="Blue Peacock" category="78" did="1879368234" parentZoneId="1879475842" longitude="54.60828" latitude="75.80701"/>
+<marker id="1610321929" label="Green Peacock" category="78" did="1879368241" parentZoneId="1879475842" longitude="54.57338" latitude="75.788376"/>
+<marker id="1610321930" label="Bown Cat" category="78" did="1879337311" parentZoneId="1879475842" longitude="54.57834" latitude="75.46115"/>
+<marker id="1610321931" label="Smoky-grey Cat" category="78" did="1879337312" parentZoneId="1879475842" longitude="54.550056" latitude="75.32908"/>
+<marker id="1610321932" label="Cozy Tabby Cat" category="78" did="1879418590" parentZoneId="1879475842" longitude="54.626385" latitude="75.64029"/>
+<marker id="1610321933" label="Dappled Tri-colour Cat" category="78" did="1879418587" parentZoneId="1879475842" longitude="54.514492" latitude="75.53203"/>
+<marker id="1610321934" label="Cozy Grey Cat" category="78" did="1879418586" parentZoneId="1879475842" longitude="54.478397" latitude="75.620445"/>
+<marker id="1610321935" label="Very Fancy Cat" category="78" did="1879321864" parentZoneId="1879475842" longitude="54.598026" latitude="75.44719"/>
+<marker id="1610321937" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.59996" latitude="75.38965"/>
+<marker id="1610321938" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.56088" latitude="75.44004"/>
+<marker id="1610321939" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.562088" latitude="75.740685"/>
+<marker id="1610321940" label="Rothog the Storm" category="70" did="1879474775" parentZoneId="1879475842" longitude="54.575466" latitude="75.986404"/>
+<marker id="1610321945" label="Hármelak, the Golden Queen" category="70" did="1879474776" parentZoneId="1879475842" longitude="54.592793" latitude="75.40262"/>
+<marker id="1610321946" label="Hármelak, the Golden Queen" category="70" did="1879474768" parentZoneId="1879475842" longitude="54.56779" latitude="75.44297"/>
+<marker id="1610321947" label="Hármelak, the Golden Queen" category="70" did="1879474777" parentZoneId="1879475842" longitude="54.567966" latitude="75.74855"/>
+<marker id="1610321948" label="Hármelak, the Golden Queen" category="70" did="1879474780" parentZoneId="1879475842" longitude="54.568516" latitude="75.97199"/>
+<marker id="1610321949" label="Hármelak" category="70" did="1879480340" parentZoneId="1879475842" longitude="54.541443" latitude="75.985466"/>
+<marker id="1610330119" label="Door" category="100" did="1879475787" parentZoneId="1879475843" longitude="53.19629" latitude="76.50521"/>
+<marker id="1610330121" label="True-tongue" category="70" did="1879475558" parentZoneId="1879475843" longitude="53.828926" latitude="76.52351"/>
+<marker id="1610330122" label="Nakási Wave-reaper" category="70" did="1879475557" parentZoneId="1879475843" longitude="53.927402" latitude="76.55732"/>
+<marker id="1610330123" label="Silverfroth" category="70" did="1879475566" parentZoneId="1879475843" longitude="53.833534" latitude="76.5299"/>
+<marker id="1610330124" label="Grey-eye" category="70" did="1879475567" parentZoneId="1879475843" longitude="53.837753" latitude="76.48734"/>
+<marker id="1610330125" label="Belondor" category="70" did="1879475562" parentZoneId="1879475843" longitude="53.92861" latitude="76.36178"/>
+<marker id="1610330126" label="Roamingstar" category="70" did="1879475563" parentZoneId="1879475843" longitude="53.831524" latitude="76.493805"/>
+<marker id="1610330127" label="Herald of the Citadel" category="70" did="1879475560" parentZoneId="1879475843" longitude="53.86375" latitude="76.542946"/>
+<marker id="1610330128" label="Water-bearer Enât" category="70" did="1879475574" parentZoneId="1879475843" longitude="53.851913" latitude="76.46929"/>
+<marker id="1610330129" label="Jajax" category="70" did="1879475575" parentZoneId="1879475843" longitude="53.86" latitude="76.54967"/>
+<marker id="1610330130" label="Water-bearer Ushu" category="70" did="1879475573" parentZoneId="1879475843" longitude="53.88652" latitude="76.444824"/>
+<marker id="1610330131" label="Water-bearer" category="70" did="1879475570" parentZoneId="1879475843" longitude="53.88582" latitude="76.40957"/>
+<marker id="1610330132" label="Water-bearer" category="70" did="1879475570" parentZoneId="1879475843" longitude="53.875114" latitude="76.46951"/>
+<marker id="1610330133" label="Thorongil" category="70" did="1879475571" parentZoneId="1879475843" longitude="53.919453" latitude="76.36636"/>
+<marker id="1610330134" label="Lone Lady" category="70" did="1879475568" parentZoneId="1879475843" longitude="53.82992" latitude="76.51318"/>
+<marker id="1610330135" label="Azagath Sea-shadow" category="70" did="1879475578" parentZoneId="1879475843" longitude="53.914062" latitude="76.555"/>
+<marker id="1610330136" label="Veiled Elf" category="70" did="1879475577" parentZoneId="1879475843" longitude="53.857616" latitude="76.557556"/>
+<marker id="1610330137" label="Water-carrier Enât" category="70" did="1879481665" parentZoneId="1879475843" longitude="53.864883" latitude="76.649376"/>
+<marker id="1610330138" label="Elladan" category="71" did="1879481678" parentZoneId="1879475843" longitude="54.561813" latitude="76.62425"/>
+<marker id="1610330139" label="Nauriel" category="71" did="1879481679" parentZoneId="1879475843" longitude="53.76043" latitude="76.65461"/>
+<marker id="1610330140" label="Azagath Loyalist" category="71" did="1879481676" parentZoneId="1879475843" longitude="54.879353" latitude="76.84465"/>
+<marker id="1610330141" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.68789" latitude="76.52875"/>
+<marker id="1610330142" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.68373" latitude="76.53557"/>
+<marker id="1610330143" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.682793" latitude="76.54283"/>
+<marker id="1610330144" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.694763" latitude="76.525314"/>
+<marker id="1610330145" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.239647" latitude="76.93494"/>
+<marker id="1610330146" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.861797" latitude="76.846306"/>
+<marker id="1610330147" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.87084" latitude="76.8522"/>
+<marker id="1610330148" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.879295" latitude="76.85979"/>
+<marker id="1610330149" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.06734" latitude="76.8058"/>
+<marker id="1610330150" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.073105" latitude="76.798805"/>
+<marker id="1610330151" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.11342" latitude="76.84957"/>
+<marker id="1610330152" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.21992" latitude="76.93799"/>
+<marker id="1610330153" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.227676" latitude="76.9433"/>
+<marker id="1610330154" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.511562" latitude="76.67373"/>
+<marker id="1610330155" label="Azagath Loyalist" category="71" did="1879481677" parentZoneId="1879475843" longitude="54.5008" latitude="76.66406"/>
+<marker id="1610330156" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.2349" latitude="76.94576"/>
+<marker id="1610330157" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.425938" latitude="76.760155"/>
+<marker id="1610330158" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.41611" latitude="76.75859"/>
+<marker id="1610330159" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.249004" latitude="76.93681"/>
+<marker id="1610330160" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.414646" latitude="76.745995"/>
+<marker id="1610330161" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.6941" latitude="76.54998"/>
+<marker id="1610330162" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.698868" latitude="76.54521"/>
+<marker id="1610330163" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.70543" latitude="76.538376"/>
+<marker id="1610330164" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.8617" latitude="76.85711"/>
+<marker id="1610330165" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.87092" latitude="76.86312"/>
+<marker id="1610330166" label="Azagath Loyalist" category="71" did="1879481673" parentZoneId="1879475843" longitude="54.127754" latitude="76.85367"/>
+<marker id="1610330167" label="Corudan" category="71" did="1879481682" parentZoneId="1879475843" longitude="54.88076" latitude="76.73629"/>
+<marker id="1610330168" label="Rossaran" category="71" did="1879481683" parentZoneId="1879475843" longitude="54.13207" latitude="76.85607"/>
+<marker id="1610330169" label="Sigileth" category="71" did="1879481680" parentZoneId="1879475843" longitude="54.888847" latitude="76.727615"/>
+<marker id="1610330170" label="Elrohir" category="71" did="1879481681" parentZoneId="1879475843" longitude="54.55738" latitude="76.60303"/>
+<marker id="1610330171" label="Water-carrier Ushu" category="70" did="1879481662" parentZoneId="1879475843" longitude="53.865955" latitude="76.637985"/>
+<marker id="1610330172" label="Door" category="100" did="1879328991" parentZoneId="1879475843" longitude="54.018906" latitude="76.75019"/>
+<marker id="1610330173" label="Door" category="100" did="1879328991" parentZoneId="1879475843" longitude="54.841835" latitude="76.88494"/>
 </markers>
