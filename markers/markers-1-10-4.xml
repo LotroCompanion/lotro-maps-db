@@ -1489,92 +1489,94 @@
 <marker id="440500224" label="Lhanuch" category="41" did="1879185239" parentZoneId="1879181894" longitude="-17.273867" latitude="-66.54593"/>
 <marker id="440500225" label="Milestone" category="55" did="1879063534" parentZoneId="1879181894" longitude="-17.235292" latitude="-66.50288"/>
 <marker id="440500226" label="Mailbox" category="34" did="1879222087" parentZoneId="1879181894" longitude="-17.328857" latitude="-66.46835"/>
-<marker id="440500233" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
-<marker id="440500234" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
-<marker id="440500235" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
-<marker id="440500239" label="Bert Bartleby" category="70" did="1879330470" parentZoneId="1879181894" longitude="-17.263876" latitude="-66.63653"/>
-<marker id="440500241" label="Old Rattlepacks" category="70" did="1879325916" parentZoneId="1879181894" longitude="-17.275225" latitude="-66.63614"/>
-<marker id="440500242" label="Man of Enedwaith" category="70" did="1879190968" parentZoneId="1879181894" longitude="-17.28254" latitude="-66.57202"/>
-<marker id="440500243" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.24995" latitude="-66.547935"/>
-<marker id="440500244" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.264395" latitude="-66.67348"/>
-<marker id="440500245" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.334354" latitude="-66.533066"/>
-<marker id="440500246" label="Nan Laeglin Warrior" category="71" did="1879186723" parentZoneId="1879181894" longitude="-17.303505" latitude="-66.461555"/>
-<marker id="440500247" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
-<marker id="440500248" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
-<marker id="440500249" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
-<marker id="440500250" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
-<marker id="440500257" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.227665" latitude="-66.5364"/>
-<marker id="440500258" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.318808" latitude="-66.61584"/>
-<marker id="440500259" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.255371" latitude="-66.55749"/>
-<marker id="440500260" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.323124" latitude="-66.60796"/>
-<marker id="440500261" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.244648" latitude="-66.56635"/>
-<marker id="440500262" label="Worm of the Draig-lûth" category="71" did="1879259339" parentZoneId="1879181894" longitude="-17.282011" latitude="-66.521805"/>
-<marker id="440500263" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.344736" latitude="-66.53822"/>
-<marker id="440500264" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.269512" latitude="-66.45919"/>
-<marker id="440500265" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.250713" latitude="-66.45774"/>
-<marker id="440500266" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.264286" latitude="-66.554474"/>
-<marker id="440500267" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.270079" latitude="-66.58172"/>
-<marker id="440500268" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.249638" latitude="-66.57441"/>
-<marker id="440500269" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.28457" latitude="-66.52842"/>
-<marker id="440500270" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.267637" latitude="-66.51476"/>
-<marker id="440500271" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.253954" latitude="-66.60073"/>
-<marker id="440500272" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.220995" latitude="-66.63622"/>
-<marker id="440500273" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.58084" latitude="-66.71868"/>
-<marker id="440500274" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.590057" latitude="-66.689766"/>
-<marker id="440500275" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.587324" latitude="-66.71221"/>
-<marker id="440500276" label="Draig-lûth Fighter" category="71" did="1879259290" parentZoneId="1879181894" longitude="-17.571493" latitude="-66.69583"/>
-<marker id="440500277" label="Draig-lûth Fighter" category="71" did="1879259290" parentZoneId="1879181894" longitude="-17.568651" latitude="-66.73019"/>
-<marker id="440500278" label="Suvulch" category="71" did="1879259257" parentZoneId="1879181894" longitude="-17.53957" latitude="-66.72039"/>
-<marker id="440500279" label="Draig-lûth Raider" category="71" did="1879259288" parentZoneId="1879181894" longitude="-17.58539" latitude="-66.69834"/>
-<marker id="440500280" label="Glynn Brenin" category="71" did="1879259262" parentZoneId="1879181894" longitude="-17.303457" latitude="-66.48874"/>
-<marker id="440500281" label="Glynn Brenin" category="71" did="1879259262" parentZoneId="1879181894" longitude="-17.29788" latitude="-66.518326"/>
-<marker id="440500282" label="Resident" category="70" did="1879475559" parentZoneId="1879181894" longitude="-17.249228" latitude="-66.5616"/>
-<marker id="440500283" label="Resident" category="70" did="1879475579" parentZoneId="1879181894" longitude="-17.275272" latitude="-66.5687"/>
-<marker id="440500284" label="Resident" category="70" did="1879475579" parentZoneId="1879181894" longitude="-17.266123" latitude="-66.556114"/>
-<marker id="440500289" label="Buried Cache" category="73" did="1879189265" parentZoneId="1879181894" longitude="-17.976475" latitude="-66.26998"/>
-<marker id="440500295" label="Halbarad" category="70" did="1879200558" parentZoneId="1879181894" longitude="-17.352098" latitude="-66.571266"/>
-<marker id="440500296" label="Note from Ergothorn" category="70" did="1879200560" parentZoneId="1879181894" longitude="-17.35499" latitude="-66.56601"/>
-<marker id="440500302" label="Halbarad" category="70" did="1879207982" parentZoneId="1879181894" longitude="-17.235361" latitude="-66.58257"/>
-<marker id="440500303" label="Braigiar" category="70" did="1879207983" parentZoneId="1879181894" longitude="-17.24496" latitude="-66.574905"/>
-<marker id="440500304" label="Prestadír" category="70" did="1879207984" parentZoneId="1879181894" longitude="-17.243467" latitude="-66.56504"/>
-<marker id="440500306" label="Helû" category="70" did="1879342104" parentZoneId="1879181894" longitude="-17.263847" latitude="-66.589096"/>
-<marker id="440500307" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
-<marker id="440500308" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
-<marker id="440500309" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
-<marker id="440500310" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
-<marker id="440500311" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
-<marker id="440500312" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
-<marker id="440500313" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
-<marker id="440500314" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
-<marker id="440500315" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
-<marker id="440500316" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
-<marker id="440500317" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
-<marker id="440500318" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
-<marker id="440500319" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
-<marker id="440500320" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
-<marker id="440500321" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
-<marker id="440500322" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
-<marker id="440500323" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
-<marker id="440500324" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
-<marker id="440500325" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
-<marker id="440500326" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
-<marker id="440500327" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
-<marker id="440500328" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
-<marker id="440500329" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
-<marker id="440500330" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
-<marker id="440500331" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
-<marker id="440500332" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
-<marker id="440500333" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
-<marker id="440500334" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
-<marker id="440500335" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
-<marker id="440500336" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
-<marker id="440500337" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
-<marker id="440500338" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
-<marker id="440500339" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
-<marker id="440500340" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
-<marker id="440500341" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
-<marker id="440500342" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
-<marker id="440500343" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
+<marker id="440500227" label="Tasks Bulletin Board" category="27" did="1879484106" parentZoneId="1879181894" longitude="-17.261816" latitude="-66.49626"/>
+<marker id="440500231" label="Halbarad" category="70" did="1879207982" parentZoneId="1879181894" longitude="-17.235361" latitude="-66.58257"/>
+<marker id="440500232" label="Braigiar" category="70" did="1879207983" parentZoneId="1879181894" longitude="-17.24496" latitude="-66.574905"/>
+<marker id="440500233" label="Prestadír" category="70" did="1879207984" parentZoneId="1879181894" longitude="-17.243467" latitude="-66.56504"/>
+<marker id="440500234" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
+<marker id="440500235" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
+<marker id="440500236" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.718222" latitude="-66.392166"/>
+<marker id="440500237" label="Helû" category="70" did="1879342104" parentZoneId="1879181894" longitude="-17.263847" latitude="-66.589096"/>
+<marker id="440500238" label="Halbarad" category="70" did="1879200558" parentZoneId="1879181894" longitude="-17.352098" latitude="-66.571266"/>
+<marker id="440500239" label="Note from Ergothorn" category="70" did="1879200560" parentZoneId="1879181894" longitude="-17.35499" latitude="-66.56601"/>
+<marker id="440500241" label="Bert Bartleby" category="70" did="1879330470" parentZoneId="1879181894" longitude="-17.263876" latitude="-66.63653"/>
+<marker id="440500243" label="Old Rattlepacks" category="70" did="1879325916" parentZoneId="1879181894" longitude="-17.275225" latitude="-66.63614"/>
+<marker id="440500245" label="Man of Enedwaith" category="70" did="1879190968" parentZoneId="1879181894" longitude="-17.28254" latitude="-66.57202"/>
+<marker id="440500246" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.24995" latitude="-66.547935"/>
+<marker id="440500247" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.264395" latitude="-66.67348"/>
+<marker id="440500248" label="Woman of Enedwaith" category="70" did="1879190969" parentZoneId="1879181894" longitude="-17.334354" latitude="-66.533066"/>
+<marker id="440500249" label="Nan Laeglin Warrior" category="71" did="1879186723" parentZoneId="1879181894" longitude="-17.303505" latitude="-66.461555"/>
+<marker id="440500250" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
+<marker id="440500251" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
+<marker id="440500252" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
+<marker id="440500253" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.706434" latitude="-66.41238"/>
+<marker id="440500260" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.227665" latitude="-66.5364"/>
+<marker id="440500261" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.318808" latitude="-66.61584"/>
+<marker id="440500262" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.255371" latitude="-66.55749"/>
+<marker id="440500263" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.323124" latitude="-66.60796"/>
+<marker id="440500264" label="Uch-lûth Villager" category="70" did="1879266727" parentZoneId="1879181894" longitude="-17.244648" latitude="-66.56635"/>
+<marker id="440500265" label="Worm of the Draig-lûth" category="71" did="1879259339" parentZoneId="1879181894" longitude="-17.282011" latitude="-66.521805"/>
+<marker id="440500266" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.344736" latitude="-66.53822"/>
+<marker id="440500267" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.269512" latitude="-66.45919"/>
+<marker id="440500268" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.250713" latitude="-66.45774"/>
+<marker id="440500269" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.264286" latitude="-66.554474"/>
+<marker id="440500270" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.270079" latitude="-66.58172"/>
+<marker id="440500271" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.249638" latitude="-66.57441"/>
+<marker id="440500272" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.28457" latitude="-66.52842"/>
+<marker id="440500273" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.267637" latitude="-66.51476"/>
+<marker id="440500274" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.253954" latitude="-66.60073"/>
+<marker id="440500275" label="Uch-lûth Villager" category="70" did="1879266728" parentZoneId="1879181894" longitude="-17.220995" latitude="-66.63622"/>
+<marker id="440500276" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.58084" latitude="-66.71868"/>
+<marker id="440500277" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.590057" latitude="-66.689766"/>
+<marker id="440500278" label="Draig-lûth Warrior" category="71" did="1879259282" parentZoneId="1879181894" longitude="-17.587324" latitude="-66.71221"/>
+<marker id="440500279" label="Draig-lûth Fighter" category="71" did="1879259290" parentZoneId="1879181894" longitude="-17.571493" latitude="-66.69583"/>
+<marker id="440500280" label="Draig-lûth Fighter" category="71" did="1879259290" parentZoneId="1879181894" longitude="-17.568651" latitude="-66.73019"/>
+<marker id="440500281" label="Suvulch" category="71" did="1879259257" parentZoneId="1879181894" longitude="-17.53957" latitude="-66.72039"/>
+<marker id="440500282" label="Draig-lûth Raider" category="71" did="1879259288" parentZoneId="1879181894" longitude="-17.58539" latitude="-66.69834"/>
+<marker id="440500283" label="Glynn Brenin" category="71" did="1879259262" parentZoneId="1879181894" longitude="-17.303457" latitude="-66.48874"/>
+<marker id="440500284" label="Glynn Brenin" category="71" did="1879259262" parentZoneId="1879181894" longitude="-17.29788" latitude="-66.518326"/>
+<marker id="440500288" label="Resident" category="70" did="1879475559" parentZoneId="1879181894" longitude="-17.249228" latitude="-66.5616"/>
+<marker id="440500289" label="Resident" category="70" did="1879475579" parentZoneId="1879181894" longitude="-17.275272" latitude="-66.5687"/>
+<marker id="440500290" label="Resident" category="70" did="1879475579" parentZoneId="1879181894" longitude="-17.266123" latitude="-66.556114"/>
+<marker id="440500291" label="Buried Cache" category="73" did="1879189265" parentZoneId="1879181894" longitude="-17.976475" latitude="-66.26998"/>
+<marker id="440500299" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879181894" longitude="-17.26207" latitude="-66.49895"/>
+<marker id="440500617" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
+<marker id="440500618" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
+<marker id="440500619" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
+<marker id="440500620" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.85123" latitude="-66.690094"/>
+<marker id="440500621" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
+<marker id="440500622" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
+<marker id="440500623" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
+<marker id="440500624" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.62788" latitude="-66.57669"/>
+<marker id="440500625" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
+<marker id="440500626" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
+<marker id="440500627" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
+<marker id="440500628" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.724844" latitude="-66.43071"/>
+<marker id="440500629" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
+<marker id="440500630" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
+<marker id="440500631" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
+<marker id="440500632" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.86003" latitude="-66.24691"/>
+<marker id="440500633" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
+<marker id="440500634" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
+<marker id="440500635" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
+<marker id="440500636" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.475351" latitude="-66.34999"/>
+<marker id="440500637" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
+<marker id="440500638" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
+<marker id="440500639" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
+<marker id="440500640" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.49461" latitude="-66.16788"/>
+<marker id="440500641" label="Half-orc Boss" category="71" did="1879182518" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
+<marker id="440500642" label="Half-orc Raider" category="71" did="1879182519" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
+<marker id="440500643" label="Plains Ox Bull" category="71" did="1879182507" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
+<marker id="440500644" label="Ravaging Warg" category="71" did="1879182527" parentZoneId="1879181894" longitude="-17.270224" latitude="-66.062454"/>
+<marker id="440500645" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
+<marker id="440500646" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
+<marker id="440500647" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.693651" latitude="-66.23943"/>
+<marker id="440500648" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
+<marker id="440500649" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
+<marker id="440500650" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.541386" latitude="-66.51079"/>
+<marker id="440500651" label="Deer" category="78" did="1879077400" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
+<marker id="440500652" label="Fox" category="78" did="1879078152" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
+<marker id="440500653" label="Squirrel" category="78" did="1879078153" parentZoneId="1879181894" longitude="-17.912022" latitude="-66.762146"/>
 <marker id="440504320" label="Wayfarer's Rune" category="73" did="1879189264" parentZoneId="1879181894" longitude="-17.954062" latitude="-65.607994"/>
 <marker id="440504321" label="Windfells Wolf" category="71" did="1879182297" parentZoneId="1879181894" longitude="-17.495605" latitude="-65.283134"/>
 <marker id="440504322" label="Dun Ox" category="71" did="1879182305" parentZoneId="1879181894" longitude="-17.495605" latitude="-65.283134"/>
