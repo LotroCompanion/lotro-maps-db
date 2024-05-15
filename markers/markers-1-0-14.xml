@@ -1433,22 +1433,20 @@
 <marker id="283361315" label="Blighted Shadow-wing" category="71" did="1879081254" parentZoneId="1879051246" longitude="-144.2863" latitude="64.30992"/>
 <marker id="283361316" label="Blighted Shadow-wing" category="71" did="1879081254" parentZoneId="1879051246" longitude="-144.38406" latitude="64.32552"/>
 <marker id="283361317" label="Blighted Shadow-wing" category="71" did="1879081254" parentZoneId="1879051246" longitude="-144.41411" latitude="64.16498"/>
-<marker id="283361318" label="Door" category="100" did="1879081256" parentZoneId="1879051246" longitude="-144.42822" latitude="64.45578"/>
-<marker id="283361319" label="Door" category="100" did="1879081256" parentZoneId="1879051246" longitude="-144.42827" latitude="64.1699"/>
-<marker id="283361320" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.33636" latitude="64.39781"/>
-<marker id="283361321" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.44405" latitude="64.23687"/>
-<marker id="283361322" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.53009" latitude="64.373474"/>
-<marker id="283361323" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.52803" latitude="64.38672"/>
-<marker id="283361324" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.35532" latitude="64.30803"/>
-<marker id="283361325" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.33495" latitude="64.38785"/>
-<marker id="283361326" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.41011" latitude="64.30514"/>
-<marker id="283361327" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.453" latitude="64.222404"/>
-<marker id="283361328" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.51093" latitude="64.38574"/>
-<marker id="283361329" label="Tûm" category="71" did="1879081366" parentZoneId="1879051246" longitude="-144.43205" latitude="64.304375"/>
-<marker id="283361330" label="Mîgul" category="71" did="1879081367" parentZoneId="1879051246" longitude="-144.42967" latitude="64.290955"/>
-<marker id="283361331" label="Ryk" category="71" did="1879081368" parentZoneId="1879051246" longitude="-144.42387" latitude="64.30395"/>
-<marker id="283361332" label="Einiora" category="71" did="1879081369" parentZoneId="1879051246" longitude="-144.42772" latitude="64.30346"/>
-<marker id="283361333" label="Krithmog" category="71" did="1879076094" parentZoneId="1879051246" longitude="-144.40028" latitude="64.32552"/>
+<marker id="283361318" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.33636" latitude="64.39781"/>
+<marker id="283361319" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.44405" latitude="64.23687"/>
+<marker id="283361320" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.53009" latitude="64.373474"/>
+<marker id="283361321" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.52803" latitude="64.38672"/>
+<marker id="283361322" label="Warg Ruins-stalker" category="71" did="1879081364" parentZoneId="1879051246" longitude="-144.35532" latitude="64.30803"/>
+<marker id="283361323" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.33495" latitude="64.38785"/>
+<marker id="283361324" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.41011" latitude="64.30514"/>
+<marker id="283361325" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.453" latitude="64.222404"/>
+<marker id="283361326" label="Warg Ruins-leader" category="71" did="1879081365" parentZoneId="1879051246" longitude="-144.51093" latitude="64.38574"/>
+<marker id="283361327" label="Tûm" category="71" did="1879081366" parentZoneId="1879051246" longitude="-144.43205" latitude="64.304375"/>
+<marker id="283361328" label="Mîgul" category="71" did="1879081367" parentZoneId="1879051246" longitude="-144.42967" latitude="64.290955"/>
+<marker id="283361329" label="Ryk" category="71" did="1879081368" parentZoneId="1879051246" longitude="-144.42387" latitude="64.30395"/>
+<marker id="283361330" label="Einiora" category="71" did="1879081369" parentZoneId="1879051246" longitude="-144.42772" latitude="64.30346"/>
+<marker id="283361331" label="Krithmog" category="71" did="1879076094" parentZoneId="1879051246" longitude="-144.40028" latitude="64.32552"/>
 <marker id="283369472" label="Door" category="100" did="1879079096" parentZoneId="1879051245" longitude="-144.51576" latitude="65.89193"/>
 <marker id="283369473" label="Door" category="100" did="1879079096" parentZoneId="1879051245" longitude="-144.34355" latitude="65.89193"/>
 <marker id="283369474" label="Fire" category="100" did="1879079232" parentZoneId="1879051245" longitude="-144.40935" latitude="65.925705"/>
@@ -1496,9 +1494,8 @@
 <marker id="283369517" label="Blogmal Sapper" category="71" did="1879081243" parentZoneId="1879051245" longitude="-144.34908" latitude="65.84832"/>
 <marker id="283369518" label="Door" category="100" did="1879081255" parentZoneId="1879051245" longitude="-144.3336" latitude="65.94555"/>
 <marker id="283369519" label="Door" category="100" did="1879081255" parentZoneId="1879051245" longitude="-144.44809" latitude="65.830055"/>
-<marker id="283369520" label="Door" category="100" did="1879081256" parentZoneId="1879051245" longitude="-144.42831" latitude="65.79591"/>
-<marker id="283369521" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.44731" latitude="65.89654"/>
-<marker id="283369522" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.35146" latitude="66.01758"/>
-<marker id="283369523" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.50198" latitude="66.01928"/>
-<marker id="283369527" label="Brogadan" category="71" did="1879054332" parentZoneId="1879051245" longitude="-144.44957" latitude="65.92557"/>
+<marker id="283369520" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.44731" latitude="65.89654"/>
+<marker id="283369521" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.35146" latitude="66.01758"/>
+<marker id="283369522" label="Torch" category="73" did="1879081257" parentZoneId="1879051245" longitude="-144.50198" latitude="66.01928"/>
+<marker id="283369523" label="Brogadan" category="71" did="1879054332" parentZoneId="1879051245" longitude="-144.44957" latitude="65.92557"/>
 </markers>

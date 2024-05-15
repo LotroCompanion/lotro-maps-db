@@ -1220,41 +1220,37 @@
 <marker id="536289281" label="Gate" category="100" did="1879063700" parentZoneId="1879093930" longitude="50.671658" latitude="70.15787"/>
 <marker id="536289282" label="Gate" category="100" did="1879063700" parentZoneId="1879093930" longitude="50.77166" latitude="70.15787"/>
 <marker id="536289283" label="Gate" category="100" did="1879063700" parentZoneId="1879093930" longitude="50.840645" latitude="69.93912"/>
-<marker id="536289284" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721638" latitude="69.31449"/>
-<marker id="536289285" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.7217" latitude="69.11422"/>
-<marker id="536289286" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721172" latitude="69.01201"/>
-<marker id="536289287" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.720604" latitude="69.512634"/>
-<marker id="536289288" label="Floor" category="100" did="1879082111" parentZoneId="1879093930" longitude="50.721424" latitude="69.983986"/>
-<marker id="536289289" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.721287" latitude="70.01654"/>
-<marker id="536289290" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.762363" latitude="70.00781"/>
-<marker id="536289291" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.68086" latitude="70.00933"/>
-<marker id="536289292" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.685917" latitude="69.93059"/>
-<marker id="536289293" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.75988" latitude="69.93427"/>
-<marker id="536289294" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.722088" latitude="69.07924"/>
-<marker id="536289295" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72201" latitude="69.995255"/>
-<marker id="536289296" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72113" latitude="69.0155"/>
-<marker id="536289297" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.721348" latitude="69.278244"/>
-<marker id="536289298" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72158" latitude="69.476036"/>
-<marker id="536289299" label="Angmarim Citizen" category="71" did="1879082067" parentZoneId="1879093930" longitude="50.72875" latitude="69.186325"/>
-<marker id="536289300" label="Angmarim Citizen" category="71" did="1879082068" parentZoneId="1879093930" longitude="50.72541" latitude="69.363846"/>
-<marker id="536289301" label="Angmarim High Priest" category="71" did="1879082070" parentZoneId="1879093930" longitude="50.716465" latitude="69.363785"/>
-<marker id="536289302" label="Gorthorog Warrior" category="71" did="1879082075" parentZoneId="1879093930" longitude="50.72193" latitude="69.5332"/>
-<marker id="536289303" label="Angmarim High Priestess" category="71" did="1879082082" parentZoneId="1879093930" longitude="50.71664" latitude="69.18684"/>
-<marker id="536289304" label="Enraged Pale-folk" category="71" did="1879082084" parentZoneId="1879093930" longitude="50.71236" latitude="69.52992"/>
-<marker id="536289305" label="Enraged Pale-folk" category="71" did="1879082084" parentZoneId="1879093930" longitude="50.73045" latitude="69.529175"/>
-<marker id="536289306" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721172" latitude="69.21557"/>
-<marker id="536289307" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721485" latitude="69.55367"/>
-<marker id="536289308" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721836" latitude="69.41363"/>
-<marker id="536289309" label="Sara Oakheart" category="70" did="1879082095" parentZoneId="1879093930" longitude="50.8467" latitude="69.937775"/>
-<marker id="536289310" label="Fallen Hero" category="71" did="1879093236" parentZoneId="1879093930" longitude="50.72623" latitude="69.07119"/>
-<marker id="536289311" label="Fallen Hero" category="71" did="1879093236" parentZoneId="1879093930" longitude="50.729588" latitude="69.28656"/>
-<marker id="536289312" label="Golodir" category="71" did="1879084917" parentZoneId="1879093930" longitude="50.718494" latitude="68.957695"/>
-<marker id="536289313" label="Fallen Hero" category="71" did="1879093237" parentZoneId="1879093930" longitude="50.71281" latitude="69.28703"/>
-<marker id="536289314" label="Fallen Hero" category="71" did="1879093238" parentZoneId="1879093930" longitude="50.71365" latitude="69.46834"/>
-<marker id="536289315" label="Fallen Hero" category="71" did="1879093241" parentZoneId="1879093930" longitude="50.73033" latitude="69.46783"/>
-<marker id="536289316" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.721268" latitude="69.48718"/>
-<marker id="536289317" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.717793" latitude="69.07183"/>
-<marker id="536289318" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.721172" latitude="69.26941"/>
+<marker id="536289284" label="Floor" category="100" did="1879082111" parentZoneId="1879093930" longitude="50.721424" latitude="69.983986"/>
+<marker id="536289285" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.721287" latitude="70.01654"/>
+<marker id="536289286" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.762363" latitude="70.00781"/>
+<marker id="536289287" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.68086" latitude="70.00933"/>
+<marker id="536289288" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.685917" latitude="69.93059"/>
+<marker id="536289289" label="Lorniel" category="71" did="1879092623" parentZoneId="1879093930" longitude="50.75988" latitude="69.93427"/>
+<marker id="536289290" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.722088" latitude="69.07924"/>
+<marker id="536289291" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72201" latitude="69.995255"/>
+<marker id="536289292" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72113" latitude="69.0155"/>
+<marker id="536289293" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.721348" latitude="69.278244"/>
+<marker id="536289294" label="Mordirith" category="71" did="1879092625" parentZoneId="1879093930" longitude="50.72158" latitude="69.476036"/>
+<marker id="536289295" label="Angmarim Citizen" category="71" did="1879082067" parentZoneId="1879093930" longitude="50.72875" latitude="69.186325"/>
+<marker id="536289296" label="Angmarim Citizen" category="71" did="1879082068" parentZoneId="1879093930" longitude="50.72541" latitude="69.363846"/>
+<marker id="536289297" label="Angmarim High Priest" category="71" did="1879082070" parentZoneId="1879093930" longitude="50.716465" latitude="69.363785"/>
+<marker id="536289298" label="Gorthorog Warrior" category="71" did="1879082075" parentZoneId="1879093930" longitude="50.72193" latitude="69.5332"/>
+<marker id="536289299" label="Angmarim High Priestess" category="71" did="1879082082" parentZoneId="1879093930" longitude="50.71664" latitude="69.18684"/>
+<marker id="536289300" label="Enraged Pale-folk" category="71" did="1879082084" parentZoneId="1879093930" longitude="50.71236" latitude="69.52992"/>
+<marker id="536289301" label="Enraged Pale-folk" category="71" did="1879082084" parentZoneId="1879093930" longitude="50.73045" latitude="69.529175"/>
+<marker id="536289302" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721172" latitude="69.21557"/>
+<marker id="536289303" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721485" latitude="69.55367"/>
+<marker id="536289304" label="Door" category="100" did="1879081256" parentZoneId="1879093930" longitude="50.721836" latitude="69.41363"/>
+<marker id="536289305" label="Sara Oakheart" category="70" did="1879082095" parentZoneId="1879093930" longitude="50.8467" latitude="69.937775"/>
+<marker id="536289306" label="Fallen Hero" category="71" did="1879093236" parentZoneId="1879093930" longitude="50.72623" latitude="69.07119"/>
+<marker id="536289307" label="Fallen Hero" category="71" did="1879093236" parentZoneId="1879093930" longitude="50.729588" latitude="69.28656"/>
+<marker id="536289308" label="Golodir" category="71" did="1879084917" parentZoneId="1879093930" longitude="50.718494" latitude="68.957695"/>
+<marker id="536289309" label="Fallen Hero" category="71" did="1879093237" parentZoneId="1879093930" longitude="50.71281" latitude="69.28703"/>
+<marker id="536289310" label="Fallen Hero" category="71" did="1879093238" parentZoneId="1879093930" longitude="50.71365" latitude="69.46834"/>
+<marker id="536289311" label="Fallen Hero" category="71" did="1879093241" parentZoneId="1879093930" longitude="50.73033" latitude="69.46783"/>
+<marker id="536289312" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.721268" latitude="69.48718"/>
+<marker id="536289313" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.717793" latitude="69.07183"/>
+<marker id="536289314" label="Fallen Hero" category="71" did="1879093242" parentZoneId="1879093930" longitude="50.721172" latitude="69.26941"/>
 <marker id="536293388" label="Door" category="100" did="1879084499" parentZoneId="1879103072" longitude="50.713787" latitude="70.050545"/>
 <marker id="536293389" label="Angmarim Bloodletter Elder" category="71" did="1879103397" parentZoneId="1879103073" longitude="50.869316" latitude="70.04008"/>
 <marker id="536293390" label="Angmarim Bloodletter Elder" category="71" did="1879103397" parentZoneId="1879103073" longitude="50.87254" latitude="70.08476"/>

@@ -2564,58 +2564,62 @@
 <marker id="444944394" label="Cauldron Oil" category="73" did="1879093687" parentZoneId="1879063992" longitude="-14.656347" latitude="-17.360546"/>
 <marker id="444944396" label="Sergeant-at-Arms Malhathel" category="71" did="1879091716" parentZoneId="1879063992" longitude="-14.382841" latitude="-17.692627"/>
 <marker id="444944397" label="Sergeant-at-Arms Haliggyr" category="71" did="1879091717" parentZoneId="1879063992" longitude="-14.297295" latitude="-17.69458"/>
-<marker id="444944398" label="Soldier Gozad" category="71" did="1879092099" parentZoneId="1879063992" longitude="-14.384805" latitude="-17.69254"/>
-<marker id="444944399" label="Soldier Gaath" category="71" did="1879092100" parentZoneId="1879063992" longitude="-14.298701" latitude="-17.69371"/>
-<marker id="444944400" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879063992" longitude="-14.303007" latitude="-17.469013"/>
-<marker id="444944401" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879063992" longitude="-14.318535" latitude="-17.472216"/>
-<marker id="444944402" label="Coldfells Hunter" category="71" did="1879083019" parentZoneId="1879063992" longitude="-14.671005" latitude="-17.446592"/>
-<marker id="444944403" label="Coldfells Champion" category="71" did="1879083020" parentZoneId="1879063992" longitude="-14.303232" latitude="-17.473711"/>
-<marker id="444944404" label="Lieutenant Libbi" category="71" did="1879083171" parentZoneId="1879063992" longitude="-14.280947" latitude="-17.64747"/>
-<marker id="444944405" label="Sergeant-at-Arms Mibrethil" category="71" did="1879083172" parentZoneId="1879063992" longitude="-14.342051" latitude="-17.699043"/>
-<marker id="444944406" label="Soldier Fandmau" category="71" did="1879083173" parentZoneId="1879063992" longitude="-14.28" latitude="-17.64747"/>
-<marker id="444944407" label="Taskmaster Kúfolog" category="71" did="1879083174" parentZoneId="1879063992" longitude="-14.334501" latitude="-17.400742"/>
-<marker id="444944408" label="Taskmaster Tarbúrzshra" category="71" did="1879083175" parentZoneId="1879063992" longitude="-14.310937" latitude="-17.483242"/>
-<marker id="444944409" label="Soldier Atishgor" category="71" did="1879083177" parentZoneId="1879063992" longitude="-14.297099" latitude="-17.488457"/>
-<marker id="444944410" label="Taskmaster Núrsufum" category="71" did="1879083180" parentZoneId="1879063992" longitude="-14.341933" latitude="-17.710663"/>
-<marker id="444944411" label="Sergeant-at-Arms Selethryth" category="71" did="1879083183" parentZoneId="1879063992" longitude="-14.296093" latitude="-17.48419"/>
-<marker id="444944412" label="Lieutenant Brun" category="71" did="1879083185" parentZoneId="1879063992" longitude="-14.310527" latitude="-17.481104"/>
-<marker id="444944413" label="Lieutenant Cadda" category="71" did="1879083186" parentZoneId="1879063992" longitude="-14.340097" latitude="-17.399033"/>
-<marker id="444944414" label="First Marshal Egil" category="71" did="1879083187" parentZoneId="1879063992" longitude="-14.606289" latitude="-17.367823"/>
-<marker id="444944415" label="First Marshal Laegon" category="71" did="1879083188" parentZoneId="1879063992" longitude="-14.601464" latitude="-17.461943"/>
+<marker id="444944398" label="Entry to Tirith Rhaw Tower" category="73" did="1879485172" parentZoneId="1879063992" longitude="-14.440615" latitude="-17.573133"/>
+<marker id="444944399" label="Entry to Tirith Rhaw Tower" category="73" did="1879485168" parentZoneId="1879063992" longitude="-14.438818" latitude="-17.569687"/>
+<marker id="444944400" label="Soldier Gozad" category="71" did="1879092099" parentZoneId="1879063992" longitude="-14.384805" latitude="-17.69254"/>
+<marker id="444944401" label="Soldier Gaath" category="71" did="1879092100" parentZoneId="1879063992" longitude="-14.298701" latitude="-17.69371"/>
+<marker id="444944402" label="Entry to Tirith Rhaw Tower" category="73" did="1879486237" parentZoneId="1879063992" longitude="-14.278213" latitude="-17.4396"/>
+<marker id="444944403" label="Entry to Tirith Rhaw Tower" category="73" did="1879486244" parentZoneId="1879063992" longitude="-14.273369" latitude="-17.440762"/>
+<marker id="444944404" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879063992" longitude="-14.303007" latitude="-17.469013"/>
+<marker id="444944405" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879063992" longitude="-14.318535" latitude="-17.472216"/>
+<marker id="444944406" label="Coldfells Hunter" category="71" did="1879083019" parentZoneId="1879063992" longitude="-14.671005" latitude="-17.446592"/>
+<marker id="444944407" label="Coldfells Champion" category="71" did="1879083020" parentZoneId="1879063992" longitude="-14.303232" latitude="-17.473711"/>
+<marker id="444944408" label="Lieutenant Libbi" category="71" did="1879083171" parentZoneId="1879063992" longitude="-14.280947" latitude="-17.64747"/>
+<marker id="444944409" label="Sergeant-at-Arms Mibrethil" category="71" did="1879083172" parentZoneId="1879063992" longitude="-14.342051" latitude="-17.699043"/>
+<marker id="444944410" label="Soldier Fandmau" category="71" did="1879083173" parentZoneId="1879063992" longitude="-14.28" latitude="-17.64747"/>
+<marker id="444944411" label="Taskmaster Kúfolog" category="71" did="1879083174" parentZoneId="1879063992" longitude="-14.334501" latitude="-17.400742"/>
+<marker id="444944412" label="Taskmaster Tarbúrzshra" category="71" did="1879083175" parentZoneId="1879063992" longitude="-14.310937" latitude="-17.483242"/>
+<marker id="444944413" label="Soldier Atishgor" category="71" did="1879083177" parentZoneId="1879063992" longitude="-14.297099" latitude="-17.488457"/>
+<marker id="444944414" label="Taskmaster Núrsufum" category="71" did="1879083180" parentZoneId="1879063992" longitude="-14.341933" latitude="-17.710663"/>
+<marker id="444944415" label="Sergeant-at-Arms Selethryth" category="71" did="1879083183" parentZoneId="1879063992" longitude="-14.296093" latitude="-17.48419"/>
+<marker id="444944416" label="Lieutenant Brun" category="71" did="1879083185" parentZoneId="1879063992" longitude="-14.310527" latitude="-17.481104"/>
+<marker id="444944417" label="Lieutenant Cadda" category="71" did="1879083186" parentZoneId="1879063992" longitude="-14.340097" latitude="-17.399033"/>
+<marker id="444944418" label="First Marshal Egil" category="71" did="1879083187" parentZoneId="1879063992" longitude="-14.606289" latitude="-17.367823"/>
+<marker id="444944419" label="First Marshal Laegon" category="71" did="1879083188" parentZoneId="1879063992" longitude="-14.601464" latitude="-17.461943"/>
 <marker id="444944420" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.5482025" latitude="-17.653114"/>
 <marker id="444944421" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.5482025" latitude="-17.653114"/>
-<marker id="444944451" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.604824" latitude="-17.373827"/>
-<marker id="444944452" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.604824" latitude="-17.373827"/>
-<marker id="444944453" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.281435" latitude="-17.39246"/>
-<marker id="444944454" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.281435" latitude="-17.39246"/>
-<marker id="444944455" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.369247" latitude="-17.501778"/>
-<marker id="444944456" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.369247" latitude="-17.501778"/>
-<marker id="444944457" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.367568" latitude="-17.355488"/>
-<marker id="444944458" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.367568" latitude="-17.355488"/>
-<marker id="444944459" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.338193" latitude="-17.662432"/>
-<marker id="444944460" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.338193" latitude="-17.662432"/>
-<marker id="444944461" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.316289" latitude="-17.703173"/>
-<marker id="444944462" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.316289" latitude="-17.703173"/>
-<marker id="444944463" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.310126" latitude="-17.712656"/>
-<marker id="444944464" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.310126" latitude="-17.712656"/>
-<marker id="444944465" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.332265" latitude="-17.56208"/>
-<marker id="444944466" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.332265" latitude="-17.56208"/>
-<marker id="444944467" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.356162" latitude="-17.47954"/>
-<marker id="444944468" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.356162" latitude="-17.47954"/>
-<marker id="444944469" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.424775" latitude="-17.342627"/>
-<marker id="444944470" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.424775" latitude="-17.342627"/>
-<marker id="444944471" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.521054" latitude="-17.496298"/>
-<marker id="444944472" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.521054" latitude="-17.496298"/>
-<marker id="444944473" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.385029" latitude="-17.465195"/>
-<marker id="444944474" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.385029" latitude="-17.465195"/>
-<marker id="444944475" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.478154" latitude="-17.572372"/>
-<marker id="444944476" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.478154" latitude="-17.572372"/>
-<marker id="444944477" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.5720215" latitude="-17.20618"/>
-<marker id="444944478" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.5720215" latitude="-17.20618"/>
-<marker id="444944479" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.221084" latitude="-17.345625"/>
-<marker id="444944480" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.221084" latitude="-17.345625"/>
-<marker id="444944481" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.252343" latitude="-17.431932"/>
-<marker id="444944482" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.252343" latitude="-17.431932"/>
+<marker id="444944455" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.604824" latitude="-17.373827"/>
+<marker id="444944456" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.604824" latitude="-17.373827"/>
+<marker id="444944457" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.281435" latitude="-17.39246"/>
+<marker id="444944458" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.281435" latitude="-17.39246"/>
+<marker id="444944459" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.369247" latitude="-17.501778"/>
+<marker id="444944460" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.369247" latitude="-17.501778"/>
+<marker id="444944461" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.367568" latitude="-17.355488"/>
+<marker id="444944462" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.367568" latitude="-17.355488"/>
+<marker id="444944463" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.338193" latitude="-17.662432"/>
+<marker id="444944464" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.338193" latitude="-17.662432"/>
+<marker id="444944465" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.316289" latitude="-17.703173"/>
+<marker id="444944466" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.316289" latitude="-17.703173"/>
+<marker id="444944467" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.310126" latitude="-17.712656"/>
+<marker id="444944468" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.310126" latitude="-17.712656"/>
+<marker id="444944469" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.332265" latitude="-17.56208"/>
+<marker id="444944470" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.332265" latitude="-17.56208"/>
+<marker id="444944471" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.356162" latitude="-17.47954"/>
+<marker id="444944472" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.356162" latitude="-17.47954"/>
+<marker id="444944473" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.424775" latitude="-17.342627"/>
+<marker id="444944474" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.424775" latitude="-17.342627"/>
+<marker id="444944475" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.521054" latitude="-17.496298"/>
+<marker id="444944476" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.521054" latitude="-17.496298"/>
+<marker id="444944477" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.385029" latitude="-17.465195"/>
+<marker id="444944478" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.385029" latitude="-17.465195"/>
+<marker id="444944479" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.478154" latitude="-17.572372"/>
+<marker id="444944480" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.478154" latitude="-17.572372"/>
+<marker id="444944481" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.547187" latitude="-17.20618"/>
+<marker id="444944482" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.547187" latitude="-17.20618"/>
+<marker id="444944483" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.221084" latitude="-17.345625"/>
+<marker id="444944484" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.221084" latitude="-17.345625"/>
+<marker id="444944485" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879063992" longitude="-14.252343" latitude="-17.431932"/>
+<marker id="444944486" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879063992" longitude="-14.252343" latitude="-17.431932"/>
 <marker id="444948480" label="Morningthaw Warden" category="71" did="1879083151" parentZoneId="1879063992" longitude="-14.283975" latitude="-16.548681"/>
 <marker id="444948481" label="Monstrous Stinger" category="71" did="1879083080" parentZoneId="1879063992" longitude="-14.448837" latitude="-16.44622"/>
 <marker id="444948482" label="Sun-touched Eagle" category="71" did="1879083147" parentZoneId="1879063992" longitude="-14.448837" latitude="-16.44622"/>

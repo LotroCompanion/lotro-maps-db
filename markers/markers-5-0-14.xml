@@ -1,35 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1356980263" label="Supplier" category="38" did="1879465894" parentZoneId="1879479411" longitude="-145.97377" latitude="65.92432"/>
-<marker id="1356980264" label="Provisioner" category="38" did="1879465904" parentZoneId="1879479411" longitude="-145.95085" latitude="66.08996"/>
-<marker id="1356980265" label="Vault-keeper" category="40" did="1879479046" parentZoneId="1879479412" longitude="-145.94933" latitude="66.0698"/>
-<marker id="1356980266" label="Vault-keeper" category="40" did="1879479048" parentZoneId="1879479412" longitude="-145.94933" latitude="66.05402"/>
-<marker id="1356980267" label="Mistress of Apprentices" category="42" did="1879479049" parentZoneId="1879479411" longitude="-146.00296" latitude="65.9633"/>
-<marker id="1356980268" label="Umbar Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879479254" parentZoneId="1879479411" longitude="-145.94449" latitude="66.00611"/>
-<marker id="1356980269" label="Umbar Legendary Recipes&#10;Scholar's Guild" category="33" did="1879479255" parentZoneId="1879479412" longitude="-145.92453" latitude="65.957756"/>
-<marker id="1356980270" label="Umbar Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879479252" parentZoneId="1879479411" longitude="-145.90349" latitude="65.96269"/>
-<marker id="1356980273" label="Umbar Legendary Recipes&#10;Woodworker's Guild" category="33" did="1879479251" parentZoneId="1879479411" longitude="-145.96713" latitude="65.87926"/>
-<marker id="1356980274" label="Umbar Improved Recipes&#10;Scholar's Guild" category="33" did="1879479248" parentZoneId="1879479412" longitude="-145.96703" latitude="65.99746"/>
-<marker id="1356980275" label="Umbar Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879479249" parentZoneId="1879479412" longitude="-145.96556" latitude="65.894844"/>
-<marker id="1356980276" label="Umbar Improved Recipes&#10;Tailor's Guild" category="33" did="1879479262" parentZoneId="1879479412" longitude="-145.98343" latitude="65.92855"/>
-<marker id="1356980278" label="Umbar Improved Recipes&#10;Weaponsmith's Guild" category="33" did="1879479260" parentZoneId="1879479411" longitude="-145.92867" latitude="66.00205"/>
-<marker id="1356980280" label="Umbar Improved Recipes&#10;Woodworker's Guild" category="33" did="1879479258" parentZoneId="1879479411" longitude="-146.0091" latitude="65.92344"/>
-<marker id="1356980281" label="Umbar Improved Recipes&#10;Jeweller's Guild" category="33" did="1879479259" parentZoneId="1879479412" longitude="-145.93628" latitude="65.891304"/>
-<marker id="1356980284" label="Umbar Improved Recipes&#10;Cook's Guild" category="33" did="1879479268" parentZoneId="1879479411" longitude="-145.9611" latitude="66.067696"/>
-<marker id="1356980286" label="Umbar Legendary Recipes&#10;Weaponsmith's Guild" category="33" did="1879479267" parentZoneId="1879479411" longitude="-145.93864" latitude="65.96014"/>
-<marker id="1356980287" label="Umbar Legendary Recipes&#10;Tailor's Guild" category="33" did="1879479264" parentZoneId="1879479412" longitude="-145.9994" latitude="65.88345"/>
-<marker id="1356980288" label="Umbar Legendary Recipes&#10;Cook's Guild" category="33" did="1879479265" parentZoneId="1879479411" longitude="-145.9974" latitude="66.12539"/>
-<marker id="1356980289" label="Mailbox" category="34" did="1879475053" parentZoneId="1879479411" longitude="-145.9806" latitude="65.9918"/>
-<marker id="1356980290" label="Oven" category="45" did="1879475455" parentZoneId="1879479411" longitude="-145.95464" latitude="66.12492"/>
-<marker id="1356980291" label="Workbench" category="45" did="1879475452" parentZoneId="1879479412" longitude="-145.99477" latitude="65.93457"/>
-<marker id="1356980292" label="Workbench" category="45" did="1879475452" parentZoneId="1879479411" longitude="-146.00864" latitude="65.8682"/>
-<marker id="1356980293" label="Study" category="45" did="1879475453" parentZoneId="1879479412" longitude="-145.91191" latitude="65.95535"/>
-<marker id="1356980294" label="Forge" category="45" did="1879475456" parentZoneId="1879479411" longitude="-145.89914" latitude="65.98425"/>
-<marker id="1356980295" label="Door" category="100" did="1879475787" parentZoneId="1879479411" longitude="-146.02048" latitude="66.049995"/>
-<marker id="1356980296" label="Umbar Guild Leader&#10;Cook's Guild" category="58" did="1879479256" parentZoneId="1879479411" longitude="-145.942" latitude="66.1108"/>
-<marker id="1356980297" label="Umbar Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879479263" parentZoneId="1879479411" longitude="-145.93707" latitude="65.98389"/>
-<marker id="1356980298" label="Umbar Guild Leader&#10;Metalsmith's Guild" category="58" did="1879479253" parentZoneId="1879479411" longitude="-145.91309" latitude="65.98068"/>
-<marker id="1356980299" label="Umbar Guild Leader&#10;Tailor's Guild" category="58" did="1879479266" parentZoneId="1879479412" longitude="-146.00708" latitude="65.92474"/>
-<marker id="1356980300" label="Umbar Guild Leader&#10;Scholar's Guild" category="58" did="1879479257" parentZoneId="1879479412" longitude="-145.89871" latitude="65.98705"/>
-<marker id="1356980301" label="Umbar Guild Leader&#10;Jeweller's Guild" category="58" did="1879479250" parentZoneId="1879479412" longitude="-145.93764" latitude="65.91912"/>
-<marker id="1356980302" label="Umbar Guild Leader&#10;Woodworker's Guild" category="58" did="1879479261" parentZoneId="1879479411" longitude="-146.01021" latitude="65.892105"/>
+<marker id="1356931073" label="Zarzíra Dawn-star" category="70" did="1879486425" parentZoneId="1879485432" longitude="-145.98079" latitude="56.32986"/>
+<marker id="1356931078" label="Khadeji Captain" category="71" did="1879486540" parentZoneId="1879485432" longitude="-146.0869" latitude="56.293613"/>
+<marker id="1356931079" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485432" longitude="-145.99403" latitude="56.34191"/>
+<marker id="1356931080" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485432" longitude="-145.912" latitude="56.306015"/>
+<marker id="1356931081" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485432" longitude="-146.08011" latitude="56.30537"/>
+<marker id="1356931082" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-146.01056" latitude="56.329823"/>
+<marker id="1356931083" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-145.98106" latitude="56.330036"/>
+<marker id="1356931084" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-145.91362" latitude="56.298748"/>
+<marker id="1356931085" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-145.92027" latitude="56.30414"/>
+<marker id="1356931088" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485432" longitude="-145.98529" latitude="56.320896"/>
+<marker id="1356931089" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485432" longitude="-146.01048" latitude="56.316345"/>
+<marker id="1356931090" label="Zarzíra Dawn-star" category="71" did="1879486538" parentZoneId="1879485432" longitude="-145.99968" latitude="56.311993"/>
+<marker id="1356931091" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-145.99066" latitude="56.324295"/>
+<marker id="1356931092" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-145.98407" latitude="56.328514"/>
+<marker id="1356931093" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-146.0071" latitude="56.320427"/>
+<marker id="1356931094" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485432" longitude="-146.01338" latitude="56.323143"/>
+<marker id="1356931105" label="Shaidal" category="70" did="1879486424" parentZoneId="1879485432" longitude="-146.00073" latitude="56.23752"/>
+<marker id="1356931106" label="Rothog the Storm" category="70" did="1879486423" parentZoneId="1879485432" longitude="-145.9998" latitude="56.377342"/>
+<marker id="1356931107" label="Rothog the Storm" category="70" did="1879486423" parentZoneId="1879485432" longitude="-145.99338" latitude="56.237812"/>
+<marker id="1356931108" label="Rothog the Storm" category="70" did="1879486423" parentZoneId="1879485432" longitude="-146.00111" latitude="56.36484"/>
+<marker id="1356939264" label="Shaidal" category="70" did="1879486424" parentZoneId="1879485431" longitude="-145.96948" latitude="58.08162"/>
+<marker id="1356939265" label="Khadeji Captain" category="71" did="1879486540" parentZoneId="1879485431" longitude="-145.96396" latitude="58.1873"/>
+<marker id="1356939266" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485431" longitude="-146.02106" latitude="58.175976"/>
+<marker id="1356939267" label="Khadeji Archer" category="71" did="1879486541" parentZoneId="1879485431" longitude="-146.03145" latitude="58.04699"/>
+<marker id="1356939268" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485431" longitude="-146.01624" latitude="58.179356"/>
+<marker id="1356939269" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485431" longitude="-146.02455" latitude="58.16996"/>
+<marker id="1356939270" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485431" longitude="-146.0349" latitude="58.05408"/>
+<marker id="1356939271" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485431" longitude="-146.02814" latitude="58.04168"/>
+<marker id="1356939272" label="Khadeji Tough" category="71" did="1879486539" parentZoneId="1879485431" longitude="-145.97218" latitude="58.191696"/>
+<marker id="1356947456" label="Door" category="100" did="1879475787" parentZoneId="1879485375" longitude="-146.0031" latitude="59.612343"/>
+<marker id="1356947457" label="Azagath Loyalist" category="71" did="1879486443" parentZoneId="1879485375" longitude="-145.9391" latitude="59.732185"/>
+<marker id="1356947458" label="Azagath Loyalist" category="71" did="1879486443" parentZoneId="1879485375" longitude="-145.93205" latitude="59.771385"/>
+<marker id="1356947459" label="Azagath Loyalist" category="71" did="1879486443" parentZoneId="1879485375" longitude="-146.09032" latitude="59.79951"/>
+<marker id="1356947460" label="Azagath Loyalist" category="71" did="1879486443" parentZoneId="1879485375" longitude="-145.97972" latitude="59.675137"/>
+<marker id="1356947461" label="Azagath Loyalist" category="71" did="1879486443" parentZoneId="1879485375" longitude="-146.04515" latitude="59.609726"/>
+<marker id="1356947462" label="Sharûla's Lockbox" category="73" did="1879486450" parentZoneId="1879485375" longitude="-146.07512" latitude="59.743965"/>
+<marker id="1356955648" label="Khôltekh the Cunning" category="70" did="1879485125" parentZoneId="1879485233" longitude="-146.03575" latitude="61.145176"/>
+<marker id="1356955649" label="Khôltekh the Cunning" category="70" did="1879485122" parentZoneId="1879485233" longitude="-146.03389" latitude="61.141735"/>
+<marker id="1356955650" label="Khôltekh the Cunning" category="70" did="1879485125" parentZoneId="1879485233" longitude="-146.05418" latitude="61.180878"/>
+<marker id="1356955651" label="Door" category="100" did="1879475787" parentZoneId="1879485233" longitude="-146.01942" latitude="61.115643"/>
+<marker id="1356955653" label="Inîk Jewel-brow" category="70" did="1879485109" parentZoneId="1879485233" longitude="-146.06218" latitude="61.190857"/>
+<marker id="1356955656" label="Honour Guardsman" category="70" did="1879485151" parentZoneId="1879485233" longitude="-146.05977" latitude="61.198223"/>
+<marker id="1356955657" label="Honour Guardsman" category="70" did="1879485151" parentZoneId="1879485233" longitude="-146.07066" latitude="61.191696"/>
+<marker id="1356963840" label="Damaged Map" category="73" did="1879484696" parentZoneId="1879485187" longitude="-146.2224" latitude="62.799862"/>
+<marker id="1356963841" label="Belondor" category="70" did="1879484572" parentZoneId="1879485188" longitude="-146.00522" latitude="62.69949"/>
+<marker id="1356963842" label="Belondor" category="71" did="1879485974" parentZoneId="1879485187" longitude="-145.95612" latitude="62.79041"/>
+<marker id="1356963843" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-145.9899" latitude="62.858086"/>
+<marker id="1356963844" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-145.86594" latitude="62.803436"/>
+<marker id="1356963845" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-145.84215" latitude="62.792713"/>
+<marker id="1356963846" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-146.0023" latitude="62.684315"/>
+<marker id="1356963847" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-146.00215" latitude="62.662422"/>
+<marker id="1356963848" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-146.06555" latitude="62.810528"/>
+<marker id="1356963849" label="Rabid Ghâbekh" category="71" did="1879484614" parentZoneId="1879485187" longitude="-146.06136" latitude="62.789864"/>
+<marker id="1356963852" label="Giant Ghâbekh" category="71" did="1879484616" parentZoneId="1879485187" longitude="-145.85149" latitude="62.80826"/>
+<marker id="1356963853" label="Giant Ghâbekh" category="71" did="1879484616" parentZoneId="1879485187" longitude="-146.00063" latitude="62.66998"/>
+<marker id="1356963854" label="Giant Ghâbekh" category="71" did="1879484616" parentZoneId="1879485187" longitude="-146.05855" latitude="62.796738"/>
+<marker id="1356963855" label="Giant Ghâbekh" category="71" did="1879484616" parentZoneId="1879485187" longitude="-145.98984" latitude="62.86322"/>
+<marker id="1356972032" label="Robes of Umbari Nobility" category="73" did="1879485079" parentZoneId="1879485189" longitude="-146.01869" latitude="64.24115"/>
+<marker id="1356972033" label="Hastily Scrawled Note" category="73" did="1879485095" parentZoneId="1879485189" longitude="-146.08736" latitude="64.286674"/>
+<marker id="1356972034" label="Sêkhta's Archer" category="71" did="1879485029" parentZoneId="1879485189" longitude="-146.01532" latitude="64.26599"/>
+<marker id="1356972035" label="Sêkhta's Archer" category="71" did="1879485029" parentZoneId="1879485189" longitude="-146.19322" latitude="64.361115"/>
+<marker id="1356972036" label="Sêkhta's Archer" category="71" did="1879485029" parentZoneId="1879485189" longitude="-146.087" latitude="64.36476"/>
+<marker id="1356972037" label="Sêkhta's Sneak" category="71" did="1879485059" parentZoneId="1879485189" longitude="-146.07819" latitude="64.3834"/>
+<marker id="1356972038" label="Sêkhta's Sneak" category="71" did="1879485059" parentZoneId="1879485189" longitude="-145.99916" latitude="64.26277"/>
+<marker id="1356972039" label="A History of Castamir and His Heirs" category="73" did="1879485089" parentZoneId="1879485189" longitude="-146.08226" latitude="64.28666"/>
+<marker id="1356972040" label="Sêkhta's Tough" category="71" did="1879485053" parentZoneId="1879485189" longitude="-146.06342" latitude="64.36785"/>
+<marker id="1356972041" label="Sêkhta's Tough" category="71" did="1879485053" parentZoneId="1879485189" longitude="-146.00093" latitude="64.24529"/>
+<marker id="1356972042" label="Sêkhta's Tough" category="71" did="1879485053" parentZoneId="1879485189" longitude="-146.16855" latitude="64.372246"/>
+<marker id="1356972043" label="Sêkhta's Enforcer" category="71" did="1879485000" parentZoneId="1879485189" longitude="-146.13567" latitude="64.441345"/>
+<marker id="1356980264" label="Supplier" category="38" did="1879465894" parentZoneId="1879479411" longitude="-145.97377" latitude="65.92432"/>
+<marker id="1356980265" label="Provisioner" category="38" did="1879465904" parentZoneId="1879479411" longitude="-145.95085" latitude="66.08996"/>
+<marker id="1356980267" label="Vault-keeper" category="40" did="1879479046" parentZoneId="1879479412" longitude="-145.94933" latitude="66.0698"/>
+<marker id="1356980268" label="Vault-keeper" category="40" did="1879479048" parentZoneId="1879479412" longitude="-145.94933" latitude="66.05402"/>
+<marker id="1356980269" label="Mistress of Apprentices" category="42" did="1879479049" parentZoneId="1879479411" longitude="-146.00296" latitude="65.9633"/>
+<marker id="1356980270" label="Umbar Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879479254" parentZoneId="1879479411" longitude="-145.94449" latitude="66.00611"/>
+<marker id="1356980271" label="Umbar Legendary Recipes&#10;Scholar's Guild" category="33" did="1879479255" parentZoneId="1879479412" longitude="-145.92453" latitude="65.957756"/>
+<marker id="1356980272" label="Umbar Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879479252" parentZoneId="1879479411" longitude="-145.90349" latitude="65.96269"/>
+<marker id="1356980275" label="Umbar Legendary Recipes&#10;Woodworker's Guild" category="33" did="1879479251" parentZoneId="1879479411" longitude="-145.96713" latitude="65.87926"/>
+<marker id="1356980276" label="Umbar Improved Recipes&#10;Scholar's Guild" category="33" did="1879479248" parentZoneId="1879479412" longitude="-145.96703" latitude="65.99746"/>
+<marker id="1356980277" label="Umbar Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879479249" parentZoneId="1879479412" longitude="-145.96556" latitude="65.894844"/>
+<marker id="1356980278" label="Umbar Improved Recipes&#10;Tailor's Guild" category="33" did="1879479262" parentZoneId="1879479412" longitude="-145.98343" latitude="65.92855"/>
+<marker id="1356980280" label="Umbar Improved Recipes&#10;Weaponsmith's Guild" category="33" did="1879479260" parentZoneId="1879479411" longitude="-145.92867" latitude="66.00205"/>
+<marker id="1356980282" label="Umbar Improved Recipes&#10;Woodworker's Guild" category="33" did="1879479258" parentZoneId="1879479411" longitude="-146.0091" latitude="65.92344"/>
+<marker id="1356980283" label="Umbar Improved Recipes&#10;Jeweller's Guild" category="33" did="1879479259" parentZoneId="1879479412" longitude="-145.93628" latitude="65.891304"/>
+<marker id="1356980286" label="Umbar Improved Recipes&#10;Cook's Guild" category="33" did="1879479268" parentZoneId="1879479411" longitude="-145.9611" latitude="66.067696"/>
+<marker id="1356980288" label="Umbar Legendary Recipes&#10;Weaponsmith's Guild" category="33" did="1879479267" parentZoneId="1879479411" longitude="-145.93864" latitude="65.96014"/>
+<marker id="1356980289" label="Umbar Legendary Recipes&#10;Tailor's Guild" category="33" did="1879479264" parentZoneId="1879479412" longitude="-145.9994" latitude="65.88345"/>
+<marker id="1356980290" label="Umbar Legendary Recipes&#10;Cook's Guild" category="33" did="1879479265" parentZoneId="1879479411" longitude="-145.9974" latitude="66.12539"/>
+<marker id="1356980291" label="Mailbox" category="34" did="1879475053" parentZoneId="1879479411" longitude="-145.9806" latitude="65.9918"/>
+<marker id="1356980292" label="Oven" category="45" did="1879475455" parentZoneId="1879479411" longitude="-145.95464" latitude="66.12492"/>
+<marker id="1356980293" label="Workbench" category="45" did="1879475452" parentZoneId="1879479412" longitude="-145.99477" latitude="65.93457"/>
+<marker id="1356980294" label="Workbench" category="45" did="1879475452" parentZoneId="1879479411" longitude="-146.00864" latitude="65.8682"/>
+<marker id="1356980295" label="Study" category="45" did="1879475453" parentZoneId="1879479412" longitude="-145.91191" latitude="65.95535"/>
+<marker id="1356980296" label="Forge" category="45" did="1879475456" parentZoneId="1879479411" longitude="-145.89914" latitude="65.98425"/>
+<marker id="1356980297" label="Door" category="100" did="1879475787" parentZoneId="1879479411" longitude="-146.02048" latitude="66.049995"/>
+<marker id="1356980309" label="Keteph" category="70" did="1879484879" parentZoneId="1879479411" longitude="-145.96404" latitude="66.115974"/>
+<marker id="1356980320" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95775" latitude="65.95215"/>
+<marker id="1356980321" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94576" latitude="65.95215"/>
+<marker id="1356980322" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94925" latitude="65.95215"/>
+<marker id="1356980323" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95335" latitude="65.95215"/>
+<marker id="1356980325" label="Umbar Guild Leader&#10;Woodworker's Guild" category="58" did="1879479261" parentZoneId="1879479411" longitude="-146.01021" latitude="65.892105"/>
+<marker id="1356980326" label="Umbar Guild Leader&#10;Tailor's Guild" category="58" did="1879479266" parentZoneId="1879479412" longitude="-146.00708" latitude="65.92474"/>
+<marker id="1356980327" label="Umbar Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879479263" parentZoneId="1879479411" longitude="-145.93707" latitude="65.98389"/>
+<marker id="1356980328" label="Umbar Guild Leader&#10;Cook's Guild" category="58" did="1879479256" parentZoneId="1879479411" longitude="-145.942" latitude="66.1108"/>
+<marker id="1356980329" label="Umbar Guild Leader&#10;Jeweller's Guild" category="58" did="1879479250" parentZoneId="1879479412" longitude="-145.93764" latitude="65.91912"/>
+<marker id="1356980330" label="Umbar Guild Leader&#10;Metalsmith's Guild" category="58" did="1879479253" parentZoneId="1879479411" longitude="-145.91309" latitude="65.98068"/>
+<marker id="1356980331" label="Umbar Guild Leader&#10;Scholar's Guild" category="58" did="1879479257" parentZoneId="1879479412" longitude="-145.89871" latitude="65.98705"/>
 </markers>

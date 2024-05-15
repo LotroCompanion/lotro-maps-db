@@ -310,25 +310,61 @@
 <marker id="1358020613" label="Injured Boar" category="70" did="1879475801" parentZoneId="1879475841" longitude="-145.912" latitude="77.13593"/>
 <marker id="1358020614" label="Injured Goat" category="70" did="1879475815" parentZoneId="1879475841" longitude="-145.90982" latitude="77.16345"/>
 <marker id="1358020624" label="Injured Bear" category="70" did="1879475805" parentZoneId="1879475841" longitude="-145.95216" latitude="77.13553"/>
-<marker id="1358028800" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.3049" latitude="78.98299"/>
-<marker id="1358028801" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.79381" latitude="78.92845"/>
-<marker id="1358028802" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.7658" latitude="78.85041"/>
-<marker id="1358028805" label="Shipboard Lion" category="71" did="1879475554" parentZoneId="1879475059" longitude="-145.97868" latitude="78.90267"/>
-<marker id="1358028806" label="Shipboard Lion" category="71" did="1879475554" parentZoneId="1879475059" longitude="-145.98656" latitude="78.87623"/>
-<marker id="1358028808" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-146.02127" latitude="78.91867"/>
-<marker id="1358028811" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76628" latitude="78.85105"/>
-<marker id="1358028812" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.7675" latitude="78.85011"/>
-<marker id="1358028813" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76425" latitude="78.85006"/>
-<marker id="1358028814" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76733" latitude="78.84965"/>
-<marker id="1358028815" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76772" latitude="78.855545"/>
-<marker id="1358028816" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76291" latitude="78.85478"/>
-<marker id="1358028817" label="Tatháta the Beast" category="71" did="1879475553" parentZoneId="1879475059" longitude="-146.01608" latitude="78.84802"/>
-<marker id="1358028818" label="Nestinanessornë" category="70" did="1879475561" parentZoneId="1879475059" longitude="-146.00632" latitude="78.897285"/>
-<marker id="1358028819" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.74281" latitude="78.69449"/>
-<marker id="1358028820" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.74597" latitude="78.70451"/>
-<marker id="1358028821" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.9603" latitude="78.63011"/>
-<marker id="1358028822" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.96284" latitude="78.640625"/>
-<marker id="1358028823" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.95454" latitude="78.63658"/>
-<marker id="1358028824" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-146.12688" latitude="78.64596"/>
-<marker id="1358028825" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-146.11122" latitude="78.660995"/>
+<marker id="1358028808" label="Door" category="100" did="1879475785" parentZoneId="1879475059" longitude="-146.27733" latitude="78.69976"/>
+<marker id="1358028811" label="Corudan" category="70" did="1879484514" parentZoneId="1879475059" longitude="-146.23193" latitude="78.70068"/>
+<marker id="1358028844" label="Shipboard Lion" category="71" did="1879475554" parentZoneId="1879475059" longitude="-145.97868" latitude="78.90267"/>
+<marker id="1358028845" label="Shipboard Lion" category="71" did="1879475554" parentZoneId="1879475059" longitude="-145.98656" latitude="78.87623"/>
+<marker id="1358028846" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.79381" latitude="78.92845"/>
+<marker id="1358028847" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-146.02127" latitude="78.91867"/>
+<marker id="1358028848" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.7658" latitude="78.85041"/>
+<marker id="1358028849" label="Cruel Dancer" category="71" did="1879475555" parentZoneId="1879475059" longitude="-145.3049" latitude="78.98299"/>
+<marker id="1358028850" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76628" latitude="78.85105"/>
+<marker id="1358028851" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.7675" latitude="78.85011"/>
+<marker id="1358028852" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76425" latitude="78.85006"/>
+<marker id="1358028853" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76733" latitude="78.84965"/>
+<marker id="1358028854" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76772" latitude="78.855545"/>
+<marker id="1358028855" label="Wave-reaper's Crew" category="71" did="1879475552" parentZoneId="1879475059" longitude="-145.76291" latitude="78.85478"/>
+<marker id="1358028856" label="Tatháta the Beast" category="71" did="1879475553" parentZoneId="1879475059" longitude="-146.01608" latitude="78.84802"/>
+<marker id="1358028858" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.74281" latitude="78.69449"/>
+<marker id="1358028859" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.74597" latitude="78.70451"/>
+<marker id="1358028860" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.9603" latitude="78.63011"/>
+<marker id="1358028861" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.96284" latitude="78.640625"/>
+<marker id="1358028862" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-145.95454" latitude="78.63658"/>
+<marker id="1358028863" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-146.12688" latitude="78.64596"/>
+<marker id="1358028864" label="Harbour Guard" category="71" did="1879475551" parentZoneId="1879475059" longitude="-146.11122" latitude="78.660995"/>
+<marker id="1358028865" label="Nestinanessornë" category="70" did="1879475561" parentZoneId="1879475059" longitude="-146.00632" latitude="78.897285"/>
+<marker id="1358028867" label="Sigileth" category="70" did="1879484501" parentZoneId="1879475059" longitude="-146.24275" latitude="78.727104"/>
+<marker id="1358028868" label="Corudan" category="70" did="1879484504" parentZoneId="1879475059" longitude="-146.23486" latitude="78.70047"/>
+<marker id="1358028869" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.116" latitude="78.670876"/>
+<marker id="1358028870" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.15324" latitude="78.67894"/>
+<marker id="1358028871" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.12877" latitude="78.57889"/>
+<marker id="1358028872" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.17366" latitude="78.61928"/>
+<marker id="1358028873" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.06874" latitude="78.627495"/>
+<marker id="1358028874" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.991" latitude="78.62474"/>
+<marker id="1358028875" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.9428" latitude="78.630684"/>
+<marker id="1358028876" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.74158" latitude="78.70121"/>
+<marker id="1358028877" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.61461" latitude="78.7733"/>
+<marker id="1358028878" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.53522" latitude="78.86298"/>
+<marker id="1358028879" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.4078" latitude="78.94927"/>
+<marker id="1358028880" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.35068" latitude="78.98177"/>
+<marker id="1358028881" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.29404" latitude="78.98232"/>
+<marker id="1358028882" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.44812" latitude="78.94998"/>
+<marker id="1358028883" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.28764" latitude="79.04113"/>
+<marker id="1358028884" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.73427" latitude="78.8725"/>
+<marker id="1358028885" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.75781" latitude="78.96658"/>
+<marker id="1358028886" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.70294" latitude="78.95363"/>
+<marker id="1358028887" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.9559" latitude="78.94967"/>
+<marker id="1358028888" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.01932" latitude="78.96095"/>
+<marker id="1358028889" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.0295" latitude="78.87435"/>
+<marker id="1358028890" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-146.07047" latitude="78.95291"/>
+<marker id="1358028891" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.7605" latitude="78.69461"/>
+<marker id="1358028892" label="Devious Corsair" category="71" did="1879484537" parentZoneId="1879475059" longitude="-145.70895" latitude="78.90545"/>
+<marker id="1358028893" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.99203" latitude="78.97922"/>
+<marker id="1358028894" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.76915" latitude="78.872185"/>
+<marker id="1358028895" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.42348" latitude="79.18382"/>
+<marker id="1358028896" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.29286" latitude="78.95215"/>
+<marker id="1358028897" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.66736" latitude="78.83923"/>
+<marker id="1358028898" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.99438" latitude="78.859474"/>
+<marker id="1358028899" label="Heirsworn Captain" category="71" did="1879484536" parentZoneId="1879475059" longitude="-145.71667" latitude="79.03801"/>
+<marker id="1358028900" label="Corudan" category="70" did="1879484521" parentZoneId="1879475059" longitude="-146.23955" latitude="78.71099"/>
 </markers>

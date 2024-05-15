@@ -1427,6 +1427,48 @@
 <min longitude="0.0" latitude="-768.0"/>
 <max longitude="1024.0" latitude="0.0"/>
 </map>
+<map id="268454497" name="Umbar-môkh: The Neaths" imageId="1092945451">
+<geo factor="63.75">
+<point longitude="-149.60783" latitude="-111.55294"/>
+</geo>
+<min longitude="-149.60783" latitude="-123.6"/>
+<max longitude="-133.54509" latitude="-111.55294"/>
+</map>
+<map id="268454501" name="Kamrabezûr; the Vaults" imageId="1092945457">
+<geo factor="137.5">
+<point longitude="-142.68362" latitude="-112.77818"/>
+</geo>
+<min longitude="-142.68362" latitude="-118.36364"/>
+<max longitude="-135.23636" latitude="-112.77818"/>
+</map>
+<map id="268454504" name="Ilmabiri; the Wells" imageId="1092945459">
+<geo factor="160.0">
+<point longitude="-146.31874" latitude="-113.2"/>
+</geo>
+<min longitude="-146.31874" latitude="-118.0"/>
+<max longitude="-139.91875" latitude="-113.2"/>
+</map>
+<map id="268454505" name="Khabârkhad; the Crypts" imageId="1092945456">
+<geo factor="160.0">
+<point longitude="-144.6875" latitude="-116.399994"/>
+</geo>
+<min longitude="-144.6875" latitude="-121.2"/>
+<max longitude="-138.2875" latitude="-116.399994"/>
+</map>
+<map id="268454506" name="Tâkhdar; the Cellars" imageId="1092945460">
+<geo factor="120.00001">
+<point longitude="-145.95833" latitude="-111.93333"/>
+</geo>
+<min longitude="-145.95833" latitude="-118.33333"/>
+<max longitude="-137.42499" latitude="-111.93333"/>
+</map>
+<map id="268454507" name="Dil-irmíz ; the Berths" imageId="1092945458">
+<geo factor="160.0">
+<point longitude="-146.0875" latitude="-118.799995"/>
+</geo>
+<min longitude="-146.0875" latitude="-123.6"/>
+<max longitude="-139.6875" latitude="-118.799995"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -9779,11 +9821,11 @@
 <max longitude="55.501118" latitude="76.867775"/>
 </map>
 <map id="1879475843" name="The Citadel of Winds" imageId="1092909344">
-<geo factor="899.9999">
-<point longitude="52.582226" latitude="77.50555"/>
+<geo factor="599.99994">
+<point longitude="52.581657" latitude="77.505"/>
 </geo>
-<min longitude="52.582226" latitude="75.50555"/>
-<max longitude="55.248894" latitude="77.50555"/>
+<min longitude="52.581657" latitude="75.505"/>
+<max longitude="55.248325" latitude="77.505"/>
 </map>
 <map id="1879475844" name="The Bloody Eagle" imageId="1092909347">
 <geo factor="800.0">
@@ -9889,5 +9931,68 @@
 </geo>
 <min longitude="54.125" latitude="-37.7"/>
 <max longitude="55.458332" latitude="-36.7"/>
+</map>
+<map id="1879484347" name="Dâr Laja&#10;The Meeting-hall" imageId="1092943411">
+<geo factor="300.0">
+<point longitude="51.39666" latitude="67.153336"/>
+</geo>
+<min longitude="51.39666" latitude="63.153336"/>
+<max longitude="56.729992" latitude="67.153336"/>
+</map>
+<map id="1879484385" name="Forgotten Passage" imageId="1092943495">
+<geo factor="600.0">
+<point longitude="52.66666" latitude="64.74834"/>
+</geo>
+<min longitude="52.66666" latitude="62.748337"/>
+<max longitude="55.33333" latitude="64.74834"/>
+</map>
+<map id="1879485187" name="The Mâkhda Khorbo -- Burning Halls" imageId="1092945325">
+<geo factor="600.00006">
+<point longitude="-146.66667" latitude="63.199997"/>
+</geo>
+<min longitude="-146.66667" latitude="62.199997"/>
+<max longitude="-145.33334" latitude="63.199997"/>
+</map>
+<map id="1879485188" name="The Mâkhda Khorbo -- Iron Stairwell" imageId="1092945326">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="63.151657"/>
+</geo>
+<min longitude="-146.66667" latitude="62.151657"/>
+<max longitude="-145.33334" latitude="63.151657"/>
+</map>
+<map id="1879485189" name="Dâr Sêkhta - Hidden Area" imageId="1092945347">
+<geo factor="600.0">
+<point longitude="-146.72667" latitude="64.9"/>
+</geo>
+<min longitude="-146.72667" latitude="63.9"/>
+<max longitude="-145.39334" latitude="64.9"/>
+</map>
+<map id="1879485233" name="Khôltekh's Manor" imageId="1092945349">
+<geo factor="600.0">
+<point longitude="-146.70999" latitude="61.675"/>
+</geo>
+<min longitude="-146.70999" latitude="60.675"/>
+<max longitude="-145.37666" latitude="61.675"/>
+</map>
+<map id="1879485375" name="Sharûla's Secret Residence" imageId="1092945414">
+<geo factor="600.0">
+<point longitude="-146.67833" latitude="60.206657"/>
+</geo>
+<min longitude="-146.67833" latitude="59.206657"/>
+<max longitude="-145.345" latitude="60.206657"/>
+</map>
+<map id="1879485431" name="Gladiators' Residence in Dahâl Huliz, The Arena" imageId="1092945430">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="58.57666"/>
+</geo>
+<min longitude="-146.66667" latitude="57.57666"/>
+<max longitude="-145.33334" latitude="58.57666"/>
+</map>
+<map id="1879485432" name="Rothog's Audience Chamber" imageId="1092945429">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="56.899998"/>
+</geo>
+<min longitude="-146.66667" latitude="55.899998"/>
+<max longitude="-145.33334" latitude="56.899998"/>
 </map>
 </maps>
