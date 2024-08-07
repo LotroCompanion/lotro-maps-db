@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1609273345" label="Avatar of War" category="71" did="1879488126" parentZoneId="1879487383" longitude="54.071465" latitude="62.006542"/>
+<marker id="1609273346" label="Deep Caller" category="71" did="1879488127" parentZoneId="1879487383" longitude="54.091698" latitude="61.990273"/>
+<marker id="1609273347" label="Shadow-binder" category="71" did="1879488134" parentZoneId="1879487383" longitude="54.07713" latitude="61.992695"/>
+<marker id="1609273348" label="Avatar of War" category="71" did="1879488135" parentZoneId="1879487383" longitude="54.0725" latitude="61.99119"/>
+<marker id="1609273349" label="Shadow-binder" category="71" did="1879488132" parentZoneId="1879487383" longitude="54.077263" latitude="62.005703"/>
+<marker id="1609273350" label="High Cultist" category="71" did="1879488131" parentZoneId="1879487383" longitude="54.083866" latitude="61.990704"/>
+<marker id="1609273351" label="Deep Caller" category="71" did="1879488128" parentZoneId="1879487383" longitude="54.09037" latitude="62.004433"/>
+<marker id="1609273352" label="High Cultist" category="71" did="1879488129" parentZoneId="1879487383" longitude="54.08232" latitude="62.00492"/>
+<marker id="1609273353" label="Door" category="100" did="1879222534" parentZoneId="1879487383" longitude="54.004765" latitude="62.110664"/>
+<marker id="1609273354" label="Ragrekhûl" category="71" did="1879488137" parentZoneId="1879487383" longitude="54.000603" latitude="62.1358"/>
+<marker id="1609273355" label="Tempestuous Flame" category="71" did="1879490267" parentZoneId="1879487383" longitude="54.002968" latitude="62.073845"/>
+<marker id="1609273356" label="Rothog the Storm" category="70" did="1879489314" parentZoneId="1879487383" longitude="54.0058" latitude="61.99381"/>
+<marker id="1609273357" label="Shaidal" category="70" did="1879489315" parentZoneId="1879487383" longitude="54.017536" latitude="61.991913"/>
+<marker id="1609273358" label="Control Point" category="73" did="1879152429" parentZoneId="1879487383" longitude="54.00586" latitude="62.04707"/>
+<marker id="1609273359" label="Tempestuous Flame" category="71" did="1879490295" parentZoneId="1879487383" longitude="54.00203" latitude="62.07365"/>
 <marker id="1609281536" label="Corudan" category="71" did="1879485166" parentZoneId="1879484385" longitude="53.927692" latitude="63.194805"/>
 <marker id="1609281537" label="Sigileth" category="71" did="1879485165" parentZoneId="1879484385" longitude="54.002323" latitude="63.506424"/>
 <marker id="1609281539" label="Door" category="100" did="1879328993" parentZoneId="1879484385" longitude="53.860153" latitude="63.196247"/>
@@ -7,22 +22,24 @@
 <marker id="1609281544" label="Umbari Woman" category="70" did="1879485163" parentZoneId="1879484385" longitude="54.011425" latitude="64.175545"/>
 <marker id="1609281545" label="Umbari Woman" category="70" did="1879485163" parentZoneId="1879484385" longitude="53.998554" latitude="64.171326"/>
 <marker id="1609281546" label="Tatháta the Beast" category="70" did="1879485854" parentZoneId="1879484385" longitude="53.99707" latitude="64.196526"/>
-<marker id="1609289732" label="Daxamat" category="70" did="1879484502" parentZoneId="1879484347" longitude="54.029236" latitude="64.96392"/>
-<marker id="1609289734" label="Shemâya" category="70" did="1879484970" parentZoneId="1879484347" longitude="54.03621" latitude="65.02463"/>
-<marker id="1609289737" label="Door" category="100" did="1879475787" parentZoneId="1879484347" longitude="53.83125" latitude="65.44742"/>
-<marker id="1609289739" label="Fleet-captain" category="70" did="1879486987" parentZoneId="1879484347" longitude="53.948338" latitude="65.42846"/>
-<marker id="1609289745" label="Daxamat" category="70" did="1879484502" parentZoneId="1879484347" longitude="53.986423" latitude="65.28588"/>
-<marker id="1609289747" label="Makhíl" category="70" did="1879484506" parentZoneId="1879484347" longitude="53.8934" latitude="65.35359"/>
-<marker id="1609289750" label="Dâr Laja Guardsman" category="70" did="1879485830" parentZoneId="1879484347" longitude="53.893513" latitude="65.3334"/>
-<marker id="1609289751" label="Dâr Laja Guardsman" category="70" did="1879485830" parentZoneId="1879484347" longitude="53.84826" latitude="65.45842"/>
-<marker id="1609289753" label="Suggestions Coffer" category="73" did="1879484522" parentZoneId="1879484347" longitude="53.898983" latitude="65.34406"/>
-<marker id="1609289760" label="Jajax" category="70" did="1879484500" parentZoneId="1879484347" longitude="53.98834" latitude="65.29398"/>
-<marker id="1609289763" label="Hármelak, the Golden Queen" category="70" did="1879483532" parentZoneId="1879484347" longitude="53.840057" latitude="65.3498"/>
-<marker id="1609289771" label="Belondor" category="70" did="1879483585" parentZoneId="1879484347" longitude="53.921562" latitude="65.45931"/>
-<marker id="1609289775" label="Okhtâr" category="70" did="1879484963" parentZoneId="1879484347" longitude="54.08789" latitude="65.145744"/>
-<marker id="1609289792" label="Shaidal" category="70" did="1879486530" parentZoneId="1879484347" longitude="54.01463" latitude="65.2491"/>
-<marker id="1609289795" label="Rothog the Storm" category="70" did="1879483584" parentZoneId="1879484347" longitude="54.02486" latitude="65.24498"/>
-<marker id="1609289801" label="Khôltekh the Cunning" category="70" did="1879483586" parentZoneId="1879484347" longitude="54.11379" latitude="65.3866"/>
+<marker id="1609289733" label="Daxamat" category="70" did="1879484502" parentZoneId="1879484347" longitude="54.029236" latitude="64.96392"/>
+<marker id="1609289735" label="Shemâya" category="70" did="1879484970" parentZoneId="1879484347" longitude="54.03621" latitude="65.02463"/>
+<marker id="1609289738" label="Mêshka" category="70" did="1879487574" parentZoneId="1879484347" longitude="54.094196" latitude="65.11242"/>
+<marker id="1609289739" label="Door" category="100" did="1879475787" parentZoneId="1879484347" longitude="53.83125" latitude="65.44742"/>
+<marker id="1609289741" label="Fleet-captain&#10;Barterer" category="58" did="1879486987" parentZoneId="1879484347" longitude="53.946426" latitude="65.427185"/>
+<marker id="1609289743" label="Mêshka" category="70" did="1879487574" parentZoneId="1879484347" longitude="53.930332" latitude="65.4558"/>
+<marker id="1609289749" label="Daxamat" category="70" did="1879484502" parentZoneId="1879484347" longitude="53.986423" latitude="65.28588"/>
+<marker id="1609289751" label="Makhíl" category="70" did="1879484506" parentZoneId="1879484347" longitude="53.8934" latitude="65.35359"/>
+<marker id="1609289752" label="Suggestions Coffer" category="73" did="1879484522" parentZoneId="1879484347" longitude="53.898983" latitude="65.34406"/>
+<marker id="1609289754" label="Dâr Laja Guardsman" category="70" did="1879485830" parentZoneId="1879484347" longitude="53.893513" latitude="65.3334"/>
+<marker id="1609289755" label="Dâr Laja Guardsman" category="70" did="1879485830" parentZoneId="1879484347" longitude="53.84826" latitude="65.45842"/>
+<marker id="1609289764" label="Jajax" category="70" did="1879484500" parentZoneId="1879484347" longitude="53.98834" latitude="65.29398"/>
+<marker id="1609289779" label="Okhtâr" category="70" did="1879484963" parentZoneId="1879484347" longitude="54.08789" latitude="65.145744"/>
+<marker id="1609289796" label="Shaidal" category="70" did="1879486530" parentZoneId="1879484347" longitude="54.01463" latitude="65.2491"/>
+<marker id="1609289802" label="Rothog the Storm" category="70" did="1879483584" parentZoneId="1879484347" longitude="54.02486" latitude="65.24498"/>
+<marker id="1609289803" label="Khôltekh the Cunning" category="70" did="1879483586" parentZoneId="1879484347" longitude="54.11379" latitude="65.3866"/>
+<marker id="1609289806" label="Hármelak, the Golden Queen" category="70" did="1879483532" parentZoneId="1879484347" longitude="53.840057" latitude="65.3498"/>
+<marker id="1609289807" label="Belondor" category="70" did="1879483585" parentZoneId="1879484347" longitude="53.921562" latitude="65.45931"/>
 <marker id="1609297926" label="Gate" category="100" did="1879482686" parentZoneId="1879480482" longitude="54.000916" latitude="66.90064"/>
 <marker id="1609297927" label="Enemy Forces" category="100" did="1879483158" parentZoneId="1879480482" longitude="54.030643" latitude="66.62102"/>
 <marker id="1609297928" label="Enemy Forces" category="100" did="1879480443" parentZoneId="1879480482" longitude="54.23877" latitude="66.90639"/>

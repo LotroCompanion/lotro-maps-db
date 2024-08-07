@@ -9995,4 +9995,18 @@
 <min longitude="-146.66667" latitude="55.899998"/>
 <max longitude="-145.33334" latitude="56.899998"/>
 </map>
+<map id="1879487380" name="Ukhbab-gairu, Vault of the Great Forge" imageId="1092947889">
+<geo factor="600.00006">
+<point longitude="-147.26" latitude="39.87334"/>
+</geo>
+<min longitude="-147.26" latitude="37.87334"/>
+<max longitude="-144.59332" latitude="39.87334"/>
+</map>
+<map id="1879487383" name="Dahâl Huliz, The Arena" imageId="1092947887">
+<geo factor="599.99994">
+<point longitude="52.58666" latitude="63.109997"/>
+</geo>
+<min longitude="52.58666" latitude="61.109997"/>
+<max longitude="55.253326" latitude="63.109997"/>
+</map>
 </maps>

@@ -1,7 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="786472960" label="Fighting Uruk-hai" category="70" did="1879368316" parentZoneId="1879124366" longitude="32.226326" latitude="62.81412"/>
-<marker id="786472962" label="Lever" category="100" did="1879103477" parentZoneId="1879124366" longitude="32.487167" latitude="63.21629"/>
-<marker id="786472963" label="Lever" category="100" did="1879103477" parentZoneId="1879124366" longitude="32.48248" latitude="63.13326"/>
+<marker id="786472970" label="Khôltekh" category="70" did="1879487739" parentZoneId="1879124366" longitude="32.38707" latitude="62.7974"/>
+<marker id="786473007" label="Sigileth" category="70" did="1879487664" parentZoneId="1879124366" longitude="32.38246" latitude="62.725605"/>
+<marker id="786473031" label="Khôltekh" category="70" did="1879487737" parentZoneId="1879124366" longitude="32.408886" latitude="62.66822"/>
+<marker id="786473085" label="Fighting Uruk-hai" category="70" did="1879368316" parentZoneId="1879124366" longitude="32.226326" latitude="62.81412"/>
+<marker id="786473086" label="Lever" category="100" did="1879103477" parentZoneId="1879124366" longitude="32.487167" latitude="63.21629"/>
+<marker id="786473087" label="Lever" category="100" did="1879103477" parentZoneId="1879124366" longitude="32.48248" latitude="63.13326"/>
+<marker id="786473088" label="Tharashil" category="70" did="1879487534" parentZoneId="1879124366" longitude="32.422344" latitude="62.700058"/>
+<marker id="786473089" label="Thórvilon" category="70" did="1879487535" parentZoneId="1879124366" longitude="32.42123" latitude="62.709724"/>
+<marker id="786473091" label="Aitárshun" category="70" did="1879487536" parentZoneId="1879124366" longitude="32.42172" latitude="62.705154"/>
+<marker id="786473093" label="Sigileth" category="70" did="1879487583" parentZoneId="1879124366" longitude="32.409023" latitude="62.650524"/>
+<marker id="786473094" label="Silirtas" category="70" did="1879487580" parentZoneId="1879124366" longitude="32.37383" latitude="62.74699"/>
+<marker id="786473095" label="Corudan" category="70" did="1879487581" parentZoneId="1879124366" longitude="32.388123" latitude="62.804024"/>
+<marker id="786473097" label="Sigileth" category="70" did="1879487576" parentZoneId="1879124366" longitude="32.402676" latitude="62.675896"/>
+<marker id="786473099" label="Silirtas" category="70" did="1879487590" parentZoneId="1879124366" longitude="32.378613" latitude="62.729374"/>
+<marker id="786473100" label="Corudan" category="70" did="1879487591" parentZoneId="1879124366" longitude="32.414883" latitude="62.66775"/>
+<marker id="786473101" label="Rothog" category="70" did="1879487588" parentZoneId="1879124366" longitude="32.388634" latitude="62.742344"/>
+<marker id="786473103" label="Rahâzi" category="70" did="1879487586" parentZoneId="1879124366" longitude="32.378162" latitude="62.784023"/>
+<marker id="786473105" label="Khôltekh" category="70" did="1879487584" parentZoneId="1879124366" longitude="32.395584" latitude="62.746227"/>
+<marker id="786473108" label="Sadûkh" category="70" did="1879487599" parentZoneId="1879124366" longitude="32.40172" latitude="62.74826"/>
+<marker id="786473109" label="Sigileth" category="70" did="1879487596" parentZoneId="1879124366" longitude="32.379845" latitude="62.74994"/>
+<marker id="786473110" label="Silirtas" category="70" did="1879487597" parentZoneId="1879124366" longitude="32.37502" latitude="62.750996"/>
+<marker id="786473111" label="Rothog" category="70" did="1879487594" parentZoneId="1879124366" longitude="32.391872" latitude="62.75328"/>
+<marker id="786473112" label="Sirgon" category="70" did="1879487595" parentZoneId="1879124366" longitude="32.404434" latitude="62.652676"/>
+<marker id="786473114" label="Rahâzi" category="70" did="1879487606" parentZoneId="1879124366" longitude="32.392403" latitude="62.595528"/>
+<marker id="786473115" label="Silirtas" category="70" did="1879487604" parentZoneId="1879124366" longitude="32.40408" latitude="62.656757"/>
+<marker id="786473117" label="Rothog" category="70" did="1879487602" parentZoneId="1879124366" longitude="32.38867" latitude="62.73646"/>
+<marker id="786473118" label="Sigileth" category="70" did="1879487603" parentZoneId="1879124366" longitude="32.382263" latitude="62.7391"/>
+<marker id="786473120" label="Silirtas" category="70" did="1879487614" parentZoneId="1879124366" longitude="32.404354" latitude="62.661015"/>
+<marker id="786473121" label="Sigileth" category="70" did="1879487615" parentZoneId="1879124366" longitude="32.378513" latitude="62.74592"/>
+<marker id="786473122" label="Silirtas" category="70" did="1879487612" parentZoneId="1879124366" longitude="32.37412" latitude="62.73211"/>
+<marker id="786473123" label="Silirtas" category="70" did="1879487610" parentZoneId="1879124366" longitude="32.404667" latitude="62.66867"/>
+<marker id="786473125" label="Belondor" category="70" did="1879487608" parentZoneId="1879124366" longitude="32.41543" latitude="62.67252"/>
+<marker id="786473126" label="Sigileth" category="70" did="1879487609" parentZoneId="1879124366" longitude="32.383984" latitude="62.75158"/>
+<marker id="786473127" label="Corudan" category="70" did="1879487623" parentZoneId="1879124366" longitude="32.37492" latitude="62.782673"/>
+<marker id="786473129" label="Sigileth" category="70" did="1879487621" parentZoneId="1879124366" longitude="32.38342" latitude="62.74705"/>
+<marker id="786473130" label="Rahâzi" category="70" did="1879487616" parentZoneId="1879124366" longitude="32.378494" latitude="62.79201"/>
+<marker id="786473132" label="Silirtas" category="70" did="1879487628" parentZoneId="1879124366" longitude="32.37414" latitude="62.73961"/>
+<marker id="786473134" label="Balakhad" category="70" did="1879487627" parentZoneId="1879124366" longitude="32.410194" latitude="62.75941"/>
+<marker id="786473135" label="Corudan" category="70" did="1879487624" parentZoneId="1879124366" longitude="32.410763" latitude="62.73924"/>
+<marker id="786473136" label="Dying Man" category="70" did="1879487625" parentZoneId="1879124366" longitude="32.410057" latitude="62.728085"/>
+<marker id="786473140" label="Sigileth" category="70" did="1879487637" parentZoneId="1879124366" longitude="32.37793" latitude="62.74203"/>
+<marker id="786473141" label="Silirtas" category="70" did="1879487634" parentZoneId="1879124366" longitude="32.373417" latitude="62.736073"/>
+<marker id="786473142" label="Khôltekh" category="70" did="1879487632" parentZoneId="1879124366" longitude="32.39678" latitude="62.751034"/>
+<marker id="786473143" label="Corudan" category="70" did="1879487646" parentZoneId="1879124366" longitude="32.415546" latitude="62.66373"/>
+<marker id="786473144" label="Rahâzi" category="70" did="1879487647" parentZoneId="1879124366" longitude="32.37371" latitude="62.79205"/>
+<marker id="786473146" label="Rahâzi" category="70" did="1879487645" parentZoneId="1879124366" longitude="32.37945" latitude="62.78822"/>
+<marker id="786473147" label="Corudan" category="70" did="1879487642" parentZoneId="1879124366" longitude="32.393787" latitude="62.78164"/>
+<marker id="786473150" label="Corudan" category="70" did="1879487650" parentZoneId="1879124366" longitude="32.41047" latitude="62.74703"/>
+<marker id="786473151" label="Silirtas" category="70" did="1879487648" parentZoneId="1879124366" longitude="32.408222" latitude="62.67252"/>
+<marker id="786473152" label="Sigileth" category="70" did="1879487662" parentZoneId="1879124366" longitude="32.403553" latitude="62.671677"/>
+<marker id="786473153" label="Your Sleeping Mat" category="70" did="1879487663" parentZoneId="1879124366" longitude="32.36871" latitude="62.78203"/>
+<marker id="786473154" label="Belondor" category="70" did="1879487660" parentZoneId="1879124366" longitude="32.409298" latitude="62.802498"/>
+<marker id="786473156" label="Silirtas" category="70" did="1879487658" parentZoneId="1879124366" longitude="32.378788" latitude="62.725193"/>
+<marker id="786473157" label="Belondor" category="70" did="1879487659" parentZoneId="1879124366" longitude="32.409725" latitude="62.797928"/>
+<marker id="786473158" label="Corudan" category="70" did="1879487670" parentZoneId="1879124366" longitude="32.41" latitude="62.742695"/>
+<marker id="786473160" label="Belondor" category="70" did="1879487669" parentZoneId="1879124366" longitude="32.394394" latitude="62.73047"/>
+<marker id="786473163" label="Sigileth" category="70" did="1879487664" parentZoneId="1879124366" longitude="32.382812" latitude="62.730293"/>
+<marker id="786473164" label="Rahâzi" category="70" did="1879487665" parentZoneId="1879124366" longitude="32.394882" latitude="62.73797"/>
+<marker id="786473166" label="Sadûkh" category="70" did="1879487679" parentZoneId="1879124366" longitude="32.401794" latitude="62.74119"/>
+<marker id="786473167" label="Belondor" category="70" did="1879487676" parentZoneId="1879124366" longitude="32.415604" latitude="62.67898"/>
+<marker id="786473168" label="Sirgon" category="70" did="1879487677" parentZoneId="1879124366" longitude="32.392735" latitude="62.77357"/>
+<marker id="786473170" label="Rahâzi" category="70" did="1879487672" parentZoneId="1879124366" longitude="32.38822" latitude="62.730408"/>
+<marker id="786473171" label="Belondor" category="70" did="1879487686" parentZoneId="1879124366" longitude="32.41527" latitude="62.68355"/>
+<marker id="786473175" label="Sirgon" category="70" did="1879487683" parentZoneId="1879124366" longitude="32.39002" latitude="62.746914"/>
+<marker id="786473176" label="Sigileth" category="70" did="1879487681" parentZoneId="1879124366" longitude="32.377773" latitude="62.738438"/>
+<marker id="786473178" label="Khôltekh" category="70" did="1879487695" parentZoneId="1879124366" longitude="32.395077" latitude="62.72535"/>
+<marker id="786473180" label="Belondor" category="70" did="1879487690" parentZoneId="1879124366" longitude="32.41037" latitude="62.75539"/>
+<marker id="786473181" label="Sirgon" category="70" did="1879487688" parentZoneId="1879124366" longitude="32.37494" latitude="62.72789"/>
+<marker id="786473182" label="Sigileth" category="70" did="1879487689" parentZoneId="1879124366" longitude="32.38248" latitude="62.73482"/>
+<marker id="786473183" label="Rahâzi" category="70" did="1879487702" parentZoneId="1879124366" longitude="32.39582" latitude="62.734295"/>
+<marker id="786473185" label="Rahâzi" category="70" did="1879487700" parentZoneId="1879124366" longitude="32.395313" latitude="62.74197"/>
+<marker id="786473187" label="Khôltekh" category="70" did="1879487698" parentZoneId="1879124366" longitude="32.397167" latitude="62.754864"/>
+<marker id="786473189" label="Sigileth" category="70" did="1879487697" parentZoneId="1879124366" longitude="32.386658" latitude="62.800938"/>
+<marker id="786473190" label="Rahâzi" category="70" did="1879487711" parentZoneId="1879124366" longitude="32.408787" latitude="62.65535"/>
+<marker id="786473192" label="Corudan" category="70" did="1879487705" parentZoneId="1879124366" longitude="32.410896" latitude="62.735683"/>
+<marker id="786473193" label="Injured Man" category="70" did="1879487718" parentZoneId="1879124366" longitude="32.4017" latitude="62.74453"/>
+<marker id="786473196" label="Sigileth" category="70" did="1879487715" parentZoneId="1879124366" longitude="32.38881" latitude="62.620506"/>
+<marker id="786473197" label="Belondor" category="70" did="1879487712" parentZoneId="1879124366" longitude="32.41084" latitude="62.751717"/>
+<marker id="786473198" label="Dead Man" category="70" did="1879487713" parentZoneId="1879124366" longitude="32.41047" latitude="62.731678"/>
+<marker id="786473199" label="Rahâzi" category="70" did="1879487726" parentZoneId="1879124366" longitude="32.37959" latitude="62.77787"/>
+<marker id="786473200" label="Silirtas" category="70" did="1879487727" parentZoneId="1879124366" longitude="32.373924" latitude="62.743534"/>
+<marker id="786473201" label="Corudan" category="70" did="1879487724" parentZoneId="1879124366" longitude="32.37707" latitude="62.803143"/>
+<marker id="786473204" label="Rothog" category="70" did="1879487720" parentZoneId="1879124366" longitude="32.375214" latitude="62.7958"/>
+<marker id="786473205" label="Belondor" category="70" did="1879487721" parentZoneId="1879124366" longitude="32.371056" latitude="62.80373"/>
+<marker id="786473206" label="Sigileth" category="70" did="1879487734" parentZoneId="1879124366" longitude="32.381523" latitude="62.742695"/>
+<marker id="786473207" label="Silirtas" category="70" did="1879487735" parentZoneId="1879124366" longitude="32.387478" latitude="62.726288"/>
+<marker id="786473208" label="Sigileth" category="70" did="1879487732" parentZoneId="1879124366" longitude="32.375195" latitude="62.799786"/>
+<marker id="786473209" label="Sigileth" category="70" did="1879487730" parentZoneId="1879124366" longitude="32.393555" latitude="62.77695"/>
+<marker id="786473212" label="Sigileth" category="70" did="1879487729" parentZoneId="1879124366" longitude="32.378456" latitude="62.73377"/>
+<marker id="786473213" label="Belondor" category="70" did="1879487742" parentZoneId="1879124366" longitude="32.392265" latitude="62.59904"/>
+<marker id="786473215" label="Sadûkh" category="70" did="1879487740" parentZoneId="1879124366" longitude="32.40078" latitude="62.737694"/>
+<marker id="786473216" label="Gimli" category="70" did="1879487741" parentZoneId="1879124366" longitude="32.40537" latitude="62.622772"/>
+<marker id="786473250" label="Order For Weapons" category="73" did="1879487778" parentZoneId="1879124366" longitude="32.252186" latitude="62.671013"/>
+<marker id="786473254" label="Order For A Caravan" category="73" did="1879487790" parentZoneId="1879124366" longitude="32.243923" latitude="62.65156"/>
+<marker id="786473257" label="Order For Supplies" category="73" did="1879487786" parentZoneId="1879124366" longitude="32.245293" latitude="62.65781"/>
+<marker id="786473273" label="Fallen Wall-stone" category="73" did="1879487767" parentZoneId="1879124366" longitude="32.242126" latitude="62.644783"/>
+<marker id="786473281" label="Neeker Bristles" category="73" did="1879487795" parentZoneId="1879124366" longitude="32.248672" latitude="62.665916"/>
+<marker id="786473286" label="Slain Ordakhai Weapon" category="73" did="1879487794" parentZoneId="1879124366" longitude="32.24789" latitude="62.647594"/>
+<marker id="786473287" label="Cultist Corpse" category="73" did="1879487755" parentZoneId="1879124366" longitude="32.23711" latitude="62.59494"/>
+<marker id="786473290" label="Token of the Eye" category="73" did="1879487779" parentZoneId="1879124366" longitude="32.24123" latitude="62.64047"/>
+<marker id="786473301" label="Scorpion Stinger" category="73" did="1879487792" parentZoneId="1879124366" longitude="32.246464" latitude="62.643845"/>
+<marker id="786473313" label="Feather Pillow" category="73" did="1879487796" parentZoneId="1879124366" longitude="32.242714" latitude="62.648476"/>
+<marker id="786473317" label="Provided Foodstuffs" category="73" did="1879487749" parentZoneId="1879124366" longitude="32.239746" latitude="62.604336"/>
+<marker id="786473318" label="Provided Water" category="73" did="1879487747" parentZoneId="1879124366" longitude="32.240215" latitude="62.607674"/>
+<marker id="786473330" label="Hardy Plant Leaves" category="73" did="1879487784" parentZoneId="1879124366" longitude="32.250664" latitude="62.657654"/>
+<marker id="786473331" label="Riverside Reeds" category="73" did="1879487793" parentZoneId="1879124366" longitude="32.25168" latitude="62.66117"/>
+<marker id="786473332" label="Buried Husk" category="73" did="1879487799" parentZoneId="1879124366" longitude="32.248535" latitude="62.650723"/>
+<marker id="786473344" label="Soothing Poultice" category="73" did="1879487783" parentZoneId="1879124366" longitude="32.252422" latitude="62.64703"/>
+<marker id="786473349" label="Sharp Jackal Tooth" category="73" did="1879487791" parentZoneId="1879124366" longitude="32.255333" latitude="62.668983"/>
+<marker id="786473370" label="Discarded Satchel" category="73" did="1879487761" parentZoneId="1879124366" longitude="32.23752" latitude="62.598377"/>
+<marker id="786473373" label="Satchel Contents" category="73" did="1879487772" parentZoneId="1879124366" longitude="32.253807" latitude="62.666367"/>
+<marker id="786473377" label="Sandworm Meat" category="73" did="1879487789" parentZoneId="1879124366" longitude="32.25256" latitude="62.6641"/>
+<marker id="786473378" label="Craban Feathers" category="73" did="1879487781" parentZoneId="1879124366" longitude="32.249413" latitude="62.65455"/>
+<marker id="786473379" label="Kintai Coffer" category="73" did="1879487762" parentZoneId="1879124366" longitude="32.23791" latitude="62.60113"/>
+<marker id="786473391" label="Usal River-bed" category="73" did="1879487765" parentZoneId="1879124366" longitude="32.241386" latitude="62.611153"/>
+<marker id="786473392" label="Usal River-bed" category="73" did="1879487759" parentZoneId="1879124366" longitude="32.242794" latitude="62.614277"/>
+<marker id="786473393" label="Usal River-bed" category="73" did="1879487757" parentZoneId="1879124366" longitude="32.24408" latitude="62.616795"/>
+<marker id="786473404" label="Water Bladder" category="73" did="1879487780" parentZoneId="1879124366" longitude="32.253162" latitude="62.65006"/>
+<marker id="786473418" label="Oasis Jar" category="73" did="1879487798" parentZoneId="1879124366" longitude="32.256855" latitude="62.648964"/>
+<marker id="786473420" label="Healer's Cloth" category="73" did="1879487797" parentZoneId="1879124366" longitude="32.258514" latitude="62.665916"/>
+<marker id="786473427" label="Diseased Boar-hoof" category="73" did="1879487776" parentZoneId="1879124366" longitude="32.25494" latitude="62.656776"/>
+<marker id="786473428" label="Diseased Serval-fang" category="73" did="1879487773" parentZoneId="1879124366" longitude="32.25746" latitude="62.66281"/>
+<marker id="786473429" label="Diseased Deer-hide" category="73" did="1879487771" parentZoneId="1879124366" longitude="32.25625" latitude="62.66027"/>
+<marker id="786473436" label="Pile of Stones" category="73" did="1879487758" parentZoneId="1879124366" longitude="32.24875" latitude="62.614372"/>
+<marker id="786473437" label="Location for Stone" category="73" did="1879487750" parentZoneId="1879124366" longitude="32.242577" latitude="62.593243"/>
+<marker id="786473438" label="Location for Stone" category="73" did="1879487756" parentZoneId="1879124366" longitude="32.242695" latitude="62.59668"/>
+<marker id="786473439" label="Location for Stone" category="73" did="1879487751" parentZoneId="1879124366" longitude="32.24336" latitude="62.59996"/>
+<marker id="786473440" label="Location for Stone" category="73" did="1879487760" parentZoneId="1879124366" longitude="32.24326" latitude="62.603203"/>
+<marker id="786473441" label="Boundary Stones" category="73" did="1879487774" parentZoneId="1879124366" longitude="32.25369" latitude="62.65336"/>
+<marker id="786473452" label="Toad Legs" category="73" did="1879487787" parentZoneId="1879124366" longitude="32.25912" latitude="62.655468"/>
+<marker id="786473453" label="Neeker Bristles" category="73" did="1879487769" parentZoneId="1879124366" longitude="32.25994" latitude="62.668926"/>
+<marker id="786473454" label="Scorpion Stinger" category="73" did="1879487768" parentZoneId="1879124366" longitude="32.258106" latitude="62.65244"/>
+<marker id="786473465" label="Camp-fire Site" category="73" did="1879487766" parentZoneId="1879124366" longitude="32.247402" latitude="62.595505"/>
+<marker id="786473472" label="Legolas" category="70" did="1879487667" parentZoneId="1879124366" longitude="32.40951" latitude="62.659744"/>
+<marker id="786473473" label="Gimli" category="70" did="1879487600" parentZoneId="1879124366" longitude="32.408165" latitude="62.681248"/>
+<marker id="786473474" label="Glorfindel" category="70" did="1879487579" parentZoneId="1879124366" longitude="32.407715" latitude="62.676815"/>
+<marker id="786473475" label="Elladan" category="70" did="1879487593" parentZoneId="1879124366" longitude="32.415997" latitude="62.658825"/>
+<marker id="786473476" label="Elrohir" category="70" did="1879487743" parentZoneId="1879124366" longitude="32.416443" latitude="62.65488"/>
+<marker id="786473478" label="The Kintai" category="73" did="1879487754" parentZoneId="1879124366" longitude="32.247128" latitude="62.61146"/>
+<marker id="786473479" label="The Thardúth" category="73" did="1879487752" parentZoneId="1879124366" longitude="32.248165" latitude="62.601326"/>
+<marker id="786473480" label="The Elder Orcs" category="73" did="1879487748" parentZoneId="1879124366" longitude="32.24453" latitude="62.60576"/>
+<marker id="786473481" label="The Grim Southron" category="73" did="1879487753" parentZoneId="1879124366" longitude="32.245544" latitude="62.608906"/>
+<marker id="786473482" label="The Dark Lord Sauron" category="73" did="1879487763" parentZoneId="1879124366" longitude="32.247498" latitude="62.598145"/>
+<marker id="786473484" label="Glorfindel" category="70" did="1879487644" parentZoneId="1879124366" longitude="32.40568" latitude="62.61449"/>
+<marker id="786473485" label="Khôltekh" category="70" did="1879487620" parentZoneId="1879124366" longitude="32.403828" latitude="62.60123"/>
+<marker id="786473486" label="Rothog" category="70" did="1879487671" parentZoneId="1879124366" longitude="32.39375" latitude="62.61484"/>
+<marker id="786473487" label="Jackal Teeth" category="73" did="1879487770" parentZoneId="1879124366" longitude="32.261013" latitude="62.66107"/>
+<marker id="786473488" label="Craban Claw" category="73" did="1879487785" parentZoneId="1879124366" longitude="32.26006" latitude="62.658592"/>
+<marker id="786473489" label="Khôltekh's Parchment" category="73" did="1879487777" parentZoneId="1879124366" longitude="32.262245" latitude="62.663982"/>
+<marker id="786473496" label="Rahâzi" category="70" did="1879487687" parentZoneId="1879124366" longitude="32.395878" latitude="62.622383"/>
+<marker id="786473499" label="Belondor" category="70" did="1879487585" parentZoneId="1879124366" longitude="32.419903" latitude="62.620564"/>
+<marker id="786473501" label="Silirtas" category="70" did="1879487598" parentZoneId="1879124366" longitude="32.404316" latitude="62.66506"/>
+<marker id="786473504" label="Sigileth" category="70" did="1879487666" parentZoneId="1879124366" longitude="32.40217" latitude="62.679043"/>
+<marker id="786473506" label="Gandalf" category="70" did="1879487577" parentZoneId="1879124366" longitude="32.417694" latitude="62.648613"/>
+<marker id="786473507" label="Girhâzi" category="70" did="1879487533" parentZoneId="1879124366" longitude="32.420116" latitude="62.71363"/>
+<marker id="786473508" label="Corudan" category="70" did="1879487704" parentZoneId="1879124366" longitude="32.41824" latitude="62.60203"/>
+<marker id="786473509" label="Khôltekh" category="70" did="1879487629" parentZoneId="1879124366" longitude="32.400215" latitude="62.617264"/>
+<marker id="786473510" label="Khôltekh" category="70" did="1879487629" parentZoneId="1879124366" longitude="32.399784" latitude="62.6066"/>
+<marker id="786473511" label="Khôltekh" category="70" did="1879487692" parentZoneId="1879124366" longitude="32.400467" latitude="62.621853"/>
+<marker id="786473512" label="Khôltekh" category="70" did="1879487692" parentZoneId="1879124366" longitude="32.400604" latitude="62.611153"/>
+<marker id="786473513" label="Corudan" category="70" did="1879487701" parentZoneId="1879124366" longitude="32.411797" latitude="62.623924"/>
+<marker id="786473514" label="Corudan" category="70" did="1879487694" parentZoneId="1879124366" longitude="32.418514" latitude="62.59203"/>
+<marker id="786473515" label="Khôltekh" category="70" did="1879487589" parentZoneId="1879124366" longitude="32.403904" latitude="62.59623"/>
+<marker id="786473516" label="Khôltekh" category="70" did="1879487589" parentZoneId="1879124366" longitude="32.399902" latitude="62.614784"/>
+<marker id="786473519" label="Glorfindel" category="70" did="1879487703" parentZoneId="1879124366" longitude="32.40498" latitude="62.610664"/>
+<marker id="786473520" label="Legolas" category="70" did="1879487723" parentZoneId="1879124366" longitude="32.399414" latitude="62.60127"/>
+<marker id="786473521" label="Gandalf" category="70" did="1879487674" parentZoneId="1879124366" longitude="32.410294" latitude="62.595528"/>
+<marker id="786473522" label="Silirtas" category="70" did="1879487722" parentZoneId="1879124366" longitude="32.386757" latitude="62.606777"/>
+<marker id="786473523" label="Corudan" category="70" did="1879487639" parentZoneId="1879124366" longitude="32.41119" latitude="62.6165"/>
+<marker id="786473524" label="Gandalf" category="70" did="1879487617" parentZoneId="1879124366" longitude="32.410583" latitude="62.601795"/>
+<marker id="786473528" label="Corudan" category="70" did="1879487661" parentZoneId="1879124366" longitude="32.417694" latitude="62.59715"/>
+<marker id="786473530" label="Belondor" category="70" did="1879487653" parentZoneId="1879124366" longitude="32.41865" latitude="62.615154"/>
+<marker id="786473532" label="Elladan" category="70" did="1879487685" parentZoneId="1879124366" longitude="32.411583" latitude="62.612186"/>
+<marker id="786473533" label="Sirgon" category="70" did="1879487636" parentZoneId="1879124366" longitude="32.383553" latitude="62.617596"/>
+<marker id="786473534" label="Corudan" category="70" did="1879487587" parentZoneId="1879124366" longitude="32.411583" latitude="62.62035"/>
+<marker id="786473535" label="Silirtas" category="70" did="1879487611" parentZoneId="1879124366" longitude="32.387012" latitude="62.610973"/>
+<marker id="786473536" label="Corudan" category="70" did="1879487738" parentZoneId="1879124366" longitude="32.41879" latitude="62.610115"/>
+<marker id="786473537" label="Gandalf" category="70" did="1879487638" parentZoneId="1879124366" longitude="32.410583" latitude="62.60738"/>
+<marker id="786473538" label="Belondor" category="70" did="1879487699" parentZoneId="1879124366" longitude="32.4183" latitude="62.624825"/>
+<marker id="786473539" label="Sirgon" category="70" did="1879487678" parentZoneId="1879124366" longitude="32.386562" latitude="62.602264"/>
+<marker id="786473540" label="Sirgon" category="70" did="1879487684" parentZoneId="1879124366" longitude="32.38568" latitude="62.59789"/>
+<marker id="786473541" label="Girhâzi" category="70" did="1879487641" parentZoneId="1879124366" longitude="32.40578" latitude="62.618633"/>
+<marker id="786473542" label="Rahâzi" category="70" did="1879487605" parentZoneId="1879124366" longitude="32.398808" latitude="62.595135"/>
+<marker id="786473543" label="Rothog" category="70" did="1879487728" parentZoneId="1879124366" longitude="32.39496" latitude="62.617107"/>
+<marker id="786473544" label="Khôltekh" category="70" did="1879487731" parentZoneId="1879124366" longitude="32.404434" latitude="62.605858"/>
+<marker id="786473545" label="Corudan" category="70" did="1879487719" parentZoneId="1879124366" longitude="32.418106" latitude="62.605293"/>
+<marker id="786473546" label="Sigileth" category="70" did="1879487716" parentZoneId="1879124366" longitude="32.38703" latitude="62.614902"/>
+<marker id="786473548" label="Shanthar" category="70" did="1879487537" parentZoneId="1879124366" longitude="32.420994" latitude="62.71945"/>
 <marker id="786493440" label="Corsair Deck-hand" category="71" did="1879474599" parentZoneId="1879063919" longitude="32.340137" latitude="66.75947"/>
 <marker id="786493441" label="Corsair Deck-hand" category="71" did="1879474600" parentZoneId="1879063919" longitude="32.30412" latitude="66.817345"/>
 </markers>

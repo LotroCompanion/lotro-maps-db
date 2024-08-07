@@ -991,14 +991,6 @@
 <marker id="1341005861" label="Goblin-scout" category="71" did="1879396320" parentZoneId="1879393869" longitude="56.696033" latitude="56.404003"/>
 <marker id="1341005862" label="Goblin-scout" category="71" did="1879396320" parentZoneId="1879393869" longitude="56.690544" latitude="56.381443"/>
 <marker id="1341005863" label="Goblin-scout" category="71" did="1879396320" parentZoneId="1879393869" longitude="56.31373" latitude="56.58791"/>
-<marker id="1341005869" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.52037" latitude="56.296562"/>
-<marker id="1341005870" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.695602" latitude="56.399998"/>
-<marker id="1341005871" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.25156" latitude="56.214493"/>
-<marker id="1341005872" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.50166" latitude="56.279587"/>
-<marker id="1341005873" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.49918" latitude="56.166523"/>
-<marker id="1341005874" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.58531" latitude="56.2466"/>
-<marker id="1341005875" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.531914" latitude="56.581425"/>
-<marker id="1341005876" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.56533" latitude="56.216328"/>
 <marker id="1341005878" label="Jail Door" category="100" did="1879083679" parentZoneId="1879393869" longitude="56.38156" latitude="56.149315"/>
 <marker id="1341005879" label="Jail Door" category="100" did="1879083679" parentZoneId="1879393869" longitude="56.420567" latitude="56.651367"/>
 <marker id="1341005883" label="Barad Angarth Overseer" category="71" did="1879394072" parentZoneId="1879393869" longitude="56.241367" latitude="56.257713"/>
@@ -1010,6 +1002,14 @@
 <marker id="1341005901" label="Gothmog Sergeant" category="71" did="1879396328" parentZoneId="1879393869" longitude="56.380196" latitude="56.16258"/>
 <marker id="1341005902" label="Gothmog Sergeant" category="71" did="1879396328" parentZoneId="1879393869" longitude="56.419277" latitude="56.632675"/>
 <marker id="1341005903" label="Gothmog Sergeant" category="71" did="1879396328" parentZoneId="1879393869" longitude="56.64783" latitude="56.4016"/>
+<marker id="1341005905" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.50166" latitude="56.279587"/>
+<marker id="1341005906" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.58531" latitude="56.2466"/>
+<marker id="1341005907" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.56533" latitude="56.216328"/>
+<marker id="1341005908" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.52037" latitude="56.296562"/>
+<marker id="1341005909" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.695602" latitude="56.399998"/>
+<marker id="1341005910" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.25156" latitude="56.214493"/>
+<marker id="1341005911" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.49918" latitude="56.166523"/>
+<marker id="1341005912" label="Gothmog Warrior" category="71" did="1879396319" parentZoneId="1879393869" longitude="56.531914" latitude="56.581425"/>
 <marker id="1341014016" label="Forge-master" category="29" did="1879389832" parentZoneId="1879393870" longitude="56.431267" latitude="58.23035"/>
 <marker id="1341014017" label="Provisioner" category="38" did="1879394453" parentZoneId="1879393870" longitude="56.377205" latitude="58.172207"/>
 <marker id="1341014026" label="Minas Morgul Guide" category="51" did="1879399289" parentZoneId="1879393870" longitude="56.363983" latitude="58.219822"/>
@@ -1522,15 +1522,15 @@
 <marker id="1341030902" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879390420" longitude="57.49006" latitude="60.625603"/>
 <marker id="1341030903" label="Ithil Artifact Chest" category="50" did="1879396368" parentZoneId="1879390420" longitude="57.05582" latitude="61.157185"/>
 <marker id="1341030904" label="Heavy Ithil Artifact Chest" category="50" did="1879396367" parentZoneId="1879390420" longitude="57.05582" latitude="61.157185"/>
-<marker id="1341038592" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.548203" latitude="62.819958"/>
-<marker id="1341038596" label="Study" category="45" did="1879314747" parentZoneId="1879335470" longitude="56.25611" latitude="62.77908"/>
-<marker id="1341038597" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.307285" latitude="62.777344"/>
-<marker id="1341038602" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.493202" latitude="62.823086"/>
-<marker id="1341038624" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.54539" latitude="62.77699"/>
-<marker id="1341038626" label="Master of Crafting Guilds" category="42" did="1879330153" parentZoneId="1879335470" longitude="56.384567" latitude="62.870487"/>
-<marker id="1341038628" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879335470" longitude="56.29658" latitude="62.870274"/>
-<marker id="1341038629" label="Mailbox" category="34" did="1879314516" parentZoneId="1879335470" longitude="56.380722" latitude="62.75027"/>
-<marker id="1341038630" label="Mailbox" category="34" did="1879314516" parentZoneId="1879335470" longitude="56.41961" latitude="62.75027"/>
+<marker id="1341038595" label="Study" category="45" did="1879314747" parentZoneId="1879335470" longitude="56.25611" latitude="62.77908"/>
+<marker id="1341038596" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.307285" latitude="62.777344"/>
+<marker id="1341038601" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.493202" latitude="62.823086"/>
+<marker id="1341038623" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.54539" latitude="62.77699"/>
+<marker id="1341038625" label="Master of Crafting Guilds" category="42" did="1879330153" parentZoneId="1879335470" longitude="56.384567" latitude="62.870487"/>
+<marker id="1341038627" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879335470" longitude="56.29658" latitude="62.870274"/>
+<marker id="1341038628" label="Mailbox" category="34" did="1879314516" parentZoneId="1879335470" longitude="56.380722" latitude="62.75027"/>
+<marker id="1341038629" label="Mailbox" category="34" did="1879314516" parentZoneId="1879335470" longitude="56.41961" latitude="62.75027"/>
+<marker id="1341038630" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.548203" latitude="62.819958"/>
 <marker id="1341038631" label="Oven" category="45" did="1879190929" parentZoneId="1879335470" longitude="56.300312" latitude="62.92662"/>
 <marker id="1341038632" label="Oven" category="45" did="1879190929" parentZoneId="1879335470" longitude="56.500313" latitude="62.92662"/>
 <marker id="1341038633" label="Workbench" category="45" did="1879314748" parentZoneId="1879335470" longitude="56.49334" latitude="62.77824"/>
