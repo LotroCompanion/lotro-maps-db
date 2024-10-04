@@ -598,7 +598,7 @@
 <label key="1879054465" value="Лютый орк из клана Онгбурз"/>
 <label key="1879054472" value="Хорнбори"/>
 <label key="1879054476" value="Мешок с зерном"/>
-<label key="1879054490" value="Мешочек дрожжей"/>
+<label key="1879054490" value="Мешок дрожжей"/>
 <label key="1879054495" value="Рагнарр Звонкий Рог"/>
 <label key="1879054498" value="Череп тура"/>
 <label key="1879054500" value="Череп Великого Тура"/>
@@ -958,16 +958,16 @@
 <label key="1879063059" value="Печь"/>
 <label key="1879063060" value="Кабинет"/>
 <label key="1879063061" value="Кабинет"/>
-<label key="1879063062" value="Наковальня"/>
-<label key="1879063063" value="Наковальня"/>
+<label key="1879063062" value="Кузница"/>
+<label key="1879063063" value="Кузница"/>
 <label key="1879063064" value="Умелый портной"/>
 <label key="1879063068" value="Умелый деревообработчик"/>
 <label key="1879063069" value="Умелый деревообработчик"/>
 <label key="1879063071" value="Умелый деревообработчик"/>
-<label key="1879063072" value="Рабочий стол"/>
-<label key="1879063073" value="Рабочий стол"/>
+<label key="1879063072" value="Верстак"/>
+<label key="1879063073" value="Верстак"/>
 <label key="1879063074" value="Наставник бронников"/>
-<label key="1879063081" value="Рабочий стол"/>
+<label key="1879063081" value="Верстак"/>
 <label key="1879063082" value="Хобби Ройл"/>
 <label key="1879063083" value="Умелый фермер"/>
 <label key="1879063084" value="Плодородный участок земли"/>
@@ -1166,7 +1166,7 @@
 <label key="1879063351" value="Гитбар"/>
 <label key="1879063352" value="Фанхир"/>
 <label key="1879063353" value="Серебряная Бездна"/>
-<label key="1879063354" value="Наковальня"/>
+<label key="1879063354" value="Кузница"/>
 <label key="1879063356" value="Кетилл"/>
 <label key="1879063357" value="Ноглонд"/>
 <label key="1879063358" value="Дверь"/>
@@ -1603,7 +1603,7 @@
 <label key="1879063802" value="Ладрокан"/>
 <label key="1879063804" value="Кузни Ривенделла"/>
 <label key="1879063805" value="Торговец припасами"/>
-<label key="1879063806" value="Наковальня"/>
+<label key="1879063806" value="Кузница"/>
 <label key="1879063807" value="Каменная равнина"/>
 <label key="1879063808" value="Мост Ривенделла"/>
 <label key="1879063809" value="Торговая площадь"/>
@@ -1640,7 +1640,7 @@
 <label key="1879063841" value="Великанья Игла"/>
 <label key="1879063842" value="Иорбар"/>
 <label key="1879063844" value="Марктор"/>
-<label key="1879063845" value="Наковальня"/>
+<label key="1879063845" value="Кузница"/>
 <label key="1879063846" value="Хозяин таверны"/>
 <label key="1879063847" value="Белг"/>
 <label key="1879063848" value="Лотинн"/>
@@ -2207,7 +2207,7 @@
 <label key="1879078458" value="Мрачный бесплодный дуб"/>
 <label key="1879078460" value="Труп полуорка"/>
 <label key="1879078462" value="Старый Вяз - Заболевание"/>
-<label key="1879078463" value="Старый Вяз - Ослабление"/>
+<label key="1879078463" value="DNT - Old Man Willow - Debuff"/>
 <label key="1879078469" value="Зловещий корень вяза"/>
 <label key="1879078472" value="Гил Жимолостник"/>
 <label key="1879078474" value="Лесной кусач"/>
@@ -2432,7 +2432,7 @@
 <label key="1879079098" value="Амдир"/>
 <label key="1879079099" value="Эоган"/>
 <label key="1879079100" value="Ленглинн"/>
-<label key="1879079101" value="Ужас"/>
+<label key="1879079101" value="DNT - Dread"/>
 <label key="1879079102" value="Аура надежды уровня 4"/>
 <label key="1879079103" value="Тортанн"/>
 <label key="1879079108" value="Могильное умертвие"/>
@@ -2669,7 +2669,7 @@
 <label key="1879079663" value="Дозорный Белой Руки"/>
 <label key="1879079664" value="Искусный лучник Белой Руки"/>
 <label key="1879079665" value="Трок-гот"/>
-<label key="1879079666" value="Сигнальщик"/>
+<label key="1879079666" value="DNT - Torch Responder"/>
 <label key="1879079671" value="Стенка ящика"/>
 <label key="1879079672" value="Кандайт"/>
 <label key="1879079673" value="Зоркий страж"/>
@@ -2795,7 +2795,7 @@
 <label key="1879079983" value="Умрун - глашатай порчи"/>
 <label key="1879079985" value="Стена"/>
 <label key="1879079986" value="Падший алый воин"/>
-<label key="1879079987" value="Событие: корни - духи"/>
+<label key="1879079987" value="DNT - Drama Root Hotspot - Ghosts"/>
 <label key="1879079990" value="Креот-новичок"/>
 <label key="1879079991" value="Креот-старейшина"/>
 <label key="1879079992" value="Ужасающее сумеречное изводье"/>
@@ -2839,7 +2839,7 @@
 <label key="1879080097" value="Скрюченное умертвие"/>
 <label key="1879080098" value="Наруэль"/>
 <label key="1879080101" value="Старый сундук"/>
-<label key="1879080103" value="Сигнальщик"/>
+<label key="1879080103" value="DNT - Torch Responder"/>
 <label key="1879080122" value="Скрюченное умертвие"/>
 <label key="1879080123" value="Свирепое умертвие"/>
 <label key="1879080124" value="Падший алый стражник"/>
@@ -3129,7 +3129,7 @@
 <label key="1879080841" value="Доронгур Белошип"/>
 <label key="1879080842" value="Проволочная ловушка"/>
 <label key="1879080845" value="Снежный тролль"/>
-<label key="1879080846" value="Событие - оглушение"/>
+<label key="1879080846" value="DNT - Drama Stun Hotspot"/>
 <label key="1879080847" value="GNDN"/>
 <label key="1879080848" value="GNDN"/>
 <label key="1879080849" value="GNDN"/>
@@ -3248,7 +3248,7 @@
 <label key="1879081165" value="Варг-падальщик"/>
 <label key="1879081166" value="Боец из клана Онгбурз"/>
 <label key="1879081167" value="Лазутчик из клана Онгбурз"/>
-<label key="1879081169" value="Стоячая вода - отрицательный эффект"/>
+<label key="1879081169" value="DNT - Still Water Debuff"/>
 <label key="1879081170" value="Сара Храббард"/>
 <label key="1879081171" value="Пленный гном"/>
 <label key="1879081172" value="Пленный следопыт"/>
@@ -3258,7 +3258,7 @@
 <label key="1879081176" value="Пленный мужчина"/>
 <label key="1879081188" value="Разбойник из клана Блогмал"/>
 <label key="1879081189" value="Мародер из клана Блогмал"/>
-<label key="1879081190" value="Глубина - отрицательный эффект"/>
+<label key="1879081190" value="DNT - Deep Water Debuff"/>
 <label key="1879081194" value="Гурат-Кафак"/>
 <label key="1879081197" value="Мэтти Ясменник"/>
 <label key="1879081198" value="Нолл Тоббит"/>
@@ -3297,7 +3297,7 @@
 <label key="1879081255" value="Дверь"/>
 <label key="1879081256" value="Дверь"/>
 <label key="1879081257" value="Факел"/>
-<label key="1879081259" value="Сигнальщик"/>
+<label key="1879081259" value="DNT - Torch Responder"/>
 <label key="1879081260" value="Огненное пекло"/>
 <label key="1879081265" value="GNDN"/>
 <label key="1879081266" value="Марла Шелтон"/>
@@ -3438,7 +3438,7 @@
 <label key="1879081582" value="Баранвен"/>
 <label key="1879081584" value="Ганделин"/>
 <label key="1879081586" value="Силефалас"/>
-<label key="1879081596" value="Хранитель болот"/>
+<label key="1879081596" value="Болотный кочун"/>
 <label key="1879081597" value="Жительница"/>
 <label key="1879081598" value="Житель"/>
 <label key="1879081599" value="Холли"/>
@@ -3579,7 +3579,7 @@
 <label key="1879082047" value="Дувардан - провидица"/>
 <label key="1879082048" value="Бледнокожий невольник"/>
 <label key="1879082049" value="Горторог-раб"/>
-<label key="1879082066" value="Ангмарская смертоносная слизь"/>
+<label key="1879082066" value="DNT - Angmar Slime of Death"/>
 <label key="1879082067" value="Житель Ангмара"/>
 <label key="1879082068" value="Жительница Ангмара"/>
 <label key="1879082069" value="Ангмарский дозорный"/>
@@ -3754,7 +3754,7 @@
 <label key="1879082411" value="Мортранг"/>
 <label key="1879082412" value="Стальноклювый приспешник"/>
 <label key="1879082424" value="Груглок"/>
-<label key="1879082425" value="Событие - точка ошеломления"/>
+<label key="1879082425" value="DNT - Drama Instant Daze Hotspot"/>
 <label key="1879082432" value="Зловещий сторожевой камень"/>
 <label key="1879082434" value="Воин из клана Блогмал"/>
 <label key="1879082435" value="Застрельщик из клана Блогмал"/>
@@ -3873,7 +3873,7 @@
 <label key="1879082712" value="Моркар"/>
 <label key="1879082713" value="Гарнаит Железноязыкий"/>
 <label key="1879082715" value="Гулдурвул"/>
-<label key="1879082717" value="Отступление"/>
+<label key="1879082717" value="DNT - Run Home"/>
 <label key="1879082720" value="Падальщик Черной стаи"/>
 <label key="1879082721" value="Вожак Черной стаи"/>
 <label key="1879082722" value="Агрессивный космач"/>
@@ -3988,7 +3988,7 @@
 <label key="1879083051" value="Снежный Потрошитель - метатель глыб"/>
 <label key="1879083052" value="Бешеный лютый медведь"/>
 <label key="1879083053" value="Драконид-зимогон"/>
-<label key="1879083054" value="Молодой драконид-зимогон"/>
+<label key="1879083054" value="Дракончик-зимогон"/>
 <label key="1879083060" value="Черный клен-гнилолист"/>
 <label key="1879083061" value="Черный дуб-гнилолист"/>
 <label key="1879083065" value="Горгорис"/>
@@ -4269,7 +4269,7 @@
 <label key="1879083697" value="Гобелен с кораблем"/>
 <label key="1879083698" value="Шкатулка для драгоценностей"/>
 <label key="1879083702" value="Золотой кубок"/>
-<label key="1879083703" value="Защищенная подсказка"/>
+<label key="1879083703" value="DNT - Protected Hint"/>
 <label key="1879083705" value="Гуленет"/>
 <label key="1879083707" value="Снежный медведь"/>
 <label key="1879083708" value="Снежный медвежонок"/>
@@ -4329,7 +4329,7 @@
 <label key="1879084311" value="Дверь"/>
 <label key="1879084429" value="Долдагнир"/>
 <label key="1879084437" value="Снежный Загривок"/>
-<label key="1879084441" value="Точка воодушевления Мирдананта"/>
+<label key="1879084441" value="DNT - Mírdanant's Inspiration Hotspot"/>
 <label key="1879084446" value="Дангхал"/>
 <label key="1879084448" value="Хладохват"/>
 <label key="1879084450" value="Каитир Гадючница"/>
@@ -4355,7 +4355,7 @@
 <label key="1879085208" value="Свальфанг"/>
 <label key="1879085217" value="Наглангон"/>
 <label key="1879085249" value="Эглан-лучник"/>
-<label key="1879085254" value="Наковальня"/>
+<label key="1879085254" value="Кузница"/>
 <label key="1879085255" value="Ангмарский уголь"/>
 <label key="1879085260" value="Обглоданные кости"/>
 <label key="1879085348" value="Кисет с кровавиками"/>
@@ -4379,7 +4379,7 @@
 <label key="1879085696" value="Кана"/>
 <label key="1879085699" value="Мусор"/>
 <label key="1879085721" value="Дверь"/>
-<label key="1879085739" value="Оплавление"/>
+<label key="1879085739" value="DNT - Heat Distortion"/>
 <label key="1879085749" value="Падший дух"/>
 <label key="1879085750" value="Разъяренный падший дух"/>
 <label key="1879085770" value="GNDN"/>
@@ -4447,7 +4447,7 @@
 <label key="1879086695" value="Фродо Торбинс"/>
 <label key="1879086696" value="Гэндальф"/>
 <label key="1879086699" value="Хемельдир"/>
-<label key="1879086710" value="Место для свиста"/>
+<label key="1879086710" value="DNT - Whistle Location"/>
 <label key="1879086718" value="Орсо"/>
 <label key="1879086720" value="Ангмарский исследователь"/>
 <label key="1879086721" value="Ангмарский меткий стрелок"/>
@@ -4707,7 +4707,7 @@
 <label key="1879087866" value="Папоротниковое пиво"/>
 <label key="1879087867" value="Портер Перри"/>
 <label key="1879087868" value="Сидр Узлика"/>
-<label key="1879087869" value="Ловушка с шипами"/>
+<label key="1879087869" value="DNT - Spike Trap"/>
 <label key="1879087881" value="Холмовая сколопендра"/>
 <label key="1879087882" value="Плесенница"/>
 <label key="1879087883" value="Белый волк-падальщик"/>
@@ -4740,7 +4740,7 @@
 <label key="1879087947" value="Слюдожал"/>
 <label key="1879088065" value="Брыхан Лысый"/>
 <label key="1879088067" value="Игровая курица"/>
-<label key="1879088131" value="Выход из телепорта"/>
+<label key="1879088131" value="DNT - Teleport out"/>
 <label key="1879088152" value="Энди Омут"/>
 <label key="1879088153" value="Нат Коллоп"/>
 <label key="1879088154" value="Валеранд Падди"/>
@@ -4892,9 +4892,9 @@
 <label key="1879089218" value="Наемник"/>
 <label key="1879089219" value="Наемница"/>
 <label key="1879089280" value="Мольба Форвенгвата"/>
-<label key="1879089409" value="Разрешить жезл"/>
-<label key="1879089410" value="Разрешить свиток"/>
-<label key="1879089411" value="Разрешить рог"/>
+<label key="1879089409" value="DNT - Enable Staff"/>
+<label key="1879089410" value="DNT - Enable Scroll"/>
+<label key="1879089411" value="DNT - Enable Horn"/>
 <label key="1879089416" value="Гнутый щит"/>
 <label key="1879089417" value="Сломанный меч"/>
 <label key="1879089418" value="Старинная ваза"/>
@@ -4931,7 +4931,7 @@
 <label key="1879089474" value="Хармони Грейсон"/>
 <label key="1879089475" value="Холси Рид"/>
 <label key="1879089476" value="Келси Вест"/>
-<label key="1879089482" value="Слепящий свет"/>
+<label key="1879089482" value="DNT - Blinding Light"/>
 <label key="1879089504" value="Кларк Стендиш"/>
 <label key="1879089505" value="Баллард Вилмер"/>
 <label key="1879089506" value="Ровена Паркер"/>
@@ -5495,7 +5495,7 @@
 <label key="1879095130" value="Мордрамбор"/>
 <label key="1879095131" value="Удулуг"/>
 <label key="1879095474" value="PELockBox"/>
-<label key="1879095475" value="Ограничение побега"/>
+<label key="1879095475" value="DNT - Restricted Run Home"/>
 <label key="1879095477" value="Асмолф"/>
 <label key="1879095478" value="Горец-рудокоп"/>
 <label key="1879095480" value="Горец-рудокоп"/>
@@ -5546,7 +5546,7 @@
 <label key="1879095602" value="Шлем Торкелла"/>
 <label key="1879095647" value="Огромный след"/>
 <label key="1879095648" value="Ничейный бочонок"/>
-<label key="1879095684" value="Дрожащая камера"/>
+<label key="1879095684" value="DNT - Camera Shake"/>
 <label key="1879095701" value="Флаг копей Фрора"/>
 <label key="1879095702" value="Вход в копи Фрора"/>
 <label key="1879095703" value="Флаг копей Фрора"/>
@@ -5590,7 +5590,7 @@
 <label key="1879097081" value="Воин из клана Гхашфра"/>
 <label key="1879097082" value="Фруз"/>
 <label key="1879097094" value="Печь"/>
-<label key="1879097095" value="Рабочий стол"/>
+<label key="1879097095" value="Верстак"/>
 <label key="1879097166" value="Эвон"/>
 <label key="1879097167" value="Орион"/>
 <label key="1879097168" value="Снежинка"/>
@@ -5621,7 +5621,7 @@
 <label key="1879097434" value="Осквернитель из клана Гхашфра"/>
 <label key="1879097436" value="Забияка из клана Гхашфра"/>
 <label key="1879097439" value="Пожиратель камней"/>
-<label key="1879097440" value="Молодой огненный драконид"/>
+<label key="1879097440" value="Огненный дракончик"/>
 <label key="1879097441" value="Огненный драконид"/>
 <label key="1879097442" value="Заклинатель из клана Гхашфра"/>
 <label key="1879097443" value="Защитник из клана Гхашфра"/>
@@ -5703,7 +5703,7 @@
 <label key="1879097779" value="Амбан"/>
 <label key="1879097780" value="Ародиннас"/>
 <label key="1879097781" value="Фарадвон"/>
-<label key="1879097793" value="Эльфийская кара"/>
+<label key="1879097793" value="DNT - Elf Death Smite"/>
 <label key="1879098008" value="Крур"/>
 <label key="1879098009" value="Дунуд"/>
 <label key="1879098010" value="Шак"/>
@@ -5725,7 +5725,7 @@
 <label key="1879098122" value="Заостренный кол"/>
 <label key="1879098126" value="Земляной холмик"/>
 <label key="1879098130" value="Лава"/>
-<label key="1879098173" value="Место нежданной надежды"/>
+<label key="1879098173" value="DNT - Hope Unlooked For Hotspot"/>
 <label key="1879098178" value="Эглас"/>
 <label key="1879098179" value="Куртамузган"/>
 <label key="1879098182" value="Малый пламенный орел"/>
@@ -5779,9 +5779,9 @@
 <label key="1879098758" value="Ситадский мечеклювый когтерой"/>
 <label key="1879098759" value="Ситадская сколопендра"/>
 <label key="1879098796" value="Фумарола"/>
-<label key="1879098801" value="Воспоминание"/>
+<label key="1879098801" value="DNT - Flashback"/>
 <label key="1879098859" value="Клэр Белошип"/>
-<label key="1879098897" value="Друг дикой природы - развеять чары"/>
+<label key="1879098897" value="DNT - Friend of the Wild Pet Dispel"/>
 <label key="1879098921" value="Бернард Дубси"/>
 <label key="1879098922" value="Спарр"/>
 <label key="1879098923" value="Фиалла Тополап"/>
@@ -5872,7 +5872,7 @@
 <label key="1879102388" value="Рагнайд"/>
 <label key="1879102389" value="Рона"/>
 <label key="1879102390" value="Сорка"/>
-<label key="1879102446" value="Вывод из скрытности"/>
+<label key="1879102446" value="DNT - Stealth Breaking Hotspot"/>
 <label key="1879102626" value="Палаточный лагерь"/>
 <label key="1879102662" value="Лаэрдан"/>
 <label key="1879102665" value="Гватрин"/>
@@ -6099,7 +6099,7 @@
 <label key="1879104105" value="Лесной красноклыкий варг"/>
 <label key="1879104106" value="Охотящийся красноклыкий варг"/>
 <label key="1879104107" value="Скесса"/>
-<label key="1879104123" value="Теплый воздух"/>
+<label key="1879104123" value="DNT - Warming Air"/>
 <label key="1879104157" value="Предводитель северного отряда"/>
 <label key="1879104158" value="Ангмарский завоеватель"/>
 <label key="1879104159" value="Ангмарский лазутчик"/>
@@ -6170,7 +6170,7 @@
 <label key="1879106441" value="Оружие"/>
 <label key="1879106479" value="Паксу-карва"/>
 <label key="1879106480" value="Урмас"/>
-<label key="1879106484" value="Теплый воздух"/>
+<label key="1879106484" value="DNT - Warming Air"/>
 <label key="1879106485" value="Старинный сундук"/>
 <label key="1879106486" value="Ледяной великан-воин"/>
 <label key="1879106487" value="Ледяной великан - метатель"/>
@@ -6239,7 +6239,7 @@
 <label key="1879106998" value="Питка-хаммас"/>
 <label key="1879106999" value="Фьок"/>
 <label key="1879107053" value="Деорнид"/>
-<label key="1879107098" value="Холодные ветра"/>
+<label key="1879107098" value="DNT - Cold Winds"/>
 <label key="1879107433" value="Гаураданский оберег"/>
 <label key="1879107495" value="Точка открывания двери"/>
 <label key="1879107496" value="Факел"/>
@@ -6299,7 +6299,7 @@
 <label key="1879107991" value="Рычащая росомаха"/>
 <label key="1879107992" value="Красноклыкий варг-исполин"/>
 <label key="1879107993" value="Кенлиг"/>
-<label key="1879108044" value="Теплый костер"/>
+<label key="1879108044" value="DNT - Warm Camp-fire"/>
 <label key="1879108052" value="Затемняющее изводье"/>
 <label key="1879108053" value="Давящее изводье"/>
 <label key="1879108054" value="Ослабляющее изводье"/>
@@ -6534,10 +6534,10 @@
 <label key="1879110039" value="Безумный сумеречный варг"/>
 <label key="1879110040" value="Сумеречный варг-охотник"/>
 <label key="1879110041" value="Зузар"/>
-<label key="1879110058" value="Избавляет от простуды"/>
-<label key="1879110059" value="Поджигает"/>
+<label key="1879110058" value="DNT - Removes Cold"/>
+<label key="1879110059" value="DNT - Sets you on Fire"/>
 <label key="1879110077" value="Снежный ящер"/>
-<label key="1879110081" value="Награда за морскую рыбалку"/>
+<label key="1879110081" value="DNT - Bounty of the Sea Fishing Override"/>
 <label key="1879110093" value="Реджинальд Вард"/>
 <label key="1879110094" value="Герольд Реджинальда"/>
 <label key="1879110102" value="GNDN"/>
@@ -6592,9 +6592,9 @@
 <label key="1879112591" value="Проволочная ловушка"/>
 <label key="1879112593" value="Проволочная ловушка"/>
 <label key="1879112605" value="Зловещий нетопырь"/>
-<label key="1879112612" value="Пустая рыбацкая кладовая"/>
+<label key="1879112612" value="DNT - Empty Larder Fishing Override"/>
 <label key="1879112622" value="Гхаш-хай-подрывник"/>
-<label key="1879112723" value="На колени"/>
+<label key="1879112723" value="DNT - Drama Kneel Hotspot"/>
 <label key="1879112724" value="Ужасающий сторожевой камень"/>
 <label key="1879112725" value="Гробница Менадара"/>
 <label key="1879112726" value="Записка Лаэрдана"/>
@@ -6755,28 +6755,28 @@
 <label key="1879113819" value="Рычаг"/>
 <label key="1879113820" value="Валун"/>
 <label key="1879114055" value="Тяга кузнечного горна"/>
-<label key="1879114056" value="Бочонок"/>
+<label key="1879114056" value="DNT - Keg Responder"/>
 <label key="1879114084" value="Фирингал"/>
 <label key="1879114085" value="Филегнанет"/>
-<label key="1879114145" value="Вытягивание здоровья/энергии"/>
-<label key="1879114146" value="Вытягивание здоровья/энергии"/>
-<label key="1879114147" value="Вытягивание здоровья/энергии"/>
-<label key="1879114148" value="Вытягивание здоровья/энергии"/>
-<label key="1879114149" value="Вытягивание здоровья/энергии"/>
-<label key="1879114150" value="Вытягивание здоровья/энергии"/>
-<label key="1879114151" value="Вытягивание здоровья/энергии"/>
-<label key="1879114152" value="Вытягивание здоровья/энергии"/>
-<label key="1879114153" value="Вытягивание здоровья/энергии"/>
-<label key="1879114154" value="Вытягивание здоровья/энергии"/>
-<label key="1879114155" value="Вытягивание здоровья/энергии"/>
-<label key="1879114156" value="Вытягивание здоровья/энергии"/>
-<label key="1879114157" value="Вытягивание здоровья/энергии"/>
-<label key="1879114158" value="Вытягивание здоровья/энергии"/>
-<label key="1879114159" value="Вытягивание здоровья/энергии"/>
-<label key="1879114160" value="Вытягивание здоровья/энергии"/>
-<label key="1879114161" value="Вытягивание здоровья/энергии"/>
-<label key="1879114162" value="Вытягивание здоровья/энергии"/>
-<label key="1879114163" value="Вытягивание здоровья/энергии"/>
+<label key="1879114145" value="DNT - Health/Power Drain"/>
+<label key="1879114146" value="DNT - Health/Power Drain"/>
+<label key="1879114147" value="DNT - Health/Power Drain"/>
+<label key="1879114148" value="DNT - Health/Power Drain"/>
+<label key="1879114149" value="DNT - Health/Power Drain"/>
+<label key="1879114150" value="DNT - Health/Power Drain"/>
+<label key="1879114151" value="DNT - Health/Power Drain"/>
+<label key="1879114152" value="DNT - Health/Power Drain"/>
+<label key="1879114153" value="DNT - Health/Power Drain"/>
+<label key="1879114154" value="DNT - Health/Power Drain"/>
+<label key="1879114155" value="DNT - Health/Power Drain"/>
+<label key="1879114156" value="DNT - Health/Power Drain"/>
+<label key="1879114157" value="DNT - Health/Power Drain"/>
+<label key="1879114158" value="DNT - Health/Power Drain"/>
+<label key="1879114159" value="DNT - Health/Power Drain"/>
+<label key="1879114160" value="DNT - Health/Power Drain"/>
+<label key="1879114161" value="DNT - Health/Power Drain"/>
+<label key="1879114162" value="DNT - Health/Power Drain"/>
+<label key="1879114163" value="DNT - Health/Power Drain"/>
 <label key="1879114193" value="Меньший дух"/>
 <label key="1879114196" value="Темный орк - берсерк"/>
 <label key="1879114197" value="Морхун"/>
@@ -6859,7 +6859,7 @@
 <label key="1879114727" value="Том Гуларана"/>
 <label key="1879114728" value="Каталог Гуларана"/>
 <label key="1879115034" value="Блокк"/>
-<label key="1879115074" value="Воющая тень"/>
+<label key="1879115074" value="DNT - Howling Shadows"/>
 <label key="1879115169" value="Сундук"/>
 <label key="1879115216" value="Старинный сундук"/>
 <label key="1879115221" value="Табличка Эхад Гартадира"/>
@@ -7136,9 +7136,9 @@
 <label key="1879127505" value="Вафи"/>
 <label key="1879127516" value="Глубокая вода"/>
 <label key="1879127517" value="Мелководье"/>
-<label key="1879127519" value="Призыв изнуряющих щупалец"/>
-<label key="1879127520" value="Призыв стискивающих щупалец"/>
-<label key="1879127521" value="Призыв удушающих щупалец"/>
+<label key="1879127519" value="DNT - Summon Harassing Tentacles"/>
+<label key="1879127520" value="DNT - Summon Squeezing Tentacles"/>
+<label key="1879127521" value="DNT - Summon Strangling Tentacles"/>
 <label key="1879127523" value="Щупальце"/>
 <label key="1879127594" value="Полуорк-задира"/>
 <label key="1879127595" value="Полуорк-погонщик варгов"/>
@@ -7275,10 +7275,10 @@
 <label key="1879131595" value="Ракотурц"/>
 <label key="1879131596" value="Синь"/>
 <label key="1879131597" value="Танелег"/>
-<label key="1879131598" value="Вызов Гурванда"/>
-<label key="1879131599" value="Рунический свет"/>
-<label key="1879131600" value="Тьма"/>
-<label key="1879131601" value="Рунический свет"/>
+<label key="1879131598" value="DNT - Gurvand's Challenge"/>
+<label key="1879131599" value="DNT - Rune Light"/>
+<label key="1879131600" value="DNT - Darkness"/>
+<label key="1879131601" value="DNT - Rune Light"/>
 <label key="1879131627" value="Черная ворона"/>
 <label key="1879131628" value="Остробород"/>
 <label key="1879131629" value="Таг"/>
@@ -7358,8 +7358,8 @@
 <label key="1879132175" value="Честни Дородник"/>
 <label key="1879132176" value="Черепки старинной керамики"/>
 <label key="1879132177" value="Рамби"/>
-<label key="1879132180" value="Бочонок с взрывчатым порошком"/>
-<label key="1879132181" value="Бочонок с взрывчатым порошком"/>
+<label key="1879132180" value="DNT - Blasting Powder Keg"/>
+<label key="1879132181" value="DNT - Blasting Powder Keg"/>
 <label key="1879132185" value="Разбитый щит"/>
 <label key="1879132186" value="Гатрок"/>
 <label key="1879132187" value="Пухлор"/>
@@ -7390,7 +7390,7 @@
 <label key="1879132284" value="Треснувший череп"/>
 <label key="1879132285" value="Зонтик Прунеллы"/>
 <label key="1879132286" value="Черный плащ"/>
-<label key="1879132316" value="Липкое вещество"/>
+<label key="1879132316" value="DNT - Sticky Goo"/>
 <label key="1879132463" value="Повар Врарз"/>
 <label key="1879132464" value="Огненный кулак Талуга"/>
 <label key="1879132465" value="Клык Талуга"/>
@@ -7401,7 +7401,7 @@
 <label key="1879133200" value="Орочий колокол"/>
 <label key="1879133201" value="Подземный когтерой-копатель"/>
 <label key="1879133989" value="Рычаг"/>
-<label key="1879133998" value="Призыв изнуряющих щупалец"/>
+<label key="1879133998" value="DNT - Summon Harassing Tentacles"/>
 <label key="1879134004" value="Камби"/>
 <label key="1879134007" value="Наемник-укротитель"/>
 <label key="1879134008" value="Предводитель наемников"/>
@@ -7563,7 +7563,7 @@
 <label key="1879134756" value="Стирр"/>
 <label key="1879134759" value="Ликмунд"/>
 <label key="1879134760" value="Фостолф"/>
-<label key="1879134770" value="Ослепленный Светом"/>
+<label key="1879134770" value="DNT - Blinded by the Light"/>
 <label key="1879134775" value="Мастер горна"/>
 <label key="1879134795" value="Toggle"/>
 <label key="1879134813" value="Глобснага-страж"/>
@@ -7895,8 +7895,8 @@
 <label key="1879138457" value="Ищейка из клана Онгбурз"/>
 <label key="1879138479" value="Стена пещеры"/>
 <label key="1879138480" value="Боси"/>
-<label key="1879138481" value="Захват артефакта монстров"/>
-<label key="1879138484" value="Захват артефакта героев"/>
+<label key="1879138481" value="DNT - Monster Artifact Capture"/>
+<label key="1879138484" value="DNT - Player Artifact Capture"/>
 <label key="1879138529" value="Медальон с секретом"/>
 <label key="1879138532" value="Морийское зеркало"/>
 <label key="1879138533" value="Морийское зеркало"/>
@@ -7956,7 +7956,7 @@
 <label key="1879139145" value="Морвул-осквернитель"/>
 <label key="1879139399" value="Морвул-страж"/>
 <label key="1879139400" value="Рабочий морвул"/>
-<label key="1879139489" value="Месть статуи"/>
+<label key="1879139489" value="DNT - Statue's Revenge"/>
 <label key="1879139493" value="Плевальщик-глобснага"/>
 <label key="1879139494" value="Королева пауков-глобснага"/>
 <label key="1879139528" value="Покрытое грибком зеркало"/>
@@ -8293,15 +8293,15 @@
 <label key="1879142922" value="Морийский орк-лазутчик"/>
 <label key="1879142924" value="Глубинная жаба"/>
 <label key="1879142925" value="Бичевательница"/>
-<label key="1879142935" value="Легендарный ряд талантов: Хитрец"/>
-<label key="1879142936" value="Легендарный ряд талантов: Исцеляющие руки"/>
-<label key="1879142937" value="Легендарный ряд талантов: Доблестный воитель"/>
-<label key="1879142938" value="Легендарный ряд талантов: Защитник свободы"/>
-<label key="1879142939" value="Легендарный ряд талантов: Капканщик"/>
-<label key="1879142940" value="Легендарный ряд талантов: Магистр древних знаний"/>
-<label key="1879142941" value="Легендарный ряд талантов: Хранитель решимости"/>
-<label key="1879142942" value="Легендарный ряд талантов: Дары спокойствия"/>
-<label key="1879142943" value="Легендарный ряд талантов: Путь кулака"/>
+<label key="1879142935" value="DNT - Legendary Awakening: The Mischief-maker"/>
+<label key="1879142936" value="DNT - Legendary Awakening: Hands of Healing"/>
+<label key="1879142937" value="DNT - Legendary Awakening: The Martial Champion"/>
+<label key="1879142938" value="DNT - Legendary Awakening: Defender of the Free"/>
+<label key="1879142939" value="DNT - Legendary Awakening: The Trapper of Foes"/>
+<label key="1879142940" value="DNT - Legendary Awakening: The Ancient Master"/>
+<label key="1879142941" value="DNT - Legendary Awakening: The Watcher of Resolve"/>
+<label key="1879142942" value="DNT - Legendary Awakening: Benedictions of Peace"/>
+<label key="1879142943" value="DNT - Legendary Awakening: Way of the Fist"/>
 <label key="1879142944" value="Пещерная змея"/>
 <label key="1879142945" value="Пещерный паук"/>
 <label key="1879142946" value="Пещерная крыса"/>
@@ -8465,7 +8465,7 @@
 <label key="1879143950" value="Литур"/>
 <label key="1879143951" value="Скафти"/>
 <label key="1879143952" value="Нанулг"/>
-<label key="1879143975" value="Безымянный гриб"/>
+<label key="1879143975" value="DNT - Nameless Mushroom"/>
 <label key="1879143980" value="Луиллэ"/>
 <label key="1879143981" value="Древний череп"/>
 <label key="1879143988" value="Лагерь Балина"/>
@@ -8594,7 +8594,7 @@
 <label key="1879146133" value="Мокза"/>
 <label key="1879146134" value="Лорзгул"/>
 <label key="1879146135" value="Ангмарский кузнец"/>
-<label key="1879146159" value="Барабанный бой Разбитой лестницы"/>
+<label key="1879146159" value="DNT - Broken Stair Drumming"/>
 <label key="1879146160" value="Сундук"/>
 <label key="1879146161" value="Сундук"/>
 <label key="1879146162" value="Сундук"/>
@@ -8653,7 +8653,7 @@
 <label key="1879147191" value="Крепость Готгхааша"/>
 <label key="1879147192" value="Лагерь Нардура"/>
 <label key="1879147193" value="Трон Игаша"/>
-<label key="1879147498" value="Темная пустота"/>
+<label key="1879147498" value="DNT - Void of Darkness"/>
 <label key="1879147770" value="Событие - путешествие к Зеркалу Галадриэли"/>
 <label key="1879147805" value="Рори"/>
 <label key="1879147809" value="GNDN"/>
@@ -8685,8 +8685,8 @@
 <label key="1879148489" value="Варр"/>
 <label key="1879148500" value="I NEED A NAME"/>
 <label key="1879148501" value="I NEED A NAME"/>
-<label key="1879148506" value="Урон от гномьей ловушки"/>
-<label key="1879148508" value="Захват точки"/>
+<label key="1879148506" value="DNT - Dwarf Trap Damage"/>
+<label key="1879148508" value="DNT - Capture Post"/>
 <label key="1879148541" value="Глубинный страж"/>
 <label key="1879148550" value="Гнездо улья"/>
 <label key="1879148570" value="Воющий надзиратель"/>
@@ -8707,11 +8707,11 @@
 <label key="1879149401" value="Корс Мадфолл"/>
 <label key="1879149402" value="Хармбарад"/>
 <label key="1879149403" value="Гогледд-Треф"/>
-<label key="1879149483" value="Захват артефакта"/>
-<label key="1879149502" value="Точка вызова заступника"/>
-<label key="1879149503" value="Точка вызова шамана"/>
-<label key="1879149504" value="Точка вызова берсерка"/>
-<label key="1879149505" value="Точка вызова лучника"/>
+<label key="1879149483" value="DNT - Capture Artifact"/>
+<label key="1879149502" value="DNT - Guardian Hotspot"/>
+<label key="1879149503" value="DNT - Shaman Hotspot"/>
+<label key="1879149504" value="DNT - Berserker Hotspot"/>
+<label key="1879149505" value="DNT - Ranged Hotspot"/>
 <label key="1879149506" value="Горн"/>
 <label key="1879149507" value="Врата Дарина"/>
 <label key="1879149534" value="Осторожный защитник"/>
@@ -9026,10 +9026,10 @@
 <label key="1879151687" value="Бастион"/>
 <label key="1879151705" value="Элитный урук-вожак"/>
 <label key="1879151723" value="Generator - Skirmish"/>
-<label key="1879151752" value="Под защитой"/>
-<label key="1879151753" value="Начальный"/>
-<label key="1879151754" value="Средний"/>
-<label key="1879151755" value="Продвинутый"/>
+<label key="1879151752" value="DNT - Protected"/>
+<label key="1879151753" value="DNT - Novice"/>
+<label key="1879151754" value="DNT - Intermediate"/>
+<label key="1879151755" value="DNT - Advanced"/>
 <label key="1879151760" value="Западная тропа"/>
 <label key="1879151761" value="Северная тропа"/>
 <label key="1879151762" value="Восточная тропа"/>
@@ -9226,8 +9226,8 @@
 <label key="1879153597" value="Патредиль"/>
 <label key="1879153614" value="Руимбас"/>
 <label key="1879153619" value="Битва за Лориэн"/>
-<label key="1879153668" value="Ошеломление"/>
-<label key="1879153733" value="Проверка одеяния"/>
+<label key="1879153668" value="DNT - Forced Stun Hotspot"/>
+<label key="1879153733" value="DNT - Uniform Check"/>
 <label key="1879153735" value="Воин Лотлориэна"/>
 <label key="1879153736" value="Орк-воин"/>
 <label key="1879153737" value="Орк-осквернитель"/>
@@ -9938,7 +9938,7 @@
 <label key="1879159482" value="Морийский гоблин-боец"/>
 <label key="1879159493" value="Ремменильф"/>
 <label key="1879159499" value="Арфирион"/>
-<label key="1879159506" value="Безымянный гриб"/>
+<label key="1879159506" value="DNT - Nameless Mushroom"/>
 <label key="1879159512" value="Нинграт"/>
 <label key="1879159549" value="Воплощение Гравулуна"/>
 <label key="1879159550" value="Воплощение Гравулуна"/>
@@ -10219,7 +10219,7 @@
 <label key="1879162034" value="Книга 9, глава 1 - точка перемещения"/>
 <label key="1879162255" value="Ужасная разбойница"/>
 <label key="1879162257" value="Бесшумный убийца"/>
-<label key="1879162263" value="Царь горы"/>
+<label key="1879162263" value="DNT - King of the Hill Detector"/>
 <label key="1879162289" value="Фреагир"/>
 <label key="1879162290" value="Глаэднот"/>
 <label key="1879162291" value="Квендреда"/>
@@ -10278,7 +10278,7 @@
 <label key="1879162821" value="Хозяин Нан Дхелу"/>
 <label key="1879162883" value="Боец из войска малледрим"/>
 <label key="1879162889" value="Галрип"/>
-<label key="1879163188" value="Скользкое зеркало"/>
+<label key="1879163188" value="DNT - Slippery Glass Hotspot"/>
 <label key="1879163195" value="Орочья баллиста"/>
 <label key="1879163196" value="Орочья катапульта"/>
 <label key="1879163284" value="Рог призыва"/>
@@ -10440,11 +10440,11 @@
 <label key="1879165391" value="Черный Бивень"/>
 <label key="1879165392" value="Агонглок"/>
 <label key="1879165395" value="Борион"/>
-<label key="1879165397" value="Большой костер"/>
-<label key="1879165398" value="Средний костер"/>
-<label key="1879165400" value="Маленький костер"/>
-<label key="1879165401" value="Средний костер"/>
-<label key="1879165402" value="Тьма"/>
+<label key="1879165397" value="DNT - Large Camp-fire"/>
+<label key="1879165398" value="DNT - Medium Camp-fire"/>
+<label key="1879165400" value="DNT - Small Camp-fire"/>
+<label key="1879165401" value="DNT - Medium Camp-fire"/>
+<label key="1879165402" value="DNT - Darkness"/>
 <label key="1879165409" value="Скам"/>
 <label key="1879165683" value="Непреклонный стражник"/>
 <label key="1879165684" value="Непреклонный олог-хай"/>
@@ -10481,14 +10481,14 @@
 <label key="1879166069" value="Тандри Серый Молот"/>
 <label key="1879166073" value="Проклятая тень"/>
 <label key="1879166170" value="DNT - Banner Drop"/>
-<label key="1879166171" value="Осадное орудие"/>
-<label key="1879166172" value="Осадное орудие"/>
-<label key="1879166173" value="Осадное орудие"/>
-<label key="1879166174" value="Осадное орудие"/>
-<label key="1879166175" value="Осадное орудие"/>
-<label key="1879166176" value="Осадное орудие"/>
-<label key="1879166177" value="Осадное орудие"/>
-<label key="1879166178" value="Осадное орудие"/>
+<label key="1879166171" value="DNT - Siege Weapon"/>
+<label key="1879166172" value="DNT - Siege Weapon"/>
+<label key="1879166173" value="DNT - Siege Weapon"/>
+<label key="1879166174" value="DNT - Siege Weapon"/>
+<label key="1879166175" value="DNT - Siege Weapon"/>
+<label key="1879166176" value="DNT - Siege Weapon"/>
+<label key="1879166177" value="DNT - Siege Weapon"/>
+<label key="1879166178" value="DNT - Siege Weapon"/>
 <label key="1879166179" value="DNT - Siege Weapon Target"/>
 <label key="1879166228" value="Химейниор"/>
 <label key="1879166265" value="Роделлет"/>
@@ -11007,7 +11007,7 @@
 <label key="1879174772" value="Снагбурз"/>
 <label key="1879174773" value="Снагбурз"/>
 <label key="1879174774" value="Снагбурз"/>
-<label key="1879174849" value="Падающая вышка"/>
+<label key="1879174849" value="DNT - Goblin-sappers Explosion"/>
 <label key="1879174930" value="Могильники"/>
 <label key="1879174931" value="Могильники"/>
 <label key="1879174932" value="Могильники"/>
@@ -11201,7 +11201,7 @@
 <label key="1879175891" value="Гулдурский берсерк"/>
 <label key="1879175892" value="Гулдурский осквернитель"/>
 <label key="1879175893" value="Вожак гулдурских орков"/>
-<label key="1879175894" value="Полное исцеление"/>
+<label key="1879175894" value="DNT - Heal Full"/>
 <label key="1879175898" value="Дверь"/>
 <label key="1879175917" value="GNDN"/>
 <label key="1879175918" value="В паучьих сетях"/>
@@ -11219,7 +11219,7 @@
 <label key="1879176117" value="Гилтарк"/>
 <label key="1879176118" value="DNT - Siege Weapon Target"/>
 <label key="1879176119" value="GNDN"/>
-<label key="1879176120" value="Ливень стрел"/>
+<label key="1879176120" value="DNT - Rain of Arrows"/>
 <label key="1879176121" value="Орк-осквернитель"/>
 <label key="1879176123" value="Орк-осквернитель"/>
 <label key="1879176124" value="Орк-осквернитель"/>
@@ -11400,7 +11400,7 @@
 <label key="1879181820" value="Торех Руин"/>
 <label key="1879181821" value="Торех Руин"/>
 <label key="1879181822" value="Торех Руин"/>
-<label key="1879181873" value="Ледяная ловушка Корунира"/>
+<label key="1879181873" value="DNT - Corunir's Frost Trap"/>
 <label key="1879181880" value="Мастер этапов"/>
 <label key="1879181881" value="Элиза Шипарь"/>
 <label key="1879181882" value="Маэнгамиэль"/>
@@ -11706,7 +11706,7 @@
 <label key="1879184274" value="Сундук"/>
 <label key="1879184298" value="Бертел"/>
 <label key="1879184299" value="Фаилланк"/>
-<label key="1879184329" value="Оглушение"/>
+<label key="1879184329" value="DNT - Drama Stun No Anim Hotspot"/>
 <label key="1879184398" value="Стражник"/>
 <label key="1879184489" value="Развернутое знамя"/>
 <label key="1879184532" value="Гробница Кадельхина"/>
@@ -12126,7 +12126,7 @@
 <label key="1879190859" value="DNT - Patrol Detector"/>
 <label key="1879190860" value="Рыбное место"/>
 <label key="1879190861" value="Кенед Бальтрод"/>
-<label key="1879190863" value="Опутывающая паутина"/>
+<label key="1879190863" value="DNT - Entangling Webs"/>
 <label key="1879190871" value="Певица паутины"/>
 <label key="1879190917" value="Темный драконид-страж"/>
 <label key="1879190918" value="Веточка омелы"/>
@@ -12149,7 +12149,7 @@
 <label key="1879190963" value="Кровавый след"/>
 <label key="1879190968" value="Житель Энедвайта"/>
 <label key="1879190969" value="Жительница Энедвайта"/>
-<label key="1879191016" value="Выход из телепорта"/>
+<label key="1879191016" value="DNT - Teleport out"/>
 <label key="1879191024" value="Корунир"/>
 <label key="1879191035" value="Призрак Хелегрода"/>
 <label key="1879191040" value="Лаодеган"/>
@@ -12236,9 +12236,9 @@
 <label key="1879192488" value="Ортонн"/>
 <label key="1879192489" value="Балхелос"/>
 <label key="1879192490" value="Нетроу"/>
-<label key="1879192711" value="Портал"/>
+<label key="1879192711" value="DNT - Failsafe Teleport"/>
 <label key="1879192940" value="Гован"/>
-<label key="1879192999" value="Сюжетная остановка"/>
+<label key="1879192999" value="DNT - Drama Cowering Hotspot"/>
 <label key="1879193005" value="Удар хвостом 1"/>
 <label key="1879193006" value="Удар хвостом 2"/>
 <label key="1879193007" value="Удар хвостом 3"/>
@@ -12267,7 +12267,7 @@
 <label key="1879193140" value="Разъяренный тролль"/>
 <label key="1879193141" value="Каверан"/>
 <label key="1879193142" value="Гродбог-труженик"/>
-<label key="1879193143" value="Драконид Серебряных копей"/>
+<label key="1879193143" value="Дракончик Серебряных копей"/>
 <label key="1879193144" value="Дунгарт"/>
 <label key="1879193145" value="Тролль Серебряных копей"/>
 <label key="1879193146" value="Немул"/>
@@ -14379,8 +14379,8 @@
 <label key="1879214177" value="Гнездо кребанов"/>
 <label key="1879214317" value="Полуорк-дозорный"/>
 <label key="1879214318" value="Изенгардский убийца"/>
-<label key="1879214345" value="Взрыв"/>
-<label key="1879214346" value="Взрыв"/>
+<label key="1879214345" value="DNT - Explosion"/>
+<label key="1879214346" value="DNT - Explosion"/>
 <label key="1879214500" value="Небольшой узорчатый сундук"/>
 <label key="1879214501" value="Небольшой узорчатый сундук"/>
 <label key="1879214502" value="Сундук с золотом"/>
@@ -14530,7 +14530,7 @@
 <label key="1879216518" value="Лодка"/>
 <label key="1879216519" value="Лодка"/>
 <label key="1879216819" value="Дунландский воин"/>
-<label key="1879216840" value="Телепорт"/>
+<label key="1879216840" value="DNT - Teleport"/>
 <label key="1879216884" value="GNDN"/>
 <label key="1879216885" value="GNDN"/>
 <label key="1879216904" value="Боевой командир"/>
@@ -14713,8 +14713,8 @@
 <label key="1879221648" value="Усгаррен"/>
 <label key="1879221649" value="Морозный мрак"/>
 <label key="1879221724" value="Health Threshold Box"/>
-<label key="1879221741" value="Снять эффект ослепления"/>
-<label key="1879221743" value="Ослепить и обездвижить игрока"/>
+<label key="1879221741" value="DNT - Remove blackout effect"/>
+<label key="1879221743" value="DNT - Blackout and immobilize player"/>
 <label key="1879221755" value="Чучело"/>
 <label key="1879221756" value="Эльфийский лагерь"/>
 <label key="1879221757" value="Орочий лагерь"/>
@@ -15215,13 +15215,13 @@
 <label key="1879226537" value="Эльфхельм"/>
 <label key="1879226538" value="Конь Эльфхельма"/>
 <label key="1879226539" value="Эльфхельм"/>
-<label key="1879226540" value="Сила Вепря"/>
-<label key="1879226541" value="Сила Вепря"/>
-<label key="1879226542" value="Сила Вепря"/>
-<label key="1879226543" value="Сила Вепря"/>
-<label key="1879226544" value="Сила Вепря"/>
-<label key="1879226545" value="Сила Вепря"/>
-<label key="1879226546" value="Сила Вепря"/>
+<label key="1879226540" value="DNT - Power of the Boar"/>
+<label key="1879226541" value="DNT - Power of the Boar"/>
+<label key="1879226542" value="DNT - Power of the Boar"/>
+<label key="1879226543" value="DNT - Power of the Boar"/>
+<label key="1879226544" value="DNT - Power of the Boar"/>
+<label key="1879226545" value="DNT - Power of the Boar"/>
+<label key="1879226546" value="DNT - Power of the Boar"/>
 <label key="1879226613" value="Юный Тук"/>
 <label key="1879226614" value="Юный Брендискок"/>
 <label key="1879226618" value="Шипы"/>
@@ -15479,11 +15479,11 @@
 <label key="1879228563" value="Ройз"/>
 <label key="1879228564" value="Кундолар-стрелок"/>
 <label key="1879228565" value="Кундолар-воин"/>
-<label key="1879228568" value="Наковальня"/>
+<label key="1879228568" value="Кузница"/>
 <label key="1879228569" value="Кабинет"/>
 <label key="1879228570" value="Печь"/>
-<label key="1879228571" value="Рабочий стол"/>
-<label key="1879228572" value="Рабочий стол"/>
+<label key="1879228571" value="Верстак"/>
+<label key="1879228572" value="Верстак"/>
 <label key="1879228573" value="Кабед"/>
 <label key="1879228574" value="Дорон"/>
 <label key="1879228575" value="Брифард"/>
@@ -15991,7 +15991,7 @@
 <label key="1879233347" value="Гоблинские припасы"/>
 <label key="1879233348" value="Кокон"/>
 <label key="1879233349" value="Столб"/>
-<label key="1879233350" value="Наковальня"/>
+<label key="1879233350" value="Кузница"/>
 <label key="1879233351" value="Многообещающая куча"/>
 <label key="1879233352" value="Место для штандарта"/>
 <label key="1879233354" value="Тупой клинок"/>
@@ -16482,7 +16482,7 @@
 <label key="1879240181" value="Рабочий стол"/>
 <label key="1879240182" value="Мешок с овощами"/>
 <label key="1879240185" value="Кожа"/>
-<label key="1879240190" value="Стол интенданта"/>
+<label key="1879240190" value="Верстак интенданта"/>
 <label key="1879240213" value="Игровая зона"/>
 <label key="1879240246" value="Орочий шатер"/>
 <label key="1879240250" value="Ящик с припасами"/>
@@ -16599,7 +16599,7 @@
 <label key="1879240881" value="Ящик с поножами"/>
 <label key="1879240882" value="Горный драконид"/>
 <label key="1879240883" value="Молодой горный драконид"/>
-<label key="1879240885" value="Горный драконет"/>
+<label key="1879240885" value="Горный дракончик"/>
 <label key="1879240886" value="Хебурга"/>
 <label key="1879240887" value="Мальчик"/>
 <label key="1879240888" value="Девочка"/>
@@ -16649,7 +16649,7 @@
 <label key="1879241270" value="Кундоларский укротитель котов"/>
 <label key="1879241271" value="Воин долины"/>
 <label key="1879241272" value="Тиран долины"/>
-<label key="1879241273" value="Норкрофтский огненный драконид"/>
+<label key="1879241273" value="Норкрофтский огненный дракончик"/>
 <label key="1879241274" value="Норкрофтский волчий всадник"/>
 <label key="1879241275" value="Норкрофтский нетопырь"/>
 <label key="1879241276" value="Норкрофтский урук"/>
@@ -16661,7 +16661,7 @@
 <label key="1879241282" value="Вожак долины"/>
 <label key="1879241283" value="Норкрофтский лесной аванк"/>
 <label key="1879241284" value="Урук долины"/>
-<label key="1879241285" value="Норкрофтский ледяной драконид"/>
+<label key="1879241285" value="Норкрофтский ледяной дракончик"/>
 <label key="1879241286" value="Кундоларский хранитель мыслей"/>
 <label key="1879241287" value="Саткрофтский ткач"/>
 <label key="1879241288" value="Долинный тролль"/>
@@ -16691,7 +16691,7 @@
 <label key="1879241315" value="Саламандра"/>
 <label key="1879241316" value="Кундоларский мародер"/>
 <label key="1879241317" value="Кундоларский военачальник"/>
-<label key="1879241318" value="Норкрофтский драконет"/>
+<label key="1879241318" value="Норкрофтский дракончик"/>
 <label key="1879241319" value="Саткрофтский волчий всадник"/>
 <label key="1879241320" value="Норкрофтский вожак"/>
 <label key="1879241321" value="Саткрофтский гродбог"/>
@@ -20978,7 +20978,7 @@
 <label key="1879297152" value="GNDN"/>
 <label key="1879297155" value="GNDN"/>
 <label key="1879297156" value="GNDN"/>
-<label key="1879297199" value="Событие - корни"/>
+<label key="1879297199" value="DNT - Drama Root Hotspot"/>
 <label key="1879297221" value="Одежда"/>
 <label key="1879297338" value="Осадный тролль"/>
 <label key="1879297339" value="Заграждения"/>
@@ -21348,9 +21348,9 @@
 <label key="1879305539" value="Димпль Копс"/>
 <label key="1879305540" value="Горбулас Милевик"/>
 <label key="1879305541" value="Оло Узлиумс"/>
-<label key="1879305542" value="Выход из телепорта"/>
-<label key="1879305543" value="Выход из телепорта"/>
-<label key="1879305544" value="Выход из телепорта"/>
+<label key="1879305542" value="DNT - Teleport out"/>
+<label key="1879305543" value="DNT - Teleport out"/>
+<label key="1879305544" value="DNT - Teleport out"/>
 <label key="1879305559" value="GNDN"/>
 <label key="1879305561" value="Хобнаниганское поле 3"/>
 <label key="1879305562" value="Хобнаниганское поле 2"/>
@@ -21358,17 +21358,17 @@
 <label key="1879305564" value="Хобнаниганское поле 1"/>
 <label key="1879305573" value="Скрюченный гворн"/>
 <label key="1879305574" value="Logic Box"/>
-<label key="1879305575" value="Победа красных 1"/>
-<label key="1879305576" value="Победа красных 2"/>
-<label key="1879305577" value="Победа синих 2"/>
-<label key="1879305578" value="Победа синих 3"/>
-<label key="1879305579" value="Победа синих 1"/>
-<label key="1879305580" value="Победа красных 4"/>
-<label key="1879305581" value="Победа синих 4"/>
-<label key="1879305582" value="Победа красных 3"/>
+<label key="1879305575" value="DNT - Victory Red Field 1"/>
+<label key="1879305576" value="DNT - Victory Red Field 2"/>
+<label key="1879305577" value="DNT - Victory Blue Field 2"/>
+<label key="1879305578" value="DNT - Victory Blue Field 3"/>
+<label key="1879305579" value="DNT - Victory Blue Field 1"/>
+<label key="1879305580" value="DNT - Victory Red Field 4"/>
+<label key="1879305581" value="DNT - Victory Blue Field 4"/>
+<label key="1879305582" value="DNT - Victory Red Field 3"/>
 <label key="1879305583" value="Элур"/>
 <label key="1879305584" value="Мельтиндир"/>
-<label key="1879305599" value="Цель"/>
+<label key="1879305599" value="DNT - Tracker"/>
 <label key="1879305600" value="Диренфирель"/>
 <label key="1879305662" value="Праздничный костер"/>
 <label key="1879305742" value="Помощь следопытам: варги"/>
@@ -21950,7 +21950,7 @@
 <label key="1879313688" value="Росфин"/>
 <label key="1879313699" value="Почтовый ящик"/>
 <label key="1879313700" value="Путевой камень"/>
-<label key="1879313711" value="Рабочий стол"/>
+<label key="1879313711" value="Верстак"/>
 <label key="1879313712" value="Глава гильдии"/>
 <label key="1879313713" value="Легендарные рецепты"/>
 <label key="1879313714" value="Улучшенные рецепты"/>
@@ -22054,8 +22054,8 @@
 <label key="1879314524" value="Путевой камень"/>
 <label key="1879314664" value="Адирджан Жестокий"/>
 <label key="1879314747" value="Кабинет"/>
-<label key="1879314748" value="Рабочий стол"/>
-<label key="1879314749" value="Наковальня"/>
+<label key="1879314748" value="Верстак"/>
+<label key="1879314749" value="Кузница"/>
 <label key="1879314750" value="Печь"/>
 <label key="1879314757" value="Нерзус"/>
 <label key="1879314758" value="Восставший падший дух"/>
@@ -22642,7 +22642,7 @@
 <label key="1879320319" value="Угтуру"/>
 <label key="1879320320" value="Загарот"/>
 <label key="1879320340" value="Кошка"/>
-<label key="1879320436" value="Холодная тень"/>
+<label key="1879320436" value="DNT - Cold Shadow"/>
 <label key="1879320484" value="Аморхант"/>
 <label key="1879320485" value="Скорказ"/>
 <label key="1879320486" value="Гундлаг"/>
@@ -22825,7 +22825,7 @@
 <label key="1879321920" value="Колчан"/>
 <label key="1879321921" value="Припасы харадримов"/>
 <label key="1879321922" value="Палатка"/>
-<label key="1879321923" value="Рабочий стол"/>
+<label key="1879321923" value="Верстак"/>
 <label key="1879321924" value="Мешок с кормом для мумаков"/>
 <label key="1879321925" value="Лестница"/>
 <label key="1879321926" value="Гладир"/>
@@ -22835,7 +22835,7 @@
 <label key="1879321930" value="Следопыт Итилиена"/>
 <label key="1879321931" value="Миртель"/>
 <label key="1879321932" value="Гладир"/>
-<label key="1879321954" value="Рабочий стол"/>
+<label key="1879321954" value="Верстак"/>
 <label key="1879321955" value="Вода из реки Моргулдуин"/>
 <label key="1879321957" value="Груда обломков"/>
 <label key="1879321960" value="Груда обломков"/>
@@ -23323,7 +23323,7 @@
 <label key="1879324081" value="Палаты исцеления"/>
 <label key="1879324082" value="Двор Анариона"/>
 <label key="1879324083" value="Загрязнённые воды"/>
-<label key="1879324085" value="Защитники Моргульской долины"/>
+<label key="1879324085" value="DNT - Morgul Vale Defenders"/>
 <label key="1879324086" value="Мина"/>
 <label key="1879324145" value="Харадрим-лучник"/>
 <label key="1879324146" value="Моргульский осквернитель"/>
@@ -24124,7 +24124,7 @@
 <label key="1879328282" value="Клапанный механизм"/>
 <label key="1879328283" value="Шток"/>
 <label key="1879328314" value="Обломок металла"/>
-<label key="1879328320" value="Наковальня"/>
+<label key="1879328320" value="Кузница"/>
 <label key="1879328323" value="Ящик для продовольствия"/>
 <label key="1879328324" value="Гондорский мальчик"/>
 <label key="1879328328" value="Сундук с одеждой"/>
@@ -24445,7 +24445,7 @@
 <label key="1879329373" value="Шипованное заграждение"/>
 <label key="1879329381" value="Фонтан отражений Старого Анориена"/>
 <label key="1879329390" value="Шипованное заграждение"/>
-<label key="1879329393" value="Ослепить и обездвижить игрока"/>
+<label key="1879329393" value="DNT - Blackout and immobilize player"/>
 <label key="1879329394" value="Interaction Target"/>
 <label key="1879329401" value="Палаты исцеления"/>
 <label key="1879329410" value="DNT - Teleport to Gate"/>
@@ -25785,7 +25785,7 @@
 <label key="1879336743" value="Шумуг"/>
 <label key="1879336744" value="Рукоять меча Эовин"/>
 <label key="1879336746" value="Ангбор"/>
-<label key="1879336752" value="Наковальня"/>
+<label key="1879336752" value="Кузница"/>
 <label key="1879336753" value="Гондорский солдат"/>
 <label key="1879336754" value="Гондорский солдат"/>
 <label key="1879336755" value="Гондорский солдат"/>
@@ -26001,7 +26001,7 @@
 <label key="1879338126" value="Шуршащий кустарник"/>
 <label key="1879338127" value="Место для установки знамени"/>
 <label key="1879338128" value="Труп орка"/>
-<label key="1879338129" value="Рабочий стол"/>
+<label key="1879338129" value="Верстак"/>
 <label key="1879338130" value="Место для расположения ловушки"/>
 <label key="1879338131" value="Окаменевший моргульский тролль"/>
 <label key="1879338132" value="Замшелый камень"/>
@@ -27105,7 +27105,7 @@
 <label key="1879346426" value="Труп друадана"/>
 <label key="1879346427" value="Друаданская статуэтка"/>
 <label key="1879346428" value="Сухалар-воин"/>
-<label key="1879346429" value="Молодой огненный драконид"/>
+<label key="1879346429" value="Огненный дракончик"/>
 <label key="1879346431" value="Избранный Охотника"/>
 <label key="1879346432" value="Сухалар-налетчик"/>
 <label key="1879346433" value="Железнохватка"/>
@@ -27664,7 +27664,7 @@
 <label key="1879348765" value="Пепельный дозор"/>
 <label key="1879348766" value="Уступ Страха"/>
 <label key="1879348767" value="Уступ Паники"/>
-<label key="1879348768" value="Кладка яиц драконидов"/>
+<label key="1879348768" value="Гнездо дракончиков"/>
 <label key="1879348770" value="Огненный дух"/>
 <label key="1879348773" value="Уступ Ужаса"/>
 <label key="1879348775" value="Двор Кошмаров"/>
@@ -27909,7 +27909,7 @@
 <label key="1879354139" value="Король-Призрак"/>
 <label key="1879354140" value="Зловещий Южанин"/>
 <label key="1879354141" value="Воин Гондора"/>
-<label key="1879354143" value="Высший маг Харада"/>
+<label key="1879354143" value="Верховный чародей Харада"/>
 <label key="1879354144" value="Борангос Ужасный"/>
 <label key="1879354145" value="Морроваль-прислужница"/>
 <label key="1879354146" value="Слуга огня"/>
@@ -28366,7 +28366,7 @@
 <label key="1879357652" value="Эовин"/>
 <label key="1879357658" value="Освобожденный Ужасный рогач"/>
 <label key="1879357692" value="Темные сети"/>
-<label key="1879357792" value="Защитники Черных врат"/>
+<label key="1879357792" value="DNT - Black Gate Defenders"/>
 <label key="1879357819" value="Король Эомер"/>
 <label key="1879357820" value="Тайная обитель"/>
 <label key="1879357821" value="Чертоги стражей"/>
@@ -28696,7 +28696,7 @@
 <label key="1879360966" value="DNT - Shadow Hotspot"/>
 <label key="1879360972" value="Мордатский надзиратель"/>
 <label key="1879360993" value="Подземный летучий нетопырь"/>
-<label key="1879361525" value="Рабочий стол"/>
+<label key="1879361525" value="Верстак"/>
 <label key="1879361636" value="Раб-нурнхот"/>
 <label key="1879361892" value="Лось"/>
 <label key="1879361893" value="Прах"/>
@@ -29541,7 +29541,7 @@
 <label key="1879368054" value="Динодас Боффин"/>
 <label key="1879368055" value="Берилак Боффин"/>
 <label key="1879368056" value="Валарик Золотник"/>
-<label key="1879368109" value="Ужасный зной"/>
+<label key="1879368109" value="DNT - Horrible Heat"/>
 <label key="1879368117" value="Корзинка для пикника"/>
 <label key="1879368118" value="Корзинка для пикника"/>
 <label key="1879368119" value="Корзинка для пикника"/>
@@ -32277,7 +32277,7 @@
 <label key="1879393852" value="Туриндол"/>
 <label key="1879393861" value="Каннот"/>
 <label key="1879393865" value="Бледнокожий"/>
-<label key="1879393873" value="Неуязвимость"/>
+<label key="1879393873" value="DNT - Invulnerable"/>
 <label key="1879393928" value="Визнак"/>
 <label key="1879393929" value="Миртель"/>
 <label key="1879393930" value="Радрог"/>
@@ -33973,8 +33973,8 @@
 <label key="1879407093" value="Ториан"/>
 <label key="1879407094" value="Дринглаэр"/>
 <label key="1879407095" value="Келаирэль"/>
-<label key="1879407103" value="Рабочий стол"/>
-<label key="1879407104" value="Рабочий стол"/>
+<label key="1879407103" value="Верстак"/>
+<label key="1879407104" value="Верстак"/>
 <label key="1879407105" value="Коробка с рулонами шелка"/>
 <label key="1879407124" value="Превосходные цветы"/>
 <label key="1879407133" value="Музыкант Арвен"/>
@@ -35304,7 +35304,7 @@
 <label key="1879411300" value="Дарин"/>
 <label key="1879411301" value="Бори"/>
 <label key="1879411307" value="Соглядатай Расколотого грота"/>
-<label key="1879411308" value="Крылья Верхнего Расколотого грота"/>
+<label key="1879411308" value="Летучая мышь Верхнего Расколотого грота"/>
 <label key="1879411309" value="Здоровяк из Заркул-Сулуна"/>
 <label key="1879411315" value="Орочьи приказы"/>
 <label key="1879411317" value="Хаукбуз"/>
@@ -36712,7 +36712,7 @@
 <label key="1879418140" value="Уголь"/>
 <label key="1879418141" value="Подходящее место для головы Свалната"/>
 <label key="1879418142" value="Стойка для кристаллов"/>
-<label key="1879418143" value="Рабочий стол"/>
+<label key="1879418143" value="Верстак"/>
 <label key="1879418144" value="Пыльное зеркало-ловушка"/>
 <label key="1879418145" value="Земляной холм"/>
 <label key="1879418146" value="Насыпь гродбогов"/>
@@ -36795,10 +36795,10 @@
 <label key="1879418587" value="Пятнистая трехцветная кошка"/>
 <label key="1879418590" value="Милая кошка табби"/>
 <label key="1879418649" value="Рог призыва"/>
-<label key="1879418676" value="Ветра Форохеля IV"/>
+<label key="1879418676" value="DNT - Winds of Forochel - 1"/>
 <label key="1879418677" value="Ветра Форохеля I"/>
-<label key="1879418678" value="Ветра Форохеля III"/>
-<label key="1879418679" value="Ветра Форохеля II"/>
+<label key="1879418678" value="DNT - Winds of Forochel - 1"/>
+<label key="1879418679" value="DNT - Winds of Forochel - 1"/>
 <label key="1879418723" value="Король Шалим Плащ Ночи"/>
 <label key="1879418724" value="Король Джегин"/>
 <label key="1879418725" value="Король Дрогар Кровоус"/>
@@ -37534,12 +37534,12 @@
 <label key="1879421366" value="Бочка с оружием"/>
 <label key="1879421368" value="Бочка с оружием"/>
 <label key="1879421369" value="Фонарь"/>
-<label key="1879421371" value="Яйца драконида"/>
+<label key="1879421371" value="Яйца дракончика"/>
 <label key="1879421372" value="Кузнечные инструменты"/>
 <label key="1879421373" value="Орочье знамя"/>
 <label key="1879421374" value="Еда огромной летучей мыши"/>
 <label key="1879421375" value="Орочьи письма"/>
-<label key="1879421376" value="Яйца драконида"/>
+<label key="1879421376" value="Яйца дракончика"/>
 <label key="1879421377" value="Мастер горна"/>
 <label key="1879421378" value="Орочьи письма"/>
 <label key="1879421379" value="Орк-кузнец"/>
@@ -37570,7 +37570,7 @@
 <label key="1879421460" value="Флогалит"/>
 <label key="1879421461" value="Адкхат-Заххар, Дома упокоения"/>
 <label key="1879421462" value="Драуракх"/>
-<label key="1879421463" value="Боркорд"/>
+<label key="1879421463" value="Боркордх"/>
 <label key="1879421464" value="Багуд-Дум"/>
 <label key="1879421465" value="Баргстад"/>
 <label key="1879421466" value="Уздарулзахар"/>
@@ -38429,7 +38429,7 @@
 <label key="1879441965" value="Сундук Ветуга - один игрок"/>
 <label key="1879441966" value="Сунд. воскр. владык - ур. 4"/>
 <label key="1879441967" value="Сунд. воскр. владык - ур. 5"/>
-<label key="1879441968" value="Сунд. воскр. владык - соло"/>
+<label key="1879441968" value="Сунд. воскр. владык - один игрок"/>
 <label key="1879441969" value="Сундук Локнашры - ур. 4"/>
 <label key="1879441970" value="Сунд. воскр. владык - ур. 2"/>
 <label key="1879441971" value="Сундук Локнашры - ур. 5"/>
@@ -39979,7 +39979,7 @@
 <label key="1879450061" value="Мошенница с Зеленого тракта"/>
 <label key="1879450062" value="Налетчица с Зеленого тракта"/>
 <label key="1879450075" value="Сундук Луиллот - ур. 1"/>
-<label key="1879450076" value="Сундук Луиллот - соло"/>
+<label key="1879450076" value="Сундук Луиллот - один игрок"/>
 <label key="1879450077" value="Сундук Хитренгора - ур. 4"/>
 <label key="1879450078" value="Сундук Хитренгора - ур. 5"/>
 <label key="1879450079" value="Сундук Хитренгора - ур. 2"/>
@@ -39991,11 +39991,11 @@
 <label key="1879450085" value="Сундук Луиллот - ур. 4"/>
 <label key="1879450086" value="Сундук Фладаха - ур. 3"/>
 <label key="1879450087" value="Сундук Луиллот - ур. 5"/>
-<label key="1879450088" value="Сундук Фладаха - соло"/>
+<label key="1879450088" value="Сундук Фладаха - один игрок"/>
 <label key="1879450089" value="Сундук Луиллот - ур. 2"/>
 <label key="1879450090" value="Сундук Луиллот - ур. 3"/>
 <label key="1879450091" value="Сундук Фладаха - ур. 1"/>
-<label key="1879450092" value="Сундук Хитренгора - соло"/>
+<label key="1879450092" value="Сундук Хитренгора - один игрок"/>
 <label key="1879450108" value="Расшифрованный свиток"/>
 <label key="1879450128" value="Дверь с черепом"/>
 <label key="1879450155" value="Дуйндиль"/>
@@ -40599,7 +40599,7 @@
 <label key="1879456031" value="Фонтан отражений Кардолана"/>
 <label key="1879456032" value="Фонтан отражений Лебедяни"/>
 <label key="1879456047" value="GNDN"/>
-<label key="1879456105" value="Firien Wood"/>
+<label key="1879456105" value="Фириенский лес"/>
 <label key="1879456200" value="GNDN"/>
 <label key="1879456201" value="GNDN"/>
 <label key="1879456202" value="GNDN"/>
@@ -40625,8 +40625,8 @@
 <label key="1879457154" value="Застрельщик Железной Короны"/>
 <label key="1879457155" value="Колдунья Железной Короны"/>
 <label key="1879457166" value="Сущность Страха"/>
-<label key="1879457169" value="Выход из телепорта"/>
-<label key="1879457170" value="Выход из телепорта"/>
+<label key="1879457169" value="DNT - Teleport out"/>
+<label key="1879457170" value="DNT - Teleport out"/>
 <label key="1879457179" value="Верховная зародительница Огануйн"/>
 <label key="1879457180" value="Жрец Сант-Лоэра"/>
 <label key="1879457181" value="Хват Сант-Лоэра"/>
@@ -40645,7 +40645,7 @@
 <label key="1879457274" value="Радарриг"/>
 <label key="1879457277" value="Трупная муха-серпица"/>
 <label key="1879457278" value="Радарриг"/>
-<label key="1879457312" value="Выход из телепорта"/>
+<label key="1879457312" value="DNT - Teleport out"/>
 <label key="1879457317" value="Ограждение"/>
 <label key="1879457318" value="Малрув"/>
 <label key="1879457320" value="Долаг"/>
@@ -40716,18 +40716,18 @@
 <label key="1879458268" value="Сундук Радаррига - ур. 1"/>
 <label key="1879458269" value="Ящик Аниохана - ур. 5"/>
 <label key="1879458270" value="Ящик Аниохана - ур. 4"/>
-<label key="1879458271" value="Ящик Аниохана - соло"/>
+<label key="1879458271" value="Ящик Аниохана - один игрок"/>
 <label key="1879458272" value="Сундук Курджи и Карсиджи - ур. 1"/>
 <label key="1879458273" value="Ящик Аниохана - ур. 1"/>
-<label key="1879458274" value="Сундук Огануйн - соло"/>
+<label key="1879458274" value="Сундук Огануйн - один игрок"/>
 <label key="1879458275" value="Сундук Асахал и Клагхорда - ур. 1"/>
 <label key="1879458276" value="Реликвии Гватреноста - ур. 1"/>
 <label key="1879458277" value="Сундук Асахал и Клагхорда - ур. 4"/>
-<label key="1879458278" value="Сундук Радаррига - соло"/>
+<label key="1879458278" value="Сундук Радаррига - один игрок"/>
 <label key="1879458279" value="Сундук Асахал и Клагхорда - ур. 5"/>
 <label key="1879458280" value="Реликвии Гватреноста - ур. 4"/>
 <label key="1879458281" value="Сундук Асахал и Клагхорда - ур. 2"/>
-<label key="1879458282" value="Сундук Курджи и Карсиджи - соло"/>
+<label key="1879458282" value="Сундук Курджи и Карсиджи - один игрок"/>
 <label key="1879458283" value="Реликвии Гватреноста - ур. 5"/>
 <label key="1879458284" value="Сундук Асахал и Клагхорда - ур. 3"/>
 <label key="1879458285" value="Реликвии Гватреноста - ур. 2"/>
@@ -40740,7 +40740,7 @@
 <label key="1879458292" value="Сундук Обашурза - ур. 2"/>
 <label key="1879458293" value="Сундук Гуркрака - ур. 5"/>
 <label key="1879458294" value="Сундук Обашурза - ур. 3"/>
-<label key="1879458295" value="Сундук Гарвадаха - соло"/>
+<label key="1879458295" value="Сундук Гарвадаха - один игрок"/>
 <label key="1879458296" value="Сундук Гуркрака - ур. 2"/>
 <label key="1879458297" value="Сундук Гуркрака - ур. 3"/>
 <label key="1879458298" value="Сундук Огануйн - ур. 2"/>
@@ -40750,7 +40750,7 @@
 <label key="1879458302" value="Сундук Огануйн - ур. 5"/>
 <label key="1879458303" value="Сундук Гарвадаха - ур. 4"/>
 <label key="1879458304" value="Сундук Таркка-Ока и Кратайра - ур. 3"/>
-<label key="1879458305" value="Сундук Таркка-Ока и Кратайра - соло"/>
+<label key="1879458305" value="Сундук Таркка-Ока и Кратайра - один игрок"/>
 <label key="1879458306" value="Сундук Таркка-Ока и Кратайра - ур. 4"/>
 <label key="1879458307" value="Сундук Гарвадаха - ур. 5"/>
 <label key="1879458308" value="Сундук Таркка-Ока и Кратайра - ур. 5"/>
@@ -41393,17 +41393,17 @@
 <label key="1879463900" value="Разбойница"/>
 <label key="1879463902" value="Темный обряд"/>
 <label key="1879464027" value="GNDN"/>
-<label key="1879464038" value="Светящаяся унгольская паучиха"/>
-<label key="1879464039" value="Морийский говорящий с Чёрным огнём"/>
-<label key="1879464040" value="Морийский темный охотник"/>
-<label key="1879464041" value="Орк-пожиратель в маске тура"/>
-<label key="1879464042" value="Огненный урук в доспехах"/>
-<label key="1879464043" value="Зловещий охотник"/>
-<label key="1879464044" value="Коричневая паучиха-сенокосец"/>
-<label key="1879464045" value="Древний Мордорский орк-заклинатель костей"/>
-<label key="1879464046" value="Оскверненный задира Белой Руки"/>
-<label key="1879464047" value="Зловещий варг с окровавленной пастью"/>
-<label key="1879464048" value="Чумной орк"/>
+<label key="1879464038" value="Раздутая красная сольпуга"/>
+<label key="1879464039" value="Сине-золотой умбарский певец битвы"/>
+<label key="1879464040" value="Розовокожий умбарский разоритель"/>
+<label key="1879464041" value="Проклинатель в маске-черепе"/>
+<label key="1879464042" value="Серый умбарский певец битвы"/>
+<label key="1879464043" value="Мохнокожий умбарский рыжий разведчик"/>
+<label key="1879464044" value="Пустынная сольпуга"/>
+<label key="1879464045" value="Осквернитель из Карн-Дума"/>
+<label key="1879464046" value="Синекожий орк в доспехах"/>
+<label key="1879464047" value="Рогатый и бородатый кристаллический"/>
+<label key="1879464048" value="Огненный орк"/>
 <label key="1879464049" value="Морийский варг с седлом"/>
 <label key="1879464221" value="Муха-серпица"/>
 <label key="1879464222" value="Жалящая пчела"/>
@@ -41485,10 +41485,10 @@
 <label key="1879464588" value="Графелегский трус"/>
 <label key="1879464611" value="Мешок свежих овощей"/>
 <label key="1879464654" value="Записка"/>
-<label key="1879464656" value="Саженец"/>
-<label key="1879464657" value="Саженец"/>
-<label key="1879464658" value="Саженец"/>
-<label key="1879464659" value="Саженец"/>
+<label key="1879464656" value="Необычное маленькое деревце"/>
+<label key="1879464657" value="Необычное маленькое деревце"/>
+<label key="1879464658" value="Необычное маленькое деревце"/>
+<label key="1879464659" value="Необычное маленькое деревце"/>
 <label key="1879464660" value="Фараниль"/>
 <label key="1879464666" value="Разбойник-боец"/>
 <label key="1879464667" value="Разбойница-застрельщик"/>
@@ -41599,7 +41599,7 @@
 <label key="1879465621" value="Сорняк"/>
 <label key="1879465622" value="Камень"/>
 <label key="1879465655" value="Барсук"/>
-<label key="1879465657" value="Саженец"/>
+<label key="1879465657" value="Деревце"/>
 <label key="1879465664" value="Лимриль"/>
 <label key="1879465665" value="Гладион"/>
 <label key="1879465670" value="Тингобель"/>
@@ -43232,11 +43232,11 @@
 <label key="1879475423" value="Хартабор"/>
 <label key="1879475428" value="Кусок мяса"/>
 <label key="1879475432" value="Ахардис"/>
-<label key="1879475452" value="Рабочий стол"/>
+<label key="1879475452" value="Верстак"/>
 <label key="1879475453" value="Кабинет"/>
 <label key="1879475454" value="Путевой камень"/>
 <label key="1879475455" value="Печь"/>
-<label key="1879475456" value="Наковальня"/>
+<label key="1879475456" value="Кузница"/>
 <label key="1879475460" value="Краб-охотник"/>
 <label key="1879475462" value="Гасафар"/>
 <label key="1879475463" value="Белизам Горький"/>
@@ -44124,9 +44124,9 @@
 <label key="1879484590" value="Нашон"/>
 <label key="1879484591" value="Мешка"/>
 <label key="1879484613" value="Легвена"/>
-<label key="1879484614" value="Разъярённый Габех"/>
+<label key="1879484614" value="Разъярённый габех"/>
 <label key="1879484615" value="Имхалам"/>
-<label key="1879484616" value="Великан Габех"/>
+<label key="1879484616" value="Большой габех"/>
 <label key="1879484618" value="Драгру"/>
 <label key="1879484658" value="Храмовая летучая мышь"/>
 <label key="1879484659" value="Ильмабирийская летучая мышь"/>
@@ -44381,7 +44381,7 @@
 <label key="1879485826" value="Покрытый паутиной ящик"/>
 <label key="1879485827" value="Тильмахимская крыса"/>
 <label key="1879485830" value="Стражник Дар-Ладжи"/>
-<label key="1879485831" value="Событие - точка ошеломления"/>
+<label key="1879485831" value="DNT - Drama Instant Daze Hotspot Brief"/>
 <label key="1879485835" value="Осквернённая гробница"/>
 <label key="1879485836" value="Осквернённая гробница"/>
 <label key="1879485854" value="Татата Бестия"/>
@@ -44409,12 +44409,12 @@
 <label key="1879486238" value="Вход в башню Лугазаг"/>
 <label key="1879486239" value="Вход в башню Лугазаг"/>
 <label key="1879486244" value="Вход в башню Тирит Роу"/>
-<label key="1879486273" value="Ingúl Ovestoke"/>
-<label key="1879486274" value="Ogmund Bellowbreath"/>
-<label key="1879486275" value="Lazy Prospector"/>
-<label key="1879486276" value="Skuld Scentlode"/>
-<label key="1879486277" value="Velgerd Kilnwarden"/>
-<label key="1879486278" value="Sneaky Hobbit"/>
+<label key="1879486273" value="Ингул Растопщица"/>
+<label key="1879486274" value="Огмунд Мехадув"/>
+<label key="1879486275" value="Ленивый рудокоп"/>
+<label key="1879486276" value="Скульд Рудовед"/>
+<label key="1879486277" value="Вельгерд Обжигальщица"/>
+<label key="1879486278" value="Коварный хоббит"/>
 <label key="1879486419" value="Амарбо"/>
 <label key="1879486423" value="Ротог Буря"/>
 <label key="1879486424" value="Шайдал"/>
@@ -44448,281 +44448,281 @@
 <label key="1879486595" value="Стражник Сехты"/>
 <label key="1879486596" value="Лжеархивариус"/>
 <label key="1879486597" value="Кхолтек Хитрец"/>
-<label key="1879486600" value="Héori Firefeed"/>
-<label key="1879486601" value="Medium Chunk of Ever-burn Ore"/>
-<label key="1879486602" value="Jar of Spice"/>
-<label key="1879486603" value="Barrel of Fish"/>
-<label key="1879486604" value="Rich Ever-burn Ore Node"/>
-<label key="1879486605" value="Flagon of Ale"/>
-<label key="1879486606" value="Spice Crate"/>
-<label key="1879486607" value="Laden Ever-burn Ore Node"/>
-<label key="1879486608" value="Large Chunk of Ever-burn Ore"/>
-<label key="1879486609" value="Crate of Deep Mushrooms"/>
-<label key="1879486610" value="Deep Mushroom"/>
-<label key="1879486611" value="Keg of Thorin's Hall Ale"/>
-<label key="1879486612" value="Small Chunk of Ever-burn Ore"/>
-<label key="1879486613" value="Weak Ever-burn Ore Node"/>
-<label key="1879486687" value="Crate of Mushrooms"/>
+<label key="1879486600" value="Хеори Кочегар"/>
+<label key="1879486601" value="Средний кусок негасимой руды"/>
+<label key="1879486602" value="Склянка с приправами"/>
+<label key="1879486603" value="Бочка с рыбой"/>
+<label key="1879486604" value="Богатые залежи негасимой руды"/>
+<label key="1879486605" value="Кувшин эля"/>
+<label key="1879486606" value="Ящик для хранения приправ"/>
+<label key="1879486607" value="Обширные залежи негасимой руды"/>
+<label key="1879486608" value="Большой кусок негасимой руды"/>
+<label key="1879486609" value="Ящик с грибами, растущими в глубоких недрах пещеры"/>
+<label key="1879486610" value="Глубинный гриб"/>
+<label key="1879486611" value="Бочка эля Чертогов Торина"/>
+<label key="1879486612" value="Маленький кусок негасимой руды"/>
+<label key="1879486613" value="Бедные залежи негасимой руды"/>
+<label key="1879486687" value="Ящик грибов"/>
 <label key="1879486707" value="GNDN"/>
 <label key="1879486712" value="Миритах"/>
-<label key="1879486716" value="Ore Cart"/>
-<label key="1879486956" value="Thorin's Hall Brew"/>
-<label key="1879486958" value="Thorin's Hall Mushroom Snack"/>
-<label key="1879486959" value="Thorin's Hall Hearty Meal"/>
-<label key="1879486969" value="Thorin's Hall Snack Table"/>
-<label key="1879486970" value="Thorin's Hall Brew Table"/>
-<label key="1879486971" value="Thorin's Hall Meal Table"/>
+<label key="1879486716" value="Вагонетка"/>
+<label key="1879486956" value="Пиво Чертогов Торина"/>
+<label key="1879486958" value="Грибная закуска Чертогов Торина"/>
+<label key="1879486959" value="Сытное блюдо Чертогов Торина"/>
+<label key="1879486969" value="Стол с закусками Чертогов Торина"/>
+<label key="1879486970" value="Варочный стол Чертогов Торина"/>
+<label key="1879486971" value="Обеденный стол Чертогов Торина"/>
 <label key="1879486987" value="Рыцарь флота"/>
 <label key="1879486994" value="Крысоловка"/>
 <label key="1879487012" value="Базифар"/>
 <label key="1879487516" value="DNT - Thorin's Hall Crafting Event"/>
-<label key="1879487533" value="Girhâzi"/>
-<label key="1879487534" value="Tharashil"/>
-<label key="1879487535" value="Thórvilon"/>
-<label key="1879487536" value="Aitárshun"/>
-<label key="1879487537" value="Shanthar"/>
-<label key="1879487574" value="Mêshka"/>
-<label key="1879487575" value="Thorongil"/>
-<label key="1879487576" value="Sigileth"/>
-<label key="1879487577" value="Gandalf"/>
+<label key="1879487533" value="Гирхази"/>
+<label key="1879487534" value="Тарашиль"/>
+<label key="1879487535" value="Торвилон"/>
+<label key="1879487536" value="Айтаршун"/>
+<label key="1879487537" value="Шантар"/>
+<label key="1879487574" value="Мешка"/>
+<label key="1879487575" value="Торонгил"/>
+<label key="1879487576" value="Сигилет"/>
+<label key="1879487577" value="Гэндальф"/>
 <label key="1879487578" value="GHALBURU APOTHECARY TBD"/>
-<label key="1879487579" value="Glorfindel"/>
-<label key="1879487580" value="Silirtas"/>
-<label key="1879487581" value="Corudan"/>
+<label key="1879487579" value="Глорфиндел"/>
+<label key="1879487580" value="Силиртас"/>
+<label key="1879487581" value="Корудан"/>
 <label key="1879487582" value="ROTHOG'S LION TBD"/>
-<label key="1879487583" value="Sigileth"/>
-<label key="1879487584" value="Khôltekh"/>
-<label key="1879487585" value="Belondor"/>
-<label key="1879487586" value="Rahâzi"/>
-<label key="1879487587" value="Corudan"/>
-<label key="1879487588" value="Rothog"/>
-<label key="1879487589" value="Khôltekh"/>
-<label key="1879487590" value="Silirtas"/>
-<label key="1879487591" value="Corudan"/>
-<label key="1879487592" value="Sirgon"/>
-<label key="1879487593" value="Elladan"/>
-<label key="1879487594" value="Rothog"/>
-<label key="1879487595" value="Sirgon"/>
-<label key="1879487596" value="Sigileth"/>
-<label key="1879487597" value="Silirtas"/>
-<label key="1879487598" value="Silirtas"/>
-<label key="1879487599" value="Sadûkh"/>
-<label key="1879487600" value="Gimli"/>
+<label key="1879487583" value="Сигилет"/>
+<label key="1879487584" value="Кхолтек"/>
+<label key="1879487585" value="Белондор"/>
+<label key="1879487586" value="Рахази"/>
+<label key="1879487587" value="Корудан"/>
+<label key="1879487588" value="Ротог"/>
+<label key="1879487589" value="Кхолтек"/>
+<label key="1879487590" value="Силиртас"/>
+<label key="1879487591" value="Корудан"/>
+<label key="1879487592" value="Сиргон"/>
+<label key="1879487593" value="Элладан"/>
+<label key="1879487594" value="Ротог"/>
+<label key="1879487595" value="Сиргон"/>
+<label key="1879487596" value="Сигилет"/>
+<label key="1879487597" value="Силиртас"/>
+<label key="1879487598" value="Силиртас"/>
+<label key="1879487599" value="Садукх"/>
+<label key="1879487600" value="Гимли"/>
 <label key="1879487601" value="CARAVAN MASTER TBD"/>
-<label key="1879487602" value="Rothog"/>
-<label key="1879487603" value="Sigileth"/>
-<label key="1879487604" value="Silirtas"/>
-<label key="1879487605" value="Rahâzi"/>
-<label key="1879487606" value="Rahâzi"/>
+<label key="1879487602" value="Ротог"/>
+<label key="1879487603" value="Сигилет"/>
+<label key="1879487604" value="Силиртас"/>
+<label key="1879487605" value="Рахази"/>
+<label key="1879487606" value="Рахази"/>
 <label key="1879487607" value="JIRUSH RESIDENT B TBD"/>
-<label key="1879487608" value="Belondor"/>
-<label key="1879487609" value="Sigileth"/>
-<label key="1879487610" value="Silirtas"/>
-<label key="1879487611" value="Silirtas"/>
-<label key="1879487612" value="Silirtas"/>
-<label key="1879487613" value="Nimrodel"/>
-<label key="1879487614" value="Silirtas"/>
-<label key="1879487615" value="Sigileth"/>
-<label key="1879487616" value="Rahâzi"/>
-<label key="1879487617" value="Gandalf"/>
+<label key="1879487608" value="Белондор"/>
+<label key="1879487609" value="Сигилет"/>
+<label key="1879487610" value="Силиртас"/>
+<label key="1879487611" value="Силиртас"/>
+<label key="1879487612" value="Силиртас"/>
+<label key="1879487613" value="Нимродель"/>
+<label key="1879487614" value="Силиртас"/>
+<label key="1879487615" value="Сигилет"/>
+<label key="1879487616" value="Рахази"/>
+<label key="1879487617" value="Гэндальф"/>
 <label key="1879487618" value="STOP ONE GUARD TBD"/>
 <label key="1879487619" value="STOP TWO GUARD TBD"/>
-<label key="1879487620" value="Khôltekh"/>
-<label key="1879487621" value="Sigileth"/>
-<label key="1879487622" value="Corudan"/>
-<label key="1879487623" value="Corudan"/>
-<label key="1879487624" value="Corudan"/>
-<label key="1879487625" value="Dying Man"/>
-<label key="1879487626" value="Caebar"/>
-<label key="1879487627" value="Balakhad"/>
-<label key="1879487628" value="Silirtas"/>
-<label key="1879487629" value="Khôltekh"/>
-<label key="1879487630" value="Sigileth"/>
+<label key="1879487620" value="Кхолтек"/>
+<label key="1879487621" value="Сигилет"/>
+<label key="1879487622" value="Корудан"/>
+<label key="1879487623" value="Корудан"/>
+<label key="1879487624" value="Корудан"/>
+<label key="1879487625" value="Умирающий человек"/>
+<label key="1879487626" value="Каэбар"/>
+<label key="1879487627" value="Балахад"/>
+<label key="1879487628" value="Силиртас"/>
+<label key="1879487629" value="Кхолтек"/>
+<label key="1879487630" value="Сигилет"/>
 <label key="1879487631" value="DUMURI TWO TBD"/>
-<label key="1879487632" value="Khôltekh"/>
+<label key="1879487632" value="Кхолтек"/>
 <label key="1879487633" value="URMAKH RESIDENT B TBD"/>
-<label key="1879487634" value="Silirtas"/>
-<label key="1879487635" value="Gimli"/>
-<label key="1879487636" value="Sirgon"/>
-<label key="1879487637" value="Sigileth"/>
-<label key="1879487638" value="Gandalf"/>
-<label key="1879487639" value="Corudan"/>
-<label key="1879487640" value="Belondor"/>
-<label key="1879487641" value="Girhâzi"/>
-<label key="1879487642" value="Corudan"/>
-<label key="1879487643" value="Sirgon"/>
-<label key="1879487644" value="Glorfindel"/>
-<label key="1879487645" value="Rahâzi"/>
-<label key="1879487646" value="Corudan"/>
-<label key="1879487647" value="Rahâzi"/>
-<label key="1879487648" value="Silirtas"/>
+<label key="1879487634" value="Силиртас"/>
+<label key="1879487635" value="Гимли"/>
+<label key="1879487636" value="Сиргон"/>
+<label key="1879487637" value="Сигилет"/>
+<label key="1879487638" value="Гэндальф"/>
+<label key="1879487639" value="Корудан"/>
+<label key="1879487640" value="Белондор"/>
+<label key="1879487641" value="Гирхази"/>
+<label key="1879487642" value="Корудан"/>
+<label key="1879487643" value="Сиргон"/>
+<label key="1879487644" value="Глорфиндел"/>
+<label key="1879487645" value="Рахази"/>
+<label key="1879487646" value="Корудан"/>
+<label key="1879487647" value="Рахази"/>
+<label key="1879487648" value="Силиртас"/>
 <label key="1879487649" value="GHALBURU GUARD TBD"/>
-<label key="1879487650" value="Corudan"/>
-<label key="1879487651" value="Gangur Farwend"/>
+<label key="1879487650" value="Корудан"/>
+<label key="1879487651" value="Гангур Длинноступ"/>
 <label key="1879487652" value="URMAKH RESIDENT A TBD"/>
-<label key="1879487653" value="Belondor"/>
-<label key="1879487654" value="Sirgon"/>
-<label key="1879487655" value="Elrohir"/>
-<label key="1879487656" value="Elladan"/>
-<label key="1879487657" value="Bruidis"/>
-<label key="1879487658" value="Silirtas"/>
-<label key="1879487659" value="Belondor"/>
-<label key="1879487660" value="Belondor"/>
-<label key="1879487661" value="Corudan"/>
-<label key="1879487662" value="Sigileth"/>
-<label key="1879487663" value="Your Sleeping Mat"/>
-<label key="1879487664" value="Sigileth"/>
-<label key="1879487665" value="Rahâzi"/>
-<label key="1879487666" value="Sigileth"/>
-<label key="1879487667" value="Legolas"/>
-<label key="1879487668" value="Rossaran"/>
-<label key="1879487669" value="Belondor"/>
-<label key="1879487670" value="Corudan"/>
-<label key="1879487671" value="Rothog"/>
-<label key="1879487672" value="Rahâzi"/>
+<label key="1879487653" value="Белондор"/>
+<label key="1879487654" value="Сиргон"/>
+<label key="1879487655" value="Элроир"/>
+<label key="1879487656" value="Элладан"/>
+<label key="1879487657" value="Бруидис"/>
+<label key="1879487658" value="Силиртас"/>
+<label key="1879487659" value="Белондор"/>
+<label key="1879487660" value="Белондор"/>
+<label key="1879487661" value="Корудан"/>
+<label key="1879487662" value="Сигилет"/>
+<label key="1879487663" value="Ваш коврик для сна"/>
+<label key="1879487664" value="Сигилет"/>
+<label key="1879487665" value="Рахази"/>
+<label key="1879487666" value="Сигилет"/>
+<label key="1879487667" value="Леголас"/>
+<label key="1879487668" value="Россаран"/>
+<label key="1879487669" value="Белондор"/>
+<label key="1879487670" value="Корудан"/>
+<label key="1879487671" value="Ротог"/>
+<label key="1879487672" value="Рахази"/>
 <label key="1879487673" value="TEACHER TBD"/>
-<label key="1879487674" value="Gandalf"/>
+<label key="1879487674" value="Гэндальф"/>
 <label key="1879487675" value="DUMURI TWO TBD"/>
-<label key="1879487676" value="Belondor"/>
-<label key="1879487677" value="Sirgon"/>
-<label key="1879487678" value="Sirgon"/>
-<label key="1879487679" value="Sadûkh"/>
+<label key="1879487676" value="Белондор"/>
+<label key="1879487677" value="Сиргон"/>
+<label key="1879487678" value="Сиргон"/>
+<label key="1879487679" value="Садукх"/>
 <label key="1879487680" value="JIRUSH RESIDENT A TBD"/>
-<label key="1879487681" value="Sigileth"/>
-<label key="1879487682" value="Legolas"/>
-<label key="1879487683" value="Sirgon"/>
-<label key="1879487684" value="Sirgon"/>
-<label key="1879487685" value="Elladan"/>
-<label key="1879487686" value="Belondor"/>
-<label key="1879487687" value="Rahâzi"/>
-<label key="1879487688" value="Sirgon"/>
-<label key="1879487689" value="Sigileth"/>
-<label key="1879487690" value="Belondor"/>
+<label key="1879487681" value="Сигилет"/>
+<label key="1879487682" value="Леголас"/>
+<label key="1879487683" value="Сиргон"/>
+<label key="1879487684" value="Сиргон"/>
+<label key="1879487685" value="Элладан"/>
+<label key="1879487686" value="Белондор"/>
+<label key="1879487687" value="Рахази"/>
+<label key="1879487688" value="Сиргон"/>
+<label key="1879487689" value="Сигилет"/>
+<label key="1879487690" value="Белондор"/>
 <label key="1879487691" value="ARENA ARMOURER TBD"/>
-<label key="1879487692" value="Khôltekh"/>
-<label key="1879487693" value="Legolas"/>
-<label key="1879487694" value="Corudan"/>
-<label key="1879487695" value="Khôltekh"/>
+<label key="1879487692" value="Кхолтек"/>
+<label key="1879487693" value="Леголас"/>
+<label key="1879487694" value="Корудан"/>
+<label key="1879487695" value="Кхолтек"/>
 <label key="1879487696" value="JIRUSH RESIDENT C TBD"/>
-<label key="1879487697" value="Sigileth"/>
-<label key="1879487698" value="Khôltekh"/>
-<label key="1879487699" value="Belondor"/>
-<label key="1879487700" value="Rahâzi"/>
-<label key="1879487701" value="Corudan"/>
-<label key="1879487702" value="Rahâzi"/>
-<label key="1879487703" value="Glorfindel"/>
-<label key="1879487704" value="Corudan"/>
-<label key="1879487705" value="Corudan"/>
-<label key="1879487706" value="Sigileth"/>
+<label key="1879487697" value="Сигилет"/>
+<label key="1879487698" value="Кхолтек"/>
+<label key="1879487699" value="Белондор"/>
+<label key="1879487700" value="Рахази"/>
+<label key="1879487701" value="Корудан"/>
+<label key="1879487702" value="Рахази"/>
+<label key="1879487703" value="Глорфиндел"/>
+<label key="1879487704" value="Корудан"/>
+<label key="1879487705" value="Корудан"/>
+<label key="1879487706" value="Сигилет"/>
 <label key="1879487707" value="URMAKH RESIDENT C TBD"/>
 <label key="1879487708" value="DUMURI TWO TBD"/>
-<label key="1879487709" value="Sigileth"/>
-<label key="1879487710" value="Corudan"/>
-<label key="1879487711" value="Rahâzi"/>
-<label key="1879487712" value="Belondor"/>
-<label key="1879487713" value="Dead Man"/>
-<label key="1879487714" value="Corudan"/>
-<label key="1879487715" value="Sigileth"/>
-<label key="1879487716" value="Sigileth"/>
+<label key="1879487709" value="Сигилет"/>
+<label key="1879487710" value="Корудан"/>
+<label key="1879487711" value="Рахази"/>
+<label key="1879487712" value="Белондор"/>
+<label key="1879487713" value="Мертвец"/>
+<label key="1879487714" value="Корудан"/>
+<label key="1879487715" value="Сигилет"/>
+<label key="1879487716" value="Сигилет"/>
 <label key="1879487717" value="KINTA HEALER TBD"/>
-<label key="1879487718" value="Injured Man"/>
-<label key="1879487719" value="Corudan"/>
-<label key="1879487720" value="Rothog"/>
-<label key="1879487721" value="Belondor"/>
-<label key="1879487722" value="Silirtas"/>
-<label key="1879487723" value="Legolas"/>
-<label key="1879487724" value="Corudan"/>
-<label key="1879487725" value="Lady Nauriel"/>
-<label key="1879487726" value="Rahâzi"/>
-<label key="1879487727" value="Silirtas"/>
-<label key="1879487728" value="Rothog"/>
-<label key="1879487729" value="Sigileth"/>
-<label key="1879487730" value="Sigileth"/>
-<label key="1879487731" value="Khôltekh"/>
-<label key="1879487732" value="Sigileth"/>
+<label key="1879487718" value="Раненый человек"/>
+<label key="1879487719" value="Корудан"/>
+<label key="1879487720" value="Ротог"/>
+<label key="1879487721" value="Белондор"/>
+<label key="1879487722" value="Силиртас"/>
+<label key="1879487723" value="Леголас"/>
+<label key="1879487724" value="Корудан"/>
+<label key="1879487725" value="Госпожа Науриэль"/>
+<label key="1879487726" value="Рахази"/>
+<label key="1879487727" value="Силиртас"/>
+<label key="1879487728" value="Ротог"/>
+<label key="1879487729" value="Сигилет"/>
+<label key="1879487730" value="Сигилет"/>
+<label key="1879487731" value="Кхолтек"/>
+<label key="1879487732" value="Сигилет"/>
 <label key="1879487733" value="WAREHOUSE MASTER TBD"/>
-<label key="1879487734" value="Sigileth"/>
-<label key="1879487735" value="Silirtas"/>
+<label key="1879487734" value="Сигилет"/>
+<label key="1879487735" value="Силиртас"/>
 <label key="1879487736" value="TEACHER TBD"/>
-<label key="1879487737" value="Khôltekh"/>
-<label key="1879487738" value="Corudan"/>
-<label key="1879487739" value="Khôltekh"/>
-<label key="1879487740" value="Sadûkh"/>
-<label key="1879487741" value="Gimli"/>
-<label key="1879487742" value="Belondor"/>
-<label key="1879487743" value="Elrohir"/>
-<label key="1879487747" value="Provided Water"/>
-<label key="1879487748" value="The Elder Orcs"/>
-<label key="1879487749" value="Provided Foodstuffs"/>
-<label key="1879487750" value="Location for Stone"/>
-<label key="1879487751" value="Location for Stone"/>
-<label key="1879487752" value="The Thardúth"/>
-<label key="1879487753" value="The Grim Southron"/>
-<label key="1879487754" value="The Kintai"/>
-<label key="1879487755" value="Cultist Corpse"/>
-<label key="1879487756" value="Location for Stone"/>
-<label key="1879487757" value="Usal River-bed"/>
-<label key="1879487758" value="Pile of Stones"/>
-<label key="1879487759" value="Usal River-bed"/>
-<label key="1879487760" value="Location for Stone"/>
-<label key="1879487761" value="Discarded Satchel"/>
-<label key="1879487762" value="Kintai Coffer"/>
-<label key="1879487763" value="The Dark Lord Sauron"/>
-<label key="1879487764" value="Berry Bush"/>
-<label key="1879487765" value="Usal River-bed"/>
-<label key="1879487766" value="Camp-fire Site"/>
-<label key="1879487767" value="Fallen Wall-stone"/>
-<label key="1879487768" value="Scorpion Stinger"/>
-<label key="1879487769" value="Neeker Bristles"/>
-<label key="1879487770" value="Jackal Teeth"/>
-<label key="1879487771" value="Diseased Deer-hide"/>
-<label key="1879487772" value="Satchel Contents"/>
-<label key="1879487773" value="Diseased Serval-fang"/>
-<label key="1879487774" value="Boundary Stones"/>
-<label key="1879487775" value="Jar of Water"/>
-<label key="1879487776" value="Diseased Boar-hoof"/>
-<label key="1879487777" value="Khôltekh's Parchment"/>
-<label key="1879487778" value="Order For Weapons"/>
-<label key="1879487779" value="Token of the Eye"/>
-<label key="1879487780" value="Water Bladder"/>
-<label key="1879487781" value="Craban Feathers"/>
+<label key="1879487737" value="Кхолтек"/>
+<label key="1879487738" value="Корудан"/>
+<label key="1879487739" value="Кхолтек"/>
+<label key="1879487740" value="Садукх"/>
+<label key="1879487741" value="Гимли"/>
+<label key="1879487742" value="Белондор"/>
+<label key="1879487743" value="Элроир"/>
+<label key="1879487747" value="Вода"/>
+<label key="1879487748" value="Древние орки"/>
+<label key="1879487749" value="Провизия"/>
+<label key="1879487750" value="Место для камня"/>
+<label key="1879487751" value="Место для камня"/>
+<label key="1879487752" value="Тардут"/>
+<label key="1879487753" value="Зловещий Южанин"/>
+<label key="1879487754" value="Кинтай"/>
+<label key="1879487755" value="Труп последователя культа"/>
+<label key="1879487756" value="Место для камня"/>
+<label key="1879487757" value="Русло реки Усал"/>
+<label key="1879487758" value="Кучка камней"/>
+<label key="1879487759" value="Русло реки Усал"/>
+<label key="1879487760" value="Место для камня"/>
+<label key="1879487761" value="Брошенная сумка"/>
+<label key="1879487762" value="Сундук Кинтая"/>
+<label key="1879487763" value="Тёмный властелин Саурон"/>
+<label key="1879487764" value="Ягодный куст"/>
+<label key="1879487765" value="Русло реки Усал"/>
+<label key="1879487766" value="Лагерь"/>
+<label key="1879487767" value="Выпавший из стены камень"/>
+<label key="1879487768" value="Жало скорпиона"/>
+<label key="1879487769" value="Щетина кровопросца"/>
+<label key="1879487770" value="Шакальи зубы"/>
+<label key="1879487771" value="Шкура больного оленя"/>
+<label key="1879487772" value="Содержимое сумки"/>
+<label key="1879487773" value="Клык больного сервала"/>
+<label key="1879487774" value="Пограничные камни"/>
+<label key="1879487775" value="Кувшин с водой"/>
+<label key="1879487776" value="Копыто больного вепря"/>
+<label key="1879487777" value="Пергамент Кхолтека"/>
+<label key="1879487778" value="Заказ на оружие"/>
+<label key="1879487779" value="Жетон Ока"/>
+<label key="1879487780" value="Ёмкость для воды"/>
+<label key="1879487781" value="Перья кребанов"/>
 <label key="1879487782" value="MISPLACED BOOK TBD"/>
-<label key="1879487783" value="Soothing Poultice"/>
-<label key="1879487784" value="Hardy Plant Leaves"/>
-<label key="1879487785" value="Craban Claw"/>
-<label key="1879487786" value="Order For Supplies"/>
-<label key="1879487787" value="Toad Legs"/>
-<label key="1879487789" value="Sandworm Meat"/>
-<label key="1879487790" value="Order For A Caravan"/>
-<label key="1879487791" value="Sharp Jackal Tooth"/>
-<label key="1879487792" value="Scorpion Stinger"/>
-<label key="1879487793" value="Riverside Reeds"/>
-<label key="1879487794" value="Slain Ordakhai Weapon"/>
-<label key="1879487795" value="Neeker Bristles"/>
-<label key="1879487796" value="Feather Pillow"/>
-<label key="1879487797" value="Healer's Cloth"/>
-<label key="1879487798" value="Oasis Jar"/>
-<label key="1879487799" value="Buried Husk"/>
+<label key="1879487783" value="Успокаивающая припарка"/>
+<label key="1879487784" value="Листья живучих растений"/>
+<label key="1879487785" value="Коготь кребана"/>
+<label key="1879487786" value="Заказ на припасы"/>
+<label key="1879487787" value="Жабьи лапки"/>
+<label key="1879487789" value="Мясо песчаного червя"/>
+<label key="1879487790" value="Распоряжения для караванщика"/>
+<label key="1879487791" value="Острый шакалий зуб"/>
+<label key="1879487792" value="Жало скорпиона"/>
+<label key="1879487793" value="Речной тростник"/>
+<label key="1879487794" value="Оружие убитого воина-ордахая"/>
+<label key="1879487795" value="Щетина кровопросца"/>
+<label key="1879487796" value="Подушка из перьев"/>
+<label key="1879487797" value="Ткань лекаря"/>
+<label key="1879487798" value="Кувшин из оазиса"/>
+<label key="1879487799" value="Зарытая кожура"/>
 <label key="1879487843" value="TBD Lumberjack"/>
 <label key="1879487844" value="TBD Animal 6"/>
-<label key="1879487845" value="Girhâzi"/>
-<label key="1879487846" value="Amâsu"/>
-<label key="1879487847" value="Shanthar"/>
+<label key="1879487845" value="Гирхази"/>
+<label key="1879487846" value="Амасу"/>
+<label key="1879487847" value="Шантар"/>
 <label key="1879487848" value="TBD Animal 5"/>
 <label key="1879487849" value="TBD Waggon Driver"/>
-<label key="1879487850" value="Amâsu"/>
+<label key="1879487850" value="Амасу"/>
 <label key="1879487851" value="Dumûri Guard"/>
 <label key="1879487852" value="Khûldim Umûn"/>
 <label key="1879487853" value="TBD Papyrus Farmer"/>
 <label key="1879487854" value="TBD Lumberjack"/>
 <label key="1879487855" value="TBD Cultist  Follower"/>
 <label key="1879487856" value="TBD Cultist Captain"/>
-<label key="1879487857" value="Girhâzi"/>
+<label key="1879487857" value="Гирхази"/>
 <label key="1879487858" value="TBD Animal Tender"/>
 <label key="1879487859" value="TBD Arrowsmith"/>
 <label key="1879487860" value="Khûldim Umûn"/>
 <label key="1879487861" value="TBD Mother"/>
-<label key="1879487862" value="Girhâzi"/>
+<label key="1879487862" value="Гирхази"/>
 <label key="1879487863" value="Khûldim Umûn"/>
 <label key="1879487864" value="TBD Fisherman"/>
 <label key="1879487865" value="TBD Animal 2"/>
@@ -44734,10 +44734,10 @@
 <label key="1879487871" value="TBD Animal 3"/>
 <label key="1879487872" value="TBD Shopkeeper"/>
 <label key="1879487873" value="TBD Sister"/>
-<label key="1879487874" value="Ningêna"/>
+<label key="1879487874" value="Нингена"/>
 <label key="1879487875" value="TBD Animal 4"/>
 <label key="1879487876" value="TBD Cook"/>
-<label key="1879487897" value="Sapling"/>
+<label key="1879487897" value="Деревце"/>
 <label key="1879487915" value="TBD Boat"/>
 <label key="1879487916" value="TBD A Good Place For a Sapling"/>
 <label key="1879487917" value="TBD Catapult"/>
@@ -44759,67 +44759,67 @@
 <label key="1879487938" value="TBD Crate of Trade-goods"/>
 <label key="1879487941" value="Papyrus"/>
 <label key="1879487945" value="TBD Healing Herb"/>
-<label key="1879487946" value="Bucket of Water"/>
+<label key="1879487946" value="Ведро воды"/>
 <label key="1879487947" value="Broken Waggon Wheel"/>
 <label key="1879487948" value="Crate of Arrowheads"/>
-<label key="1879487992" value="Oven"/>
+<label key="1879487992" value="Печь"/>
 <label key="1879487998" value="GNDN"/>
 <label key="1879487999" value="GNDN"/>
 <label key="1879488000" value="GNDN"/>
 <label key="1879488001" value="GNDN"/>
 <label key="1879488004" value="DNT - Thorin's Hall Oven"/>
-<label key="1879488034" value="Mizâdi Shâra"/>
+<label key="1879488034" value="Мизади Шара"/>
 <label key="1879488035" value="TBD Kintai Farmer 1"/>
 <label key="1879488036" value="TBD Urmâkh Farmer"/>
 <label key="1879488037" value="TBD Urmakh Dogcatcher"/>
-<label key="1879488038" value="Milingor"/>
+<label key="1879488038" value="Милингор"/>
 <label key="1879488039" value="TBD Hamât Scout"/>
-<label key="1879488040" value="Okhiso"/>
+<label key="1879488040" value="Окхисо"/>
 <label key="1879488041" value="TBD Kintai Water-bearer"/>
-<label key="1879488042" value="Usakâr the Hermit"/>
+<label key="1879488042" value="Ушакар Отшельник"/>
 <label key="1879488043" value="TBD Urmâkh Villager"/>
 <label key="1879488044" value="TBD Urmâkh Child 4"/>
 <label key="1879488045" value="TBD Urmâkh Concerned Wife"/>
 <label key="1879488046" value="TBD Urmâkh Blacksmith"/>
 <label key="1879488047" value="TBD Kintai Farmer 2"/>
 <label key="1879488048" value="TBD Kintai Warrior Leader"/>
-<label key="1879488049" value="Numûru"/>
+<label key="1879488049" value="Нумуру"/>
 <label key="1879488050" value="TBD Urmâkh Quartermaster"/>
-<label key="1879488051" value="Usakâr the Hermit"/>
+<label key="1879488051" value="Ушакар Отшельник"/>
 <label key="1879488052" value="TBD Urmâkh Child 2"/>
 <label key="1879488053" value="TBD Hamât Scout"/>
 <label key="1879488054" value="TBD Hamât Scout"/>
 <label key="1879488055" value="TBD Urmakh Dogcatcher"/>
-<label key="1879488056" value="Avadhril"/>
+<label key="1879488056" value="Авадриль"/>
 <label key="1879488057" value="TBD Urmâkh Child 3"/>
-<label key="1879488058" value="Okhiso"/>
+<label key="1879488058" value="Окхисо"/>
 <label key="1879488059" value="TBD Maiar"/>
 <label key="1879488060" value="TBD Urmâkh Witness 1"/>
-<label key="1879488061" value="Usakâr the Hermit"/>
-<label key="1879488062" value="Thórvilon"/>
-<label key="1879488063" value="Numûru"/>
+<label key="1879488061" value="Ушакар Отшельник"/>
+<label key="1879488062" value="Торвилон"/>
+<label key="1879488063" value="Нумуру"/>
 <label key="1879488064" value="TBD Hamât Scholar"/>
 <label key="1879488065" value="TBD Urmâkh Witness 3"/>
-<label key="1879488066" value="Mizâdi Shâra"/>
-<label key="1879488067" value="Mizâdi Shâra"/>
-<label key="1879488068" value="Cúridwan, the Golden Maiden"/>
-<label key="1879488069" value="Cúridwan, the Golden Maiden"/>
+<label key="1879488066" value="Мизади Шара"/>
+<label key="1879488067" value="Мизади Шара"/>
+<label key="1879488068" value="Куридван Золотая Дева"/>
+<label key="1879488069" value="Куридван Золотая Дева"/>
 <label key="1879488070" value="TBD Urmâkh Storyteller"/>
 <label key="1879488071" value="TBD Kintai Warrior"/>
-<label key="1879488072" value="Mizâdi Shâra"/>
+<label key="1879488072" value="Мизади Шара"/>
 <label key="1879488073" value="TBD Urmâkh Witness 2"/>
 <label key="1879488074" value="TBD Hamât Warrior"/>
 <label key="1879488075" value="TBD Urmâkh Child 1"/>
-<label key="1879488076" value="Numûru"/>
-<label key="1879488077" value="Pet Rock"/>
-<label key="1879488078" value="River Concoction"/>
-<label key="1879488079" value="Wood for Repairs"/>
-<label key="1879488081" value="Suitable Tree"/>
-<label key="1879488082" value="Pristine Feather"/>
+<label key="1879488076" value="Нумуру"/>
+<label key="1879488077" value="Камень для домашних животных"/>
+<label key="1879488078" value="Речное снадобье"/>
+<label key="1879488079" value="Доски для ремонта"/>
+<label key="1879488081" value="Подходящее дерево"/>
+<label key="1879488082" value="Превосходное перо"/>
 <label key="1879488083" value="Orc Weapons Maurush"/>
 <label key="1879488084" value="Orkish Weapon"/>
-<label key="1879488085" value="Tortoise Shell"/>
-<label key="1879488086" value="Spider Silk"/>
+<label key="1879488085" value="Черепаховый панцирь"/>
+<label key="1879488086" value="Паучий шёлк"/>
 <label key="1879488087" value="Scouting Maurush 2"/>
 <label key="1879488088" value="Spider Silk"/>
 <label key="1879488089" value="TBD Scouting Report"/>
@@ -44833,26 +44833,26 @@
 <label key="1879488097" value="TBD Scouting Report"/>
 <label key="1879488098" value="TBD Iluritu Clue 3"/>
 <label key="1879488099" value="TBD Camel Location 3"/>
-<label key="1879488100" value="Lost Supplies"/>
+<label key="1879488100" value="Потерянные припасы"/>
 <label key="1879488101" value="TBD Scouting Report"/>
 <label key="1879488102" value="Scouting Utug Bur"/>
-<label key="1879488103" value="Jackal Pelt"/>
+<label key="1879488103" value="Шакалья шкура"/>
 <label key="1879488104" value="Orc Supplies North"/>
 <label key="1879488105" value="TBD River Flower"/>
 <label key="1879488107" value="Scouting Maurush 1"/>
 <label key="1879488108" value="Orkish Weapon"/>
 <label key="1879488109" value="TBD Iluritu Clue 1"/>
 <label key="1879488110" value="Ashagir Supplies"/>
-<label key="1879488126" value="Avatar of War"/>
-<label key="1879488127" value="Deep Caller"/>
-<label key="1879488128" value="Deep Caller"/>
-<label key="1879488129" value="High Cultist"/>
-<label key="1879488131" value="High Cultist"/>
-<label key="1879488132" value="Shadow-binder"/>
-<label key="1879488134" value="Shadow-binder"/>
-<label key="1879488135" value="Avatar of War"/>
-<label key="1879488136" value="Ragrekhûl"/>
-<label key="1879488137" value="Ragrekhûl"/>
+<label key="1879488126" value="Аватар войны"/>
+<label key="1879488127" value="Призыватель глубин"/>
+<label key="1879488128" value="Призыватель глубин"/>
+<label key="1879488129" value="Высшая последовательница культа"/>
+<label key="1879488131" value="Высшая последовательница культа"/>
+<label key="1879488132" value="Сумрачный ловец"/>
+<label key="1879488134" value="Сумрачный ловец"/>
+<label key="1879488135" value="Аватар войны"/>
+<label key="1879488136" value="Рагрехул"/>
+<label key="1879488137" value="Рагрехул"/>
 <label key="1879488148" value="DNT Fishing"/>
 <label key="1879488150" value="DNT Fishing"/>
 <label key="1879488151" value="DNT Fishing"/>
@@ -44863,109 +44863,109 @@
 <label key="1879488171" value="TBD Apothecary"/>
 <label key="1879488172" value="TBD Brigand Orc Hunt"/>
 <label key="1879488173" value="TBD Fletcher"/>
-<label key="1879488174" value="Galâmka"/>
+<label key="1879488174" value="Галамка"/>
 <label key="1879488175" value="TBD Trader"/>
 <label key="1879488176" value="TBD Brigand Leader Rockslide"/>
 <label key="1879488177" value="TBD Dumuri 3"/>
 <label key="1879488178" value="TBD Expedition Leader"/>
-<label key="1879488179" value="Thugóch"/>
+<label key="1879488179" value="Тугох"/>
 <label key="1879488180" value="TBD Dumuri 2"/>
 <label key="1879488181" value="TBD Brigand Leader Badizal"/>
 <label key="1879488182" value="TBD Ashagir Refugee 1"/>
 <label key="1879488183" value="TBD Zikrum Dul Refugee"/>
 <label key="1879488184" value="TBD Maurush Scout 1"/>
 <label key="1879488185" value="TBD Dumuri 1"/>
-<label key="1879488186" value="Enârshan"/>
+<label key="1879488186" value="Энаршан"/>
 <label key="1879488187" value="TBD Ashagir Refugee 3"/>
-<label key="1879488188" value="Râkdakul"/>
+<label key="1879488188" value="Ракдакул"/>
 <label key="1879488189" value="TBD Brigand Tactician"/>
-<label key="1879488190" value="Angârmu"/>
+<label key="1879488190" value="Ангарму"/>
 <label key="1879488191" value="TBD Maurush Scout 2"/>
 <label key="1879488192" value="TBD Ashagir Refugee 2"/>
-<label key="1879488193" value="Shukûri"/>
-<label key="1879488418" value="Amelia"/>
+<label key="1879488193" value="Шукури"/>
+<label key="1879488418" value="Амелия"/>
 <label key="1879488678" value="TBD Lunch"/>
-<label key="1879488679" value="Repaired Waggon Wheel"/>
-<label key="1879488824" value="Great Dread-tortoise"/>
-<label key="1879488825" value="Great Dread-tortoise"/>
-<label key="1879488826" value="Young Dread-tortoise"/>
-<label key="1879488880" value="Feral Ikorbâni Boar"/>
-<label key="1879488882" value="Aggressive Ikorbâni Boar"/>
-<label key="1879488886" value="Feral Ikorbâni Boar"/>
-<label key="1879488887" value="Aggressive Ikorbâni Boar"/>
-<label key="1879488889" value="Urâshi Hunter Scorpion"/>
-<label key="1879488893" value="Ambarûli Young Scorpion"/>
-<label key="1879488894" value="Ambarûli Giant Scorpion"/>
-<label key="1879488898" value="Ambarûli Hunter Scorpion"/>
-<label key="1879488899" value="Urâshi Young Scorpion"/>
-<label key="1879488901" value="Urâshi Giant Scorpion"/>
-<label key="1879488902" value="Urâshi Hunter Scorpion"/>
-<label key="1879488907" value="Famished Avanc"/>
-<label key="1879488909" value="Frenzied Craban"/>
-<label key="1879488916" value="Fiery Craban"/>
-<label key="1879488919" value="Ambarûli Caracal"/>
-<label key="1879488921" value="Ambarûli Caracal"/>
-<label key="1879488922" value="Ambarûli Serval"/>
-<label key="1879488924" value="Ambarûli Serval"/>
-<label key="1879488937" value="Giant Stinging Marsh-fly"/>
-<label key="1879488938" value="Stinging Marsh-fly"/>
-<label key="1879488939" value="Biting Neekerbreeker"/>
-<label key="1879488940" value="Neekerbreeker Queen"/>
-<label key="1879488941" value="Buzzing Marsh-fly"/>
-<label key="1879488942" value="Biting Neekerbreeker"/>
-<label key="1879488943" value="Urâshi Wasp"/>
-<label key="1879488944" value="Buzzing Marsh-fly"/>
-<label key="1879488945" value="Neekerbreeker Burrower"/>
-<label key="1879488947" value="Urâshi Trapper"/>
-<label key="1879488948" value="Urâshi Hunter"/>
-<label key="1879488949" value="Urâshi Sandstorm"/>
-<label key="1879488950" value="Urâshi Spitter"/>
-<label key="1879488954" value="Khûdi Sand-sifter"/>
-<label key="1879488960" value="Urâshi Ravager"/>
-<label key="1879488961" value="Urâshi Pack-leader"/>
-<label key="1879488962" value="Khûdi Jackal"/>
-<label key="1879488963" value="Urâshi Jackal"/>
-<label key="1879488964" value="Urâshi Jackal"/>
-<label key="1879488966" value="Urâshi Heaver"/>
-<label key="1879488967" value="Urâshi Brute"/>
-<label key="1879488969" value="Zhélruka Warrior"/>
-<label key="1879488970" value="Zhélruka Warrior"/>
-<label key="1879488971" value="Zhélruka Warrior"/>
-<label key="1879488972" value="Zhélruka Warrior"/>
-<label key="1879488973" value="Zhélruka Warrior"/>
-<label key="1879488974" value="Zhélruka Warrior"/>
-<label key="1879488975" value="Zhélruka Warrior"/>
-<label key="1879489026" value="Ambarûli Ruffian"/>
-<label key="1879489027" value="Urâshi Blade"/>
-<label key="1879489029" value="Ambarûli Cutthroat"/>
-<label key="1879489030" value="Ambarûli Dead-eye"/>
-<label key="1879489031" value="Urâshi Brigand Leader"/>
-<label key="1879489032" value="Urâshi Dead-eye"/>
-<label key="1879489034" value="Ambarûli Bandit Leader"/>
-<label key="1879489035" value="Ambarûli Ruffian"/>
-<label key="1879489037" value="Ambarûli Rat-master"/>
-<label key="1879489038" value="Urâshi Rat-master"/>
-<label key="1879489039" value="Urâshi Cutthroat"/>
-<label key="1879489042" value="Khûdi Tough"/>
-<label key="1879489097" value="Urâshi Lingerer"/>
-<label key="1879489111" value="Ordakhai Sentry"/>
-<label key="1879489112" value="Ordakhai Warrior"/>
-<label key="1879489121" value="Ordakhai Champion"/>
-<label key="1879489122" value="Ordakhai Sorcerer"/>
-<label key="1879489126" value="Ordakhai Sentry"/>
-<label key="1879489128" value="Ordakhai Warrior"/>
-<label key="1879489132" value="Ordakhai Captain"/>
-<label key="1879489133" value="Ordakhai Cat-keeper"/>
-<label key="1879489137" value="Canyon-lizard"/>
-<label key="1879489139" value="Ikorbâni Hind"/>
-<label key="1879489142" value="Ikorbâni Hart"/>
-<label key="1879489145" value="Battle Plans"/>
-<label key="1879489311" value="Southern Outpost"/>
-<label key="1879489312" value="Western Outpost"/>
-<label key="1879489313" value="Eastern Outpost"/>
-<label key="1879489314" value="Rothog the Storm"/>
-<label key="1879489315" value="Shaidal"/>
-<label key="1879489377" value="Ilûritu Orc Camp"/>
+<label key="1879488679" value="Отремонтированное колесо телеги"/>
+<label key="1879488824" value="Большая грозная черепаха"/>
+<label key="1879488825" value="Большая грозная черепаха"/>
+<label key="1879488826" value="Молодая грозная черепаха"/>
+<label key="1879488880" value="Дикий икорбанийский вепрь"/>
+<label key="1879488882" value="Агрессивный икорбанийский вепрь"/>
+<label key="1879488886" value="Дикий икорбанийский вепрь"/>
+<label key="1879488887" value="Агрессивный икорбанийский вепрь"/>
+<label key="1879488889" value="Урашийский скорпион-охотник"/>
+<label key="1879488893" value="Амбарулийский молодой скорпион"/>
+<label key="1879488894" value="Гигантский амбарулийский скорпион"/>
+<label key="1879488898" value="Амбарулийский скорпион-охотник"/>
+<label key="1879488899" value="Урашийский молодой скорпион"/>
+<label key="1879488901" value="Гигантский урашийский скорпион"/>
+<label key="1879488902" value="Урашийский скорпион-охотник"/>
+<label key="1879488907" value="Голодный аванк"/>
+<label key="1879488909" value="Яростный кребан"/>
+<label key="1879488916" value="Огненный кребан"/>
+<label key="1879488919" value="Амбарулийский каракал"/>
+<label key="1879488921" value="Амбарулийский каракал"/>
+<label key="1879488922" value="Амбарулийский сервал"/>
+<label key="1879488924" value="Амбарулийский сервал"/>
+<label key="1879488937" value="Гигантская жалящая болотная муха"/>
+<label key="1879488938" value="Жалящая болотная муха"/>
+<label key="1879488939" value="Кусачий кровопросец"/>
+<label key="1879488940" value="Королева кровопросцев"/>
+<label key="1879488941" value="Жужжащая болотная муха"/>
+<label key="1879488942" value="Кусачий кровопросец"/>
+<label key="1879488943" value="Урашийская оса"/>
+<label key="1879488944" value="Жужжащая болотная муха"/>
+<label key="1879488945" value="Кровопросец-копальщик"/>
+<label key="1879488947" value="Урашийский капканщик"/>
+<label key="1879488948" value="Урашийский охотник"/>
+<label key="1879488949" value="Урашийская песчаная буря"/>
+<label key="1879488950" value="Урашийский плевальщик"/>
+<label key="1879488954" value="Кхудийский песчаный червь"/>
+<label key="1879488960" value="Урашийский разоритель"/>
+<label key="1879488961" value="Урашийский вожак стаи"/>
+<label key="1879488962" value="Кхудийский шакал"/>
+<label key="1879488963" value="Урашийский шакал"/>
+<label key="1879488964" value="Урашийский шакал"/>
+<label key="1879488966" value="Урашийский камнеметатель"/>
+<label key="1879488967" value="Урашийский громила"/>
+<label key="1879488969" value="Воин-Желрук"/>
+<label key="1879488970" value="Воин-Желрук"/>
+<label key="1879488971" value="Воин-Желрук"/>
+<label key="1879488972" value="Воин-Желрук"/>
+<label key="1879488973" value="Воин-Желрук"/>
+<label key="1879488974" value="Воин-Желрук"/>
+<label key="1879488975" value="Воин-Желрук"/>
+<label key="1879489026" value="Амбарулийский разбойник"/>
+<label key="1879489027" value="Урашийский мечник"/>
+<label key="1879489029" value="Амбарулийский головорез"/>
+<label key="1879489030" value="Амбарулийский меткий стрелок"/>
+<label key="1879489031" value="Урашийский главарь разбойников"/>
+<label key="1879489032" value="Урашийский меткий стрелок"/>
+<label key="1879489034" value="Амбарулийский главарь разбойников"/>
+<label key="1879489035" value="Амбарулийский разбойник"/>
+<label key="1879489037" value="Амбарулийский повелитель крыс"/>
+<label key="1879489038" value="Урашийский повелитель крыс"/>
+<label key="1879489039" value="Урашийский головорез"/>
+<label key="1879489042" value="Кхудийский силач"/>
+<label key="1879489097" value="Урашийский отставший"/>
+<label key="1879489111" value="Часовой-ордахай"/>
+<label key="1879489112" value="Воин-ордахай"/>
+<label key="1879489121" value="Воитель-ордахай"/>
+<label key="1879489122" value="Колдун-ордахай"/>
+<label key="1879489126" value="Часовой-ордахай"/>
+<label key="1879489128" value="Воин-ордахай"/>
+<label key="1879489132" value="Командир-ордахай"/>
+<label key="1879489133" value="Укротитель котов-ордахай"/>
+<label key="1879489137" value="Каньонная ящерица"/>
+<label key="1879489139" value="Икорбанийская лань"/>
+<label key="1879489142" value="Икорбанийский олень"/>
+<label key="1879489145" value="Боевые планы"/>
+<label key="1879489311" value="Южная застава"/>
+<label key="1879489312" value="Западная застава"/>
+<label key="1879489313" value="Восточная застава"/>
+<label key="1879489314" value="Ротог Буря"/>
+<label key="1879489315" value="Шайдал"/>
+<label key="1879489377" value="Орочий лагерь Илуриту"/>
 <label key="1879489586" value="TBD Lazy Scout"/>
 <label key="1879489587" value="TBD Antizealot Rebel"/>
 <label key="1879489588" value="TBD Jirush Musician"/>
@@ -44978,16 +44978,16 @@
 <label key="1879489595" value="TBD Jirush Grocer"/>
 <label key="1879489596" value="TBD Compassionate Caretaker"/>
 <label key="1879489597" value="TBD Overworked Carpenter"/>
-<label key="1879489603" value="Giant Ambarûli Crocodile"/>
-<label key="1879489604" value="Ambarûli Crocodile"/>
+<label key="1879489603" value="Гигантский амбарулийский крокодил"/>
+<label key="1879489604" value="Амбарулийский крокодил"/>
 <label key="1879489619" value="TBD Iluritu Orc Supplies"/>
 <label key="1879489630" value="TBD Maurush Scout Dead"/>
 <label key="1879489692" value="TBD Log Pile"/>
-<label key="1879489714" value="Sand Pile"/>
-<label key="1879489716" value="Sand Pile"/>
-<label key="1879489717" value="Sand Pile"/>
-<label key="1879489731" value="Ritual Spice"/>
-<label key="1879489732" value="Precious Gems"/>
+<label key="1879489714" value="Кучка песка"/>
+<label key="1879489716" value="Кучка песка"/>
+<label key="1879489717" value="Кучка песка"/>
+<label key="1879489731" value="Ритуальные пряности"/>
+<label key="1879489732" value="Драгоценные самоцветы"/>
 <label key="1879489733" value="Ancient Elixir"/>
 <label key="1879489743" value="TBD Lumberjack"/>
 <label key="1879489909" value="TBD Ashagir Clue 3"/>
@@ -44995,12 +44995,12 @@
 <label key="1879489911" value="TBD Ashagir Clue 1"/>
 <label key="1879489912" value="TBD Ashagir Refugee Thief"/>
 <label key="1879489913" value="TBD Ashagir Clue 2"/>
-<label key="1879490211" value="Exceptional Chest of Glân Vraig"/>
-<label key="1879490212" value="Chest of Gramsfoot"/>
-<label key="1879490219" value="Utug-Bur Orc Camp East"/>
-<label key="1879490220" value="Utug-Bur Orc Camp West"/>
-<label key="1879490267" value="Tempestuous Flame"/>
-<label key="1879490295" value="Tempestuous Flame"/>
+<label key="1879490211" value="Исключительный сундук Глан Врайга"/>
+<label key="1879490212" value="Сундук подножия Грэм"/>
+<label key="1879490219" value="Восточная часть орочьего лагеря Утуг-Бур"/>
+<label key="1879490220" value="Западная часть орочьего лагеря Утуг-Бур"/>
+<label key="1879490267" value="Бушующее Пламя"/>
+<label key="1879490295" value="Бушующее Пламя"/>
 <label key="1879490305" value="TBD Imhûlar Mission Giver"/>
 <label key="1879490405" value="TBD Iluritu Camp Boss"/>
 <label key="1879490406" value="TBD Named Orc"/>
@@ -45018,9 +45018,9 @@
 <label key="1879490589" value="Trapped Urmâkh Resident"/>
 <label key="1879490590" value="Trapped Urmâkh Resident"/>
 <label key="1879490591" value="Trapped Urmâkh Backpacker"/>
-<label key="1879490661" value="Tortoise"/>
-<label key="1879490662" value="Tortoise"/>
-<label key="1879490663" value="Tortoise"/>
+<label key="1879490661" value="Черепаха"/>
+<label key="1879490662" value="Черепаха"/>
+<label key="1879490663" value="Черепаха"/>
 <label key="1879490685" value="Repair Supplies"/>
 <label key="1879490687" value="Weak Spot in Reinforcements"/>
 <label key="1879490701" value="Repair Supplies"/>
@@ -45028,24 +45028,24 @@
 <label key="1879490703" value="Basket of Food"/>
 <label key="1879490704" value="Stone Fragment"/>
 <label key="1879490924" value="GNDN"/>
-<label key="1879491039" value="Cat"/>
-<label key="1879491231" value="Amelia"/>
-<label key="1879491232" value="Amelia"/>
-<label key="1879491233" value="Amelia"/>
-<label key="1879491234" value="Amelia"/>
-<label key="1879491440" value="Ragrekhûl's Spoils - Tier 4"/>
-<label key="1879491441" value="Ragrekhûl's Spoils - Tier 5"/>
-<label key="1879491442" value="Ragrekhûl's Spoils - Tier 2"/>
-<label key="1879491443" value="Ragrekhûl's Spoils - Tier 3"/>
-<label key="1879491444" value="Ragrekhûl's Spoils - Solo"/>
-<label key="1879491445" value="Ragrekhûl's Spoils - Tier 1"/>
-<label key="1879491478" value="Azrât"/>
-<label key="1879491479" value="Umbari Noble"/>
-<label key="1879491480" value="Umbari Noble"/>
-<label key="1879491481" value="Dabôr the Breaker"/>
-<label key="1879491482" value="Omran the Shrewd"/>
-<label key="1879491483" value="Sâkhariz"/>
-<label key="1879491484" value="Umbari Noble"/>
-<label key="1879491485" value="Iphita"/>
-<label key="1879492391" value="Corrupted Roots"/>
+<label key="1879491039" value="Кошка"/>
+<label key="1879491231" value="Амелия"/>
+<label key="1879491232" value="Амелия"/>
+<label key="1879491233" value="Амелия"/>
+<label key="1879491234" value="Амелия"/>
+<label key="1879491440" value="Трофеи Рагрехул - ур. 4"/>
+<label key="1879491441" value="Трофеи Рагрехул - ур. 5"/>
+<label key="1879491442" value="Трофеи Рагрехул - ур. 2"/>
+<label key="1879491443" value="Трофеи Рагрехул - ур. 3"/>
+<label key="1879491444" value="Трофеи Рагрехул - один игрок"/>
+<label key="1879491445" value="Трофеи Рагрехул - ур. 1"/>
+<label key="1879491478" value="Азрат"/>
+<label key="1879491479" value="Умбарский аристократ"/>
+<label key="1879491480" value="Умбарская аристократка"/>
+<label key="1879491481" value="Дабор Дробильщик"/>
+<label key="1879491482" value="Омран Проницательный"/>
+<label key="1879491483" value="Сахариз"/>
+<label key="1879491484" value="Умбарский аристократ"/>
+<label key="1879491485" value="Ифита"/>
+<label key="1879492391" value="Осквернённые корни"/>
 </labels>
