@@ -270,10 +270,8 @@
 <marker id="1336713218" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879341322" longitude="54.369003" latitude="11.81915"/>
 <marker id="1336713219" label="Auctioneer" category="53" did="1879313209" parentZoneId="1879341322" longitude="54.273846" latitude="11.77624"/>
 <marker id="1336713220" label="Barber" category="60" did="1879313223" parentZoneId="1879341322" longitude="54.40781" latitude="11.7749605"/>
-<marker id="1336713224" label="Tavern Keep" category="38" did="1879313174" parentZoneId="1879341322" longitude="54.195858" latitude="11.620107"/>
 <marker id="1336713226" label="Forge-master" category="29" did="1879339455" parentZoneId="1879341322" longitude="54.288845" latitude="11.609414"/>
 <marker id="1336713227" label="Expert Cook" category="33" did="1879313215" parentZoneId="1879341322" longitude="54.197147" latitude="11.930722"/>
-<marker id="1336713228" label="Expert Jeweller" category="33" did="1879313182" parentZoneId="1879341322" longitude="54.191563" latitude="11.784502"/>
 <marker id="1336713229" label="Expert Tailor" category="33" did="1879313205" parentZoneId="1879341322" longitude="54.232967" latitude="11.766874"/>
 <marker id="1336713230" label="Expert Metalsmith" category="33" did="1879313227" parentZoneId="1879341322" longitude="54.235466" latitude="11.683789"/>
 <marker id="1336713232" label="Expert Weaponcrafter" category="33" did="1879313202" parentZoneId="1879341322" longitude="54.235195" latitude="11.666982"/>
@@ -312,24 +310,19 @@
 <marker id="1336713275" label="Door" category="100" did="1879157893" parentZoneId="1879341322" longitude="53.81711" latitude="11.964384"/>
 <marker id="1336713276" label="Door" category="100" did="1879157893" parentZoneId="1879341322" longitude="53.72031" latitude="11.964384"/>
 <marker id="1336713277" label="Door" category="100" did="1879157893" parentZoneId="1879341322" longitude="54.441814" latitude="11.856787"/>
-<marker id="1336713278" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="54.16828" latitude="11.395449"/>
-<marker id="1336713279" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="54.16867" latitude="11.7151165"/>
-<marker id="1336713280" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="54.16867" latitude="11.822803"/>
-<marker id="1336713281" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="53.970135" latitude="11.714706"/>
-<marker id="1336713282" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="53.962772" latitude="11.820781"/>
-<marker id="1336713283" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="53.992107" latitude="11.638691"/>
-<marker id="1336713284" label="Portcullis" category="100" did="1879277883" parentZoneId="1879341322" longitude="54.04955" latitude="11.638691"/>
-<marker id="1336713299" label="Aragorn" category="70" did="1879341728" parentZoneId="1879341322" longitude="54.032597" latitude="11.496435"/>
-<marker id="1336713300" label="Merry" category="70" did="1879341763" parentZoneId="1879341322" longitude="54.03324" latitude="11.506699"/>
-<marker id="1336713302" label="Legolas" category="70" did="1879341743" parentZoneId="1879341322" longitude="54.03818" latitude="11.507226"/>
-<marker id="1336713303" label="Gimli" category="70" did="1879341738" parentZoneId="1879341322" longitude="54.02859" latitude="11.49667"/>
-<marker id="1336713305" label="Interaction Target" category="73" did="1879302738" parentZoneId="1879341322" longitude="54.03256" latitude="11.501884"/>
-<marker id="1336713306" label="Sam" category="70" did="1879341750" parentZoneId="1879341322" longitude="54.023907" latitude="11.497343"/>
-<marker id="1336713307" label="Gandalf" category="70" did="1879341758" parentZoneId="1879341322" longitude="54.018513" latitude="11.500811"/>
-<marker id="1336713308" label="Pippin" category="70" did="1879341752" parentZoneId="1879341322" longitude="54.03865" latitude="11.496875"/>
-<marker id="1336713309" label="Frodo" category="70" did="1879341754" parentZoneId="1879341322" longitude="54.02879" latitude="11.506581"/>
-<marker id="1336713324" label="Food" category="73" did="1879341780" parentZoneId="1879341322" longitude="54.039295" latitude="11.50166"/>
-<marker id="1336713325" label="Drink" category="73" did="1879341774" parentZoneId="1879341322" longitude="54.038925" latitude="11.502988"/>
+<marker id="1336713278" label="Tavern Keep" category="38" did="1879313174" parentZoneId="1879341322" longitude="54.195858" latitude="11.620107"/>
+<marker id="1336713279" label="Expert Jeweller" category="33" did="1879313182" parentZoneId="1879341322" longitude="54.191563" latitude="11.784502"/>
+<marker id="1336713292" label="Aragorn" category="70" did="1879341728" parentZoneId="1879341322" longitude="54.032597" latitude="11.496435"/>
+<marker id="1336713293" label="Merry" category="70" did="1879341763" parentZoneId="1879341322" longitude="54.03324" latitude="11.506699"/>
+<marker id="1336713295" label="Legolas" category="70" did="1879341743" parentZoneId="1879341322" longitude="54.03818" latitude="11.507226"/>
+<marker id="1336713296" label="Gimli" category="70" did="1879341738" parentZoneId="1879341322" longitude="54.02859" latitude="11.49667"/>
+<marker id="1336713298" label="Interaction Target" category="73" did="1879302738" parentZoneId="1879341322" longitude="54.03256" latitude="11.501884"/>
+<marker id="1336713299" label="Sam" category="70" did="1879341750" parentZoneId="1879341322" longitude="54.023907" latitude="11.497343"/>
+<marker id="1336713300" label="Gandalf" category="70" did="1879341758" parentZoneId="1879341322" longitude="54.018513" latitude="11.500811"/>
+<marker id="1336713301" label="Pippin" category="70" did="1879341752" parentZoneId="1879341322" longitude="54.03865" latitude="11.496875"/>
+<marker id="1336713302" label="Frodo" category="70" did="1879341754" parentZoneId="1879341322" longitude="54.02879" latitude="11.506581"/>
+<marker id="1336713317" label="Food" category="73" did="1879341780" parentZoneId="1879341322" longitude="54.039295" latitude="11.50166"/>
+<marker id="1336713318" label="Drink" category="73" did="1879341774" parentZoneId="1879341322" longitude="54.038925" latitude="11.502988"/>
 <marker id="1336721525" label="Restless Dwarf" category="70" did="1879369768" parentZoneId="1879358081" longitude="53.494648" latitude="13.970137"/>
 <marker id="1336721527" label="Restless Dwarf" category="70" did="1879369768" parentZoneId="1879358081" longitude="53.459003" latitude="13.972607"/>
 <marker id="1336721543" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879358081" longitude="53.653534" latitude="12.044335"/>

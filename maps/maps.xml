@@ -1469,6 +1469,41 @@
 <min longitude="-146.0875" latitude="-123.6"/>
 <max longitude="-139.6875" latitude="-118.799995"/>
 </map>
+<map id="268454617" name="Valley of Ikorbân" imageId="1092976645">
+<geo factor="18.125">
+<point longitude="-99.29655" latitude="-6.027588"/>
+</geo>
+<min longitude="-99.29655" latitude="-48.4"/>
+<max longitude="-42.799995" latitude="-6.027588"/>
+</map>
+<map id="268454619" name="Ambarûl" imageId="1092976660">
+<geo factor="33.125">
+<point longitude="-97.53207" latitude="-9.215097"/>
+</geo>
+<min longitude="-97.53207" latitude="-32.4"/>
+<max longitude="-66.61886" latitude="-9.215097"/>
+</map>
+<map id="268454623" name="Imhûlar" imageId="1092976659">
+<geo factor="33.125">
+<point longitude="-79.0717" latitude="-25.215097"/>
+</geo>
+<min longitude="-79.0717" latitude="-48.4"/>
+<max longitude="-48.158493" latitude="-25.215097"/>
+</map>
+<map id="268454625" name="Khûd Zagin" imageId="1092976657">
+<geo factor="29.09722">
+<point longitude="-97.36802" latitude="-22.005722"/>
+</geo>
+<min longitude="-97.36802" latitude="-48.399998"/>
+<max longitude="-62.17565" latitude="-22.005722"/>
+</map>
+<map id="268454627" name="Urash Dâr" imageId="1092976649">
+<geo factor="33.0554">
+<point longitude="-76.68908" latitude="-10.766279"/>
+</geo>
+<min longitude="-76.68908" latitude="-34.0"/>
+<max longitude="-45.710785" latitude="-10.766279"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -10008,5 +10043,145 @@
 </geo>
 <min longitude="52.58666" latitude="61.109997"/>
 <max longitude="55.253326" latitude="63.109997"/>
+</map>
+<map id="1879491720" name="Girhâzi's Lodge" imageId="1092976555">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="55.3"/>
+</geo>
+<min longitude="-146.66667" latitude="54.3"/>
+<max longitude="-145.33334" latitude="55.3"/>
+</map>
+<map id="1879491945" name="Seshdûl" imageId="1092977130">
+<geo factor="600.0">
+<point longitude="-147.15833" latitude="54.79834"/>
+</geo>
+<min longitude="-147.15833" latitude="52.79834"/>
+<max longitude="-144.49165" latitude="54.79834"/>
+</map>
+<map id="1879491946" name="Seshdûl" imageId="1092977131">
+<geo factor="600.0">
+<point longitude="-147.15833" latitude="54.79834"/>
+</geo>
+<min longitude="-147.15833" latitude="52.79834"/>
+<max longitude="-144.49165" latitude="54.79834"/>
+</map>
+<map id="1879491954" name="Ashunûg, the Fane of the Accursed" imageId="1092977250">
+<geo factor="600.0">
+<point longitude="-146.20833" latitude="52.074997"/>
+</geo>
+<min longitude="-146.20833" latitude="50.074997"/>
+<max longitude="-143.54166" latitude="52.074997"/>
+</map>
+<map id="1879492364" name="The Citadel of Winds, Upper Levels" imageId="1092979537">
+<geo factor="599.99994">
+<point longitude="50.98666" latitude="77.509995"/>
+</geo>
+<min longitude="50.98666" latitude="75.509995"/>
+<max longitude="53.653328" latitude="77.509995"/>
+</map>
+<map id="1879492518" name="Dul Râkh" imageId="1092979958">
+<geo factor="600.0">
+<point longitude="-59.01667" latitude="-17.49667"/>
+</geo>
+<min longitude="-59.01667" latitude="-18.49667"/>
+<max longitude="-57.68334" latitude="-17.49667"/>
+</map>
+<map id="1879492829" name="Maurûsh Mountain Passage" imageId="1092981821">
+<geo factor="599.99994">
+<point longitude="-147.48167" latitude="50.55166"/>
+</geo>
+<min longitude="-147.48167" latitude="48.55166"/>
+<max longitude="-144.815" latitude="50.55166"/>
+</map>
+<map id="1879492915" name="Enârshan's Home" imageId="1092981887">
+<geo factor="599.99994">
+<point longitude="-64.26667" latitude="-13.40833"/>
+</geo>
+<min longitude="-64.26667" latitude="-14.40833"/>
+<max longitude="-62.93334" latitude="-13.40833"/>
+</map>
+<map id="1879492990" name="The White Tombs of Nirgambâr" imageId="1092981922">
+<geo factor="300.0">
+<point longitude="48.66666" latitude="77.81334"/>
+</geo>
+<min longitude="48.66666" latitude="73.81334"/>
+<max longitude="53.999992" latitude="77.81334"/>
+</map>
+<map id="1879492991" name="Unassuming Crypt of Nirgambâr" imageId="1092981921">
+<geo factor="600.0">
+<point longitude="51.316658" latitude="75.325"/>
+</geo>
+<min longitude="51.316658" latitude="71.325"/>
+<max longitude="53.983326" latitude="75.325"/>
+</map>
+<map id="1879492992" name="Tunnels Beneath Ashâgir" imageId="1092981919">
+<geo factor="600.0">
+<point longitude="-71.37334" latitude="-18.91667"/>
+</geo>
+<min longitude="-71.37334" latitude="-19.91667"/>
+<max longitude="-70.04" latitude="-18.91667"/>
+</map>
+<map id="1879492993" name="Caves of Ghalbûru" imageId="1092981920">
+<geo factor="300.0">
+<point longitude="50.63334" latitude="72.24666"/>
+</geo>
+<min longitude="50.63334" latitude="68.24666"/>
+<max longitude="55.96667" latitude="72.24666"/>
+</map>
+<map id="1879492994" name="Barûl's Hideout" imageId="1092981918">
+<geo factor="600.0">
+<point longitude="-146.66667" latitude="48.899998"/>
+</geo>
+<min longitude="-146.66667" latitude="47.899998"/>
+<max longitude="-145.33334" latitude="48.899998"/>
+</map>
+<map id="1879493127" name="Ashunûg" imageId="1092981950">
+<geo factor="600.0">
+<point longitude="-146.20833" latitude="47.274998"/>
+</geo>
+<min longitude="-146.20833" latitude="45.274998"/>
+<max longitude="-143.54166" latitude="47.274998"/>
+</map>
+<map id="1879494890" name="Tower of Kûr Anzar" imageId="1092984035">
+<geo factor="600.0">
+<point longitude="53.335" latitude="53.303337"/>
+</geo>
+<min longitude="53.335" latitude="52.303337"/>
+<max longitude="54.66833" latitude="53.303337"/>
+</map>
+<map id="1879494891" name="Tûl Zakana, the Well of Forgetting" imageId="1092984036">
+<geo factor="266.6667">
+<point longitude="52.5075" latitude="56.07"/>
+</geo>
+<min longitude="52.5075" latitude="51.57"/>
+<max longitude="58.5075" latitude="56.07"/>
+</map>
+<map id="1879494957" name="Vestibule of Utug-bûr" imageId="1092984910">
+<geo factor="300.0">
+<point longitude="-146.57666" latitude="81.71"/>
+</geo>
+<min longitude="-146.57666" latitude="77.71"/>
+<max longitude="-141.24333" latitude="81.71"/>
+</map>
+<map id="1879495208" name="TBD - UTUG BUR WING 1" imageId="1092985845">
+<geo factor="600.0">
+<point longitude="-145.35832" latitude="78.2"/>
+</geo>
+<min longitude="-145.35832" latitude="76.2"/>
+<max longitude="-142.69165" latitude="78.2"/>
+</map>
+<map id="1879495217" name="Thûr Hin, Lair of the Children" imageId="1092987510">
+<geo factor="300.0">
+<point longitude="-147.06667" latitude="77.95"/>
+</geo>
+<min longitude="-147.06667" latitude="73.95"/>
+<max longitude="-141.73334" latitude="77.95"/>
+</map>
+<map id="1879495218" name="TBD - UTUG BUR WING 3" imageId="1092987631">
+<geo factor="300.0">
+<point longitude="-147.06667" latitude="76.25"/>
+</geo>
+<min longitude="-147.06667" latitude="72.25"/>
+<max longitude="-141.73334" latitude="76.25"/>
 </map>
 </maps>

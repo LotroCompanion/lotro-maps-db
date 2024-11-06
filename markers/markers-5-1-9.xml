@@ -964,8 +964,8 @@
 <marker id="1368506370" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.74269" latitude="0.9111328"/>
 <marker id="1368506371" label="Acid-spitting Drake" category="71" did="1879474939" parentZoneId="1879470529" longitude="-132.74269" latitude="0.9111328"/>
 <marker id="1368506372" label="Drake Nest" category="73" did="1879470548" parentZoneId="1879470529" longitude="-132.56828" latitude="0.5592285"/>
-<marker id="1368506373" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.55838" latitude="0.6067871"/>
-<marker id="1368506374" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.55838" latitude="0.6067871"/>
+<marker id="1368506373" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.55838" latitude="0.6067871"/>
+<marker id="1368506374" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.55838" latitude="0.6067871"/>
 <marker id="1368506376" label="Jeb Lipha" category="74" did="1879469843" parentZoneId="1879470529" longitude="-132.75468" latitude="1.0168945"/>
 <marker id="1368506380" label="Fierce Fire-matron" category="71" did="1879474940" parentZoneId="1879470529" longitude="-132.7365" latitude="1.1489356"/>
 <marker id="1368506381" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.7365" latitude="1.1489356"/>
@@ -1000,14 +1000,14 @@
 <marker id="1368506410" label="Fierce Fire-matron" category="71" did="1879474940" parentZoneId="1879470529" longitude="-132.52594" latitude="0.43631834"/>
 <marker id="1368506411" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.52594" latitude="0.43631834"/>
 <marker id="1368506412" label="Acid-spitting Drake" category="71" did="1879474939" parentZoneId="1879470529" longitude="-132.52594" latitude="0.43631834"/>
-<marker id="1368506413" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.55984" latitude="0.59463865"/>
-<marker id="1368506414" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.55984" latitude="0.59463865"/>
-<marker id="1368506415" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.6741" latitude="0.51777345"/>
-<marker id="1368506416" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.6741" latitude="0.51777345"/>
-<marker id="1368506417" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.67024" latitude="0.6047949"/>
-<marker id="1368506418" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.67024" latitude="0.6047949"/>
-<marker id="1368506419" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.46776" latitude="0.41791016"/>
-<marker id="1368506420" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.46776" latitude="0.41791016"/>
+<marker id="1368506413" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.55984" latitude="0.59463865"/>
+<marker id="1368506414" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.55984" latitude="0.59463865"/>
+<marker id="1368506415" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.6741" latitude="0.51777345"/>
+<marker id="1368506416" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.6741" latitude="0.51777345"/>
+<marker id="1368506417" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.67024" latitude="0.6047949"/>
+<marker id="1368506418" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.67024" latitude="0.6047949"/>
+<marker id="1368506419" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.46776" latitude="0.41791016"/>
+<marker id="1368506420" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.46776" latitude="0.41791016"/>
 <marker id="1368514560" label="Wild Boar" category="71" did="1879475086" parentZoneId="1879470529" longitude="-132.7864" latitude="2.3451464"/>
 <marker id="1368514561" label="Stone-lizard" category="71" did="1879475087" parentZoneId="1879470529" longitude="-132.7864" latitude="2.3451464"/>
 <marker id="1368514562" label="Jeb Khâtel Sabre-tooth" category="71" did="1879475090" parentZoneId="1879470529" longitude="-132.7864" latitude="2.3451464"/>
@@ -1349,8 +1349,8 @@
 <marker id="1368530946" label="Bâkhabar" category="43" did="1879469833" parentZoneId="1879470530" longitude="-131.85228" latitude="-7.0030856"/>
 <marker id="1368530947" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.79749" latitude="-7.186875"/>
 <marker id="1368530948" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.79749" latitude="-7.186875"/>
-<marker id="1368530949" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.03125" latitude="-6.9947166"/>
-<marker id="1368530950" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.03125" latitude="-6.9947166"/>
+<marker id="1368530949" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.03125" latitude="-6.9947166"/>
+<marker id="1368530950" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.03125" latitude="-6.9947166"/>
 <marker id="1368530951" label="Abandoned Sword" category="73" did="1879469520" parentZoneId="1879470530" longitude="-131.83698" latitude="-6.9091797"/>
 <marker id="1368530959" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.67415" latitude="-7.064756"/>
 <marker id="1368530960" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.67415" latitude="-7.064756"/>
@@ -1384,17 +1384,17 @@
 <marker id="1368530988" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-132.18155" latitude="-7.0298924"/>
 <marker id="1368530989" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.86267" latitude="-6.906367"/>
 <marker id="1368530990" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.86267" latitude="-6.906367"/>
-<marker id="1368530991" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.91357" latitude="-6.881123"/>
-<marker id="1368530992" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.91357" latitude="-6.881123"/>
-<marker id="1368530993" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.81963" latitude="-7.055781"/>
-<marker id="1368530994" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.81963" latitude="-7.055781"/>
-<marker id="1368530995" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.97049" latitude="-6.944082"/>
-<marker id="1368530996" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.97049" latitude="-6.944082"/>
+<marker id="1368530991" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.91357" latitude="-6.881123"/>
+<marker id="1368530992" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.91357" latitude="-6.881123"/>
+<marker id="1368530993" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.81963" latitude="-7.055781"/>
+<marker id="1368530994" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.81963" latitude="-7.055781"/>
+<marker id="1368530995" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.97049" latitude="-6.944082"/>
+<marker id="1368530996" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.97049" latitude="-6.944082"/>
 <marker id="1368535040" label="Treasure Cache" category="73" did="1879469673" parentZoneId="1879470530" longitude="-132.14806" latitude="-6.715156"/>
 <marker id="1368535041" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.95575" latitude="-6.715937"/>
 <marker id="1368535042" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.95575" latitude="-6.715937"/>
-<marker id="1368535043" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.31148" latitude="-6.5892086"/>
-<marker id="1368535044" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.31148" latitude="-6.5892086"/>
+<marker id="1368535043" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.31148" latitude="-6.5892086"/>
+<marker id="1368535044" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.31148" latitude="-6.5892086"/>
 <marker id="1368535046" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-132.04376" latitude="-6.5570993"/>
 <marker id="1368535047" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-132.04376" latitude="-6.5570993"/>
 <marker id="1368535048" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.67267" latitude="-6.66582"/>
@@ -1417,14 +1417,14 @@
 <marker id="1368535065" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.73167" latitude="-6.466318"/>
 <marker id="1368535066" label="Bâkhabar Corpse-eater" category="71" did="1879475108" parentZoneId="1879470530" longitude="-131.63863" latitude="-6.531963"/>
 <marker id="1368535067" label="Bâkhabar Wreck-stalker" category="71" did="1879475103" parentZoneId="1879470530" longitude="-131.63863" latitude="-6.531963"/>
-<marker id="1368535068" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.27898" latitude="-6.551211"/>
-<marker id="1368535069" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.27898" latitude="-6.551211"/>
-<marker id="1368535070" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.32164" latitude="-6.651494"/>
-<marker id="1368535071" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.32164" latitude="-6.651494"/>
-<marker id="1368535072" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.0353" latitude="-6.7354"/>
-<marker id="1368535073" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.0353" latitude="-6.7354"/>
-<marker id="1368535074" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.80443" latitude="-6.6357713"/>
-<marker id="1368535075" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.80443" latitude="-6.6357713"/>
+<marker id="1368535068" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.27898" latitude="-6.551211"/>
+<marker id="1368535069" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.27898" latitude="-6.551211"/>
+<marker id="1368535070" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.32164" latitude="-6.651494"/>
+<marker id="1368535071" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.32164" latitude="-6.651494"/>
+<marker id="1368535072" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-132.0353" latitude="-6.7354"/>
+<marker id="1368535073" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-132.0353" latitude="-6.7354"/>
+<marker id="1368535074" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470530" longitude="-131.80443" latitude="-6.6357713"/>
+<marker id="1368535075" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470530" longitude="-131.80443" latitude="-6.6357713"/>
 <marker id="1368539136" label="Carrion-crow" category="71" did="1879475097" parentZoneId="1879470530" longitude="-131.91586" latitude="-5.5803123"/>
 <marker id="1368539137" label="Drowned Wight" category="71" did="1879475110" parentZoneId="1879470530" longitude="-131.91586" latitude="-5.5803123"/>
 <marker id="1368539138" label="Goblin-pirate Cutthroat" category="71" did="1879475111" parentZoneId="1879470530" longitude="-131.91586" latitude="-5.5803123"/>
@@ -2697,8 +2697,8 @@
 <marker id="1368567810" label="Fierce Fire-matron" category="71" did="1879474940" parentZoneId="1879470529" longitude="-132.1007" latitude="-0.15580077"/>
 <marker id="1368567811" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.1007" latitude="-0.15580077"/>
 <marker id="1368567812" label="Acid-spitting Drake" category="71" did="1879474939" parentZoneId="1879470529" longitude="-132.1007" latitude="-0.15580077"/>
-<marker id="1368567816" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.27623" latitude="0.14356445"/>
-<marker id="1368567817" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.27623" latitude="0.14356445"/>
+<marker id="1368567816" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.27623" latitude="0.14356445"/>
+<marker id="1368567817" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.27623" latitude="0.14356445"/>
 <marker id="1368567824" label="Jeb Lipha" category="74" did="1879469843" parentZoneId="1879470529" longitude="-132.18265" latitude="0.1046875"/>
 <marker id="1368567825" label="Corroded Rock Sample" category="73" did="1879469511" parentZoneId="1879470529" longitude="-132.28177" latitude="0.13764648"/>
 <marker id="1368567826" label="Corroded Rock Sample" category="73" did="1879469511" parentZoneId="1879470529" longitude="-132.31793" latitude="0.125625"/>
@@ -2748,14 +2748,14 @@
 <marker id="1368567875" label="Fierce Fire-matron" category="71" did="1879474940" parentZoneId="1879470529" longitude="-132.2286" latitude="-0.18427734"/>
 <marker id="1368567876" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.2286" latitude="-0.18427734"/>
 <marker id="1368567877" label="Acid-spitting Drake" category="71" did="1879474939" parentZoneId="1879470529" longitude="-132.2286" latitude="-0.18427734"/>
-<marker id="1368567878" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.2777" latitude="0.13141601"/>
-<marker id="1368567879" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.2777" latitude="0.13141601"/>
-<marker id="1368567880" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.22055" latitude="-0.1996582"/>
-<marker id="1368567881" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.22055" latitude="-0.1996582"/>
-<marker id="1368567882" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.27345" latitude="0.24065429"/>
-<marker id="1368567883" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.27345" latitude="0.24065429"/>
-<marker id="1368567884" label="Umbar Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.38892" latitude="0.36948243"/>
-<marker id="1368567885" label="Heavy Umbar Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.38892" latitude="0.36948243"/>
+<marker id="1368567878" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.2777" latitude="0.13141601"/>
+<marker id="1368567879" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.2777" latitude="0.13141601"/>
+<marker id="1368567880" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.22055" latitude="-0.1996582"/>
+<marker id="1368567881" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.22055" latitude="-0.1996582"/>
+<marker id="1368567882" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.27345" latitude="0.24065429"/>
+<marker id="1368567883" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.27345" latitude="0.24065429"/>
+<marker id="1368567884" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879470529" longitude="-132.38892" latitude="0.36948243"/>
+<marker id="1368567885" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879470529" longitude="-132.38892" latitude="0.36948243"/>
 <marker id="1368571904" label="Treasure Cache" category="73" did="1879469673" parentZoneId="1879470529" longitude="-132.09962" latitude="1.0734375"/>
 <marker id="1368571905" label="Fierce Fire-matron" category="71" did="1879474940" parentZoneId="1879470529" longitude="-132.161" latitude="0.6194922"/>
 <marker id="1368571906" label="Acid-spitting Whelpling" category="71" did="1879474938" parentZoneId="1879470529" longitude="-132.161" latitude="0.6194922"/>
@@ -5148,7 +5148,7 @@
 <marker id="1368674521" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879470530" longitude="-130.3262" latitude="-4.753613"/>
 <marker id="1368674522" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879470530" longitude="-130.3262" latitude="-4.753613"/>
 <marker id="1368674523" label="Frog" category="78" did="1879086590" parentZoneId="1879470530" longitude="-130.3262" latitude="-4.753613"/>
-<marker id="1368678406" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879470530" longitude="-130.37193" latitude="-3.7224317"/>
+<marker id="1368678409" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879470530" longitude="-130.37193" latitude="-3.7224317"/>
 <marker id="1368678412" label="Balidan" category="70" did="1879473983" parentZoneId="1879470530" longitude="-130.29662" latitude="-3.6367772"/>
 <marker id="1368678413" label="Kiria" category="70" did="1879473986" parentZoneId="1879470530" longitude="-130.3332" latitude="-3.7161522"/>
 <marker id="1368678414" label="Javish" category="70" did="1879473992" parentZoneId="1879470530" longitude="-130.23799" latitude="-3.738955"/>
