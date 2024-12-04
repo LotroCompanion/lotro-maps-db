@@ -7,7 +7,7 @@
 <marker id="580259848" label="Ráthulf" category="70" did="1879145421" parentZoneId="1879109901" longitude="-116.139915" latitude="-7.924502"/>
 <marker id="580259849" label="Haflithi" category="70" did="1879145422" parentZoneId="1879109901" longitude="-116.01399" latitude="-7.9546385"/>
 <marker id="580259855" label="Bed-bug" category="71" did="1879135912" parentZoneId="1879109901" longitude="-116.06117" latitude="-8.089873"/>
-<marker id="580259856" label="Fith&#10;Stable-master" category="51" did="1879136985" parentZoneId="1879109901" longitude="-116.07917" latitude="-7.9204297"/>
+<marker id="580259856" label="Stable-master" category="51" did="1879136985" parentZoneId="1879109901" longitude="-116.07917" latitude="-7.9204297"/>
 <marker id="580259857" label="Explorer" category="70" did="1879130816" parentZoneId="1879109901" longitude="-116.05123" latitude="-8.053154"/>
 <marker id="580259858" label="Miner" category="70" did="1879132189" parentZoneId="1879109901" longitude="-115.611786" latitude="-8.011005"/>
 <marker id="580259859" label="Guard" category="70" did="1879132188" parentZoneId="1879109901" longitude="-115.91673" latitude="-7.855674"/>
@@ -308,8 +308,8 @@
 <marker id="580456522" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109901" longitude="-113.24878" latitude="-8.341465"/>
 <marker id="580456523" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109901" longitude="-113.48494" latitude="-8.386328"/>
 <marker id="580456524" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109901" longitude="-113.48494" latitude="-8.386328"/>
-<marker id="580456525" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109901" longitude="-113.8762" latitude="-8.0819435"/>
-<marker id="580456526" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109901" longitude="-113.8762" latitude="-8.0819435"/>
+<marker id="580456525" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109901" longitude="-113.89328" latitude="-7.969258"/>
+<marker id="580456526" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109901" longitude="-113.89328" latitude="-7.969258"/>
 <marker id="580456527" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109901" longitude="-113.85592" latitude="-8.347529"/>
 <marker id="580456528" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109901" longitude="-113.85592" latitude="-8.347529"/>
 <marker id="580456529" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109901" longitude="-113.97817" latitude="-8.354619"/>
@@ -1016,7 +1016,7 @@
 <marker id="580583434" label="Dalwin&#10;Iron Garrison Miners" category="61" did="1879143757" parentZoneId="1879109901" longitude="-112.27364" latitude="-8.642187"/>
 <marker id="580583435" label="Límar&#10;Iron Garrison Guards" category="61" did="1879143756" parentZoneId="1879109901" longitude="-112.23749" latitude="-8.629951"/>
 <marker id="580583436" label="Provisioner" category="38" did="1879134303" parentZoneId="1879109901" longitude="-112.15496" latitude="-8.639131"/>
-<marker id="580583437" label="Dúfa&#10;Stable-master" category="51" did="1879134302" parentZoneId="1879109901" longitude="-112.36337" latitude="-8.416562"/>
+<marker id="580583437" label="Stable-master" category="51" did="1879134302" parentZoneId="1879109901" longitude="-112.36337" latitude="-8.416562"/>
 <marker id="580583438" label="Healer" category="38" did="1879134304" parentZoneId="1879109901" longitude="-112.101326" latitude="-8.601328"/>
 <marker id="580583439" label="Dolven-view" category="43" did="1879134456" parentZoneId="1879109901" longitude="-112.15186" latitude="-8.485752"/>
 <marker id="580583440" label="The Stone Council" category="43" did="1879134464" parentZoneId="1879109901" longitude="-112.24977" latitude="-9.072676"/>
@@ -1190,7 +1190,7 @@
 <marker id="580599815" label="Scouting Moria Orc" category="71" did="1879142922" parentZoneId="1879109900" longitude="-112.32646" latitude="-5.892666"/>
 <marker id="580599816" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-112.13115" latitude="-5.7727146"/>
 <marker id="580599817" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.93744" latitude="-5.6224704"/>
-<marker id="580599819" label="Styrlak&#10;Stable-master" category="51" did="1879134213" parentZoneId="1879109900" longitude="-112.107025" latitude="-5.2205467"/>
+<marker id="580599819" label="Stable-master" category="51" did="1879134213" parentZoneId="1879109900" longitude="-112.107025" latitude="-5.2205467"/>
 <marker id="580599821" label="Manarbul" category="43" did="1879134431" parentZoneId="1879109900" longitude="-111.97009" latitude="-5.649609"/>
 <marker id="580599822" label="Tasks" category="27" did="1879233906" parentZoneId="1879109900" longitude="-111.948845" latitude="-5.244043"/>
 <marker id="580599824" label="Eilag" category="70" did="1879136285" parentZoneId="1879109900" longitude="-111.9341" latitude="-5.238437"/>
@@ -2009,167 +2009,166 @@
 <marker id="580677638" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.161026" latitude="-3.2173338"/>
 <marker id="580677639" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.161026" latitude="-3.2173338"/>
 <marker id="580677640" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.161026" latitude="-3.2173338"/>
-<marker id="580677641" label="Goat to the Fanged Pit" category="48" did="1879238539" parentZoneId="1879109900" longitude="-110.81387" latitude="-2.9056444"/>
-<marker id="580677642" label="The Door to the Clouds" category="43" did="1879134430" parentZoneId="1879109900" longitude="-110.8035" latitude="-2.8170214"/>
-<marker id="580677643" label="Durin's Crossing" category="43" did="1879134432" parentZoneId="1879109900" longitude="-110.80101" latitude="-3.5882323"/>
-<marker id="580677644" label="Sibbi&#10;Stable-master" category="51" did="1879135401" parentZoneId="1879109900" longitude="-110.81677" latitude="-2.9157128"/>
-<marker id="580677645" label="Morroval-stalker" category="71" did="1879234232" parentZoneId="1879109900" longitude="-111.42105" latitude="-3.5383787"/>
-<marker id="580677646" label="Guard" category="70" did="1879132188" parentZoneId="1879109900" longitude="-110.82425" latitude="-2.9596093"/>
-<marker id="580677647" label="Healer" category="38" did="1879222939" parentZoneId="1879109900" longitude="-110.82867" latitude="-2.9405859"/>
-<marker id="580677648" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109900" longitude="-110.82666" latitude="-2.9350781"/>
-<marker id="580677654" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
-<marker id="580677655" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
-<marker id="580677656" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
-<marker id="580677657" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
-<marker id="580677658" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
-<marker id="580677659" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
-<marker id="580677660" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
-<marker id="580677661" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
-<marker id="580677662" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
-<marker id="580677663" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
-<marker id="580677683" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
-<marker id="580677684" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
-<marker id="580677685" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
-<marker id="580677686" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
-<marker id="580677687" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
-<marker id="580677688" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
-<marker id="580677689" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
-<marker id="580677690" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
-<marker id="580677691" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
-<marker id="580677692" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
-<marker id="580677693" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
-<marker id="580677694" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
-<marker id="580677695" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
-<marker id="580677696" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
-<marker id="580677697" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
-<marker id="580677698" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
-<marker id="580677699" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
-<marker id="580677700" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
-<marker id="580677701" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
-<marker id="580677702" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
-<marker id="580677703" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
-<marker id="580677704" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
-<marker id="580677705" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
-<marker id="580677706" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
-<marker id="580677707" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
-<marker id="580677708" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
-<marker id="580677709" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
-<marker id="580677710" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
-<marker id="580677711" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
-<marker id="580677712" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
-<marker id="580677713" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
-<marker id="580677714" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
-<marker id="580677715" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
-<marker id="580677716" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
-<marker id="580677717" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
-<marker id="580677718" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
-<marker id="580677719" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
-<marker id="580677720" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
-<marker id="580677721" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
-<marker id="580677722" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
-<marker id="580677723" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
-<marker id="580677724" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
-<marker id="580677725" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
-<marker id="580677726" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
-<marker id="580677727" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
-<marker id="580677728" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
-<marker id="580677729" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
-<marker id="580677730" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
-<marker id="580677731" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
-<marker id="580677732" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
-<marker id="580677733" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
-<marker id="580677734" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
-<marker id="580677735" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
-<marker id="580677736" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
-<marker id="580677737" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
-<marker id="580677738" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
-<marker id="580677739" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
-<marker id="580677740" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
-<marker id="580677741" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
-<marker id="580677742" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
-<marker id="580677743" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
-<marker id="580677744" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
-<marker id="580677745" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
-<marker id="580677746" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
-<marker id="580677747" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
-<marker id="580677748" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
-<marker id="580677749" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
-<marker id="580677750" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
-<marker id="580677751" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
-<marker id="580677752" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
-<marker id="580677753" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
-<marker id="580677754" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
-<marker id="580677755" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
-<marker id="580677756" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
-<marker id="580677757" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
-<marker id="580677758" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
-<marker id="580677759" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
-<marker id="580677760" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
-<marker id="580677761" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
-<marker id="580677762" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
-<marker id="580677763" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
-<marker id="580677764" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
-<marker id="580677765" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
-<marker id="580677766" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
-<marker id="580677767" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
-<marker id="580677768" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
-<marker id="580677769" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
-<marker id="580677770" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
-<marker id="580677771" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
-<marker id="580677772" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
-<marker id="580677773" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
-<marker id="580677774" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
-<marker id="580677775" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
-<marker id="580677776" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
-<marker id="580677777" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
-<marker id="580677778" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
-<marker id="580677779" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
-<marker id="580677780" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
-<marker id="580677781" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
-<marker id="580677782" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
-<marker id="580677783" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
-<marker id="580677784" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
-<marker id="580677785" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
-<marker id="580677786" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
-<marker id="580677787" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
-<marker id="580677788" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
-<marker id="580677789" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
-<marker id="580677790" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
-<marker id="580677791" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
-<marker id="580677792" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
-<marker id="580677793" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
-<marker id="580677794" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
-<marker id="580677795" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
-<marker id="580677796" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
-<marker id="580677797" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
-<marker id="580677798" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
-<marker id="580677799" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
-<marker id="580677800" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
-<marker id="580677801" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
-<marker id="580677802" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
-<marker id="580677803" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
-<marker id="580677804" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
-<marker id="580677805" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
-<marker id="580677806" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
-<marker id="580677807" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
-<marker id="580677808" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
-<marker id="580677809" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
-<marker id="580677810" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
-<marker id="580677811" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
-<marker id="580677812" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
-<marker id="580677813" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
-<marker id="580677814" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
-<marker id="580677815" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
-<marker id="580677816" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
-<marker id="580677817" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
-<marker id="580677818" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
-<marker id="580677819" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
-<marker id="580677820" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
-<marker id="580677821" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
-<marker id="580677822" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
-<marker id="580677823" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
-<marker id="580677824" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
-<marker id="580677825" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
+<marker id="580677641" label="The Door to the Clouds" category="43" did="1879134430" parentZoneId="1879109900" longitude="-110.8035" latitude="-2.8170214"/>
+<marker id="580677642" label="Durin's Crossing" category="43" did="1879134432" parentZoneId="1879109900" longitude="-110.80101" latitude="-3.5882323"/>
+<marker id="580677643" label="Stable-master" category="51" did="1879135401" parentZoneId="1879109900" longitude="-110.81677" latitude="-2.9157128"/>
+<marker id="580677644" label="Morroval-stalker" category="71" did="1879234232" parentZoneId="1879109900" longitude="-111.42105" latitude="-3.5383787"/>
+<marker id="580677645" label="Guard" category="70" did="1879132188" parentZoneId="1879109900" longitude="-110.82425" latitude="-2.9596093"/>
+<marker id="580677646" label="Healer" category="38" did="1879222939" parentZoneId="1879109900" longitude="-110.82867" latitude="-2.9405859"/>
+<marker id="580677647" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109900" longitude="-110.82666" latitude="-2.9350781"/>
+<marker id="580677654" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
+<marker id="580677655" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
+<marker id="580677656" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
+<marker id="580677657" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
+<marker id="580677658" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
+<marker id="580677659" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
+<marker id="580677660" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
+<marker id="580677661" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
+<marker id="580677662" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.11884" latitude="-3.230117"/>
+<marker id="580677663" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.171844" latitude="-3.2174609"/>
+<marker id="580677682" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
+<marker id="580677683" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
+<marker id="580677684" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
+<marker id="580677685" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.53286" latitude="-3.5524023"/>
+<marker id="580677686" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
+<marker id="580677687" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
+<marker id="580677688" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
+<marker id="580677689" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-110.88798" latitude="-3.4670994"/>
+<marker id="580677690" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
+<marker id="580677691" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
+<marker id="580677692" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
+<marker id="580677693" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
+<marker id="580677694" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.25992" latitude="-3.5862596"/>
+<marker id="580677695" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
+<marker id="580677696" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
+<marker id="580677697" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
+<marker id="580677698" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
+<marker id="580677699" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.108315" latitude="-3.56833"/>
+<marker id="580677700" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
+<marker id="580677701" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
+<marker id="580677702" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
+<marker id="580677703" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
+<marker id="580677704" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.86287" latitude="-3.4407322"/>
+<marker id="580677705" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
+<marker id="580677706" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
+<marker id="580677707" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
+<marker id="580677708" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.467575" latitude="-3.336211"/>
+<marker id="580677709" label="Moria Defender" category="71" did="1879146022" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
+<marker id="580677710" label="Morroval-scout" category="71" did="1879146025" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
+<marker id="580677711" label="Elder Moria-rider" category="71" did="1879146027" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
+<marker id="580677712" label="Piercing Dark-claw" category="71" did="1879146026" parentZoneId="1879109900" longitude="-111.102974" latitude="-3.278613"/>
+<marker id="580677713" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
+<marker id="580677714" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
+<marker id="580677715" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
+<marker id="580677716" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
+<marker id="580677717" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.44031" latitude="-3.28833"/>
+<marker id="580677718" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
+<marker id="580677719" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
+<marker id="580677720" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
+<marker id="580677721" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
+<marker id="580677722" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.343765" latitude="-3.2312791"/>
+<marker id="580677723" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
+<marker id="580677724" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
+<marker id="580677725" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
+<marker id="580677726" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
+<marker id="580677727" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.16453" latitude="-3.2358105"/>
+<marker id="580677728" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
+<marker id="580677729" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
+<marker id="580677730" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
+<marker id="580677731" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
+<marker id="580677732" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.085884" latitude="-3.0966797"/>
+<marker id="580677733" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
+<marker id="580677734" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
+<marker id="580677735" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
+<marker id="580677736" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
+<marker id="580677737" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.201805" latitude="-3.0018163"/>
+<marker id="580677738" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
+<marker id="580677739" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
+<marker id="580677740" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
+<marker id="580677741" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
+<marker id="580677742" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-111.42053" latitude="-3.0017383"/>
+<marker id="580677743" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
+<marker id="580677744" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
+<marker id="580677745" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
+<marker id="580677746" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
+<marker id="580677747" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.97871" latitude="-3.0085938"/>
+<marker id="580677748" label="Cave Spiderling" category="78" did="1879142945" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
+<marker id="580677749" label="Cave Serpent" category="78" did="1879142944" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
+<marker id="580677750" label="Deep-cricket" category="78" did="1879142947" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
+<marker id="580677751" label="Tunnel Rat" category="78" did="1879142946" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
+<marker id="580677752" label="Cave Crawler" category="78" did="1879142948" parentZoneId="1879109900" longitude="-110.82467" latitude="-3.0362206"/>
+<marker id="580677753" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
+<marker id="580677754" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
+<marker id="580677755" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.08719" latitude="-3.3231738"/>
+<marker id="580677756" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
+<marker id="580677757" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
+<marker id="580677758" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.081505" latitude="-3.2105272"/>
+<marker id="580677759" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
+<marker id="580677760" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
+<marker id="580677761" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.109375" latitude="-2.9811523"/>
+<marker id="580677762" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
+<marker id="580677763" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
+<marker id="580677764" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.84277" latitude="-3.0567968"/>
+<marker id="580677765" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
+<marker id="580677766" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
+<marker id="580677767" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.81888" latitude="-3.506787"/>
+<marker id="580677768" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
+<marker id="580677769" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
+<marker id="580677770" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.91261" latitude="-3.4183886"/>
+<marker id="580677771" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
+<marker id="580677772" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
+<marker id="580677773" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.260124" latitude="-3.5571775"/>
+<marker id="580677774" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
+<marker id="580677775" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
+<marker id="580677776" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53608" latitude="-3.5423534"/>
+<marker id="580677777" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
+<marker id="580677778" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
+<marker id="580677779" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.31324" latitude="-2.9348729"/>
+<marker id="580677780" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
+<marker id="580677781" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
+<marker id="580677782" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.470955" latitude="-3.0573535"/>
+<marker id="580677783" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
+<marker id="580677784" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
+<marker id="580677785" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.5299" latitude="-3.056289"/>
+<marker id="580677786" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
+<marker id="580677787" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
+<marker id="580677788" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53383" latitude="-2.9903417"/>
+<marker id="580677789" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
+<marker id="580677790" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
+<marker id="580677791" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.837494" latitude="-2.9715624"/>
+<marker id="580677792" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
+<marker id="580677793" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
+<marker id="580677794" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.11358" latitude="-3.319414"/>
+<marker id="580677795" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
+<marker id="580677796" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
+<marker id="580677797" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.36238" latitude="-3.337998"/>
+<marker id="580677798" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
+<marker id="580677799" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
+<marker id="580677800" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.51267" latitude="-3.2210155"/>
+<marker id="580677801" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
+<marker id="580677802" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
+<marker id="580677803" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.53122" latitude="-3.413164"/>
+<marker id="580677804" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
+<marker id="580677805" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
+<marker id="580677806" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.468155" latitude="-3.412373"/>
+<marker id="580677807" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
+<marker id="580677808" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
+<marker id="580677809" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.52244" latitude="-3.2776659"/>
+<marker id="580677810" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
+<marker id="580677811" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
+<marker id="580677812" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.45383" latitude="-3.2220898"/>
+<marker id="580677813" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
+<marker id="580677814" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
+<marker id="580677815" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.83531" latitude="-3.5086718"/>
+<marker id="580677816" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
+<marker id="580677817" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
+<marker id="580677818" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.83446" latitude="-3.423379"/>
+<marker id="580677819" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
+<marker id="580677820" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
+<marker id="580677821" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-110.90088" latitude="-3.5281541"/>
+<marker id="580677822" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
+<marker id="580677823" label="Sage's Locker" category="50" did="1879132490" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
+<marker id="580677824" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109900" longitude="-111.39388" latitude="-3.5355077"/>
 <marker id="580718593" label="Grodbog Gatherer" category="71" did="1879134341" parentZoneId="1879109901" longitude="-110.666466" latitude="-7.9532027"/>
 <marker id="580718594" label="Moria Soldier" category="71" did="1879132059" parentZoneId="1879109901" longitude="-110.666466" latitude="-7.9532027"/>
 <marker id="580718595" label="Deep-claw Burrower" category="71" did="1879133201" parentZoneId="1879109901" longitude="-110.67083" latitude="-8.059824"/>
@@ -3306,7 +3305,7 @@
 <marker id="580874251" label="Arnod" category="70" did="1879233574" parentZoneId="1879109900" longitude="-108.5903" latitude="-3.2458692"/>
 <marker id="580874252" label="Gerwith" category="70" did="1879233572" parentZoneId="1879109900" longitude="-108.63162" latitude="-3.204248"/>
 <marker id="580874253" label="Búkk" category="70" did="1879233573" parentZoneId="1879109900" longitude="-108.589005" latitude="-3.1957324"/>
-<marker id="580874254" label="Stable-master" category="51" did="1879234395" parentZoneId="1879109900" longitude="-108.56283" latitude="-3.2129297"/>
+<marker id="580874254" label="Stable-master" category="51" did="1879234395" parentZoneId="1879109900" longitude="-108.5678" latitude="-3.2085838"/>
 <marker id="580874255" label="Glowing Crystal" category="73" did="1879253993" parentZoneId="1879109900" longitude="-108.70109" latitude="-3.2357225"/>
 <marker id="580874256" label="Healthy Mud-root" category="73" did="1879253992" parentZoneId="1879109900" longitude="-108.99941" latitude="-3.2867577"/>
 <marker id="580874257" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109900" longitude="-108.61011" latitude="-3.1907713"/>

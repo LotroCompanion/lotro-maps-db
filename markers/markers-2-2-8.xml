@@ -2,7 +2,7 @@
 <marker id="579162113" label="Healer" category="38" did="1879222939" parentZoneId="1879109906" longitude="-116.87141" latitude="-17.659052"/>
 <marker id="579162114" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109906" longitude="-116.87644" latitude="-17.660507"/>
 <marker id="579162115" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879109906" longitude="-116.86775" latitude="-17.648682"/>
-<marker id="579162116" label="Asur&#10;Stable-master" category="51" did="1879137216" parentZoneId="1879109906" longitude="-116.89297" latitude="-17.631767"/>
+<marker id="579162116" label="Stable-master" category="51" did="1879137216" parentZoneId="1879109906" longitude="-116.89297" latitude="-17.631767"/>
 <marker id="579162117" label="Mustering Horn" category="73" did="1879109873" parentZoneId="1879109906" longitude="-116.85993" latitude="-17.626562"/>
 <marker id="579162118" label="Kaldi" category="70" did="1879143126" parentZoneId="1879109906" longitude="-116.8636" latitude="-17.64045"/>
 <marker id="579162119" label="Harâzgund" category="43" did="1879140523" parentZoneId="1879109906" longitude="-116.93263" latitude="-17.59746"/>
@@ -2607,132 +2607,133 @@
 <marker id="579461123" label="Signpost" category="73" did="1879233600" parentZoneId="1879109904" longitude="-113.7424" latitude="-10.781465"/>
 <marker id="579461124" label="Dead-end" category="73" did="1879233687" parentZoneId="1879109904" longitude="-113.41534" latitude="-10.547568"/>
 <marker id="579461125" label="Grodbog Worker" category="71" did="1879135427" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
-<marker id="579461127" label="Explorer" category="70" did="1879130816" parentZoneId="1879109904" longitude="-113.21053" latitude="-10.642666"/>
-<marker id="579461128" label="Miner" category="70" did="1879132189" parentZoneId="1879109904" longitude="-113.28416" latitude="-10.634541"/>
-<marker id="579461129" label="Guard" category="70" did="1879132188" parentZoneId="1879109904" longitude="-113.27826" latitude="-10.673564"/>
-<marker id="579461130" label="Thalfar" category="70" did="1879132194" parentZoneId="1879109904" longitude="-113.3056" latitude="-10.640273"/>
-<marker id="579461131" label="Deep-claw Gnasher" category="71" did="1879132261" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
-<marker id="579461132" label="Deeps Glow-worm" category="71" did="1879132263" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
-<marker id="579461133" label="Diseased Dragonet" category="71" did="1879132266" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
-<marker id="579461134" label="Gufi" category="70" did="1879122721" parentZoneId="1879109904" longitude="-113.33525" latitude="-10.67996"/>
-<marker id="579461135" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
-<marker id="579461144" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
-<marker id="579461145" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
-<marker id="579461146" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
-<marker id="579461148" label="Dead-end" category="73" did="1879233687" parentZoneId="1879109904" longitude="-113.91811" latitude="-10.797138"/>
-<marker id="579461149" label="Signpost" category="73" did="1879233600" parentZoneId="1879109904" longitude="-113.42871" latitude="-10.7033"/>
-<marker id="579461157" label="Grodbog Worker" category="71" did="1879135427" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
-<marker id="579461158" label="Deep-claw Gnasher" category="71" did="1879132261" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
-<marker id="579461159" label="Deeps Glow-worm" category="71" did="1879132263" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
-<marker id="579461160" label="Diseased Dragonet" category="71" did="1879132266" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
-<marker id="579461161" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
-<marker id="579461162" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
-<marker id="579461163" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
-<marker id="579461164" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
-<marker id="579461165" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
-<marker id="579461166" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
-<marker id="579461167" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
-<marker id="579461168" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
-<marker id="579461169" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
-<marker id="579461170" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
-<marker id="579461171" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
-<marker id="579461172" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
-<marker id="579461173" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
-<marker id="579461174" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
-<marker id="579461175" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
-<marker id="579461176" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
-<marker id="579461177" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
-<marker id="579461178" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
-<marker id="579461179" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
-<marker id="579461180" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
-<marker id="579461181" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
-<marker id="579461182" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
-<marker id="579461183" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
-<marker id="579461184" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
-<marker id="579461185" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
-<marker id="579461186" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
-<marker id="579461187" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
-<marker id="579461188" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
-<marker id="579461189" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
-<marker id="579461190" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
-<marker id="579461191" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
-<marker id="579461192" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
-<marker id="579461193" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
-<marker id="579461194" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
-<marker id="579461195" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
-<marker id="579461196" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
-<marker id="579461197" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
-<marker id="579461198" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
-<marker id="579461199" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
-<marker id="579461200" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
-<marker id="579461201" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
-<marker id="579461202" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
-<marker id="579461203" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
-<marker id="579461204" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
-<marker id="579461205" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
-<marker id="579461206" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
-<marker id="579461207" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
-<marker id="579461208" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
-<marker id="579461209" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
-<marker id="579461210" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
-<marker id="579461211" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
-<marker id="579461212" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
-<marker id="579461213" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
-<marker id="579461214" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
-<marker id="579461215" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
-<marker id="579461216" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
-<marker id="579461217" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
-<marker id="579461218" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
-<marker id="579461219" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
-<marker id="579461220" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
-<marker id="579461221" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
-<marker id="579461222" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
-<marker id="579461223" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
-<marker id="579461224" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
-<marker id="579461225" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
-<marker id="579461226" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
-<marker id="579461227" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
-<marker id="579461228" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
-<marker id="579461229" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
-<marker id="579461230" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
-<marker id="579461231" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
-<marker id="579461232" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
-<marker id="579461233" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
-<marker id="579461234" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
-<marker id="579461235" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
-<marker id="579461236" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
-<marker id="579461237" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
-<marker id="579461238" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
-<marker id="579461239" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
-<marker id="579461240" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
-<marker id="579461241" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
-<marker id="579461242" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
-<marker id="579461243" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
-<marker id="579461244" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
-<marker id="579461245" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
-<marker id="579461246" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
-<marker id="579461247" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
-<marker id="579461248" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
-<marker id="579461249" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
-<marker id="579461250" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
-<marker id="579461251" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
-<marker id="579461252" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
-<marker id="579461253" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
-<marker id="579461254" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
-<marker id="579461255" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
-<marker id="579461256" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
-<marker id="579461257" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
-<marker id="579461258" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
-<marker id="579461259" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
-<marker id="579461260" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
-<marker id="579461261" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
-<marker id="579461262" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
-<marker id="579461263" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
-<marker id="579461264" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
-<marker id="579461265" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
-<marker id="579461266" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
-<marker id="579461267" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
-<marker id="579461268" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
+<marker id="579461127" label="Stable-master" category="70" did="1879497457" parentZoneId="1879109904" longitude="-113.426796" latitude="-10.6122265"/>
+<marker id="579461128" label="Explorer" category="70" did="1879130816" parentZoneId="1879109904" longitude="-113.21053" latitude="-10.642666"/>
+<marker id="579461129" label="Miner" category="70" did="1879132189" parentZoneId="1879109904" longitude="-113.28416" latitude="-10.634541"/>
+<marker id="579461130" label="Guard" category="70" did="1879132188" parentZoneId="1879109904" longitude="-113.27826" latitude="-10.673564"/>
+<marker id="579461131" label="Thalfar" category="70" did="1879132194" parentZoneId="1879109904" longitude="-113.3056" latitude="-10.640273"/>
+<marker id="579461132" label="Deep-claw Gnasher" category="71" did="1879132261" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
+<marker id="579461133" label="Deeps Glow-worm" category="71" did="1879132263" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
+<marker id="579461134" label="Diseased Dragonet" category="71" did="1879132266" parentZoneId="1879109904" longitude="-113.3626" latitude="-10.703466"/>
+<marker id="579461135" label="Gufi" category="70" did="1879122721" parentZoneId="1879109904" longitude="-113.33525" latitude="-10.67996"/>
+<marker id="579461144" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
+<marker id="579461145" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
+<marker id="579461146" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
+<marker id="579461147" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.29103" latitude="-10.089863"/>
+<marker id="579461149" label="Dead-end" category="73" did="1879233687" parentZoneId="1879109904" longitude="-113.91811" latitude="-10.797138"/>
+<marker id="579461150" label="Signpost" category="73" did="1879233600" parentZoneId="1879109904" longitude="-113.42871" latitude="-10.7033"/>
+<marker id="579461158" label="Grodbog Worker" category="71" did="1879135427" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
+<marker id="579461159" label="Deep-claw Gnasher" category="71" did="1879132261" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
+<marker id="579461160" label="Deeps Glow-worm" category="71" did="1879132263" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
+<marker id="579461161" label="Diseased Dragonet" category="71" did="1879132266" parentZoneId="1879109904" longitude="-113.82624" latitude="-10.770508"/>
+<marker id="579461162" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
+<marker id="579461163" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
+<marker id="579461164" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
+<marker id="579461165" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.36242" latitude="-10.147305"/>
+<marker id="579461166" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
+<marker id="579461167" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
+<marker id="579461168" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
+<marker id="579461169" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.43949" latitude="-10.060937"/>
+<marker id="579461170" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
+<marker id="579461171" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
+<marker id="579461172" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
+<marker id="579461173" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.52096" latitude="-10.14666"/>
+<marker id="579461174" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
+<marker id="579461175" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
+<marker id="579461176" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
+<marker id="579461177" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.627" latitude="-10.080576"/>
+<marker id="579461178" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
+<marker id="579461179" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
+<marker id="579461180" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
+<marker id="579461181" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.720665" latitude="-10.051631"/>
+<marker id="579461182" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
+<marker id="579461183" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
+<marker id="579461184" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
+<marker id="579461185" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.72465" latitude="-10.144179"/>
+<marker id="579461186" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
+<marker id="579461187" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
+<marker id="579461188" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
+<marker id="579461189" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.934586" latitude="-10.087246"/>
+<marker id="579461190" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
+<marker id="579461191" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
+<marker id="579461192" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
+<marker id="579461193" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.881424" latitude="-10.182226"/>
+<marker id="579461194" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
+<marker id="579461195" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
+<marker id="579461196" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
+<marker id="579461197" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.950455" latitude="-10.400869"/>
+<marker id="579461198" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
+<marker id="579461199" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
+<marker id="579461200" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
+<marker id="579461201" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.93893" latitude="-10.510615"/>
+<marker id="579461202" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
+<marker id="579461203" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
+<marker id="579461204" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
+<marker id="579461205" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.72863" latitude="-10.441377"/>
+<marker id="579461206" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
+<marker id="579461207" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
+<marker id="579461208" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
+<marker id="579461209" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.65841" latitude="-10.431602"/>
+<marker id="579461210" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
+<marker id="579461211" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
+<marker id="579461212" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
+<marker id="579461213" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.71858" latitude="-10.623027"/>
+<marker id="579461214" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
+<marker id="579461215" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
+<marker id="579461216" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
+<marker id="579461217" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.89197" latitude="-10.757119"/>
+<marker id="579461218" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
+<marker id="579461219" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
+<marker id="579461220" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
+<marker id="579461221" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.46441" latitude="-10.744219"/>
+<marker id="579461222" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
+<marker id="579461223" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
+<marker id="579461224" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
+<marker id="579461225" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.268425" latitude="-10.56873"/>
+<marker id="579461226" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
+<marker id="579461227" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
+<marker id="579461228" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
+<marker id="579461229" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.33777" latitude="-10.466787"/>
+<marker id="579461230" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
+<marker id="579461231" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
+<marker id="579461232" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
+<marker id="579461233" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.2526" latitude="-10.428467"/>
+<marker id="579461234" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
+<marker id="579461235" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
+<marker id="579461236" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
+<marker id="579461237" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.47581" latitude="-10.641113"/>
+<marker id="579461238" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
+<marker id="579461239" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
+<marker id="579461240" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
+<marker id="579461241" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.2805" latitude="-10.176592"/>
+<marker id="579461242" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
+<marker id="579461243" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
+<marker id="579461244" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
+<marker id="579461245" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.23364" latitude="-10.144287"/>
+<marker id="579461246" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
+<marker id="579461247" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
+<marker id="579461248" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
+<marker id="579461249" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.37683" latitude="-10.179727"/>
+<marker id="579461250" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
+<marker id="579461251" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
+<marker id="579461252" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
+<marker id="579461253" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.38268" latitude="-10.03332"/>
+<marker id="579461254" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
+<marker id="579461255" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
+<marker id="579461256" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
+<marker id="579461257" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.4809" latitude="-10.093223"/>
+<marker id="579461258" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
+<marker id="579461259" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
+<marker id="579461260" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
+<marker id="579461261" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.61553" latitude="-10.758271"/>
+<marker id="579461262" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
+<marker id="579461263" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
+<marker id="579461264" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
+<marker id="579461265" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.21069" latitude="-10.727236"/>
+<marker id="579461266" label="Heavy Pile of Ilex Wood" category="50" did="1879107673" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
+<marker id="579461267" label="Khazâd Skarn Deposit" category="50" did="1879288169" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
+<marker id="579461268" label="Rich Khazâd Skarn Deposit" category="50" did="1879288168" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
+<marker id="579461269" label="Pile of Ilex Wood" category="50" did="1879107677" parentZoneId="1879109904" longitude="-113.46642" latitude="-10.5306835"/>
 <marker id="579489792" label="Fell Glass-spider" category="71" did="1879138917" parentZoneId="1879109906" longitude="-112.70812" latitude="-17.491318"/>
 <marker id="579489793" label="Flood-lizard" category="71" did="1879134297" parentZoneId="1879109906" longitude="-112.70812" latitude="-17.491318"/>
 <marker id="579489794" label="Deep-salamander" category="71" did="1879134298" parentZoneId="1879109906" longitude="-112.70812" latitude="-17.491318"/>
@@ -3696,7 +3697,7 @@
 <marker id="579526717" label="Deep-claw Gnasher" category="71" did="1879132261" parentZoneId="1879109904" longitude="-112.97193" latitude="-10.035537"/>
 <marker id="579526718" label="Deeps Glow-worm" category="71" did="1879132263" parentZoneId="1879109904" longitude="-112.97193" latitude="-10.035537"/>
 <marker id="579526719" label="Diseased Dragonet" category="71" did="1879132266" parentZoneId="1879109904" longitude="-112.97193" latitude="-10.035537"/>
-<marker id="579530753" label="Skolm&#10;Stable-master" category="51" did="1879135683" parentZoneId="1879109904" longitude="-112.52439" latitude="-9.794335"/>
+<marker id="579530753" label="Stable-master" category="51" did="1879135683" parentZoneId="1879109904" longitude="-112.52439" latitude="-9.794335"/>
 <marker id="579530754" label="Milestone" category="55" did="1879063371" parentZoneId="1879109904" longitude="-112.7384" latitude="-9.874531"/>
 <marker id="579530755" label="Provisioner" category="38" did="1879135684" parentZoneId="1879109904" longitude="-112.72654" latitude="-9.903809"/>
 <marker id="579530756" label="Healer" category="38" did="1879135685" parentZoneId="1879109904" longitude="-112.75907" latitude="-9.904707"/>
@@ -4045,7 +4046,7 @@
 <marker id="579563601" label="Flood-lizard" category="71" did="1879134297" parentZoneId="1879109906" longitude="-112.092575" latitude="-15.745"/>
 <marker id="579563602" label="Deep-salamander" category="71" did="1879134298" parentZoneId="1879109906" longitude="-112.092575" latitude="-15.745"/>
 <marker id="579563603" label="Deep-toad" category="71" did="1879132270" parentZoneId="1879109906" longitude="-112.092575" latitude="-15.745"/>
-<marker id="579567616" label="Wáni&#10;Stable-master" category="51" did="1879136986" parentZoneId="1879109906" longitude="-111.92865" latitude="-15.143827"/>
+<marker id="579567616" label="Stable-master" category="51" did="1879136986" parentZoneId="1879109906" longitude="-111.92865" latitude="-15.143827"/>
 <marker id="579567617" label="Mailbox" category="34" did="1879063370" parentZoneId="1879109906" longitude="-112.194405" latitude="-14.9887495"/>
 <marker id="579567618" label="The Rotting Cellar" category="43" did="1879134440" parentZoneId="1879109906" longitude="-112.07635" latitude="-15.074258"/>
 <marker id="579567619" label="Hálmar&#10;Forge-master" category="29" did="1879136989" parentZoneId="1879109906" longitude="-111.7144" latitude="-15.087158"/>
@@ -4972,11 +4973,11 @@
 <marker id="579760136" label="Ölfun" category="70" did="1879140253" parentZoneId="1879109907" longitude="-109.6611" latitude="-16.267998"/>
 <marker id="579760137" label="The Cross-roads of Ash" category="43" did="1879134385" parentZoneId="1879109907" longitude="-109.57784" latitude="-15.796025"/>
 <marker id="579760138" label="Gúthi" category="70" did="1879135868" parentZoneId="1879109907" longitude="-109.71486" latitude="-16.227392"/>
-<marker id="579760139" label="Fiery Dragonet" category="71" did="1879132264" parentZoneId="1879109907" longitude="-109.62109" latitude="-16.03162"/>
-<marker id="579760140" label="Healer" category="38" did="1879222939" parentZoneId="1879109907" longitude="-109.43309" latitude="-16.205126"/>
-<marker id="579760141" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109907" longitude="-109.42662" latitude="-16.260712"/>
-<marker id="579760142" label="Supplier" category="38" did="1879222941" parentZoneId="1879109907" longitude="-109.41633" latitude="-16.25128"/>
-<marker id="579760143" label="Goat" category="48" did="1879256000" parentZoneId="1879109907" longitude="-109.65958" latitude="-16.207022"/>
+<marker id="579760139" label="Stable-master" category="70" did="1879497476" parentZoneId="1879109907" longitude="-109.667755" latitude="-16.216503"/>
+<marker id="579760140" label="Fiery Dragonet" category="71" did="1879132264" parentZoneId="1879109907" longitude="-109.62109" latitude="-16.03162"/>
+<marker id="579760141" label="Healer" category="38" did="1879222939" parentZoneId="1879109907" longitude="-109.43309" latitude="-16.205126"/>
+<marker id="579760142" label="Provisioner" category="38" did="1879222940" parentZoneId="1879109907" longitude="-109.42662" latitude="-16.260712"/>
+<marker id="579760143" label="Supplier" category="38" did="1879222941" parentZoneId="1879109907" longitude="-109.41633" latitude="-16.25128"/>
 <marker id="579760144" label="Ghâsh-hai Warrior" category="71" did="1879125219" parentZoneId="1879109907" longitude="-109.62109" latitude="-16.03162"/>
 <marker id="579760145" label="Deep-worm" category="71" did="1879125220" parentZoneId="1879109907" longitude="-109.62109" latitude="-16.03162"/>
 <marker id="579760146" label="Markthor" category="70" did="1879256851" parentZoneId="1879109907" longitude="-109.46461" latitude="-16.231016"/>
