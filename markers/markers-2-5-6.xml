@@ -1048,12 +1048,14 @@
 <marker id="627326990" label="Rich Eorlingas Skarn Deposit" category="50" did="1879273163" parentZoneId="1879256899" longitude="-79.15608" latitude="-44.230663"/>
 <marker id="627326991" label="Eorlingas Skarn Deposit" category="50" did="1879273161" parentZoneId="1879256899" longitude="-79.15608" latitude="-44.230663"/>
 <marker id="627331072" label="Huorn" category="70" did="1879304195" parentZoneId="1879256899" longitude="-79.29391" latitude="-43.140343"/>
-<marker id="627335169" label="Derndingle" category="43" did="1879305374" parentZoneId="1879256899" longitude="-79.11411" latitude="-42.36036"/>
-<marker id="627335172" label="Fangorn Huorn&#10;The Ents of Fangorn Forest" category="61" did="1879276773" parentZoneId="1879256899" longitude="-78.940605" latitude="-42.082138"/>
-<marker id="627335174" label="Quickbeam" category="70" did="1879303745" parentZoneId="1879256899" longitude="-79.16078" latitude="-42.363758"/>
-<marker id="627335175" label="Baldbark" category="70" did="1879303748" parentZoneId="1879256899" longitude="-79.072685" latitude="-42.323025"/>
-<marker id="627335176" label="Beechbone" category="70" did="1879303742" parentZoneId="1879256899" longitude="-79.161446" latitude="-42.294197"/>
-<marker id="627335204" label="Quickbeam&#10;Ent of Fangorn" category="61" did="1879302984" parentZoneId="1879256899" longitude="-79.12934" latitude="-42.068123"/>
+<marker id="627335172" label="Derndingle" category="43" did="1879305374" parentZoneId="1879256899" longitude="-79.11411" latitude="-42.36036"/>
+<marker id="627335173" label="Fangorn Huorn&#10;The Ents of Fangorn Forest" category="61" did="1879276773" parentZoneId="1879256899" longitude="-78.940605" latitude="-42.082138"/>
+<marker id="627335175" label="Ents of Fangorn Forest" category="27" did="1879501194" parentZoneId="1879256899" longitude="-79.16807" latitude="-42.066513"/>
+<marker id="627335177" label="Quickbeam" category="70" did="1879303745" parentZoneId="1879256899" longitude="-79.16078" latitude="-42.363758"/>
+<marker id="627335178" label="Baldbark" category="70" did="1879303748" parentZoneId="1879256899" longitude="-79.072685" latitude="-42.323025"/>
+<marker id="627335179" label="Beechbone" category="70" did="1879303742" parentZoneId="1879256899" longitude="-79.161446" latitude="-42.294197"/>
+<marker id="627335268" label="Quickbeam&#10;Ent of Fangorn" category="61" did="1879302984" parentZoneId="1879256899" longitude="-79.12934" latitude="-42.068123"/>
+<marker id="627335276" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879256899" longitude="-79.16002" latitude="-42.05822"/>
 <marker id="627339264" label="Bog-lurker&#10;The Ents of Fangorn Forest" category="61" did="1879276772" parentZoneId="1879256899" longitude="-79.08475" latitude="-41.956825"/>
 <marker id="627339265" label="Seed-pods" category="73" did="1879303330" parentZoneId="1879256899" longitude="-79.529465" latitude="-41.27367"/>
 <marker id="627339268" label="Wood-fly" category="71" did="1879303007" parentZoneId="1879256899" longitude="-79.12416" latitude="-41.541767"/>
@@ -9955,7 +9957,7 @@
 <marker id="627957778" label="Fangorn Web-hunter" category="71" did="1879244510" parentZoneId="1879231076" longitude="-72.30399" latitude="-35.77953"/>
 <marker id="627957779" label="Fangorn Web-hunter" category="71" did="1879244510" parentZoneId="1879231076" longitude="-72.18984" latitude="-35.700233"/>
 <marker id="627957780" label="Fangorn Web-hunter" category="71" did="1879244510" parentZoneId="1879231076" longitude="-72.38921" latitude="-35.608173"/>
-<marker id="627957792" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.736755" latitude="-36.11746"/>
+<marker id="627957792" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.750435" latitude="-36.081444"/>
 <marker id="627957793" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.64258" latitude="-35.972"/>
 <marker id="627957794" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.724556" latitude="-35.834656"/>
 <marker id="627957795" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.680595" latitude="-35.695763"/>
@@ -9964,7 +9966,7 @@
 <marker id="627957798" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.89965" latitude="-35.844646"/>
 <marker id="627957799" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-72.022934" latitude="-35.874306"/>
 <marker id="627957800" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.89667" latitude="-35.898758"/>
-<marker id="627957801" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.7219" latitude="-36.048855"/>
+<marker id="627957801" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.68971" latitude="-36.05385"/>
 <marker id="627957802" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-72.25928" latitude="-36.002754"/>
 <marker id="627957803" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.95342" latitude="-36.149803"/>
 <marker id="627957804" label="Acorn" category="73" did="1879244363" parentZoneId="1879231076" longitude="-71.98477" latitude="-36.209217"/>
@@ -13702,10 +13704,10 @@
 <marker id="628068572" label="Vale-orc" category="71" did="1879241328" parentZoneId="1879231076" longitude="-70.523636" latitude="-39.957382"/>
 <marker id="628068573" label="Vale-warrior" category="71" did="1879241271" parentZoneId="1879231076" longitude="-70.523636" latitude="-39.957382"/>
 <marker id="628068574" label="Vale-marauder" category="71" did="1879241305" parentZoneId="1879231076" longitude="-70.523636" latitude="-39.957382"/>
-<marker id="628068575" label="Vale-captain" category="71" did="1879241282" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.115955"/>
-<marker id="628068576" label="Vale-orc" category="71" did="1879241328" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.115955"/>
-<marker id="628068577" label="Vale-warrior" category="71" did="1879241271" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.115955"/>
-<marker id="628068578" label="Vale-marauder" category="71" did="1879241305" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.115955"/>
+<marker id="628068575" label="Vale-captain" category="71" did="1879241282" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.11757"/>
+<marker id="628068576" label="Vale-orc" category="71" did="1879241328" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.11757"/>
+<marker id="628068577" label="Vale-warrior" category="71" did="1879241271" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.11757"/>
+<marker id="628068578" label="Vale-marauder" category="71" did="1879241305" parentZoneId="1879231076" longitude="-70.54107" latitude="-40.11757"/>
 <marker id="628068579" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879231076" longitude="-70.05307" latitude="-40.364746"/>
 <marker id="628068580" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879231076" longitude="-70.05307" latitude="-40.364746"/>
 <marker id="628068581" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879231076" longitude="-70.77521" latitude="-40.081455"/>

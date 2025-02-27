@@ -164,7 +164,6 @@
 <marker id="520765569" label="Unarmoured Training Dummy Stand" category="73" did="1879446073" parentZoneId="1879087594" longitude="53.933495" latitude="-121.00074"/>
 <marker id="520765590" label="Iceman" category="70" did="1879181925" parentZoneId="1879087594" longitude="52.595684" latitude="-121.00815"/>
 <marker id="520765593" label="Crafting Hall" category="48" did="1879215453" parentZoneId="1879087594" longitude="52.600388" latitude="-121.09187"/>
-<marker id="520773632" label="Wistan Whitfoot&#10;Notary" category="38" did="1879077741" parentZoneId="1879087594" longitude="53.262226" latitude="-119.17154"/>
 <marker id="520773634" label="Gammer Took&#10;Bard of Michel Delving" category="54" did="1879063238" parentZoneId="1879087594" longitude="53.29461" latitude="-119.14078"/>
 <marker id="520773635" label="Mailbox" category="34" did="1879085949" parentZoneId="1879087594" longitude="53.2841" latitude="-119.28963"/>
 <marker id="520773636" label="Tavern Keep" category="38" did="1879087592" parentZoneId="1879087594" longitude="53.28418" latitude="-119.17263"/>
@@ -173,19 +172,20 @@
 <marker id="520773639" label="Wilcomb&#10;Outfit Provider" category="38" did="1879149363" parentZoneId="1879087594" longitude="53.3474" latitude="-119.22733"/>
 <marker id="520773640" label="Horse-master" category="38" did="1879165370" parentZoneId="1879087594" longitude="53.30865" latitude="-119.24501"/>
 <marker id="520773641" label="Oswald&#10;Map Maker" category="38" did="1879222521" parentZoneId="1879087594" longitude="53.349667" latitude="-119.13655"/>
-<marker id="520773642" label="Vault-keeper" category="40" did="1879084238" parentZoneId="1879087594" longitude="53.248066" latitude="-119.16505"/>
-<marker id="520773643" label="Tens" category="70" did="1879094090" parentZoneId="1879087594" longitude="53.297165" latitude="-119.17896"/>
-<marker id="520773644" label="Stumpy" category="70" did="1879159640" parentZoneId="1879087594" longitude="53.29957" latitude="-119.17993"/>
-<marker id="520773646" label="Mithlin" category="70" did="1879200094" parentZoneId="1879087594" longitude="53.292263" latitude="-119.1795"/>
-<marker id="520773647" label="Helfdane Oxheart" category="70" did="1879191498" parentZoneId="1879087594" longitude="53.22652" latitude="-119.142624"/>
-<marker id="520773649" label="JWBarry" category="70" did="1879267618" parentZoneId="1879087594" longitude="53.318924" latitude="-119.135025"/>
-<marker id="520773651" label="Watcher" category="70" did="1879077021" parentZoneId="1879087594" longitude="53.233475" latitude="-119.25022"/>
-<marker id="520773654" label="Aubergine" category="70" did="1879200116" parentZoneId="1879087594" longitude="53.28826" latitude="-119.179146"/>
-<marker id="520773656" label="Bobo" category="70" did="1879301255" parentZoneId="1879087594" longitude="53.273262" latitude="-119.17629"/>
-<marker id="520773662" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.21318" latitude="-119.17707"/>
-<marker id="520773663" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.23691" latitude="-119.10275"/>
-<marker id="520773664" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.334824" latitude="-119.10243"/>
-<marker id="520773666" label="Horse" category="48" did="1879253474" parentZoneId="1879087594" longitude="53.345722" latitude="-119.19403"/>
+<marker id="520773642" label="Wistan Whitfoot&#10;Notary" category="38" did="1879077741" parentZoneId="1879087594" longitude="53.262226" latitude="-119.17154"/>
+<marker id="520773643" label="Vault-keeper" category="40" did="1879084238" parentZoneId="1879087594" longitude="53.248066" latitude="-119.16505"/>
+<marker id="520773644" label="Tens" category="70" did="1879094090" parentZoneId="1879087594" longitude="53.297165" latitude="-119.17896"/>
+<marker id="520773645" label="Stumpy" category="70" did="1879159640" parentZoneId="1879087594" longitude="53.29957" latitude="-119.17993"/>
+<marker id="520773647" label="Mithlin" category="70" did="1879200094" parentZoneId="1879087594" longitude="53.292263" latitude="-119.1795"/>
+<marker id="520773648" label="Helfdane Oxheart" category="70" did="1879191498" parentZoneId="1879087594" longitude="53.22652" latitude="-119.142624"/>
+<marker id="520773652" label="Watcher" category="70" did="1879077021" parentZoneId="1879087594" longitude="53.233475" latitude="-119.25022"/>
+<marker id="520773655" label="Aubergine" category="70" did="1879200116" parentZoneId="1879087594" longitude="53.28826" latitude="-119.179146"/>
+<marker id="520773656" label="JWBarry" category="70" did="1879267618" parentZoneId="1879087594" longitude="53.318924" latitude="-119.135025"/>
+<marker id="520773657" label="Bobo" category="70" did="1879301255" parentZoneId="1879087594" longitude="53.273262" latitude="-119.17629"/>
+<marker id="520773663" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.21318" latitude="-119.17707"/>
+<marker id="520773664" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.23691" latitude="-119.10275"/>
+<marker id="520773665" label="Door" category="100" did="1879063411" parentZoneId="1879087594" longitude="53.334824" latitude="-119.10243"/>
+<marker id="520773667" label="Horse" category="48" did="1879253474" parentZoneId="1879087594" longitude="53.345722" latitude="-119.19403"/>
 <marker id="520785921" label="Mysterious Relic" category="73" did="1879198600" parentZoneId="1879181987" longitude="53.200485" latitude="-116.84402"/>
 <marker id="520785922" label="Door" category="100" did="1879085721" parentZoneId="1879181987" longitude="52.797733" latitude="-119.36587"/>
 <marker id="520785923" label="Door" category="100" did="1879085721" parentZoneId="1879181987" longitude="53.20295" latitude="-116.763145"/>

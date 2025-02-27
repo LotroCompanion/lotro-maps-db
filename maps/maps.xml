@@ -393,10 +393,10 @@
 </map>
 <map id="268448407" name="East Rohan: The Wold" imageId="1091752414">
 <geo factor="41.2">
-<point longitude="-64.23689" latitude="-30.148544"/>
+<point longitude="-64.212616" latitude="-30.172812"/>
 </geo>
-<min longitude="-64.23689" latitude="-48.78932"/>
-<max longitude="-39.382523" latitude="-30.148544"/>
+<min longitude="-64.212616" latitude="-48.813587"/>
+<max longitude="-39.358246" latitude="-30.172812"/>
 </map>
 <map id="268448410" name="East Rohan: Eaves of Fangorn" imageId="1091752413">
 <geo factor="77.0">
@@ -456,10 +456,10 @@
 </map>
 <map id="268449363" name="Forlaw" imageId="1091795455">
 <geo factor="335.4839">
-<point longitude="-62.47692" latitude="-37.4449"/>
+<point longitude="-62.470955" latitude="-37.4449"/>
 </geo>
-<min longitude="-62.47692" latitude="-39.73413"/>
-<max longitude="-59.424614" latitude="-37.4449"/>
+<min longitude="-62.470955" latitude="-39.73413"/>
+<max longitude="-59.418648" latitude="-37.4449"/>
 </map>
 <map id="268449746" name="West Rohan: Kingstead" imageId="1091814175">
 <geo factor="30.967743">
@@ -510,49 +510,49 @@
 <min longitude="-93.32716" latitude="-66.817116"/>
 <max longitude="-84.70108" latitude="-60.347553"/>
 </map>
-<map id="268450268" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450268" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-108.52717" latitude="72.45244"/>
 </geo>
 <min longitude="-108.52717" latitude="65.98287"/>
 <max longitude="-99.90108" latitude="72.45244"/>
 </map>
-<map id="268450269" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450269" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-94.12717" latitude="72.45244"/>
 </geo>
 <min longitude="-94.12717" latitude="65.98287"/>
 <max longitude="-85.50108" latitude="72.45244"/>
 </map>
-<map id="268450270" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450270" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-79.72717" latitude="72.45244"/>
 </geo>
 <min longitude="-79.72717" latitude="65.98287"/>
 <max longitude="-71.10109" latitude="72.45244"/>
 </map>
-<map id="268450271" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450271" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-65.32717" latitude="72.45244"/>
 </geo>
 <min longitude="-65.32717" latitude="65.98287"/>
 <max longitude="-56.701084" latitude="72.45244"/>
 </map>
-<map id="268450272" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450272" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-50.927177" latitude="72.45244"/>
 </geo>
 <min longitude="-50.927177" latitude="65.98287"/>
 <max longitude="-42.30109" latitude="72.45244"/>
 </map>
-<map id="268450273" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450273" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-36.527176" latitude="72.45244"/>
 </geo>
 <min longitude="-36.527176" latitude="65.98287"/>
 <max longitude="-27.901089" latitude="72.45244"/>
 </map>
-<map id="268450274" name="West Rohan: Helm's Deep" imageId="1091814179">
+<map id="268450274" name="" imageId="1091814179">
 <geo factor="118.70967">
 <point longitude="-22.127178" latitude="72.45244"/>
 </geo>
@@ -671,7 +671,7 @@
 <min longitude="-56.659737" latitude="11.599998"/>
 <max longitude="-51.340256" latitude="15.589609"/>
 </map>
-<map id="268450899" name="Pelargir Epic Battle" imageId="1091942716">
+<map id="268450899" name="" imageId="1091942716">
 <geo factor="147.5">
 <point longitude="-131.11186" latitude="0.5762695"/>
 </geo>
@@ -720,14 +720,14 @@
 <min longitude="-13.491767" latitude="-65.97176"/>
 <max longitude="-3.8541203" latitude="-58.74353"/>
 </map>
-<map id="268451023" name="Osgiliath" imageId="1091956289">
+<map id="268451023" name="" imageId="1091956289">
 <geo factor="106.25">
 <point longitude="-13.482353" latitude="66.01883"/>
 </geo>
 <min longitude="-13.482353" latitude="58.790596"/>
 <max longitude="-3.8447065" latitude="66.01883"/>
 </map>
-<map id="268451074" name="Osgiliath" imageId="1091970169">
+<map id="268451074" name="" imageId="1091970169">
 <geo factor="106.25">
 <point longitude="-87.09176" latitude="66.028244"/>
 </geo>
@@ -762,14 +762,14 @@
 <min longitude="-33.961903" latitude="-73.809525"/>
 <max longitude="5.0476227" latitude="-44.552383"/>
 </map>
-<map id="268451154" name="Minas Tirith" imageId="1091983087">
+<map id="268451154" name="" imageId="1091983087">
 <geo factor="112.5">
 <point longitude="-24.097773" latitude="62.61334"/>
 </geo>
 <min longitude="-24.097773" latitude="55.78667"/>
 <max longitude="-14.99555" latitude="62.61334"/>
 </map>
-<map id="268451156" name="Old Anórien" imageId="1091983087">
+<map id="268451156" name="" imageId="1091983087">
 <geo factor="112.5">
 <point longitude="12.675556" latitude="62.61334"/>
 </geo>
@@ -797,42 +797,42 @@
 <min longitude="-50.43333" latitude="-58.1"/>
 <max longitude="-16.3" latitude="-32.5"/>
 </map>
-<map id="268451286" name="Pelennor" imageId="1092006288">
+<map id="268451286" name="" imageId="1092006288">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451289" name="Pelennor" imageId="1092006290">
+<map id="268451289" name="" imageId="1092006290">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451290" name="Pelennor" imageId="1092006287">
+<map id="268451290" name="" imageId="1092006287">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451291" name="Pelennor" imageId="1092006289">
+<map id="268451291" name="" imageId="1092006289">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451292" name="Pelennor" imageId="1092006286">
+<map id="268451292" name="" imageId="1092006286">
 <geo factor="51.25">
 <point longitude="-27.814638" latitude="29.668291"/>
 </geo>
 <min longitude="-27.814638" latitude="14.682925"/>
 <max longitude="-7.8341503" latitude="29.668291"/>
 </map>
-<map id="268451575" name="Pelennor" imageId="1092172168">
+<map id="268451575" name="" imageId="1092172168">
 <geo factor="156.25">
 <point longitude="-54.627197" latitude="26.153603"/>
 </geo>
@@ -888,7 +888,7 @@
 <min longitude="-17.039999" latitude="-41.5"/>
 <max longitude="3.4400005" latitude="-26.14"/>
 </map>
-<map id="268451976" name="Morannon (War of the Last Alliance)" imageId="1092278582">
+<map id="268451976" name="" imageId="1092278582">
 <geo factor="90.0">
 <point longitude="-11.36667" latitude="-32.399998"/>
 </geo>
@@ -965,7 +965,7 @@
 <min longitude="11.131855" latitude="14.9363"/>
 <max longitude="17.200003" latitude="19.487411"/>
 </map>
-<map id="268452359" name="North Ithilien" imageId="1092240103">
+<map id="268452359" name="" imageId="1092240103">
 <geo factor="27.5">
 <point longitude="-28.981815" latitude="-39.527275"/>
 </geo>
@@ -1252,7 +1252,7 @@
 <min longitude="-146.8" latitude="-76.376"/>
 <max longitude="-138.608" latitude="-70.232"/>
 </map>
-<map id="268453919" name="Glittering Caves" imageId="1092709851">
+<map id="268453919" name="" imageId="1092709851">
 <geo factor="125.0">
 <point longitude="-146.8" latitude="-59.032"/>
 </geo>
@@ -1736,11 +1736,11 @@
 <max longitude="53.44466" latitude="-15.365332"/>
 </map>
 <map id="1879048508" name="Scary Quarry" imageId="1090543037">
-<geo factor="599.99994">
-<point longitude="52.56834" latitude="-13.35333"/>
+<geo factor="800.0">
+<point longitude="52.736248" latitude="-13.4775"/>
 </geo>
-<min longitude="52.56834" latitude="-14.35333"/>
-<max longitude="53.901672" latitude="-13.35333"/>
+<min longitude="52.736248" latitude="-14.2275"/>
+<max longitude="53.736248" latitude="-13.4775"/>
 </map>
 <map id="1879048509" name="Esilia's House" imageId="1090543038">
 <geo factor="600.0">
@@ -10163,7 +10163,7 @@
 <min longitude="-146.57666" latitude="77.71"/>
 <max longitude="-141.24333" latitude="81.71"/>
 </map>
-<map id="1879495208" name="TBD - UTUG BUR WING 1" imageId="1092985845">
+<map id="1879495208" name="Dhórgruth, the Lord's Delving" imageId="1092985845">
 <geo factor="600.0">
 <point longitude="-145.35832" latitude="78.2"/>
 </geo>
@@ -10177,11 +10177,67 @@
 <min longitude="-147.06667" latitude="73.95"/>
 <max longitude="-141.73334" latitude="77.95"/>
 </map>
-<map id="1879495218" name="TBD - UTUG BUR WING 3" imageId="1092987631">
+<map id="1879495218" name="The Temple of Utug-bûr, Inner Sanctum" imageId="1092987631">
 <geo factor="300.0">
 <point longitude="-147.06667" latitude="76.25"/>
 </geo>
 <min longitude="-147.06667" latitude="72.25"/>
 <max longitude="-141.73334" latitude="76.25"/>
+</map>
+<map id="1879498226" name="Gramsfoot Warren" imageId="1092998063">
+<geo factor="599.99994">
+<point longitude="-145.65833" latitude="63.199997"/>
+</geo>
+<min longitude="-145.65833" latitude="61.199997"/>
+<max longitude="-142.99165" latitude="63.199997"/>
+</map>
+<map id="1879501371" name="Premium House" imageId="1093003092">
+<geo factor="600.0">
+<point longitude="40.53334" latitude="45.6"/>
+</geo>
+<min longitude="40.53334" latitude="44.6"/>
+<max longitude="41.866673" latitude="45.6"/>
+</map>
+<map id="1879501372" name="Deluxe Premium House" imageId="1093003093">
+<geo factor="600.0">
+<point longitude="41.233337" latitude="45.55"/>
+</geo>
+<min longitude="41.233337" latitude="44.55"/>
+<max longitude="42.56667" latitude="45.55"/>
+</map>
+<map id="1879501373" name="Deluxe Premium House" imageId="1093003094">
+<geo factor="600.0">
+<point longitude="42.03334" latitude="45.55"/>
+</geo>
+<min longitude="42.03334" latitude="44.55"/>
+<max longitude="43.366673" latitude="45.55"/>
+</map>
+<map id="1879501374" name="Premium Kinship House" imageId="1093003095">
+<geo factor="600.0">
+<point longitude="42.92666" latitude="46.788338"/>
+</geo>
+<min longitude="42.92666" latitude="43.788338"/>
+<max longitude="44.25999" latitude="46.788338"/>
+</map>
+<map id="1879501636" name="TBD - FESTIVAL ISLAND INN" imageId="1093003601">
+<geo factor="600.0">
+<point longitude="-145.07832" latitude="72.845"/>
+</geo>
+<min longitude="-145.07832" latitude="71.845"/>
+<max longitude="-143.745" latitude="72.845"/>
+</map>
+<map id="1879501731" name="TBD - DAXAMAT'S WAREHOUSE" imageId="1093003631">
+<geo factor="600.0">
+<point longitude="-144.76833" latitude="71.19334"/>
+</geo>
+<min longitude="-144.76833" latitude="70.19334"/>
+<max longitude="-143.435" latitude="71.19334"/>
+</map>
+<map id="1879501772" name="TBD - GAOL PRISON" imageId="1093003723">
+<geo factor="600.0">
+<point longitude="-145.73332" latitude="70.2"/>
+</geo>
+<min longitude="-145.73332" latitude="68.2"/>
+<max longitude="-143.06665" latitude="70.2"/>
 </map>
 </maps>

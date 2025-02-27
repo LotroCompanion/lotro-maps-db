@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="517685249" label="Door" category="100" did="1879063411" parentZoneId="1879501371" longitude="41.199745" latitude="45.20998"/>
+<marker id="517685251" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879501371" longitude="41.19955" latitude="45.161602"/>
 <marker id="517709824" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102303" longitude="39.220974" latitude="49.833553"/>
 <marker id="517709825" label="---" category="100" did="1879095077" parentZoneId="1879102303" longitude="39.235683" latitude="49.855"/>
 <marker id="517709826" label="Door" category="100" did="1879063337" parentZoneId="1879102303" longitude="39.18955" latitude="49.692577"/>
@@ -14,6 +16,8 @@
 <marker id="517730305" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102307" longitude="40.91916" latitude="53.600624"/>
 <marker id="517730307" label="---" category="100" did="1879095077" parentZoneId="1879102307" longitude="40.92205" latitude="53.583103"/>
 <marker id="517730309" label="Door" category="100" did="1879063411" parentZoneId="1879102307" longitude="40.920643" latitude="53.50047"/>
+<marker id="517750784" label="Door" category="100" did="1879063411" parentZoneId="1879501372" longitude="41.999744" latitude="45.20998"/>
+<marker id="517750786" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879501372" longitude="42.000095" latitude="45.16211"/>
 <marker id="517775360" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102315" longitude="40.020977" latitude="49.833553"/>
 <marker id="517775361" label="---" category="100" did="1879095077" parentZoneId="1879102315" longitude="40.035683" latitude="49.855"/>
 <marker id="517775362" label="Door" category="100" did="1879063337" parentZoneId="1879102315" longitude="39.98955" latitude="49.692577"/>
@@ -29,6 +33,8 @@
 <marker id="517795840" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102319" longitude="41.71916" latitude="53.600624"/>
 <marker id="517795842" label="---" category="100" did="1879095077" parentZoneId="1879102319" longitude="41.72205" latitude="53.583103"/>
 <marker id="517795844" label="Door" category="100" did="1879063411" parentZoneId="1879102319" longitude="41.720642" latitude="53.50047"/>
+<marker id="517816321" label="Door" category="100" did="1879063411" parentZoneId="1879501373" longitude="42.799744" latitude="45.20998"/>
+<marker id="517816323" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879501373" longitude="42.8001" latitude="45.16211"/>
 <marker id="517840896" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102327" longitude="40.820976" latitude="49.833553"/>
 <marker id="517840897" label="---" category="100" did="1879095077" parentZoneId="1879102327" longitude="40.835682" latitude="49.855"/>
 <marker id="517840898" label="Door" category="100" did="1879063337" parentZoneId="1879102327" longitude="40.78955" latitude="49.692577"/>
@@ -44,6 +50,8 @@
 <marker id="517861377" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102331" longitude="42.519157" latitude="53.600624"/>
 <marker id="517861379" label="---" category="100" did="1879095077" parentZoneId="1879102331" longitude="42.52205" latitude="53.583103"/>
 <marker id="517861381" label="Door" category="100" did="1879063411" parentZoneId="1879102331" longitude="42.520645" latitude="53.50047"/>
+<marker id="517881856" label="Door" category="100" did="1879063411" parentZoneId="1879501374" longitude="43.6" latitude="45.11744"/>
+<marker id="517881857" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879501374" longitude="43.605312" latitude="45.309765"/>
 <marker id="517906432" label="HouseKeeper" category="100" did="1879093789" parentZoneId="1879102339" longitude="41.620975" latitude="49.833553"/>
 <marker id="517906433" label="---" category="100" did="1879095077" parentZoneId="1879102339" longitude="41.63568" latitude="49.855"/>
 <marker id="517906434" label="Door" category="100" did="1879063337" parentZoneId="1879102339" longitude="41.58955" latitude="49.692577"/>

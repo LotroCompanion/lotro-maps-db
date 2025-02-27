@@ -33,12 +33,12 @@
 <marker id="1333432325" label="Door" category="100" did="1879227953" parentZoneId="1879473819" longitude="53.283905" latitude="-27.599998"/>
 <marker id="1333440513" label="Door" category="100" did="1879312568" parentZoneId="1879473816" longitude="53.2133" latitude="-25.947645"/>
 <marker id="1333440514" label="Barber" category="60" did="1879313223" parentZoneId="1879473816" longitude="53.194138" latitude="-25.973984"/>
-<marker id="1333448706" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879473815" longitude="53.227596" latitude="-24.363194"/>
-<marker id="1333448707" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879473815" longitude="53.18242" latitude="-24.44706"/>
 <marker id="1333448708" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879473815" longitude="53.221638" latitude="-24.363194"/>
-<marker id="1333448710" label="Door" category="100" did="1879227953" parentZoneId="1879473815" longitude="53.2691" latitude="-24.4"/>
-<marker id="1333448712" label="Auctioneer" category="53" did="1879313209" parentZoneId="1879473815" longitude="53.147575" latitude="-24.400234"/>
-<marker id="1333448713" label="Mailbox" category="34" did="1879313699" parentZoneId="1879473815" longitude="53.20031" latitude="-24.443867"/>
+<marker id="1333448711" label="Door" category="100" did="1879227953" parentZoneId="1879473815" longitude="53.2691" latitude="-24.4"/>
+<marker id="1333448712" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879473815" longitude="53.227596" latitude="-24.363194"/>
+<marker id="1333448713" label="Auctioneer" category="53" did="1879313209" parentZoneId="1879473815" longitude="53.147575" latitude="-24.400234"/>
+<marker id="1333448714" label="Mailbox" category="34" did="1879313699" parentZoneId="1879473815" longitude="53.20031" latitude="-24.443867"/>
+<marker id="1333448720" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879473815" longitude="53.18242" latitude="-24.44706"/>
 <marker id="1333456897" label="Goblin Sapper" category="71" did="1879468084" parentZoneId="1879470642" longitude="52.86168" latitude="-22.792978"/>
 <marker id="1333456898" label="Goblin Scout" category="71" did="1879468085" parentZoneId="1879470642" longitude="52.86168" latitude="-22.792978"/>
 <marker id="1333456899" label="Goblin Overseer" category="71" did="1879468082" parentZoneId="1879470642" longitude="52.86168" latitude="-22.792978"/>
@@ -448,9 +448,9 @@
 <marker id="1333579795" label="Queen Arwen" category="70" did="1879460452" parentZoneId="1879465383" longitude="54.839844" latitude="-24.032675"/>
 <marker id="1333579796" label="King Elessar" category="70" did="1879460454" parentZoneId="1879465383" longitude="54.8083" latitude="-24.032772"/>
 <marker id="1333579797" label="Galengam" category="70" did="1879460441" parentZoneId="1879465383" longitude="54.81461" latitude="-24.01454"/>
-<marker id="1333587972" label="Door" category="100" did="1879227953" parentZoneId="1879464791" longitude="54.738495" latitude="-22.925371"/>
-<marker id="1333587973" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879464791" longitude="54.620895" latitude="-22.671728"/>
-<marker id="1333587974" label="Auctioneer" category="53" did="1879313200" parentZoneId="1879464791" longitude="54.866524" latitude="-22.681454"/>
-<marker id="1333587975" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879464791" longitude="54.630215" latitude="-22.689053"/>
-<marker id="1333587976" label="Mailbox" category="34" did="1879313699" parentZoneId="1879464791" longitude="54.762207" latitude="-22.844921"/>
+<marker id="1333587973" label="Door" category="100" did="1879227953" parentZoneId="1879464791" longitude="54.738495" latitude="-22.925371"/>
+<marker id="1333587975" label="Auctioneer" category="53" did="1879313200" parentZoneId="1879464791" longitude="54.866524" latitude="-22.681454"/>
+<marker id="1333587976" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879464791" longitude="54.630215" latitude="-22.689053"/>
+<marker id="1333587977" label="Mailbox" category="34" did="1879313699" parentZoneId="1879464791" longitude="54.762207" latitude="-22.844921"/>
+<marker id="1333587984" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879464791" longitude="54.620895" latitude="-22.671728"/>
 </markers>

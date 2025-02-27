@@ -4045,7 +4045,7 @@
 <marker id="1367994373" label="Lore-master Trainer" category="42" did="1879313189" parentZoneId="1879470531" longitude="-126.61203" latitude="-9.624883"/>
 <marker id="1367994374" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879470531" longitude="-126.05699" latitude="-9.718135"/>
 <marker id="1367994375" label="Guardian Trainer" category="42" did="1879313208" parentZoneId="1879470531" longitude="-126.05243" latitude="-9.723603"/>
-<marker id="1367994376" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879470531" longitude="-126.392105" latitude="-9.855566"/>
+<marker id="1367994376" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879470531" longitude="-126.392105" latitude="-9.855869"/>
 <marker id="1367994377" label="Beorning Trainer" category="42" did="1879320036" parentZoneId="1879470531" longitude="-126.15306" latitude="-9.665078"/>
 <marker id="1367994378" label="Healer" category="38" did="1879465901" parentZoneId="1879470531" longitude="-126.16641" latitude="-9.988115"/>
 <marker id="1367994379" label="Grounds-keeper" category="70" did="1879473989" parentZoneId="1879470531" longitude="-126.308105" latitude="-9.881943"/>
@@ -4054,10 +4054,11 @@
 <marker id="1367994382" label="Halrax Guard" category="70" did="1879473985" parentZoneId="1879470531" longitude="-126.34373" latitude="-9.682774"/>
 <marker id="1367994383" label="Halrax" category="74" did="1879469829" parentZoneId="1879470531" longitude="-126.59149" latitude="-9.62207"/>
 <marker id="1367994384" label="Chicken" category="70" did="1879076798" parentZoneId="1879470531" longitude="-126.46924" latitude="-9.56584"/>
-<marker id="1367994385" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879470531" longitude="-126.39444" latitude="-9.852265"/>
+<marker id="1367994386" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879470531" longitude="-126.394714" latitude="-9.851572"/>
 <marker id="1367994387" label="Mariner Trainer" category="70" did="1879458039" parentZoneId="1879470531" longitude="-126.172165" latitude="-9.783271"/>
 <marker id="1367994389" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879470531" longitude="-126.687675" latitude="-9.624404"/>
 <marker id="1367994390" label="Watchman" category="71" did="1879474943" parentZoneId="1879470531" longitude="-126.46566" latitude="-9.439228"/>
+<marker id="1367994391" label="Nargo" category="70" did="1879474990" parentZoneId="1879470531" longitude="-126.45213" latitude="-9.91791"/>
 <marker id="1367994392" label="Tanim" category="70" did="1879474991" parentZoneId="1879470531" longitude="-126.13729" latitude="-9.578437"/>
 <marker id="1367994393" label="Hannax" category="70" did="1879474997" parentZoneId="1879470531" longitude="-126.16249" latitude="-9.753291"/>
 <marker id="1367994394" label="Downtrodden Freebooter" category="70" did="1879474992" parentZoneId="1879470531" longitude="-126.37295" latitude="-9.404677"/>
@@ -4097,14 +4098,13 @@
 <marker id="1367994438" label="Chicken" category="70" did="1879076798" parentZoneId="1879470531" longitude="-126.47748" latitude="-9.570663"/>
 <marker id="1367994439" label="Chicken" category="70" did="1879076798" parentZoneId="1879470531" longitude="-126.48498" latitude="-9.579678"/>
 <marker id="1367994440" label="Chicken" category="70" did="1879076798" parentZoneId="1879470531" longitude="-126.46347" latitude="-9.572353"/>
-<marker id="1367994476" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.37843" latitude="-9.683447"/>
-<marker id="1367994477" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.313354" latitude="-9.783593"/>
-<marker id="1367994478" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.1488" latitude="-9.967509"/>
-<marker id="1367994494" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.68459" latitude="-9.688212"/>
-<marker id="1367994495" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.71921" latitude="-9.739922"/>
-<marker id="1367994496" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.75562" latitude="-9.686192"/>
-<marker id="1367994497" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.55752" latitude="-9.688613"/>
-<marker id="1367994498" label="Nargo" category="70" did="1879474990" parentZoneId="1879470531" longitude="-126.45213" latitude="-9.91791"/>
+<marker id="1367994454" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.37843" latitude="-9.683447"/>
+<marker id="1367994455" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.313354" latitude="-9.783593"/>
+<marker id="1367994456" label="Defaced Walls" category="73" did="1879475064" parentZoneId="1879470531" longitude="-126.1488" latitude="-9.967509"/>
+<marker id="1367994472" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.68459" latitude="-9.688212"/>
+<marker id="1367994473" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.71921" latitude="-9.739922"/>
+<marker id="1367994474" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.75562" latitude="-9.686192"/>
+<marker id="1367994475" label="Damaged Dock Planks" category="73" did="1879475069" parentZoneId="1879470531" longitude="-126.55752" latitude="-9.688613"/>
 <marker id="1368031232" label="Zamarzîr Sand-beetle" category="71" did="1879475092" parentZoneId="1879470531" longitude="-125.56129" latitude="-14.962841"/>
 <marker id="1368031233" label="Zamarzîr Salamander" category="71" did="1879475091" parentZoneId="1879470531" longitude="-125.56129" latitude="-14.962841"/>
 <marker id="1368031234" label="Zamarzîr Sabre-tooth" category="71" did="1879475089" parentZoneId="1879470531" longitude="-125.56129" latitude="-14.962841"/>

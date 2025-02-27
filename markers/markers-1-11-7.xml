@@ -246,7 +246,6 @@
 <marker id="460353556" label="The Market of Rivendell" category="43" did="1879063809" parentZoneId="1879063939" longitude="-5.7595897" latitude="-29.06035"/>
 <marker id="460353557" label="I NEED A NAME" category="70" did="1879148501" parentZoneId="1879063939" longitude="-5.889668" latitude="-29.171494"/>
 <marker id="460353559" label="Mailbox" category="34" did="1879084181" parentZoneId="1879063939" longitude="-5.640537" latitude="-28.981806"/>
-<marker id="460353560" label="Calbeniel&#10;Notary" category="38" did="1879084236" parentZoneId="1879063939" longitude="-5.659121" latitude="-29.078642"/>
 <marker id="460353561" label="Bingo Boffin" category="70" did="1879320557" parentZoneId="1879063939" longitude="-5.7947364" latitude="-29.146963"/>
 <marker id="460353566" label="The Market of Rivendell" category="74" did="1879063809" parentZoneId="1879063939" longitude="-5.690947" latitude="-29.165838"/>
 <marker id="460353567" label="Rabbit" category="78" did="1879079062" parentZoneId="1879063939" longitude="-5.695127" latitude="-28.624765"/>
@@ -261,6 +260,7 @@
 <marker id="460353577" label="Tordúril" category="70" did="1879094987" parentZoneId="1879063939" longitude="-5.8563867" latitude="-28.90417"/>
 <marker id="460353582" label="Parcels" category="73" did="1879341649" parentZoneId="1879063939" longitude="-5.865322" latitude="-28.908182"/>
 <marker id="460353584" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-5.754678" latitude="-29.143085"/>
+<marker id="460353585" label="Calbeniel&#10;Notary" category="38" did="1879084236" parentZoneId="1879063939" longitude="-5.659121" latitude="-29.078642"/>
 <marker id="460357632" label="Mirdoron&#10;Guardian Trainer" category="42" did="1879060099" parentZoneId="1879063939" longitude="-5.3292575" latitude="-28.107178"/>
 <marker id="460357633" label="Watcher" category="70" did="1879077006" parentZoneId="1879063939" longitude="-5.5553513" latitude="-28.129082"/>
 <marker id="460357634" label="Watcher" category="70" did="1879077017" parentZoneId="1879063939" longitude="-5.516416" latitude="-28.124071"/>
@@ -399,10 +399,10 @@
 <marker id="460419078" label="Deer" category="78" did="1879080635" parentZoneId="1879063939" longitude="-4.574746" latitude="-28.889755"/>
 <marker id="460419079" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-4.9592285" latitude="-29.132929"/>
 <marker id="460447744" label="Snárskrith Dell" category="43" did="1879063813" parentZoneId="1879063941" longitude="-4.575801" latitude="-23.078623"/>
-<marker id="460447745" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.549814" latitude="-23.018213"/>
-<marker id="460447746" label="Corpse" category="72" did="1879080416" parentZoneId="1879063941" longitude="-4.6778417" latitude="-22.890165"/>
-<marker id="460447747" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.599658" latitude="-23.063026"/>
-<marker id="460447748" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.599658" latitude="-23.063026"/>
+<marker id="460447745" label="Corpse" category="72" did="1879080416" parentZoneId="1879063941" longitude="-4.6778417" latitude="-22.890165"/>
+<marker id="460447746" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.599658" latitude="-23.063026"/>
+<marker id="460447747" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.599658" latitude="-23.063026"/>
+<marker id="460447749" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.549814" latitude="-23.018213"/>
 <marker id="460447750" label="Corpse" category="72" did="1879080416" parentZoneId="1879063941" longitude="-4.929824" latitude="-22.822557"/>
 <marker id="460447751" label="Corpse" category="72" did="1879080416" parentZoneId="1879063941" longitude="-4.497871" latitude="-23.137665"/>
 <marker id="460447752" label="Corpse" category="72" did="1879080416" parentZoneId="1879063941" longitude="-4.664072" latitude="-22.98794"/>
@@ -415,34 +415,38 @@
 <marker id="460447759" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.5839257" latitude="-23.125996"/>
 <marker id="460447760" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.6043653" latitude="-23.03915"/>
 <marker id="460447761" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.6043653" latitude="-23.03915"/>
-<marker id="460451840" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.6297946" latitude="-22.4508"/>
-<marker id="460451841" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.8628516" latitude="-22.558867"/>
-<marker id="460451842" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.8628516" latitude="-22.558867"/>
-<marker id="460451843" label="Snárskrith Dell" category="74" did="1879063813" parentZoneId="1879063941" longitude="-4.774365" latitude="-22.747412"/>
-<marker id="460451844" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.945498" latitude="-22.59997"/>
-<marker id="460451845" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.945498" latitude="-22.59997"/>
-<marker id="460451846" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.9415526" latitude="-22.723965"/>
-<marker id="460451847" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.9415526" latitude="-22.723965"/>
-<marker id="460451848" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.898896" latitude="-22.783516"/>
-<marker id="460451849" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.898896" latitude="-22.783516"/>
-<marker id="460451850" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.867568" latitude="-22.72795"/>
-<marker id="460451851" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.867568" latitude="-22.72795"/>
-<marker id="460451852" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.68124" latitude="-22.519579"/>
-<marker id="460451853" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.68124" latitude="-22.519579"/>
-<marker id="460451854" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.520303" latitude="-22.634209"/>
-<marker id="460451855" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.520303" latitude="-22.634209"/>
-<marker id="460451856" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4988575" latitude="-22.48713"/>
-<marker id="460451857" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4988575" latitude="-22.48713"/>
-<marker id="460451858" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4866505" latitude="-22.358076"/>
-<marker id="460451859" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4866505" latitude="-22.358076"/>
-<marker id="460451860" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4749513" latitude="-22.194483"/>
-<marker id="460451861" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4749513" latitude="-22.194483"/>
-<marker id="460451862" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.6730466" latitude="-22.140438"/>
-<marker id="460451863" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.6730466" latitude="-22.140438"/>
-<marker id="460451864" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.837734" latitude="-22.07117"/>
-<marker id="460451865" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.837734" latitude="-22.07117"/>
-<marker id="460451866" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.8936524" latitude="-22.595947"/>
-<marker id="460451867" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.8936524" latitude="-22.595947"/>
+<marker id="460451840" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.8628516" latitude="-22.558867"/>
+<marker id="460451841" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.8628516" latitude="-22.558867"/>
+<marker id="460451842" label="Snárskrith Dell" category="74" did="1879063813" parentZoneId="1879063941" longitude="-4.774365" latitude="-22.747412"/>
+<marker id="460451843" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.6297946" latitude="-22.4508"/>
+<marker id="460451844" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.4853516" latitude="-22.231455"/>
+<marker id="460451845" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.740078" latitude="-22.190868"/>
+<marker id="460451846" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.7454686" latitude="-22.687304"/>
+<marker id="460451847" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.891338" latitude="-22.524805"/>
+<marker id="460451848" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.945498" latitude="-22.59997"/>
+<marker id="460451849" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.945498" latitude="-22.59997"/>
+<marker id="460451850" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.9415526" latitude="-22.723965"/>
+<marker id="460451851" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.9415526" latitude="-22.723965"/>
+<marker id="460451852" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.898896" latitude="-22.783516"/>
+<marker id="460451853" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.898896" latitude="-22.783516"/>
+<marker id="460451854" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.867568" latitude="-22.72795"/>
+<marker id="460451855" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.867568" latitude="-22.72795"/>
+<marker id="460451856" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.68124" latitude="-22.519579"/>
+<marker id="460451857" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.68124" latitude="-22.519579"/>
+<marker id="460451858" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.520303" latitude="-22.634209"/>
+<marker id="460451859" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.520303" latitude="-22.634209"/>
+<marker id="460451860" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4988575" latitude="-22.48713"/>
+<marker id="460451861" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4988575" latitude="-22.48713"/>
+<marker id="460451862" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4866505" latitude="-22.358076"/>
+<marker id="460451863" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4866505" latitude="-22.358076"/>
+<marker id="460451864" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.4749513" latitude="-22.194483"/>
+<marker id="460451865" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.4749513" latitude="-22.194483"/>
+<marker id="460451866" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.6730466" latitude="-22.140438"/>
+<marker id="460451867" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.6730466" latitude="-22.140438"/>
+<marker id="460451868" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.837734" latitude="-22.07117"/>
+<marker id="460451869" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.837734" latitude="-22.07117"/>
+<marker id="460451870" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.8936524" latitude="-22.595947"/>
+<marker id="460451871" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.8936524" latitude="-22.595947"/>
 <marker id="460476416" label="The Falls of Imladris" category="43" did="1879063815" parentZoneId="1879063939" longitude="-3.7554393" latitude="-30.206171"/>
 <marker id="460476417" label="Townsperson" category="70" did="1879077007" parentZoneId="1879063939" longitude="-3.9350781" latitude="-30.170351"/>
 <marker id="460476418" label="Maid-in-Waiting" category="70" did="1879341464" parentZoneId="1879063939" longitude="-3.7233105" latitude="-30.4875"/>
@@ -454,7 +458,6 @@
 <marker id="460476426" label="Fox" category="78" did="1879078196" parentZoneId="1879063939" longitude="-4.092236" latitude="-30.447332"/>
 <marker id="460476427" label="Squirrel" category="78" did="1879078796" parentZoneId="1879063939" longitude="-4.2382226" latitude="-30.474266"/>
 <marker id="460480512" label="Trollshaws Reflecting Pool" category="52" did="1879080455" parentZoneId="1879063939" longitude="-3.777334" latitude="-29.469257"/>
-<marker id="460480515" label="Glorielhen&#10;Notary" category="38" did="1879148687" parentZoneId="1879063939" longitude="-3.857373" latitude="-29.546797"/>
 <marker id="460480516" label="Anniversary Vendor&#10;Keeper of Gifts" category="58" did="1879201663" parentZoneId="1879063939" longitude="-3.698662" latitude="-29.72209"/>
 <marker id="460480518" label="Watcher" category="70" did="1879077006" parentZoneId="1879063939" longitude="-4.0748925" latitude="-29.263105"/>
 <marker id="460480520" label="Sam" category="70" did="1879062511" parentZoneId="1879063939" longitude="-4.03791" latitude="-29.791513"/>
@@ -469,6 +472,7 @@
 <marker id="460480543" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6933105" latitude="-29.700663"/>
 <marker id="460480544" label="Remembrance" category="73" did="1879343162" parentZoneId="1879063939" longitude="-3.6883104" latitude="-29.700663"/>
 <marker id="460480546" label="Celeblír" category="70" did="1879413295" parentZoneId="1879063939" longitude="-3.7077832" latitude="-29.6229"/>
+<marker id="460480562" label="Glorielhen&#10;Notary" category="38" did="1879148687" parentZoneId="1879063939" longitude="-3.857373" latitude="-29.546797"/>
 <marker id="460484608" label="Heath Wheaton&#10;Captain Trainer" category="42" did="1879053085" parentZoneId="1879063939" longitude="-4.2071486" latitude="-28.762226"/>
 <marker id="460484610" label="Townsperson" category="70" did="1879077007" parentZoneId="1879063939" longitude="-4.2188478" latitude="-28.826729"/>
 <marker id="460484611" label="The Haven of Orladion" category="43" did="1879063818" parentZoneId="1879063939" longitude="-3.7148633" latitude="-28.896376"/>
@@ -530,151 +534,153 @@
 <marker id="460505458" label="War Effort Recruiter" category="70" did="1879412297" parentZoneId="1879063941" longitude="-3.9629102" latitude="-24.895555"/>
 <marker id="460505459" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879063941" longitude="-3.9656835" latitude="-24.904589"/>
 <marker id="460505462" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879063941" longitude="-4.0932226" latitude="-24.682587"/>
-<marker id="460513280" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-3.931201" latitude="-23.339403"/>
-<marker id="460513281" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
-<marker id="460513282" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
-<marker id="460513283" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
-<marker id="460513284" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
-<marker id="460513285" label="Treasure Cache" category="73" did="1879320857" parentZoneId="1879063941" longitude="-4.3067284" latitude="-23.357714"/>
-<marker id="460513286" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-3.985332" latitude="-23.240088"/>
-<marker id="460513287" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-4.231914" latitude="-23.133652"/>
-<marker id="460513289" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-4.235361" latitude="-23.13917"/>
-<marker id="460513291" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-3.989248" latitude="-23.243477"/>
-<marker id="460513293" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513294" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513295" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513296" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513297" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513298" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513299" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
-<marker id="460513300" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513301" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513302" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513303" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513304" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513305" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513306" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
-<marker id="460513307" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513308" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513309" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513310" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513311" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513312" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513313" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
-<marker id="460513314" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513315" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513316" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513317" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513318" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513319" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513320" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
-<marker id="460513321" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513322" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513323" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513324" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513325" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513326" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513327" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
-<marker id="460513328" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513329" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513330" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513331" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513332" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513333" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513334" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
-<marker id="460513335" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513336" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513337" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513338" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513339" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513340" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513341" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
-<marker id="460513342" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513343" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513344" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513345" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513346" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513347" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513348" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
-<marker id="460513349" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513350" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513351" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513352" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513353" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513354" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513355" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
-<marker id="460513356" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513357" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513358" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513359" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513360" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513361" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
-<marker id="460513362" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513280" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
+<marker id="460513281" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
+<marker id="460513282" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
+<marker id="460513283" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.9082227" latitude="-23.103075"/>
+<marker id="460513284" label="Treasure Cache" category="73" did="1879320857" parentZoneId="1879063941" longitude="-4.3067284" latitude="-23.357714"/>
+<marker id="460513285" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-3.931201" latitude="-23.339403"/>
+<marker id="460513286" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.0814843" latitude="-23.23825"/>
+<marker id="460513287" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-3.985332" latitude="-23.240088"/>
+<marker id="460513288" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-4.231914" latitude="-23.133652"/>
+<marker id="460513289" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-3.989248" latitude="-23.243477"/>
+<marker id="460513290" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-4.235361" latitude="-23.13917"/>
+<marker id="460513294" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513295" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513296" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513297" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513298" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513299" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513300" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.7279003" latitude="-22.942207"/>
+<marker id="460513301" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513302" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513303" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513304" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513305" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513306" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513307" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.6674414" latitude="-23.116737"/>
+<marker id="460513308" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513309" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513310" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513311" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513312" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513313" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513314" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.743828" latitude="-23.274042"/>
+<marker id="460513315" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513316" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513317" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513318" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513319" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513320" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513321" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.8190625" latitude="-23.110596"/>
+<marker id="460513322" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513323" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513324" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513325" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513326" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513327" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513328" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.162256" latitude="-22.989462"/>
+<marker id="460513329" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513330" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513331" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513332" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513333" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513334" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513335" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0351267" latitude="-23.220263"/>
+<marker id="460513336" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513337" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513338" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513339" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513340" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513341" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513342" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.985293" latitude="-23.134384"/>
+<marker id="460513343" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513344" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513345" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513346" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513347" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513348" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513349" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0865817" latitude="-23.109365"/>
+<marker id="460513350" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513351" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513352" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513353" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513354" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513355" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513356" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.032275" latitude="-23.028086"/>
+<marker id="460513357" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513358" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513359" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513360" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513361" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513362" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
+<marker id="460513363" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.095693" latitude="-23.18372"/>
 <marker id="460517376" label="Stonecaller's Circle" category="43" did="1879063821" parentZoneId="1879063941" longitude="-3.9602149" latitude="-22.475586"/>
-<marker id="460517377" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.121885" latitude="-22.3845"/>
-<marker id="460517378" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.016924" latitude="-22.439188"/>
-<marker id="460517379" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.016924" latitude="-22.439188"/>
-<marker id="460517380" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
-<marker id="460517381" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
-<marker id="460517382" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
-<marker id="460517383" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
-<marker id="460517389" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-4.085996" latitude="-22.273983"/>
-<marker id="460517390" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-3.9163573" latitude="-22.704521"/>
-<marker id="460517392" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-3.9212596" latitude="-22.706825"/>
-<marker id="460517394" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-4.0886326" latitude="-22.281103"/>
-<marker id="460517395" label="Evil-fascinated Snow-beast" category="71" did="1879342172" parentZoneId="1879063941" longitude="-4.295" latitude="-22.74241"/>
-<marker id="460517396" label="Evil-fascinated Snow-lurker" category="71" did="1879342176" parentZoneId="1879063941" longitude="-4.3821974" latitude="-22.347979"/>
-<marker id="460517397" label="Bubbling Water" category="73" did="1879342185" parentZoneId="1879063941" longitude="-4.2202735" latitude="-22.706074"/>
-<marker id="460517398" label="Bubbling Water" category="73" did="1879342185" parentZoneId="1879063941" longitude="-4.29793" latitude="-22.289228"/>
-<marker id="460517399" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0402246" latitude="-22.475311"/>
-<marker id="460517400" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0402246" latitude="-22.475311"/>
-<marker id="460517401" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.009326" latitude="-22.420282"/>
-<marker id="460517402" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.009326" latitude="-22.420282"/>
-<marker id="460517403" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.939785" latitude="-22.441826"/>
-<marker id="460517404" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.939785" latitude="-22.441826"/>
-<marker id="460517405" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517406" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517407" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517408" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517409" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517410" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517411" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
-<marker id="460517412" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517413" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517414" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517415" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517416" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517417" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517418" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
-<marker id="460517419" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517420" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517421" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517422" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517423" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517424" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517425" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
-<marker id="460517426" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517427" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517428" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517429" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517430" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517431" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517432" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
-<marker id="460517433" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517434" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517435" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517436" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517437" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517438" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517439" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
-<marker id="460517440" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.1153517" latitude="-22.530302"/>
-<marker id="460517441" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.1153517" latitude="-22.530302"/>
-<marker id="460517442" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.8672655" latitude="-22.265907"/>
-<marker id="460517443" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.8672655" latitude="-22.265907"/>
-<marker id="460517444" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9765723" latitude="-22.738827"/>
-<marker id="460517445" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9765723" latitude="-22.738827"/>
-<marker id="460517446" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9794824" latitude="-22.493631"/>
-<marker id="460517447" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9794824" latitude="-22.493631"/>
+<marker id="460517377" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.016924" latitude="-22.439188"/>
+<marker id="460517378" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.016924" latitude="-22.439188"/>
+<marker id="460517379" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
+<marker id="460517380" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
+<marker id="460517381" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
+<marker id="460517382" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.201719" latitude="-22.27577"/>
+<marker id="460517388" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-4.121885" latitude="-22.3845"/>
+<marker id="460517389" label="Snowdrift" category="72" did="1879080415" parentZoneId="1879063941" longitude="-3.791709" latitude="-22.08751"/>
+<marker id="460517390" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-4.085996" latitude="-22.273983"/>
+<marker id="460517391" label="Willem Whisker" category="70" did="1879322502" parentZoneId="1879063941" longitude="-3.9163573" latitude="-22.704521"/>
+<marker id="460517394" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-3.9212596" latitude="-22.706825"/>
+<marker id="460517395" label="Clump of Herbs" category="73" did="1879322546" parentZoneId="1879063941" longitude="-4.0886326" latitude="-22.281103"/>
+<marker id="460517396" label="Evil-fascinated Snow-beast" category="71" did="1879342172" parentZoneId="1879063941" longitude="-4.295" latitude="-22.74241"/>
+<marker id="460517397" label="Evil-fascinated Snow-lurker" category="71" did="1879342176" parentZoneId="1879063941" longitude="-4.3821974" latitude="-22.347979"/>
+<marker id="460517398" label="Bubbling Water" category="73" did="1879342185" parentZoneId="1879063941" longitude="-4.2202735" latitude="-22.706074"/>
+<marker id="460517399" label="Bubbling Water" category="73" did="1879342185" parentZoneId="1879063941" longitude="-4.29793" latitude="-22.289228"/>
+<marker id="460517400" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0402246" latitude="-22.475311"/>
+<marker id="460517401" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0402246" latitude="-22.475311"/>
+<marker id="460517402" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.009326" latitude="-22.420282"/>
+<marker id="460517403" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.009326" latitude="-22.420282"/>
+<marker id="460517404" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.939785" latitude="-22.441826"/>
+<marker id="460517405" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.939785" latitude="-22.441826"/>
+<marker id="460517406" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517407" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517408" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517409" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517410" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517411" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517412" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.16876" latitude="-22.290497"/>
+<marker id="460517413" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517414" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517415" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517416" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517417" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517418" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517419" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.9185448" latitude="-22.139355"/>
+<marker id="460517420" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517421" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517422" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517423" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517424" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517425" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517426" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.1260056" latitude="-22.055517"/>
+<marker id="460517427" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517428" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517429" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517430" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517431" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517432" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517433" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-3.6861718" latitude="-22.521523"/>
+<marker id="460517434" label="Snow-lurker" category="71" did="1879080448" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517435" label="Snowy Lynx" category="71" did="1879080449" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517436" label="Snow-mantle Bull" category="71" did="1879080450" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517437" label="Snow-mantle Matron" category="71" did="1879080451" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517438" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517439" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517440" label="Large Snow-bear" category="71" did="1879080447" parentZoneId="1879063941" longitude="-4.0912986" latitude="-22.702763"/>
+<marker id="460517441" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-4.1153517" latitude="-22.530302"/>
+<marker id="460517442" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-4.1153517" latitude="-22.530302"/>
+<marker id="460517443" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.8672655" latitude="-22.265907"/>
+<marker id="460517444" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.8672655" latitude="-22.265907"/>
+<marker id="460517445" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9765723" latitude="-22.738827"/>
+<marker id="460517446" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9765723" latitude="-22.738827"/>
+<marker id="460517447" label="Snow-beast Hurler" category="71" did="1879080421" parentZoneId="1879063941" longitude="-3.9794824" latitude="-22.493631"/>
+<marker id="460517448" label="Elusive Snow-beast" category="71" did="1879080422" parentZoneId="1879063941" longitude="-3.9794824" latitude="-22.493631"/>
 <marker id="460541953" label="Gandalf" category="70" did="1879097579" parentZoneId="1879063939" longitude="-3.1261327" latitude="-30.02911"/>
 <marker id="460541954" label="Glathlírel" category="70" did="1879097583" parentZoneId="1879063939" longitude="-3.110586" latitude="-30.016787"/>
 <marker id="460541955" label="Glorfindel" category="70" did="1879052175" parentZoneId="1879063939" longitude="-3.0584764" latitude="-30.140097"/>
@@ -5129,109 +5135,109 @@
 <marker id="460963867" label="Larus Sharpshard&#10;Provisions" category="38" did="1879062577" parentZoneId="1879063944" longitude="1.271416" latitude="-24.608944"/>
 <marker id="460963868" label="Hríthur's Haven" category="43" did="1879063833" parentZoneId="1879063944" longitude="1.8883593" latitude="-24.860292"/>
 <marker id="460964155" label="Vighar Roadwalker&#10;Stable-master" category="51" did="1879080429" parentZoneId="1879063944" longitude="1.2670801" latitude="-24.628994"/>
-<marker id="460964177" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879063944" longitude="1.2679394" latitude="-24.588858"/>
-<marker id="460964181" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964182" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964183" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964184" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964185" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964186" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
-<marker id="460964187" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964188" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964189" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964190" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964191" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964192" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
-<marker id="460964193" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964194" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964195" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964196" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964197" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964198" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
-<marker id="460964199" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964200" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964201" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964202" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964203" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964204" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
-<marker id="460964205" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964206" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964207" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964208" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964209" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964210" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
-<marker id="460964211" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964212" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964213" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964214" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964215" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964216" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
-<marker id="460964217" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964218" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964219" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964220" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964221" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964222" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
-<marker id="460964223" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964224" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964225" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964226" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964227" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964228" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
-<marker id="460964229" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964230" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964231" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964232" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964233" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964234" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
-<marker id="460964235" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964236" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964237" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964238" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964239" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964240" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
-<marker id="460964241" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964242" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964243" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964244" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964245" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964246" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
-<marker id="460964247" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964248" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964249" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964250" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964251" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964252" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
-<marker id="460964253" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964254" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964255" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964256" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964257" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964258" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
-<marker id="460964259" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
-<marker id="460964260" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
-<marker id="460964261" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
-<marker id="460964262" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
-<marker id="460964263" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
-<marker id="460964264" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
-<marker id="460964265" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
-<marker id="460964266" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
-<marker id="460964267" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.8688378" latitude="-24.831669"/>
-<marker id="460964268" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.8688378" latitude="-24.831669"/>
-<marker id="460964269" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.8952148" latitude="-24.868984"/>
-<marker id="460964270" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.8952148" latitude="-24.868984"/>
-<marker id="460964271" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
-<marker id="460964272" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
-<marker id="460964273" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
-<marker id="460964274" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
-<marker id="460964275" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
-<marker id="460964276" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
-<marker id="460964277" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
-<marker id="460964278" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
-<marker id="460964279" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.506289" latitude="-24.847666"/>
-<marker id="460964280" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.506289" latitude="-24.847666"/>
-<marker id="460964281" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.2068945" latitude="-25.189306"/>
-<marker id="460964282" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.2068945" latitude="-25.189306"/>
+<marker id="460964185" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879063944" longitude="1.2679394" latitude="-24.588858"/>
+<marker id="460964191" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964192" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964193" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964194" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964195" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964196" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.933037" latitude="-25.16328"/>
+<marker id="460964197" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964198" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964199" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964200" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964201" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964202" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.7393359" latitude="-25.144278"/>
+<marker id="460964203" label="Gabilazan Guard" category="71" did="1879080497" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964204" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964205" label="Huge Snow-bear" category="71" did="1879080492" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964206" label="Deadly Crag-hawk" category="71" did="1879080493" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964207" label="Snowy Mammoth" category="71" did="1879080494" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964208" label="Mammoth Elder" category="71" did="1879080495" parentZoneId="1879063944" longitude="1.9275976" latitude="-25.020742"/>
+<marker id="460964209" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964210" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964211" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964212" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964213" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964214" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.2732031" latitude="-24.508955"/>
+<marker id="460964215" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964216" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964217" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964218" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964219" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964220" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.2265136" latitude="-24.966787"/>
+<marker id="460964221" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964222" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964223" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964224" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964225" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964226" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.4032617" latitude="-24.802334"/>
+<marker id="460964227" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964228" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964229" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964230" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964231" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964232" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.8395214" latitude="-25.085829"/>
+<marker id="460964233" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964234" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964235" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964236" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964237" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964238" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.9852831" latitude="-25.090645"/>
+<marker id="460964239" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964240" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964241" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964242" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964243" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964244" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.8428906" latitude="-24.863379"/>
+<marker id="460964245" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964246" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964247" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964248" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964249" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964250" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.6932031" latitude="-25.115282"/>
+<marker id="460964251" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964252" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964253" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964254" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964255" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964256" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.4031934" latitude="-24.61412"/>
+<marker id="460964257" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964258" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964259" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964260" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964261" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964262" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.3512695" latitude="-24.953163"/>
+<marker id="460964263" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964264" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964265" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964266" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964267" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964268" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063944" longitude="1.9902734" latitude="-25.188662"/>
+<marker id="460964269" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
+<marker id="460964270" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
+<marker id="460964271" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
+<marker id="460964272" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.8577832" latitude="-25.15456"/>
+<marker id="460964273" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
+<marker id="460964274" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
+<marker id="460964275" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
+<marker id="460964276" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.9713769" latitude="-24.956991"/>
+<marker id="460964277" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.8688378" latitude="-24.831669"/>
+<marker id="460964278" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.8688378" latitude="-24.831669"/>
+<marker id="460964279" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.8952148" latitude="-24.868984"/>
+<marker id="460964280" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.8952148" latitude="-24.868984"/>
+<marker id="460964281" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
+<marker id="460964282" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
+<marker id="460964283" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
+<marker id="460964284" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.3956543" latitude="-24.762285"/>
+<marker id="460964285" label="Reindeer" category="78" did="1879080636" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
+<marker id="460964286" label="Winter Fox" category="78" did="1879080637" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
+<marker id="460964287" label="Winter Squirrel" category="78" did="1879080638" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
+<marker id="460964288" label="Reindeer" category="78" did="1879080639" parentZoneId="1879063944" longitude="1.2701952" latitude="-24.847725"/>
+<marker id="460964289" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.506289" latitude="-24.847666"/>
+<marker id="460964290" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.506289" latitude="-24.847666"/>
+<marker id="460964291" label="Gabilazan Defender" category="71" did="1879080498" parentZoneId="1879063944" longitude="1.2068945" latitude="-25.189306"/>
+<marker id="460964292" label="Bisil Blood-axe" category="71" did="1879080565" parentZoneId="1879063944" longitude="1.2068945" latitude="-25.189306"/>
 <marker id="460967936" label="Snowreap Shield-bearer" category="71" did="1879080530" parentZoneId="1879063943" longitude="1.6880957" latitude="-23.652304"/>
 <marker id="460967937" label="Snowreap Berserker" category="71" did="1879080532" parentZoneId="1879063943" longitude="1.6880957" latitude="-23.652304"/>
 <marker id="460967938" label="Mountain Warg" category="71" did="1879080533" parentZoneId="1879063943" longitude="1.6880957" latitude="-23.652304"/>

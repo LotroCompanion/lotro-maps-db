@@ -86,7 +86,7 @@
 <marker id="1356972043" label="Sêkhta's Enforcer" category="71" did="1879485000" parentZoneId="1879485189" longitude="-146.13567" latitude="64.441345"/>
 <marker id="1356980264" label="Supplier" category="38" did="1879465894" parentZoneId="1879479411" longitude="-145.97377" latitude="65.92432"/>
 <marker id="1356980265" label="Provisioner" category="38" did="1879465904" parentZoneId="1879479411" longitude="-145.95085" latitude="66.08996"/>
-<marker id="1356980267" label="Vault-keeper" category="40" did="1879479046" parentZoneId="1879479412" longitude="-145.94933" latitude="66.0698"/>
+<marker id="1356980267" label="Auctioneer" category="53" did="1879479050" parentZoneId="1879479412" longitude="-145.94969" latitude="66.07199"/>
 <marker id="1356980268" label="Vault-keeper" category="40" did="1879479048" parentZoneId="1879479412" longitude="-145.94933" latitude="66.05402"/>
 <marker id="1356980269" label="Mistress of Apprentices" category="42" did="1879479049" parentZoneId="1879479411" longitude="-146.00296" latitude="65.9633"/>
 <marker id="1356980270" label="Umbar Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879479254" parentZoneId="1879479411" longitude="-145.94449" latitude="66.00611"/>
@@ -109,17 +109,18 @@
 <marker id="1356980294" label="Workbench" category="45" did="1879475452" parentZoneId="1879479411" longitude="-146.00864" latitude="65.8682"/>
 <marker id="1356980295" label="Study" category="45" did="1879475453" parentZoneId="1879479412" longitude="-145.91191" latitude="65.95535"/>
 <marker id="1356980296" label="Forge" category="45" did="1879475456" parentZoneId="1879479411" longitude="-145.89914" latitude="65.98425"/>
-<marker id="1356980297" label="Door" category="100" did="1879475787" parentZoneId="1879479411" longitude="-146.02048" latitude="66.049995"/>
-<marker id="1356980309" label="Keteph" category="70" did="1879484879" parentZoneId="1879479411" longitude="-145.96404" latitude="66.115974"/>
-<marker id="1356980320" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95775" latitude="65.95215"/>
-<marker id="1356980321" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94576" latitude="65.95215"/>
-<marker id="1356980322" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94925" latitude="65.95215"/>
-<marker id="1356980323" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95335" latitude="65.95215"/>
-<marker id="1356980325" label="Umbar Guild Leader&#10;Woodworker's Guild" category="58" did="1879479261" parentZoneId="1879479411" longitude="-146.01021" latitude="65.892105"/>
-<marker id="1356980326" label="Umbar Guild Leader&#10;Tailor's Guild" category="58" did="1879479266" parentZoneId="1879479412" longitude="-146.00708" latitude="65.92474"/>
-<marker id="1356980327" label="Umbar Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879479263" parentZoneId="1879479411" longitude="-145.93707" latitude="65.98389"/>
-<marker id="1356980328" label="Umbar Guild Leader&#10;Cook's Guild" category="58" did="1879479256" parentZoneId="1879479411" longitude="-145.942" latitude="66.1108"/>
-<marker id="1356980329" label="Umbar Guild Leader&#10;Jeweller's Guild" category="58" did="1879479250" parentZoneId="1879479412" longitude="-145.93764" latitude="65.91912"/>
-<marker id="1356980330" label="Umbar Guild Leader&#10;Metalsmith's Guild" category="58" did="1879479253" parentZoneId="1879479411" longitude="-145.91309" latitude="65.98068"/>
-<marker id="1356980331" label="Umbar Guild Leader&#10;Scholar's Guild" category="58" did="1879479257" parentZoneId="1879479412" longitude="-145.89871" latitude="65.98705"/>
+<marker id="1356980297" label="Master of Crafting Guilds" category="70" did="1879475508" parentZoneId="1879479411" longitude="-146.01688" latitude="65.97039"/>
+<marker id="1356980298" label="Door" category="100" did="1879475787" parentZoneId="1879479411" longitude="-146.02048" latitude="66.049995"/>
+<marker id="1356980311" label="Keteph" category="70" did="1879484879" parentZoneId="1879479411" longitude="-145.96404" latitude="66.115974"/>
+<marker id="1356980320" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95335" latitude="65.95215"/>
+<marker id="1356980321" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.95775" latitude="65.95215"/>
+<marker id="1356980322" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94576" latitude="65.95215"/>
+<marker id="1356980323" label="Shiny Sword" category="73" did="1879486437" parentZoneId="1879479411" longitude="-145.94925" latitude="65.95215"/>
+<marker id="1356980326" label="Umbar Guild Leader&#10;Woodworker's Guild" category="58" did="1879479261" parentZoneId="1879479411" longitude="-146.01021" latitude="65.892105"/>
+<marker id="1356980327" label="Umbar Guild Leader&#10;Tailor's Guild" category="58" did="1879479266" parentZoneId="1879479412" longitude="-146.00708" latitude="65.92474"/>
+<marker id="1356980328" label="Umbar Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879479263" parentZoneId="1879479411" longitude="-145.93707" latitude="65.98389"/>
+<marker id="1356980329" label="Umbar Guild Leader&#10;Cook's Guild" category="58" did="1879479256" parentZoneId="1879479411" longitude="-145.942" latitude="66.1108"/>
+<marker id="1356980330" label="Umbar Guild Leader&#10;Jeweller's Guild" category="58" did="1879479250" parentZoneId="1879479412" longitude="-145.93764" latitude="65.91912"/>
+<marker id="1356980331" label="Umbar Guild Leader&#10;Metalsmith's Guild" category="58" did="1879479253" parentZoneId="1879479411" longitude="-145.91309" latitude="65.98068"/>
+<marker id="1356980332" label="Umbar Guild Leader&#10;Scholar's Guild" category="58" did="1879479257" parentZoneId="1879479412" longitude="-145.89871" latitude="65.98705"/>
 </markers>

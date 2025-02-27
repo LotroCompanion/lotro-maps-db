@@ -204,13 +204,13 @@
 <marker id="526110750" label="Oggur&#10;Champion Trainer" category="42" did="1879059906" parentZoneId="1879085889" longitude="53.802948" latitude="-50.13324"/>
 <marker id="526114818" label="Door" category="100" did="1879063326" parentZoneId="1879085887" longitude="54.003124" latitude="-49.34068"/>
 <marker id="526114819" label="Albra Lowbanks&#10;Burglar Trainer" category="42" did="1879052037" parentZoneId="1879085887" longitude="54.00154" latitude="-49.269417"/>
-<marker id="526118912" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879085890" longitude="53.57027" latitude="-48.51936"/>
 <marker id="526118913" label="Walt Hollytree&#10;Clerk of Kinships" category="38" did="1879063574" parentZoneId="1879085890" longitude="53.52881" latitude="-48.509956"/>
-<marker id="526118915" label="Watcher" category="70" did="1879077021" parentZoneId="1879085890" longitude="53.574997" latitude="-48.53631"/>
-<marker id="526118917" label="Door" category="100" did="1879063326" parentZoneId="1879085890" longitude="53.580643" latitude="-48.49956"/>
-<marker id="526118919" label="" category="70" did="1879253958" parentZoneId="1879085890" longitude="53.57658" latitude="-48.532608"/>
-<marker id="526118920" label="Angmar Citizen" category="70" did="1879085646" parentZoneId="1879085890" longitude="53.57611" latitude="-48.536743"/>
+<marker id="526118916" label="Watcher" category="70" did="1879077021" parentZoneId="1879085890" longitude="53.574997" latitude="-48.53631"/>
+<marker id="526118918" label="Door" category="100" did="1879063326" parentZoneId="1879085890" longitude="53.580643" latitude="-48.49956"/>
+<marker id="526118920" label="" category="70" did="1879253958" parentZoneId="1879085890" longitude="53.57658" latitude="-48.532608"/>
+<marker id="526118921" label="Angmar Citizen" category="70" did="1879085646" parentZoneId="1879085890" longitude="53.57611" latitude="-48.536743"/>
 <marker id="526118923" label="Mayor Graeme Tenderlarch" category="70" did="1879051499" parentZoneId="1879085890" longitude="53.56572" latitude="-48.410145"/>
+<marker id="526118931" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879085890" longitude="53.57027" latitude="-48.51936"/>
 <marker id="526176262" label="Outfitted War-horse" category="70" did="1879244054" parentZoneId="1879256971" longitude="54.370625" latitude="-50.176083"/>
 <marker id="526176263" label="Outfitted War-horse" category="70" did="1879244055" parentZoneId="1879256971" longitude="54.37045" latitude="-50.166004"/>
 <marker id="526176264" label="Outfitted War-horse" category="70" did="1879244056" parentZoneId="1879256971" longitude="54.388397" latitude="-50.181324"/>
@@ -224,18 +224,11 @@
 <marker id="526176272" label="Mannequin" category="70" did="1879238633" parentZoneId="1879256971" longitude="54.32422" latitude="-49.99908"/>
 <marker id="526176273" label="Mannequin" category="70" did="1879238647" parentZoneId="1879256971" longitude="54.35252" latitude="-49.993477"/>
 <marker id="526176274" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.34162" latitude="-50.185776"/>
-<marker id="526176275" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.31461" latitude="-50.048767"/>
-<marker id="526176276" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.312107" latitude="-50.1042"/>
-<marker id="526176277" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.40006" latitude="-50.02622"/>
-<marker id="526176278" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.33373" latitude="-50.203373"/>
-<marker id="526176279" label="Mannequin" category="70" did="1879267602" parentZoneId="1879256971" longitude="54.395977" latitude="-50.09927"/>
-<marker id="526176280" label="Mannequin" category="70" did="1879267602" parentZoneId="1879256971" longitude="54.364647" latitude="-50.017982"/>
-<marker id="526176281" label="Mannequin" category="70" did="1879267602" parentZoneId="1879256971" longitude="54.365078" latitude="-50.047173"/>
-<marker id="526176282" label="Clothing Vendor&#10;Mithril Trader" category="58" did="1879297221" parentZoneId="1879256971" longitude="54.308006" latitude="-50.04913"/>
-<marker id="526176283" label="Door" category="100" did="1879063326" parentZoneId="1879256971" longitude="54.313515" latitude="-50.22903"/>
-<marker id="526176284" label="Door" category="100" did="1879063326" parentZoneId="1879256971" longitude="54.33871" latitude="-49.95297"/>
-<marker id="526176285" label="Mailbox" category="34" did="1879063475" parentZoneId="1879256971" longitude="54.36109" latitude="-50.19588"/>
-<marker id="526176286" label="Vault-keeper" category="40" did="1879063544" parentZoneId="1879256971" longitude="54.310837" latitude="-50.162197"/>
+<marker id="526176275" label="Mannequin" category="70" did="1879267602" parentZoneId="1879256971" longitude="54.395977" latitude="-50.09927"/>
+<marker id="526176276" label="Clothing Vendor&#10;Mithril Trader" category="58" did="1879297221" parentZoneId="1879256971" longitude="54.308006" latitude="-50.04913"/>
+<marker id="526176277" label="Door" category="100" did="1879063326" parentZoneId="1879256971" longitude="54.313515" latitude="-50.22903"/>
+<marker id="526176278" label="Mailbox" category="34" did="1879063475" parentZoneId="1879256971" longitude="54.36109" latitude="-50.19588"/>
+<marker id="526176279" label="Vault-keeper" category="40" did="1879063544" parentZoneId="1879256971" longitude="54.310837" latitude="-50.162197"/>
 <marker id="526237705" label="Owen Oaks&#10;Bard of Bree" category="54" did="1879063236" parentZoneId="1879256902" longitude="55.56168" latitude="-50.79682"/>
 <marker id="526237707" label="Warden Trainer" category="42" did="1879256906" parentZoneId="1879256902" longitude="55.542107" latitude="-50.82611"/>
 <marker id="526237708" label="Rune-keeper Trainer" category="42" did="1879256911" parentZoneId="1879256902" longitude="55.57668" latitude="-50.77537"/>
