@@ -14586,16 +14586,21 @@
 <label key="1879218950" value="Meister des Östlichen Bezirks"/>
 <label key="1879218956" value="Greifender Teichlauerer"/>
 <label key="1879218957" value="Moosbewachsener Teichlauerer"/>
+<label key="1879218958" value="Angelwürger"/>
 <label key="1879218959" value="Helles Licht"/>
 <label key="1879218960" value="Flackerndes Licht"/>
 <label key="1879218961" value="Glühendes Licht"/>
+<label key="1879218962" value="Schreckliches Licht"/>
 <label key="1879218963" value="Gurgelnder Avanc"/>
 <label key="1879218964" value="Verwirrender Avanc"/>
+<label key="1879218965" value="Dreckstrampler"/>
+<label key="1879218966" value="Der flotte Alte"/>
 <label key="1879218967" value="Bemooste Schindkröte"/>
 <label key="1879218968" value="Bedrohliche Schindkröte"/>
 <label key="1879218969" value="Kleine Sumpfschnecke"/>
 <label key="1879218970" value="Sumpfschnecke"/>
 <label key="1879218971" value="Hässliche Sumpfschnecke"/>
+<label key="1879218972" value="Glitschschlitterer"/>
 <label key="1879218973" value="Sumpfgreifer"/>
 <label key="1879218975" value="Bilwiss-Maschinenmeister"/>
 <label key="1879218988" value="Franis"/>
@@ -46293,10 +46298,10 @@
 <label key="1879500313" value="TBD Stealth"/>
 <label key="1879500314" value="TBD Ranged"/>
 <label key="1879500315" value="DNT - Stun Warning"/>
-<label key="1879500316" value="DNT - Whisper of Fire"/>
-<label key="1879500317" value="DNT - Cursed Fury"/>
-<label key="1879500318" value="DNT - Whisper of Storm (Stun)"/>
-<label key="1879500319" value="DNT - Protection from Whisper of Blood"/>
+<label key="1879500316" value="Flüstern der Flammen"/>
+<label key="1879500317" value="Verfluchte Wut"/>
+<label key="1879500318" value="Wispern des Sturms (Betäuben)"/>
+<label key="1879500319" value="Schutz durch \qWispern des Bluts\q"/>
 <label key="1879500370" value="TBD Melee"/>
 <label key="1879500371" value="Dickes Ei"/>
 <label key="1879500372" value="TBD Ranged"/>
@@ -46613,4 +46618,7 @@
 <label key="1879501763" value="Umbari-Wächter"/>
 <label key="1879501764" value="Umbar-Rebellin"/>
 <label key="1879502081" value="Uruk-hai-Berserker"/>
+<label key="1879502330" value="Malbrethil-sapling"/>
+<label key="1879502331" value="Malbrethil-sapling"/>
+<label key="1879502332" value="Malbrethil-sapling"/>
 </labels>
