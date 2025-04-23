@@ -1504,6 +1504,13 @@
 <min longitude="-76.68908" latitude="-34.0"/>
 <max longitude="-45.710785" latitude="-10.766279"/>
 </map>
+<map id="268454775" name="Festival Island" imageId="1093004359">
+<geo factor="120.00001">
+<point longitude="-124.25" latitude="-0.39999998"/>
+</geo>
+<min longitude="-124.25" latitude="-6.7999997"/>
+<max longitude="-115.71667" latitude="-0.39999998"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -10219,25 +10226,74 @@
 <min longitude="42.92666" latitude="43.788338"/>
 <max longitude="44.25999" latitude="46.788338"/>
 </map>
-<map id="1879501636" name="TBD - FESTIVAL ISLAND INN" imageId="1093003601">
+<map id="1879501636" name="The Cracked Flagon&#10;Tâz Makhum" imageId="1093003601">
 <geo factor="600.0">
 <point longitude="-145.07832" latitude="72.845"/>
 </geo>
 <min longitude="-145.07832" latitude="71.845"/>
 <max longitude="-143.745" latitude="72.845"/>
 </map>
-<map id="1879501731" name="TBD - DAXAMAT'S WAREHOUSE" imageId="1093003631">
+<map id="1879501731" name="Daxamat's Refuge" imageId="1093003631">
 <geo factor="600.0">
 <point longitude="-144.76833" latitude="71.19334"/>
 </geo>
 <min longitude="-144.76833" latitude="70.19334"/>
 <max longitude="-143.435" latitude="71.19334"/>
 </map>
-<map id="1879501772" name="TBD - GAOL PRISON" imageId="1093003723">
+<map id="1879501772" name="The Gaol" imageId="1093003723">
 <geo factor="600.0">
 <point longitude="-145.73332" latitude="70.2"/>
 </geo>
 <min longitude="-145.73332" latitude="68.2"/>
 <max longitude="-143.06665" latitude="70.2"/>
+</map>
+<map id="1879502131" name="Tatháta's Command" imageId="1093004276">
+<geo factor="600.00006">
+<point longitude="-145.065" latitude="68.06334"/>
+</geo>
+<min longitude="-145.065" latitude="67.06334"/>
+<max longitude="-143.73167" latitude="68.06334"/>
+</map>
+<map id="1879502183" name="Garash Hûru" imageId="1093004358">
+<geo factor="600.0">
+<point longitude="-144.61" latitude="66.42166"/>
+</geo>
+<min longitude="-144.61" latitude="65.42166"/>
+<max longitude="-143.27667" latitude="66.42166"/>
+</map>
+<map id="1879502339" name="Az Shûdai" imageId="1093004426">
+<geo factor="600.0">
+<point longitude="52.68" latitude="51.706657"/>
+</geo>
+<min longitude="52.68" latitude="49.706657"/>
+<max longitude="55.34667" latitude="51.706657"/>
+</map>
+<map id="1879502639" name="Inside the Waggon" imageId="1093004494">
+<geo factor="999.9999">
+<point longitude="53.60199" latitude="49.53301"/>
+</geo>
+<min longitude="53.60199" latitude="48.93301"/>
+<max longitude="54.40199" latitude="49.53301"/>
+</map>
+<map id="1879502647" name="Tower of Kûr Anzar" imageId="1093004493">
+<geo factor="600.0">
+<point longitude="51.63834" latitude="52.934998"/>
+</geo>
+<min longitude="51.63834" latitude="51.934998"/>
+<max longitude="52.971672" latitude="52.934998"/>
+</map>
+<map id="1879502997" name="Lalia's Market" imageId="1093005105">
+<geo factor="600.0">
+<point longitude="54.22834" latitude="-50.378334"/>
+</geo>
+<min longitude="54.22834" latitude="-51.378334"/>
+<max longitude="55.561672" latitude="-50.378334"/>
+</map>
+<map id="1879503002" name="Citadel of Dun Shûma" imageId="1093005106">
+<geo factor="300.0">
+<point longitude="49.82" latitude="71.89666"/>
+</geo>
+<min longitude="49.82" latitude="67.89666"/>
+<max longitude="55.15333" latitude="71.89666"/>
 </map>
 </maps>

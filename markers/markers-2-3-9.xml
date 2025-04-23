@@ -2888,7 +2888,6 @@
 <marker id="596918274" label="Gróm&#10;Healer" category="38" did="1879136163" parentZoneId="1879191197" longitude="-105.11548" latitude="-5.8426366"/>
 <marker id="596918276" label="Arnfin&#10;Hobby Master" category="42" did="1879136166" parentZoneId="1879191197" longitude="-105.182846" latitude="-5.7278514"/>
 <marker id="596918277" label="Eastern Barricade" category="43" did="1879140866" parentZoneId="1879191197" longitude="-104.8524" latitude="-5.8126755"/>
-<marker id="596918278" label="Unfurled Banners" category="56" did="1879141209" parentZoneId="1879191197" longitude="-105.15042" latitude="-5.81083"/>
 <marker id="596918282" label="Gútrek&#10;Supplier &amp; Provisioner" category="38" did="1879136162" parentZoneId="1879191197" longitude="-105.15421" latitude="-5.7658496"/>
 <marker id="596918285" label="Traveller's Quartermaster&#10;A quartermaster who deals in Motes of Enchantment. Traveller's Gear" category="58" did="1879381066" parentZoneId="1879191197" longitude="-105.11951" latitude="-5.7785153"/>
 <marker id="596918286" label="Quartermaster&#10;Legendary Moria Rewards" category="38" did="1879385612" parentZoneId="1879191197" longitude="-105.15068" latitude="-5.846308"/>
@@ -2906,162 +2905,172 @@
 <marker id="596918300" label="Mannequin" category="70" did="1879238632" parentZoneId="1879191197" longitude="-105.00343" latitude="-5.926445"/>
 <marker id="596918301" label="Mannequin" category="70" did="1879238633" parentZoneId="1879191197" longitude="-104.989624" latitude="-5.917412"/>
 <marker id="596918302" label="Mannequin" category="70" did="1879238647" parentZoneId="1879191197" longitude="-104.995605" latitude="-5.923232"/>
-<marker id="596918303" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-104.94148" latitude="-5.416162"/>
-<marker id="596918304" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-105.10879" latitude="-5.416123"/>
-<marker id="596918305" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-104.94148" latitude="-5.608701"/>
-<marker id="596918317" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.8129" latitude="-5.738242"/>
-<marker id="596918318" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.91917" latitude="-5.394687"/>
-<marker id="596918319" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.12057" latitude="-5.3839254"/>
-<marker id="596918320" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.13051" latitude="-5.6180367"/>
-<marker id="596918321" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.96377" latitude="-5.90124"/>
-<marker id="596918322" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.08492" latitude="-5.879648"/>
-<marker id="596918323" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.84387" latitude="-5.8136034"/>
-<marker id="596918327" label="Builder" category="70" did="1879255970" parentZoneId="1879191197" longitude="-105.13383" latitude="-5.8518653"/>
-<marker id="596918328" label="Hall Guard" category="70" did="1879255969" parentZoneId="1879191197" longitude="-104.85224" latitude="-5.7636228"/>
-<marker id="596918329" label="Hall Guard" category="70" did="1879255969" parentZoneId="1879191197" longitude="-104.85019" latitude="-5.857353"/>
-<marker id="596918344" label="Bingo Boffin" category="70" did="1879322510" parentZoneId="1879191197" longitude="-105.0226" latitude="-5.493955"/>
-<marker id="596918348" label="Mote and Ember Craft Trader" category="70" did="1879381230" parentZoneId="1879191197" longitude="-105.12765" latitude="-5.775869"/>
-<marker id="596918352" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.1547" latitude="-5.805156"/>
-<marker id="596918353" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.1536" latitude="-5.806416"/>
-<marker id="596918354" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.152275" latitude="-5.8071775"/>
-<marker id="596918357" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.815576"/>
-<marker id="596918358" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.8143067"/>
-<marker id="596918359" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.812998"/>
-<marker id="596918360" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.155136" latitude="-5.8156347"/>
-<marker id="596918361" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
-<marker id="596918362" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
-<marker id="596918363" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
-<marker id="596918364" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
-<marker id="596918365" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
-<marker id="596918366" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
-<marker id="596918367" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
-<marker id="596918368" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
-<marker id="596918369" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
-<marker id="596918370" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918371" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
-<marker id="596918372" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
-<marker id="596918373" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918374" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
-<marker id="596918375" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
-<marker id="596918376" label="Pûlpum Berserker" category="71" did="1879140415" parentZoneId="1879191197" longitude="-104.55662" latitude="-5.8093357"/>
-<marker id="596918377" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
-<marker id="596918378" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
-<marker id="596918379" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
-<marker id="596918380" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918381" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
-<marker id="596918382" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
-<marker id="596918383" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
-<marker id="596918384" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
-<marker id="596918385" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918386" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
-<marker id="596918387" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918388" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
-<marker id="596918389" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
-<marker id="596918390" label="Dwarf Warrior" category="71" did="1879140439" parentZoneId="1879191197" longitude="-104.849" latitude="-5.8391404"/>
-<marker id="596918391" label="Dwarf Warrior" category="71" did="1879140439" parentZoneId="1879191197" longitude="-104.84527" latitude="-5.788242"/>
-<marker id="596918392" label="Dwarf Sentry" category="71" did="1879140438" parentZoneId="1879191197" longitude="-104.87073" latitude="-5.8437696"/>
-<marker id="596918394" label="Dwarf Archer" category="71" did="1879140440" parentZoneId="1879191197" longitude="-104.868904" latitude="-5.786982"/>
-<marker id="596918395" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
-<marker id="596918396" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
-<marker id="596918397" label="Goblin" category="70" did="1879084907" parentZoneId="1879191197" longitude="-104.70361" latitude="-5.769521"/>
-<marker id="596918398" label="Goblin" category="70" did="1879084907" parentZoneId="1879191197" longitude="-104.71029" latitude="-5.8238964"/>
-<marker id="596918399" label="Barricade" category="71" did="1879140832" parentZoneId="1879191197" longitude="-104.84355" latitude="-5.858174"/>
-<marker id="596918400" label="Barricade" category="71" did="1879140832" parentZoneId="1879191197" longitude="-104.84279" latitude="-5.7641306"/>
-<marker id="596918401" label="Pedestal" category="100" did="1879140851" parentZoneId="1879191197" longitude="-104.873344" latitude="-5.8122263"/>
-<marker id="596918402" label="Battle Master - Twenty First - Soldier" category="70" did="1879140853" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.7649903"/>
-<marker id="596918403" label="First Mirror" category="73" did="1879233668" parentZoneId="1879191197" longitude="-104.52304" latitude="-5.2723045"/>
-<marker id="596918404" label="Sebbi" category="70" did="1879109394" parentZoneId="1879191197" longitude="-104.91112" latitude="-5.8595605"/>
-<marker id="596918405" label="Wethur" category="70" did="1879109395" parentZoneId="1879191197" longitude="-105.12595" latitude="-5.5752244"/>
-<marker id="596918406" label="Stilling" category="70" did="1879109396" parentZoneId="1879191197" longitude="-104.817474" latitude="-5.3798046"/>
-<marker id="596918407" label="Káti" category="70" did="1879140088" parentZoneId="1879191197" longitude="-105.02281" latitude="-5.932197"/>
-<marker id="596918408" label="The Twenty-first Hall" category="74" did="1879134445" parentZoneId="1879191197" longitude="-105.02701" latitude="-5.816162"/>
-<marker id="596918412" label="The Twenty-first Hall" category="74" did="1879134445" parentZoneId="1879191197" longitude="-105.02604" latitude="-5.4969335"/>
-<marker id="596918413" label="The Twenty-first Hall" category="43" did="1879134445" parentZoneId="1879191197" longitude="-105.14654" latitude="-5.811455"/>
-<marker id="596918416" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.64903" latitude="-5.7903514"/>
-<marker id="596918417" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.60105" latitude="-5.758584"/>
-<marker id="596918418" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.53521" latitude="-5.8613377"/>
-<marker id="596918419" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.54726" latitude="-5.9097657"/>
-<marker id="596918420" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.69046" latitude="-5.7166014"/>
-<marker id="596918421" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.6899" latitude="-5.640615"/>
-<marker id="596918422" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.7304" latitude="-5.6556444"/>
-<marker id="596918423" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.51773" latitude="-5.785146"/>
-<marker id="596918430" label="Tankard" category="73" did="1879257385" parentZoneId="1879191197" longitude="-105.13923" latitude="-5.767158"/>
-<marker id="596918431" label="Bói&#10;Bard of the Twenty-first Hall" category="54" did="1879136164" parentZoneId="1879191197" longitude="-105.107574" latitude="-5.888369"/>
-<marker id="596918432" label="Spalvi Stout-heart" category="70" did="1879322501" parentZoneId="1879191197" longitude="-105.01498" latitude="-5.495723"/>
-<marker id="596918436" label="Willem Whisker" category="70" did="1879322522" parentZoneId="1879191197" longitude="-105.02797" latitude="-5.4960155"/>
-<marker id="596918437" label="Bingo Boffin" category="70" did="1879322520" parentZoneId="1879191197" longitude="-105.021736" latitude="-5.4938865"/>
-<marker id="596918438" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879191197" longitude="-105.14865" latitude="-5.770156"/>
+<marker id="596918303" label="Potential Visitor" category="70" did="1879501639" parentZoneId="1879191197" longitude="-104.94013" latitude="-5.5167575"/>
+<marker id="596918304" label="Potential Visitor" category="70" did="1879501639" parentZoneId="1879191197" longitude="-104.955086" latitude="-5.4080467"/>
+<marker id="596918305" label="Potential Visitor" category="70" did="1879501637" parentZoneId="1879191197" longitude="-104.955086" latitude="-5.4080467"/>
+<marker id="596918306" label="Potential Visitor" category="70" did="1879501637" parentZoneId="1879191197" longitude="-104.94013" latitude="-5.5167575"/>
+<marker id="596918307" label="Potential Visitor" category="70" did="1879501640" parentZoneId="1879191197" longitude="-105.03027" latitude="-5.517295"/>
+<marker id="596918308" label="Potential Visitor" category="70" did="1879501640" parentZoneId="1879191197" longitude="-105.12072" latitude="-5.5066404"/>
+<marker id="596918309" label="Potential Visitor" category="70" did="1879501690" parentZoneId="1879191197" longitude="-105.12072" latitude="-5.5066404"/>
+<marker id="596918310" label="Potential Visitor" category="70" did="1879501690" parentZoneId="1879191197" longitude="-105.03027" latitude="-5.517295"/>
+<marker id="596918311" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-104.94148" latitude="-5.416162"/>
+<marker id="596918312" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-105.10879" latitude="-5.416123"/>
+<marker id="596918313" label="Door" category="100" did="1879141313" parentZoneId="1879191197" longitude="-104.94148" latitude="-5.608701"/>
+<marker id="596918325" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.02244" latitude="-5.5172753"/>
+<marker id="596918326" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.8129" latitude="-5.738242"/>
+<marker id="596918327" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.91917" latitude="-5.394687"/>
+<marker id="596918328" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.12057" latitude="-5.3839254"/>
+<marker id="596918329" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.13051" latitude="-5.6180367"/>
+<marker id="596918330" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.96377" latitude="-5.90124"/>
+<marker id="596918331" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-105.08492" latitude="-5.879648"/>
+<marker id="596918332" label="Guard" category="70" did="1879132188" parentZoneId="1879191197" longitude="-104.84387" latitude="-5.8136034"/>
+<marker id="596918336" label="Builder" category="70" did="1879255970" parentZoneId="1879191197" longitude="-105.13383" latitude="-5.8518653"/>
+<marker id="596918337" label="Hall Guard" category="70" did="1879255969" parentZoneId="1879191197" longitude="-104.85224" latitude="-5.7636228"/>
+<marker id="596918338" label="Hall Guard" category="70" did="1879255969" parentZoneId="1879191197" longitude="-104.85019" latitude="-5.857353"/>
+<marker id="596918353" label="Bingo Boffin" category="70" did="1879322510" parentZoneId="1879191197" longitude="-105.0226" latitude="-5.493955"/>
+<marker id="596918357" label="Mote and Ember Craft Trader" category="70" did="1879381230" parentZoneId="1879191197" longitude="-105.12765" latitude="-5.775869"/>
+<marker id="596918361" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.1547" latitude="-5.805156"/>
+<marker id="596918362" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.1536" latitude="-5.806416"/>
+<marker id="596918363" label="Furled Banner of the Unwearied King" category="73" did="1879140867" parentZoneId="1879191197" longitude="-105.152275" latitude="-5.8071775"/>
+<marker id="596918366" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.815576"/>
+<marker id="596918367" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.8143067"/>
+<marker id="596918368" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.15259" latitude="-5.812998"/>
+<marker id="596918369" label="Furled Banner of the Hammer-stroke" category="73" did="1879140868" parentZoneId="1879191197" longitude="-105.155136" latitude="-5.8156347"/>
+<marker id="596918370" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
+<marker id="596918371" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
+<marker id="596918372" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
+<marker id="596918373" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
+<marker id="596918374" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
+<marker id="596918375" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
+<marker id="596918376" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
+<marker id="596918377" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
+<marker id="596918378" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.79499"/>
+<marker id="596918379" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918380" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
+<marker id="596918381" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
+<marker id="596918382" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918383" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
+<marker id="596918384" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
+<marker id="596918385" label="Pûlpum Berserker" category="71" did="1879140415" parentZoneId="1879191197" longitude="-104.55662" latitude="-5.8093357"/>
+<marker id="596918386" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
+<marker id="596918387" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
+<marker id="596918388" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
+<marker id="596918389" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918390" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
+<marker id="596918391" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.79499"/>
+<marker id="596918392" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.79499"/>
+<marker id="596918393" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
+<marker id="596918394" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918395" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
+<marker id="596918396" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918397" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.77499"/>
+<marker id="596918398" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.5782" latitude="-5.7849903"/>
+<marker id="596918399" label="Dwarf Warrior" category="71" did="1879140439" parentZoneId="1879191197" longitude="-104.849" latitude="-5.8391404"/>
+<marker id="596918400" label="Dwarf Warrior" category="71" did="1879140439" parentZoneId="1879191197" longitude="-104.84527" latitude="-5.788242"/>
+<marker id="596918401" label="Dwarf Sentry" category="71" did="1879140438" parentZoneId="1879191197" longitude="-104.87073" latitude="-5.8437696"/>
+<marker id="596918402" label="Unfurled Banners" category="56" did="1879141209" parentZoneId="1879191197" longitude="-105.15042" latitude="-5.81083"/>
+<marker id="596918403" label="Dwarf Archer" category="71" did="1879140440" parentZoneId="1879191197" longitude="-104.868904" latitude="-5.786982"/>
+<marker id="596918404" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.77499"/>
+<marker id="596918405" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.5582" latitude="-5.7849903"/>
+<marker id="596918406" label="Goblin" category="70" did="1879084907" parentZoneId="1879191197" longitude="-104.70361" latitude="-5.769521"/>
+<marker id="596918407" label="Goblin" category="70" did="1879084907" parentZoneId="1879191197" longitude="-104.71029" latitude="-5.8238964"/>
+<marker id="596918408" label="Barricade" category="71" did="1879140832" parentZoneId="1879191197" longitude="-104.84355" latitude="-5.858174"/>
+<marker id="596918409" label="Barricade" category="71" did="1879140832" parentZoneId="1879191197" longitude="-104.84279" latitude="-5.7641306"/>
+<marker id="596918410" label="Pedestal" category="100" did="1879140851" parentZoneId="1879191197" longitude="-104.873344" latitude="-5.8122263"/>
+<marker id="596918411" label="Battle Master - Twenty First - Soldier" category="70" did="1879140853" parentZoneId="1879191197" longitude="-104.5682" latitude="-5.7649903"/>
+<marker id="596918412" label="First Mirror" category="73" did="1879233668" parentZoneId="1879191197" longitude="-104.52304" latitude="-5.2723045"/>
+<marker id="596918413" label="Sebbi" category="70" did="1879109394" parentZoneId="1879191197" longitude="-104.91112" latitude="-5.8595605"/>
+<marker id="596918414" label="Wethur" category="70" did="1879109395" parentZoneId="1879191197" longitude="-105.12595" latitude="-5.5752244"/>
+<marker id="596918415" label="Stilling" category="70" did="1879109396" parentZoneId="1879191197" longitude="-104.817474" latitude="-5.3798046"/>
+<marker id="596918416" label="Káti" category="70" did="1879140088" parentZoneId="1879191197" longitude="-105.02281" latitude="-5.932197"/>
+<marker id="596918420" label="The Twenty-first Hall" category="74" did="1879134445" parentZoneId="1879191197" longitude="-105.02701" latitude="-5.816162"/>
+<marker id="596918421" label="The Twenty-first Hall" category="74" did="1879134445" parentZoneId="1879191197" longitude="-105.02604" latitude="-5.4969335"/>
+<marker id="596918422" label="The Twenty-first Hall" category="43" did="1879134445" parentZoneId="1879191197" longitude="-105.14654" latitude="-5.811455"/>
+<marker id="596918423" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.7304" latitude="-5.6556444"/>
+<marker id="596918424" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.51773" latitude="-5.785146"/>
+<marker id="596918425" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.64903" latitude="-5.7903514"/>
+<marker id="596918426" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.60105" latitude="-5.758584"/>
+<marker id="596918427" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.53521" latitude="-5.8613377"/>
+<marker id="596918428" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.54726" latitude="-5.9097657"/>
+<marker id="596918429" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.69046" latitude="-5.7166014"/>
+<marker id="596918430" label="Orc-arrow" category="73" did="1879255975" parentZoneId="1879191197" longitude="-104.6899" latitude="-5.640615"/>
+<marker id="596918439" label="Tankard" category="73" did="1879257385" parentZoneId="1879191197" longitude="-105.13923" latitude="-5.767158"/>
+<marker id="596918440" label="Bói&#10;Bard of the Twenty-first Hall" category="54" did="1879136164" parentZoneId="1879191197" longitude="-105.107574" latitude="-5.888369"/>
+<marker id="596918444" label="Spalvi Stout-heart" category="70" did="1879322501" parentZoneId="1879191197" longitude="-105.01498" latitude="-5.495723"/>
+<marker id="596918445" label="Willem Whisker" category="70" did="1879322522" parentZoneId="1879191197" longitude="-105.02797" latitude="-5.4960155"/>
+<marker id="596918446" label="Bingo Boffin" category="70" did="1879322520" parentZoneId="1879191197" longitude="-105.021736" latitude="-5.4938865"/>
+<marker id="596918448" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879191197" longitude="-105.14865" latitude="-5.770156"/>
 <marker id="596918452" label="Hardened Traveller" category="70" did="1879414609" parentZoneId="1879191197" longitude="-105.14095" latitude="-5.8972263"/>
-<marker id="596918454" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918455" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918456" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918457" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918459" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918460" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918461" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918462" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918463" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918468" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918469" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918471" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918478" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918483" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
-<marker id="596918484" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918485" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918486" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918487" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918488" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918494" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918495" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918498" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918499" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918501" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918502" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918511" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918512" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918513" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
-<marker id="596918518" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918519" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918524" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918525" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918527" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918528" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918531" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918532" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918533" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918534" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918535" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918540" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918541" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918542" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
-<marker id="596918544" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918545" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918546" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918547" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918548" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918549" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918550" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918551" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918552" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918558" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918559" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918562" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918563" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918566" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
-<marker id="596918579" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918580" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918581" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918582" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918583" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918584" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918587" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918588" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918589" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918590" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918591" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918596" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918597" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
-<marker id="596918598" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918463" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918467" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918468" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918469" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918470" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918471" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918477" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918482" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918483" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918485" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918486" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918487" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918488" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918489" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.54843" latitude="-5.730361"/>
+<marker id="596918493" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918494" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918495" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918496" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918500" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918503" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918509" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918511" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918513" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918515" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918516" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918517" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918518" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918519" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.54777" latitude="-5.778369"/>
+<marker id="596918529" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918532" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918533" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918534" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918535" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918537" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918543" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918544" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918545" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918547" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918548" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918549" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918550" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918552" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55082" latitude="-5.809385"/>
+<marker id="596918553" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918554" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918555" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918556" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918557" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918558" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918559" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918560" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918564" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918567" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918573" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918575" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918577" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918582" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55296" latitude="-5.8452244"/>
+<marker id="596918583" label="Moria Warg-keeper" category="71" did="1879140400" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918585" label="Moria Spear-thrower" category="71" did="1879140402" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918589" label="Moria Prowler" category="71" did="1879140442" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918590" label="Moria Chief" category="71" did="1879140401" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918591" label="Moria Guard" category="71" did="1879140403" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918593" label="Moria Warrior" category="71" did="1879140399" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918596" label="Moria Troll-hurler" category="71" did="1879140434" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918597" label="Armoured Moria-troll" category="71" did="1879140429" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918599" label="Moria Troll" category="71" did="1879140433" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918608" label="Moria Orc-defiler" category="71" did="1879140414" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918609" label="Moria Orc-warrior" category="71" did="1879140417" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918610" label="Moria Orc-skirmisher" category="71" did="1879140416" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918611" label="Moria Orc-leader" category="71" did="1879140413" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
+<marker id="596918612" label="Moria Orc-berserker" category="71" did="1879140412" parentZoneId="1879191197" longitude="-104.55408" latitude="-5.891455"/>
 <marker id="596922369" label="Largzurm Defiler" category="71" did="1879134287" parentZoneId="1879191197" longitude="-104.70863" latitude="-4.7338867"/>
 <marker id="596922370" label="Largzurm Marauder" category="71" did="1879134484" parentZoneId="1879191197" longitude="-104.70863" latitude="-4.7338867"/>
 <marker id="596922371" label="Door" category="100" did="1879140785" parentZoneId="1879191197" longitude="-105.015564" latitude="-4.7501364"/>

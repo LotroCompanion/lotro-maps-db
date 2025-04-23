@@ -148,9 +148,9 @@
 <marker id="526086163" label="Seleflad&#10;Rohan Eastfold Housing Broker" category="38" did="1879399991" parentZoneId="1879410485" longitude="54.00119" latitude="-54.77539"/>
 <marker id="526086164" label="Burginda&#10;Rohan Kingstead Housing Broker" category="38" did="1879399992" parentZoneId="1879410485" longitude="53.978806" latitude="-54.80142"/>
 <marker id="526086165" label="Door" category="100" did="1879063326" parentZoneId="1879410485" longitude="54.013474" latitude="-54.809975"/>
-<marker id="526086166" label="Rúni&#10;Thorin's Gate Housing Broker" category="38" did="1879096839" parentZoneId="1879410485" longitude="53.98703" latitude="-54.802483"/>
-<marker id="526086167" label="Barchiril&#10;Duillond Housing Broker" category="38" did="1879096840" parentZoneId="1879410485" longitude="53.97357" latitude="-54.7895"/>
-<marker id="526086168" label="Andy Brockhouse&#10;Michel Delving Housing Broker" category="38" did="1879096841" parentZoneId="1879410485" longitude="53.997578" latitude="-54.786205"/>
+<marker id="526086166" label="Rúni&#10;Thorin's Hall Housing Broker" category="38" did="1879096839" parentZoneId="1879410485" longitude="53.98703" latitude="-54.802483"/>
+<marker id="526086167" label="Barchiril&#10;Falathlorn Housing Broker" category="38" did="1879096840" parentZoneId="1879410485" longitude="53.97357" latitude="-54.7895"/>
+<marker id="526086168" label="Andy Brockhouse&#10;Shire Housing Broker" category="38" did="1879096841" parentZoneId="1879410485" longitude="53.997578" latitude="-54.786205"/>
 <marker id="526086169" label="Nan Henwood&#10;Bree-land Housing Broker" category="38" did="1879096842" parentZoneId="1879410485" longitude="53.97957" latitude="-54.77717"/>
 <marker id="526086170" label="Almetha Ditchel&#10;Lyndelby Housing Broker" category="38" did="1879457380" parentZoneId="1879410485" longitude="53.987595" latitude="-54.781258"/>
 <marker id="526086171" label="Gárthi Lockwarden&#10;Erebor Housing Broker" category="38" did="1879442021" parentZoneId="1879410485" longitude="53.987694" latitude="-54.789585"/>
@@ -211,24 +211,46 @@
 <marker id="526118921" label="Angmar Citizen" category="70" did="1879085646" parentZoneId="1879085890" longitude="53.57611" latitude="-48.536743"/>
 <marker id="526118923" label="Mayor Graeme Tenderlarch" category="70" did="1879051499" parentZoneId="1879085890" longitude="53.56572" latitude="-48.410145"/>
 <marker id="526118931" label="Bonnie Milkweed&#10;Notary" category="38" did="1879078808" parentZoneId="1879085890" longitude="53.57027" latitude="-48.51936"/>
-<marker id="526176262" label="Outfitted War-horse" category="70" did="1879244054" parentZoneId="1879256971" longitude="54.370625" latitude="-50.176083"/>
-<marker id="526176263" label="Outfitted War-horse" category="70" did="1879244055" parentZoneId="1879256971" longitude="54.37045" latitude="-50.166004"/>
-<marker id="526176264" label="Outfitted War-horse" category="70" did="1879244056" parentZoneId="1879256971" longitude="54.388397" latitude="-50.181324"/>
-<marker id="526176265" label="Outfitted War-horse" category="70" did="1879244057" parentZoneId="1879256971" longitude="54.383827" latitude="-50.157383"/>
-<marker id="526176266" label="Lalia&#10;Mithril Trader" category="58" did="1879270374" parentZoneId="1879256971" longitude="54.28873" latitude="-50.03647"/>
-<marker id="526176267" label="Accessory" category="70" did="1879270382" parentZoneId="1879256971" longitude="54.370625" latitude="-50.231678"/>
-<marker id="526176268" label="Accessory" category="70" did="1879270381" parentZoneId="1879256971" longitude="54.36941" latitude="-50.243046"/>
-<marker id="526176269" label="Accessory" category="70" did="1879270380" parentZoneId="1879256971" longitude="54.38859" latitude="-50.20974"/>
-<marker id="526176270" label="Mannequin" category="70" did="1879238628" parentZoneId="1879256971" longitude="54.32422" latitude="-49.993225"/>
-<marker id="526176271" label="Mannequin" category="70" did="1879238632" parentZoneId="1879256971" longitude="54.352596" latitude="-49.999184"/>
-<marker id="526176272" label="Mannequin" category="70" did="1879238633" parentZoneId="1879256971" longitude="54.32422" latitude="-49.99908"/>
-<marker id="526176273" label="Mannequin" category="70" did="1879238647" parentZoneId="1879256971" longitude="54.35252" latitude="-49.993477"/>
-<marker id="526176274" label="Mannequin" category="70" did="1879267588" parentZoneId="1879256971" longitude="54.34162" latitude="-50.185776"/>
-<marker id="526176275" label="Mannequin" category="70" did="1879267602" parentZoneId="1879256971" longitude="54.395977" latitude="-50.09927"/>
-<marker id="526176276" label="Clothing Vendor&#10;Mithril Trader" category="58" did="1879297221" parentZoneId="1879256971" longitude="54.308006" latitude="-50.04913"/>
-<marker id="526176277" label="Door" category="100" did="1879063326" parentZoneId="1879256971" longitude="54.313515" latitude="-50.22903"/>
-<marker id="526176278" label="Mailbox" category="34" did="1879063475" parentZoneId="1879256971" longitude="54.36109" latitude="-50.19588"/>
-<marker id="526176279" label="Vault-keeper" category="40" did="1879063544" parentZoneId="1879256971" longitude="54.310837" latitude="-50.162197"/>
+<marker id="526172162" label="Cloak Vendor&#10;Mithril Trader" category="58" did="1879502492" parentZoneId="1879502997" longitude="54.737617" latitude="-50.8741"/>
+<marker id="526172163" label="Satchel Vendor&#10;Mithril Trader" category="58" did="1879502515" parentZoneId="1879502997" longitude="54.80869" latitude="-50.845703"/>
+<marker id="526172164" label="Outfit Vendor&#10;Mithril Trader" category="58" did="1879502502" parentZoneId="1879502997" longitude="54.737617" latitude="-50.800213"/>
+<marker id="526172165" label="Shoulder-wear Vendor&#10;Mithril Trader" category="58" did="1879502518" parentZoneId="1879502997" longitude="54.737167" latitude="-50.730827"/>
+<marker id="526172166" label="Leg-wear Vendor&#10;Mithril Trader" category="58" did="1879502514" parentZoneId="1879502997" longitude="54.9382" latitude="-50.71816"/>
+<marker id="526172167" label="Foot-wear Vendor&#10;Mithril Trader" category="58" did="1879502505" parentZoneId="1879502997" longitude="54.89578" latitude="-50.736107"/>
+<marker id="526172168" label="Glove Vendor&#10;Mithril Trader" category="58" did="1879502494" parentZoneId="1879502997" longitude="54.93742" latitude="-50.804848"/>
+<marker id="526172169" label="Head-wear Vendor&#10;Mithril Trader" category="58" did="1879502504" parentZoneId="1879502997" longitude="54.904453" latitude="-50.78837"/>
+<marker id="526172170" label="Accessory Vendor&#10;Mithril Trader" category="58" did="1879502497" parentZoneId="1879502997" longitude="54.864998" latitude="-50.828297"/>
+<marker id="526172171" label="Chest-wear Vendor&#10;Mithril Trader" category="58" did="1879502512" parentZoneId="1879502997" longitude="54.938007" latitude="-50.87642"/>
+<marker id="526172172" label="Mount Vendor&#10;Mithril Trader" category="58" did="1879502506" parentZoneId="1879502997" longitude="55.003963" latitude="-50.97503"/>
+<marker id="526172173" label="Warsteed Vendor&#10;Mithril Trader" category="58" did="1879502496" parentZoneId="1879502997" longitude="55.014706" latitude="-50.967155"/>
+<marker id="526172175" label="Decoration Vendor&#10;Mithril Trader" category="58" did="1879502516" parentZoneId="1879502997" longitude="54.846836" latitude="-51.08937"/>
+<marker id="526172177" label="Cosmetic Pets Vendor&#10;Mithril Trader" category="58" did="1879502622" parentZoneId="1879502997" longitude="54.856915" latitude="-50.902534"/>
+<marker id="526172178" label="Weapons Vendor&#10;Mithril Trader" category="58" did="1879502618" parentZoneId="1879502997" longitude="54.904724" latitude="-50.86309"/>
+<marker id="526172179" label="Instrument Vendor&#10;Mithril Trader" category="58" did="1879502627" parentZoneId="1879502997" longitude="54.814705" latitude="-50.91316"/>
+<marker id="526172180" label="Shire Homesteads&#10;Broker Board" category="38" did="1879502802" parentZoneId="1879502997" longitude="54.860897" latitude="-51.062405"/>
+<marker id="526172181" label="Thorin's Hall Homesteads&#10;Broker Board" category="38" did="1879502798" parentZoneId="1879502997" longitude="54.860897" latitude="-51.07099"/>
+<marker id="526172183" label="Bree-land Homesteads&#10;Broker Board" category="38" did="1879502799" parentZoneId="1879502997" longitude="54.860897" latitude="-51.09628"/>
+<marker id="526172184" label="Cape of Belfalas Homesteads&#10;Broker Board" category="38" did="1879502800" parentZoneId="1879502997" longitude="54.81453" latitude="-51.062405"/>
+<marker id="526172185" label="Kingstead Homesteads&#10;Broker Board" category="38" did="1879502797" parentZoneId="1879502997" longitude="54.81453" latitude="-51.07099"/>
+<marker id="526172186" label="Eastfold Homesteads&#10;Broker Board" category="38" did="1879502795" parentZoneId="1879502997" longitude="54.81453" latitude="-51.07942"/>
+<marker id="526172187" label="Erebor Abobes&#10;Broker Board" category="38" did="1879502796" parentZoneId="1879502997" longitude="54.81453" latitude="-51.09615"/>
+<marker id="526172188" label="Lyndelby Homesteads&#10;Broker Board" category="38" did="1879502794" parentZoneId="1879502997" longitude="54.81453" latitude="-51.10474"/>
+<marker id="526172190" label="Lalia&#10;Mithril Trader" category="58" did="1879502510" parentZoneId="1879502997" longitude="54.908142" latitude="-51.02529"/>
+<marker id="526172192" label="Outfitted War-horse" category="70" did="1879244054" parentZoneId="1879502997" longitude="55.007263" latitude="-51.009113"/>
+<marker id="526172193" label="Outfitted War-horse" category="70" did="1879244055" parentZoneId="1879502997" longitude="55.04576" latitude="-51.00817"/>
+<marker id="526172194" label="Outfitted War-horse" category="70" did="1879244056" parentZoneId="1879502997" longitude="54.991913" latitude="-50.9383"/>
+<marker id="526172195" label="Outfitted War-horse" category="70" did="1879244057" parentZoneId="1879502997" longitude="54.980095" latitude="-50.938286"/>
+<marker id="526172196" label="Accessory" category="70" did="1879270382" parentZoneId="1879502997" longitude="55.030605" latitude="-50.93628"/>
+<marker id="526172197" label="Accessory" category="70" did="1879270381" parentZoneId="1879502997" longitude="55.06287" latitude="-50.99245"/>
+<marker id="526172198" label="Accessory" category="70" did="1879270380" parentZoneId="1879502997" longitude="54.981873" latitude="-51.009766"/>
+<marker id="526172224" label="Falathlorn Homesteads&#10;Broker Board" category="38" did="1879502801" parentZoneId="1879502997" longitude="54.860897" latitude="-51.07942"/>
+<marker id="526172225" label="Market Shop" category="73" did="1879502836" parentZoneId="1879502997" longitude="54.878475" latitude="-51.014988"/>
+<marker id="526172226" label="Mannequin" category="70" did="1879267588" parentZoneId="1879502997" longitude="54.74324" latitude="-50.899696"/>
+<marker id="526172227" label="Mannequin" category="70" did="1879267602" parentZoneId="1879502997" longitude="54.897774" latitude="-50.814194"/>
+<marker id="526172228" label="Door" category="100" did="1879063326" parentZoneId="1879502997" longitude="54.837498" latitude="-50.64837"/>
+<marker id="526172229" label="Mailbox" category="34" did="1879063475" parentZoneId="1879502997" longitude="54.803123" latitude="-51.044937"/>
+<marker id="526172230" label="Vault-keeper" category="40" did="1879063544" parentZoneId="1879502997" longitude="54.796444" latitude="-50.959526"/>
+<marker id="526172231" label="Auctioneer" category="53" did="1879063853" parentZoneId="1879502997" longitude="54.79621" latitude="-50.940903"/>
 <marker id="526237705" label="Owen Oaks&#10;Bard of Bree" category="54" did="1879063236" parentZoneId="1879256902" longitude="55.56168" latitude="-50.79682"/>
 <marker id="526237707" label="Warden Trainer" category="42" did="1879256906" parentZoneId="1879256902" longitude="55.542107" latitude="-50.82611"/>
 <marker id="526237708" label="Rune-keeper Trainer" category="42" did="1879256911" parentZoneId="1879256902" longitude="55.57668" latitude="-50.77537"/>
