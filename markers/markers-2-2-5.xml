@@ -13228,7 +13228,7 @@
 <marker id="576184345" label="Pile of Black Ash Wood" category="50" did="1879430423" parentZoneId="1879410817" longitude="-115.05577" latitude="-48.72981"/>
 <marker id="576184350" label="Stable-master" category="51" did="1879423252" parentZoneId="1879410817" longitude="-115.00709" latitude="-48.947166"/>
 <marker id="576184351" label="Relic-master" category="70" did="1879417111" parentZoneId="1879410817" longitude="-114.89819" latitude="-48.939777"/>
-<marker id="576184356" label="Gundabad Captain" category="71" did="1879417292" parentZoneId="1879410817" longitude="-115.012314" latitude="-48.612843"/>
+<marker id="576184356" label="Gundabad Captain" category="71" did="1879417292" parentZoneId="1879410817" longitude="-115.00175" latitude="-48.60567"/>
 <marker id="576184357" label="Gundabad Captain" category="71" did="1879417292" parentZoneId="1879410817" longitude="-114.98888" latitude="-48.612843"/>
 <marker id="576184367" label="Bounty: Gúrkug" category="73" did="1879419140" parentZoneId="1879410817" longitude="-115.069725" latitude="-48.97266"/>
 <marker id="576184368" label="Eskil Bloodthumb" category="70" did="1879415077" parentZoneId="1879410817" longitude="-115.56066" latitude="-48.58951"/>
@@ -13935,300 +13935,302 @@
 <marker id="576249882" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.198044" latitude="-48.595222"/>
 <marker id="576249883" label="Gundabad Defiler" category="71" did="1879417297" parentZoneId="1879410817" longitude="-114.638336" latitude="-48.995747"/>
 <marker id="576249884" label="Gundabad Defiler" category="71" did="1879417297" parentZoneId="1879410817" longitude="-114.638336" latitude="-48.9842"/>
-<marker id="576249921" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.10165" latitude="-49.131157"/>
-<marker id="576249922" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.62913" latitude="-48.583763"/>
-<marker id="576249923" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.62619" latitude="-49.186523"/>
-<marker id="576249924" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.29156" latitude="-48.88875"/>
-<marker id="576249925" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.06712" latitude="-48.93472"/>
-<marker id="576249926" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.305145" latitude="-49.057312"/>
-<marker id="576249927" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.44476" latitude="-49.052635"/>
-<marker id="576249928" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.64761" latitude="-48.875034"/>
-<marker id="576249929" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.733925" latitude="-48.446327"/>
-<marker id="576249930" label="Rhyolite" category="72" did="1879416783" parentZoneId="1879410817" longitude="-114.0667" latitude="-48.766846"/>
-<marker id="576249931" label="Sandstone" category="72" did="1879416777" parentZoneId="1879422012" longitude="-114.84236" latitude="-49.323383"/>
-<marker id="576249932" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.77511" latitude="-49.22126"/>
-<marker id="576249933" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.812485" latitude="-49.305202"/>
-<marker id="576249934" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.77961" latitude="-49.26796"/>
-<marker id="576249935" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.822685" latitude="-49.264915"/>
-<marker id="576249936" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.838806" latitude="-49.232197"/>
-<marker id="576249937" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.75308" latitude="-49.297104"/>
-<marker id="576249938" label="Mirror Mechanism" category="73" did="1879415248" parentZoneId="1879410817" longitude="-114.46349" latitude="-48.60555"/>
-<marker id="576249939" label="Mirror Mechanism" category="73" did="1879415249" parentZoneId="1879410817" longitude="-114.56585" latitude="-48.974144"/>
-<marker id="576249940" label="Troll-hoard Debris" category="73" did="1879415222" parentZoneId="1879422012" longitude="-114.699135" latitude="-49.327934"/>
-<marker id="576249941" label="Sealed Box" category="73" did="1879415215" parentZoneId="1879422012" longitude="-114.8139" latitude="-49.41593"/>
-<marker id="576249944" label="Hetbrúda" category="70" did="1879417775" parentZoneId="1879410817" longitude="-114.7162" latitude="-48.664783"/>
+<marker id="576249885" label="Gundabad Defiler" category="71" did="1879417297" parentZoneId="1879410817" longitude="-114.62962" latitude="-48.995747"/>
+<marker id="576249886" label="Gundabad Defiler" category="71" did="1879417297" parentZoneId="1879410817" longitude="-114.62962" latitude="-48.9842"/>
+<marker id="576249923" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.10165" latitude="-49.131157"/>
+<marker id="576249924" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.62913" latitude="-48.583763"/>
+<marker id="576249925" label="Basalt" category="72" did="1879416773" parentZoneId="1879410817" longitude="-114.62619" latitude="-49.186523"/>
+<marker id="576249926" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.29156" latitude="-48.88875"/>
+<marker id="576249927" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.06712" latitude="-48.93472"/>
+<marker id="576249928" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.305145" latitude="-49.057312"/>
+<marker id="576249929" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.44476" latitude="-49.052635"/>
+<marker id="576249930" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.64761" latitude="-48.875034"/>
+<marker id="576249931" label="Granite" category="72" did="1879416774" parentZoneId="1879410817" longitude="-114.733925" latitude="-48.446327"/>
+<marker id="576249932" label="Rhyolite" category="72" did="1879416783" parentZoneId="1879410817" longitude="-114.0667" latitude="-48.766846"/>
+<marker id="576249933" label="Sandstone" category="72" did="1879416777" parentZoneId="1879422012" longitude="-114.84236" latitude="-49.323383"/>
+<marker id="576249934" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.77511" latitude="-49.22126"/>
+<marker id="576249935" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.812485" latitude="-49.305202"/>
+<marker id="576249936" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.77961" latitude="-49.26796"/>
+<marker id="576249937" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.822685" latitude="-49.264915"/>
+<marker id="576249938" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.838806" latitude="-49.232197"/>
+<marker id="576249939" label="Limestone" category="72" did="1879416788" parentZoneId="1879422012" longitude="-114.75308" latitude="-49.297104"/>
+<marker id="576249940" label="Mirror Mechanism" category="73" did="1879415248" parentZoneId="1879410817" longitude="-114.46349" latitude="-48.60555"/>
+<marker id="576249941" label="Mirror Mechanism" category="73" did="1879415249" parentZoneId="1879410817" longitude="-114.56585" latitude="-48.974144"/>
+<marker id="576249942" label="Troll-hoard Debris" category="73" did="1879415222" parentZoneId="1879422012" longitude="-114.699135" latitude="-49.327934"/>
+<marker id="576249943" label="Sealed Box" category="73" did="1879415215" parentZoneId="1879422012" longitude="-114.8139" latitude="-49.41593"/>
+<marker id="576249944" label="Vâr Nuchur" category="74" did="1879417512" parentZoneId="1879410817" longitude="-114.31778" latitude="-48.635506"/>
 <marker id="576249945" label="Orc-orders" category="73" did="1879418162" parentZoneId="1879410817" longitude="-114.628075" latitude="-48.42612"/>
-<marker id="576249946" label="Vâr Nuchur" category="74" did="1879417512" parentZoneId="1879410817" longitude="-114.31778" latitude="-48.635506"/>
-<marker id="576249948" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.06714" latitude="-48.60918"/>
-<marker id="576249949" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.44692" latitude="-48.690643"/>
-<marker id="576249950" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.40968" latitude="-48.663002"/>
-<marker id="576249951" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.20204" latitude="-48.453262"/>
-<marker id="576249952" label="Plaque" category="73" did="1879418976" parentZoneId="1879410817" longitude="-114.18804" latitude="-48.809032"/>
-<marker id="576249954" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.31091" latitude="-48.472027"/>
-<marker id="576249955" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.3191" latitude="-48.462406"/>
-<marker id="576249956" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.34482" latitude="-48.471355"/>
-<marker id="576249957" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.3343" latitude="-48.475994"/>
-<marker id="576249958" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.338394" latitude="-48.467"/>
-<marker id="576249959" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.054596" latitude="-48.44434"/>
-<marker id="576249960" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.09188" latitude="-48.44528"/>
-<marker id="576249961" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.072914" latitude="-48.44949"/>
-<marker id="576249962" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.059845" latitude="-48.458763"/>
-<marker id="576249963" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.08484" latitude="-48.451668"/>
-<marker id="576249964" label="Orc Weapons Barrel" category="73" did="1879419163" parentZoneId="1879410817" longitude="-114.68668" latitude="-48.40495"/>
-<marker id="576249965" label="Dwarf Planter" category="73" did="1879419184" parentZoneId="1879410817" longitude="-114.195915" latitude="-48.669155"/>
+<marker id="576249946" label="Hetbrúda" category="70" did="1879417775" parentZoneId="1879410817" longitude="-114.7162" latitude="-48.664783"/>
+<marker id="576249950" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.06714" latitude="-48.60918"/>
+<marker id="576249951" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.44692" latitude="-48.690643"/>
+<marker id="576249952" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.40968" latitude="-48.663002"/>
+<marker id="576249953" label="Grodbog Mound" category="73" did="1879418146" parentZoneId="1879410817" longitude="-114.20204" latitude="-48.453262"/>
+<marker id="576249954" label="Plaque" category="73" did="1879418976" parentZoneId="1879410817" longitude="-114.18804" latitude="-48.809032"/>
+<marker id="576249956" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.31091" latitude="-48.472027"/>
+<marker id="576249957" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.3191" latitude="-48.462406"/>
+<marker id="576249958" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.34482" latitude="-48.471355"/>
+<marker id="576249959" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.3343" latitude="-48.475994"/>
+<marker id="576249960" label="Grodbog Hive" category="73" did="1879419153" parentZoneId="1879410817" longitude="-114.338394" latitude="-48.467"/>
+<marker id="576249961" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.054596" latitude="-48.44434"/>
+<marker id="576249962" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.09188" latitude="-48.44528"/>
+<marker id="576249963" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.072914" latitude="-48.44949"/>
+<marker id="576249964" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.059845" latitude="-48.458763"/>
+<marker id="576249965" label="Grodbog Hive" category="73" did="1879419154" parentZoneId="1879410817" longitude="-114.08484" latitude="-48.451668"/>
+<marker id="576249966" label="Orc Weapons Barrel" category="73" did="1879419163" parentZoneId="1879410817" longitude="-114.68668" latitude="-48.40495"/>
 <marker id="576249968" label="Dwarf Planter" category="73" did="1879419171" parentZoneId="1879410817" longitude="-114.4525" latitude="-48.535545"/>
-<marker id="576249972" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.59885" latitude="-48.940907"/>
-<marker id="576249973" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.58232" latitude="-48.946526"/>
-<marker id="576249974" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.58543" latitude="-48.970215"/>
-<marker id="576249975" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.2576" latitude="-48.743763"/>
-<marker id="576249976" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.24106" latitude="-48.74938"/>
-<marker id="576249977" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.24418" latitude="-48.77307"/>
-<marker id="576249978" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.10893" latitude="-48.909134"/>
-<marker id="576249979" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.0924" latitude="-48.91475"/>
-<marker id="576249980" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.09551" latitude="-48.938442"/>
-<marker id="576249981" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.108574" latitude="-48.927357"/>
-<marker id="576249982" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.60184" latitude="-48.96132"/>
-<marker id="576249983" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.25451" latitude="-48.763412"/>
-<marker id="576249996" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576249997" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576249998" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576249999" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250000" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250001" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250002" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250003" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250004" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250005" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250006" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250007" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
-<marker id="576250008" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250009" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250010" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250011" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250012" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250013" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250014" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250015" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250016" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250017" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250018" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250019" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
-<marker id="576250020" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250021" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250022" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250023" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250024" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250025" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250026" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250027" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250028" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250029" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250030" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250031" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
-<marker id="576250032" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250033" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250034" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250035" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250036" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250037" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250038" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250039" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250040" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250041" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250042" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250043" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
-<marker id="576250044" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250045" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250046" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250047" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250048" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250049" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250050" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250051" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250052" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250053" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250054" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250055" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
-<marker id="576250056" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250057" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250058" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250059" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250060" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250061" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250062" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250063" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250064" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250065" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250066" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250067" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
-<marker id="576250068" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250069" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250070" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250071" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250072" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250073" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250074" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250075" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250076" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250077" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250078" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250079" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
-<marker id="576250080" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250081" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250082" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250083" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250084" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250085" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250086" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250087" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250088" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250089" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250090" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250091" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
-<marker id="576250092" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250093" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250094" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250095" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250096" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250097" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250098" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250099" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250100" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250101" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250102" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250103" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
-<marker id="576250104" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250105" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250106" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250107" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250108" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250109" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250110" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250111" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250112" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250113" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250114" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250115" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
-<marker id="576250116" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250117" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250118" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250119" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250120" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250121" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250122" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250123" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250124" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250125" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250126" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250127" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
-<marker id="576250128" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250129" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250130" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250131" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250132" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250133" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250134" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250135" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250136" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250137" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250138" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250139" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
-<marker id="576250140" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250141" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250142" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250143" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250144" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250145" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250146" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250147" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250148" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250149" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250150" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250151" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
-<marker id="576250152" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250153" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250154" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250155" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250156" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250157" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250158" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250159" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250160" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250161" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250162" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250163" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
-<marker id="576250164" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250165" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250166" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250167" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250168" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250169" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
-<marker id="576250170" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250171" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250172" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250173" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250174" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250175" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
-<marker id="576250176" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250177" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250178" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250179" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250180" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250181" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
-<marker id="576250182" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250183" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250184" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250185" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250186" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250187" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
-<marker id="576250188" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250189" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250190" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250191" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250192" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250193" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
-<marker id="576250194" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250195" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250196" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250197" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250198" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250199" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
-<marker id="576250200" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250201" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250202" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250203" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250204" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250205" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
-<marker id="576250206" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250207" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250208" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250209" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250210" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250211" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
-<marker id="576250212" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250213" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250214" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250215" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250216" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250217" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
-<marker id="576250218" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250219" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250220" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250221" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250222" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250223" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
-<marker id="576250224" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250225" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250226" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250227" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250228" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250229" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
-<marker id="576250230" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
-<marker id="576250231" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
-<marker id="576250232" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
-<marker id="576250233" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
-<marker id="576250234" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
-<marker id="576250235" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576249969" label="Dwarf Planter" category="73" did="1879419184" parentZoneId="1879410817" longitude="-114.195915" latitude="-48.669155"/>
+<marker id="576249972" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.60184" latitude="-48.96132"/>
+<marker id="576249973" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.25451" latitude="-48.763412"/>
+<marker id="576249974" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.59885" latitude="-48.940907"/>
+<marker id="576249975" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.58232" latitude="-48.946526"/>
+<marker id="576249976" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.58543" latitude="-48.970215"/>
+<marker id="576249977" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.2576" latitude="-48.743763"/>
+<marker id="576249978" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.24106" latitude="-48.74938"/>
+<marker id="576249979" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.24418" latitude="-48.77307"/>
+<marker id="576249980" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.10893" latitude="-48.909134"/>
+<marker id="576249981" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.0924" latitude="-48.91475"/>
+<marker id="576249982" label="Gundabad Raider" category="71" did="1879419148" parentZoneId="1879410817" longitude="-114.09551" latitude="-48.938442"/>
+<marker id="576249983" label="Gundabad Raid-leader" category="71" did="1879419195" parentZoneId="1879410817" longitude="-114.108574" latitude="-48.927357"/>
+<marker id="576249998" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576249999" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250000" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250001" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250002" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250003" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250004" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250005" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250006" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250007" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250008" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250009" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.24057" latitude="-48.759556"/>
+<marker id="576250010" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250011" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250012" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250013" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250014" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250015" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250016" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250017" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250018" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250019" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250020" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250021" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.08016" latitude="-48.85376"/>
+<marker id="576250022" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250023" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250024" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250025" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250026" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250027" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250028" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250029" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250030" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250031" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250032" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250033" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.478004" latitude="-48.8714"/>
+<marker id="576250034" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250035" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250036" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250037" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250038" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250039" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250040" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250041" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250042" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250043" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250044" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250045" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.59411" latitude="-48.74393"/>
+<marker id="576250046" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250047" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250048" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250049" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250050" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250051" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250052" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250053" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250054" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250055" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250056" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250057" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.676384" latitude="-48.83912"/>
+<marker id="576250058" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250059" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250060" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250061" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250062" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250063" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250064" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250065" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250066" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250067" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250068" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250069" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.58245" latitude="-49.010937"/>
+<marker id="576250070" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250071" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250072" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250073" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250074" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250075" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250076" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250077" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250078" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250079" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250080" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250081" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.48857" latitude="-49.117523"/>
+<marker id="576250082" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250083" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250084" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250085" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250086" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250087" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250088" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250089" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250090" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250091" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250092" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250093" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.58217" latitude="-49.15707"/>
+<marker id="576250094" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250095" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250096" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250097" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250098" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250099" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250100" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250101" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250102" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250103" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250104" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250105" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.61245" latitude="-48.52232"/>
+<marker id="576250106" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250107" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250108" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250109" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250110" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250111" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250112" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250113" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250114" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250115" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250116" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250117" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.709274" latitude="-48.504105"/>
+<marker id="576250118" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250119" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250120" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250121" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250122" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250123" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250124" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250125" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250126" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250127" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250128" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250129" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.11412" latitude="-49.11956"/>
+<marker id="576250130" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250131" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250132" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250133" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250134" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250135" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250136" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250137" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250138" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250139" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250140" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250141" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.10491" latitude="-49.163223"/>
+<marker id="576250142" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250143" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250144" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250145" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250146" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250147" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250148" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250149" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250150" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250151" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250152" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250153" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.31143" latitude="-49.148163"/>
+<marker id="576250154" label="Mountain Bat" category="71" did="1879417205" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250155" label="Grodbog Hive-defender" category="71" did="1879417204" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250156" label="Glow-worm" category="71" did="1879417207" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250157" label="Mountain Deep-claw" category="71" did="1879417206" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250158" label="Cave-lizard" category="71" did="1879417203" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250159" label="Gundabad Stalker" category="71" did="1879417213" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250160" label="Grodbog Hive-queen" category="71" did="1879417212" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250161" label="Cave-beast Hurler" category="71" did="1879417214" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250162" label="Mountain Stone-claw" category="71" did="1879417209" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250163" label="Mountain Great-bat" category="71" did="1879417208" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250164" label="Cave-beast" category="71" did="1879417211" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250165" label="Grodbog Worker" category="71" did="1879417210" parentZoneId="1879410817" longitude="-114.315865" latitude="-48.91988"/>
+<marker id="576250166" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250167" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250168" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250169" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250170" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250171" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.728134" latitude="-48.52281"/>
+<marker id="576250172" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250173" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250174" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250175" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250176" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250177" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.62512" latitude="-48.55468"/>
+<marker id="576250178" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250179" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250180" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250181" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250182" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250183" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.56422" latitude="-49.1646"/>
+<marker id="576250184" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250185" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250186" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250187" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250188" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250189" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.57445" latitude="-49.049686"/>
+<marker id="576250190" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250191" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250192" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250193" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250194" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250195" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.71182" latitude="-48.743977"/>
+<marker id="576250196" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250197" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250198" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250199" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250200" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250201" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.53121" latitude="-48.84734"/>
+<marker id="576250202" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250203" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250204" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250205" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250206" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250207" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.32158" latitude="-48.871094"/>
+<marker id="576250208" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250209" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250210" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250211" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250212" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250213" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.18883" latitude="-48.72732"/>
+<marker id="576250214" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250215" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250216" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250217" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250218" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250219" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.07825" latitude="-48.927246"/>
+<marker id="576250220" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250221" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250222" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250223" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250224" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250225" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.28113" latitude="-49.093174"/>
+<marker id="576250226" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250227" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250228" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250229" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250230" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250231" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.10011" latitude="-49.146503"/>
+<marker id="576250232" label="Lizard" category="78" did="1879419332" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576250233" label="Cave Crawler" category="78" did="1879419335" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576250234" label="Deep-cricket" category="78" did="1879419329" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576250235" label="Cave Serpent" category="78" did="1879419331" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576250236" label="Cave Toad" category="78" did="1879419327" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
+<marker id="576250237" label="Cave Beetle" category="78" did="1879419336" parentZoneId="1879410817" longitude="-114.2949" latitude="-49.111176"/>
 <marker id="576253952" label="Gundabad Captain" category="71" did="1879417292" parentZoneId="1879410817" longitude="-114.51414" latitude="-48.37284"/>
 <marker id="576253953" label="Gundabad Warrior" category="71" did="1879417294" parentZoneId="1879410817" longitude="-114.6537" latitude="-48.287792"/>
 <marker id="576253954" label="Gundabad Stone-heaver" category="71" did="1879417291" parentZoneId="1879410817" longitude="-114.67432" latitude="-48.206936"/>
