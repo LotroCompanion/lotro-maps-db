@@ -375,7 +375,6 @@
 <marker id="379678737" label="Ongbúrz Defiler" category="70" did="1879094878" parentZoneId="1879102450" longitude="-68.68108" latitude="9.521318"/>
 <marker id="379678738" label="Tarkrip Quartermaster" category="70" did="1879063239" parentZoneId="1879102450" longitude="-68.9579" latitude="9.363183"/>
 <marker id="379678740" label="Malavin" category="70" did="1879063763" parentZoneId="1879102450" longitude="-68.6988" latitude="9.523838"/>
-<marker id="379678741" label="Sovairlë" category="70" did="1879085620" parentZoneId="1879102450" longitude="-68.689354" latitude="9.529336"/>
 <marker id="379678742" label="Ongbûrz Iron-troll" category="71" did="1879083102" parentZoneId="1879102450" longitude="-69.082695" latitude="9.406299"/>
 <marker id="379678747" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-68.53724" latitude="9.453886"/>
 <marker id="379678748" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-68.53724" latitude="9.453886"/>
@@ -386,125 +385,126 @@
 <marker id="379678756" label="Silver Hare" category="78" did="1879106530" parentZoneId="1879102450" longitude="-68.626884" latitude="9.461279"/>
 <marker id="379678757" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.8004" latitude="9.414082"/>
 <marker id="379678763" label="Nâdar" category="70" did="1879098013" parentZoneId="1879102450" longitude="-68.98657" latitude="9.299218"/>
-<marker id="379678767" label="Cinaid" category="70" did="1879063762" parentZoneId="1879102450" longitude="-68.68076" latitude="9.509951"/>
-<marker id="379678781" label="Winter Fox" category="78" did="1879106529" parentZoneId="1879102450" longitude="-68.49409" latitude="9.395566"/>
-<marker id="379678782" label="Silver Hare" category="78" did="1879106530" parentZoneId="1879102450" longitude="-68.49409" latitude="9.395566"/>
-<marker id="379678783" label="Winter Fox" category="78" did="1879106529" parentZoneId="1879102450" longitude="-68.98621" latitude="9.372002"/>
-<marker id="379678784" label="Silver Hare" category="78" did="1879106530" parentZoneId="1879102450" longitude="-68.98621" latitude="9.372002"/>
-<marker id="379678785" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
-<marker id="379678786" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
-<marker id="379678787" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
-<marker id="379678788" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
-<marker id="379678789" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
-<marker id="379678790" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
-<marker id="379678791" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
-<marker id="379678792" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
-<marker id="379678793" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
-<marker id="379678794" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
-<marker id="379678795" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
-<marker id="379678796" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
-<marker id="379678797" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
-<marker id="379678798" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
-<marker id="379678799" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
-<marker id="379678800" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
-<marker id="379678801" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
-<marker id="379678802" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
-<marker id="379678803" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
-<marker id="379678804" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
-<marker id="379678805" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
-<marker id="379678806" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
-<marker id="379678807" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
-<marker id="379678808" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
-<marker id="379678809" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
-<marker id="379678810" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
-<marker id="379678811" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
-<marker id="379678812" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
-<marker id="379678813" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678814" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678815" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678816" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678817" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678818" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678819" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678820" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678821" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678822" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
-<marker id="379678823" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678824" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678825" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678826" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678827" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678828" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678829" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678830" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678831" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678832" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
-<marker id="379678833" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678834" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678835" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678836" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678837" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678838" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678839" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678840" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678841" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678842" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
-<marker id="379678843" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678844" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678845" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678846" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678847" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678848" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678849" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678850" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678851" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678852" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
-<marker id="379678853" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678854" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678855" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678856" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678857" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678858" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678859" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678860" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678861" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678862" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
-<marker id="379678863" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678864" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678865" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678866" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678867" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678868" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678869" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678870" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678871" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678872" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
-<marker id="379678873" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678874" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678875" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678876" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678877" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678878" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678879" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678880" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678881" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678882" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
-<marker id="379678883" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678884" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678885" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678886" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678887" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678888" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678889" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678890" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678891" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678892" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
-<marker id="379678893" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-68.77221" latitude="9.519522"/>
-<marker id="379678894" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-68.77221" latitude="9.519522"/>
-<marker id="379678895" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-68.42265" latitude="9.230459"/>
-<marker id="379678896" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-68.42265" latitude="9.230459"/>
-<marker id="379678897" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-69.17644" latitude="9.683818"/>
-<marker id="379678898" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-69.17644" latitude="9.683818"/>
+<marker id="379678767" label="Sovairlë" category="70" did="1879085620" parentZoneId="1879102450" longitude="-68.689354" latitude="9.529336"/>
+<marker id="379678769" label="Cinaid" category="70" did="1879063762" parentZoneId="1879102450" longitude="-68.68076" latitude="9.509951"/>
+<marker id="379678785" label="Winter Fox" category="78" did="1879106529" parentZoneId="1879102450" longitude="-68.49409" latitude="9.395566"/>
+<marker id="379678786" label="Silver Hare" category="78" did="1879106530" parentZoneId="1879102450" longitude="-68.49409" latitude="9.395566"/>
+<marker id="379678787" label="Winter Fox" category="78" did="1879106529" parentZoneId="1879102450" longitude="-68.98621" latitude="9.372002"/>
+<marker id="379678788" label="Silver Hare" category="78" did="1879106530" parentZoneId="1879102450" longitude="-68.98621" latitude="9.372002"/>
+<marker id="379678789" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
+<marker id="379678790" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
+<marker id="379678791" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
+<marker id="379678792" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.6732" latitude="9.593018"/>
+<marker id="379678793" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
+<marker id="379678794" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
+<marker id="379678795" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
+<marker id="379678796" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-69.00816" latitude="9.283584"/>
+<marker id="379678797" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
+<marker id="379678798" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
+<marker id="379678799" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
+<marker id="379678800" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.715225" latitude="9.210625"/>
+<marker id="379678801" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
+<marker id="379678802" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
+<marker id="379678803" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
+<marker id="379678804" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.788055" latitude="9.691973"/>
+<marker id="379678805" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
+<marker id="379678806" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
+<marker id="379678807" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
+<marker id="379678808" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.96789" latitude="9.740078"/>
+<marker id="379678809" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
+<marker id="379678810" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
+<marker id="379678811" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
+<marker id="379678812" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.41134" latitude="9.991865"/>
+<marker id="379678813" label="Ancient Iron Deposit" category="50" did="1879080464" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
+<marker id="379678814" label="Ancient Silver Deposit" category="50" did="1879080465" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
+<marker id="379678815" label="Rich Ancient Silver Deposit" category="50" did="1879087937" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
+<marker id="379678816" label="Rich Ancient Iron Deposit" category="50" did="1879087930" parentZoneId="1879102450" longitude="-68.80911" latitude="9.281572"/>
+<marker id="379678817" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678818" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678819" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678820" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678821" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678822" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678823" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678824" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678825" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678826" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-69.11927" latitude="9.45331"/>
+<marker id="379678827" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678828" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678829" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678830" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678831" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678832" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678833" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678834" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678835" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678836" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-69.10815" latitude="9.319062"/>
+<marker id="379678837" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678838" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678839" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678840" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678841" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678842" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678843" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678844" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678845" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678846" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.93403" latitude="9.480381"/>
+<marker id="379678847" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678848" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678849" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678850" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678851" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678852" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678853" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678854" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678855" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678856" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.80156" latitude="9.304004"/>
+<marker id="379678857" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678858" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678859" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678860" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678861" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678862" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678863" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678864" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678865" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678866" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.64332" latitude="9.277314"/>
+<marker id="379678867" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678868" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678869" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678870" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678871" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678872" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678873" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678874" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678875" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678876" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.48372" latitude="9.595957"/>
+<marker id="379678877" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678878" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678879" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678880" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678881" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678882" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678883" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678884" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678885" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678886" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.670456" latitude="9.470439"/>
+<marker id="379678887" label="Snow-mantle Cow" category="71" did="1879104160" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678888" label="Gauradan Raider" category="71" did="1879104208" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678889" label="Bleak Grim" category="71" did="1879107857" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678890" label="Gauradan Wanderer" category="71" did="1879104209" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678891" label="Great Hoary Aurochs" category="71" did="1879110114" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678892" label="Shaggy Bull Frost-antler" category="71" did="1879134181" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678893" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678894" label="Shaggy Frost-antler" category="71" did="1879104167" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678895" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678896" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.49009" latitude="9.264619"/>
+<marker id="379678897" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-68.77221" latitude="9.519522"/>
+<marker id="379678898" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-68.77221" latitude="9.519522"/>
+<marker id="379678899" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-68.42265" latitude="9.230459"/>
+<marker id="379678900" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-68.42265" latitude="9.230459"/>
+<marker id="379678901" label="Branek" category="71" did="1879106601" parentZoneId="1879102450" longitude="-69.17644" latitude="9.683818"/>
+<marker id="379678902" label="Kurja-rakki" category="71" did="1879107887" parentZoneId="1879102450" longitude="-69.17644" latitude="9.683818"/>
 <marker id="379682816" label="Savage Kalpa-kita" category="71" did="1879106535" parentZoneId="1879102450" longitude="-68.82603" latitude="10.320879"/>
 <marker id="379682817" label="Kalpa-kita Tracker" category="71" did="1879106536" parentZoneId="1879102450" longitude="-68.82603" latitude="10.320879"/>
 <marker id="379682818" label="Snow-mantle Bull" category="71" did="1879106537" parentZoneId="1879102450" longitude="-68.82603" latitude="10.320879"/>

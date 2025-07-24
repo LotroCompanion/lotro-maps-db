@@ -281,10 +281,10 @@
 </map>
 <map id="268444443" name="Enedwaith" imageId="1091584420">
 <geo factor="30.000002">
-<point longitude="-35.899998" latitude="-53.86667"/>
+<point longitude="-35.899998" latitude="-53.199997"/>
 </geo>
-<min longitude="-35.899998" latitude="-79.46667"/>
-<max longitude="-1.7666664" latitude="-53.86667"/>
+<min longitude="-35.899998" latitude="-78.799995"/>
+<max longitude="-1.7666664" latitude="-53.199997"/>
 </map>
 <map id="268445087" name="Northern Barrow-downs" imageId="1091610689">
 <geo factor="211.99998">
@@ -10295,5 +10295,82 @@
 </geo>
 <min longitude="49.82" latitude="67.89666"/>
 <max longitude="55.15333" latitude="71.89666"/>
+</map>
+<map id="1879506394" name="The Underseaths" imageId="1093030365">
+<geo factor="300.0">
+<point longitude="49.69334" latitude="-62.93"/>
+</geo>
+<min longitude="49.69334" latitude="-66.93"/>
+<max longitude="55.026672" latitude="-62.93"/>
+</map>
+<map id="1879506395" name="TBD - AN SHERU INSTANCE" imageId="1093030366">
+<geo factor="300.0">
+<point longitude="-147.06667" latitude="65.67666"/>
+</geo>
+<min longitude="-147.06667" latitude="61.67666"/>
+<max longitude="-141.73334" latitude="65.67666"/>
+</map>
+<map id="1879507060" name="TBD - ADAGIM RAID - LOBBY" imageId="1093033166">
+<geo factor="600.0">
+<point longitude="-145.06667" latitude="63.421658"/>
+</geo>
+<min longitude="-145.06667" latitude="62.421658"/>
+<max longitude="-143.73334" latitude="63.421658"/>
+</map>
+<map id="1879507528" name="TBD - ADAGIM RAID - WING 1" imageId="1093034558">
+<geo factor="600.0">
+<point longitude="-145.24667" latitude="61.67666"/>
+</geo>
+<min longitude="-145.24667" latitude="59.67666"/>
+<max longitude="-142.58" latitude="61.67666"/>
+</map>
+<map id="1879507556" name="The Understaddle" imageId="1093033523">
+<geo factor="600.00006">
+<point longitude="52.77834" latitude="-111.846664"/>
+</geo>
+<min longitude="52.77834" latitude="-112.846664"/>
+<max longitude="54.11167" latitude="-111.846664"/>
+</map>
+<map id="1879507580" name="TBD - ADAGIM RAID - WING 3" imageId="1093033570">
+<geo factor="300.0">
+<point longitude="-147.06667" latitude="61.226658"/>
+</geo>
+<min longitude="-147.06667" latitude="57.226658"/>
+<max longitude="-141.73334" latitude="61.226658"/>
+</map>
+<map id="1879507793" name="TBD - ADAGIM RAID - WING 4" imageId="1093034557">
+<geo factor="600.0">
+<point longitude="-145.58333" latitude="58.55"/>
+</geo>
+<min longitude="-145.58333" latitude="56.55"/>
+<max longitude="-142.91666" latitude="58.55"/>
+</map>
+<map id="1879508687" name="TBD - AN SHERU DIVE BAR" imageId="1093038727">
+<geo factor="600.0">
+<point longitude="-145.06166" latitude="56.88334"/>
+</geo>
+<min longitude="-145.06166" latitude="55.88334"/>
+<max longitude="-143.72833" latitude="56.88334"/>
+</map>
+<map id="1879508688" name="TBD - DWARF TOMB" imageId="1093038726">
+<geo factor="600.00006">
+<point longitude="-145.06667" latitude="55.449997"/>
+</geo>
+<min longitude="-145.06667" latitude="54.449997"/>
+<max longitude="-143.73334" latitude="55.449997"/>
+</map>
+<map id="1879508829" name="TBD - JIRET-MENESH" imageId="1093039490">
+<geo factor="600.0">
+<point longitude="-145.06667" latitude="54.0"/>
+</geo>
+<min longitude="-145.06667" latitude="53.0"/>
+<max longitude="-143.73334" latitude="54.0"/>
+</map>
+<map id="1879509384" name="TBD - ADAGIM RAID - WING 2" imageId="1093040650">
+<geo factor="600.0">
+<point longitude="-144.80667" latitude="63.875"/>
+</geo>
+<min longitude="-144.80667" latitude="61.875"/>
+<max longitude="-142.14" latitude="63.875"/>
 </map>
 </maps>

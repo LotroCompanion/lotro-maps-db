@@ -5017,7 +5017,6 @@
 <marker id="428716110" label="Shadowmaw Pack-leader" category="71" did="1879492825" parentZoneId="1879158614" longitude="-20.729326" latitude="-13.000859"/>
 <marker id="428720128" label="Tarkrip Quartermaster" category="38" did="1879063239" parentZoneId="1879158614" longitude="-20.94746" latitude="-12.346621"/>
 <marker id="428720129" label="Gramsfoot" category="43" did="1879063761" parentZoneId="1879158614" longitude="-20.902021" latitude="-12.210996"/>
-<marker id="428720130" label="Sovairlë&#10;Tribal Scrivener" category="38" did="1879085620" parentZoneId="1879158614" longitude="-20.730234" latitude="-12.288984"/>
 <marker id="428720131" label="Ongbúrz Defiler&#10;Breaker of Oaths" category="38" did="1879094878" parentZoneId="1879158614" longitude="-20.728329" latitude="-12.307451"/>
 <marker id="428720132" label="Tûzantar" category="58" did="1879098016" parentZoneId="1879158614" longitude="-20.80702" latitude="-11.827402"/>
 <marker id="428720133" label="Falgashud" category="58" did="1879098012" parentZoneId="1879158614" longitude="-20.78453" latitude="-11.828047"/>
@@ -5075,28 +5074,29 @@
 <marker id="428720226" label="Krahjarn Felarrow" category="71" did="1879084124" parentZoneId="1879158614" longitude="-21.05619" latitude="-12.351523"/>
 <marker id="428720227" label="Ongbúrz Archer" category="70" did="1879084125" parentZoneId="1879158614" longitude="-20.731981" latitude="-12.048838"/>
 <marker id="428720228" label="Ongbúrz Taskmaster" category="70" did="1879084128" parentZoneId="1879158614" longitude="-20.70377" latitude="-12.026826"/>
-<marker id="428720257" label="Taskmaster Sharkúlob" category="71" did="1879092095" parentZoneId="1879158614" longitude="-21.070322" latitude="-12.266045"/>
-<marker id="428720260" label="Soldier Búzog" category="71" did="1879204336" parentZoneId="1879158614" longitude="-20.910498" latitude="-12.248847"/>
-<marker id="428720261" label="Task-master Forzunk" category="71" did="1879108261" parentZoneId="1879158614" longitude="-20.849823" latitude="-12.245762"/>
-<marker id="428720264" label="War-tyrant Akúlhun" category="71" did="1879080651" parentZoneId="1879158614" longitude="-20.883154" latitude="-12.242881"/>
-<marker id="428720265" label="Dagalúr&#10;Monster Player Trainer" category="42" did="1879203539" parentZoneId="1879158614" longitude="-20.758535" latitude="-11.861416"/>
-<marker id="428720266" label="Ashrokil&#10;Corruptor of Gramsfoot" category="54" did="1879203483" parentZoneId="1879158614" longitude="-20.758095" latitude="-11.84042"/>
-<marker id="428720267" label="Durglob&#10;Mithril Vendor" category="58" did="1879203442" parentZoneId="1879158614" longitude="-20.796024" latitude="-11.835732"/>
-<marker id="428720268" label="Uglash" category="70" did="1879080644" parentZoneId="1879158614" longitude="-20.886816" latitude="-12.300869"/>
-<marker id="428720269" label="Gruglok&#10;Monster Player Trainer" category="42" did="1879203537" parentZoneId="1879158614" longitude="-20.561699" latitude="-12.116875"/>
-<marker id="428720270" label="Zagfra&#10;Corruptor of Gramsfoot" category="54" did="1879203482" parentZoneId="1879158614" longitude="-20.5546" latitude="-12.155635"/>
-<marker id="428720271" label="Hoitgoth&#10;Mithril Vendor" category="58" did="1879203441" parentZoneId="1879158614" longitude="-20.630985" latitude="-12.195058"/>
-<marker id="428720277" label="Fathrug, Tarkríp Emissary" category="71" did="1879453280" parentZoneId="1879158614" longitude="-20.595215" latitude="-11.951582"/>
-<marker id="428720278" label="Darhut, Ongburz Emissary" category="71" did="1879453282" parentZoneId="1879158614" longitude="-20.698975" latitude="-11.893906"/>
-<marker id="428720282" label="Ushgrat, Krahjarn Emissary" category="71" did="1879453275" parentZoneId="1879158614" longitude="-20.608223" latitude="-11.961288"/>
-<marker id="428720283" label="Nakargar" category="71" did="1879453276" parentZoneId="1879158614" longitude="-20.64916" latitude="-12.005254"/>
-<marker id="428720284" label="Malavin" category="71" did="1879453133" parentZoneId="1879158614" longitude="-20.61955" latitude="-11.887539"/>
-<marker id="428720285" label="Grathún, Blogmal Emissary" category="71" did="1879453278" parentZoneId="1879158614" longitude="-20.633125" latitude="-11.993066"/>
-<marker id="428720286" label="Sárkafsog" category="71" did="1879453277" parentZoneId="1879158614" longitude="-20.743174" latitude="-11.932558"/>
-<marker id="428720287" label="Ufdrágh, White Hand Emissary" category="71" did="1879453279" parentZoneId="1879158614" longitude="-20.705635" latitude="-11.967998"/>
-<marker id="428720292" label="Nâdar&#10;Potions Trader" category="58" did="1879098013" parentZoneId="1879158614" longitude="-20.783085" latitude="-12.363144"/>
-<marker id="428720332" label="Odd Little Sapling" category="73" did="1879464659" parentZoneId="1879158614" longitude="-20.718105" latitude="-12.357031"/>
+<marker id="428720256" label="Taskmaster Sharkúlob" category="71" did="1879092095" parentZoneId="1879158614" longitude="-21.070322" latitude="-12.266045"/>
+<marker id="428720260" label="Task-master Forzunk" category="71" did="1879108261" parentZoneId="1879158614" longitude="-20.849823" latitude="-12.245762"/>
+<marker id="428720261" label="Soldier Búzog" category="71" did="1879204336" parentZoneId="1879158614" longitude="-20.910498" latitude="-12.248847"/>
+<marker id="428720263" label="War-tyrant Akúlhun" category="71" did="1879080651" parentZoneId="1879158614" longitude="-20.883154" latitude="-12.242881"/>
+<marker id="428720264" label="Dagalúr&#10;Monster Player Trainer" category="42" did="1879203539" parentZoneId="1879158614" longitude="-20.758535" latitude="-11.861416"/>
+<marker id="428720265" label="Ashrokil&#10;Corruptor of Gramsfoot" category="54" did="1879203483" parentZoneId="1879158614" longitude="-20.758095" latitude="-11.84042"/>
+<marker id="428720266" label="Durglob&#10;Mithril Vendor" category="58" did="1879203442" parentZoneId="1879158614" longitude="-20.796024" latitude="-11.835732"/>
+<marker id="428720268" label="Gruglok&#10;Monster Player Trainer" category="42" did="1879203537" parentZoneId="1879158614" longitude="-20.561699" latitude="-12.116875"/>
+<marker id="428720269" label="Zagfra&#10;Corruptor of Gramsfoot" category="54" did="1879203482" parentZoneId="1879158614" longitude="-20.5546" latitude="-12.155635"/>
+<marker id="428720270" label="Hoitgoth&#10;Mithril Vendor" category="58" did="1879203441" parentZoneId="1879158614" longitude="-20.630985" latitude="-12.195058"/>
+<marker id="428720271" label="Uglash" category="70" did="1879080644" parentZoneId="1879158614" longitude="-20.886816" latitude="-12.300869"/>
+<marker id="428720277" label="Darhut, Ongburz Emissary" category="71" did="1879453282" parentZoneId="1879158614" longitude="-20.698975" latitude="-11.893906"/>
+<marker id="428720281" label="Ushgrat, Krahjarn Emissary" category="71" did="1879453275" parentZoneId="1879158614" longitude="-20.608223" latitude="-11.961288"/>
+<marker id="428720282" label="Nakargar" category="71" did="1879453276" parentZoneId="1879158614" longitude="-20.64916" latitude="-12.005254"/>
+<marker id="428720283" label="Malavin" category="71" did="1879453133" parentZoneId="1879158614" longitude="-20.61955" latitude="-11.887539"/>
+<marker id="428720284" label="Grathún, Blogmal Emissary" category="71" did="1879453278" parentZoneId="1879158614" longitude="-20.633125" latitude="-11.993066"/>
+<marker id="428720285" label="Sárkafsog" category="71" did="1879453277" parentZoneId="1879158614" longitude="-20.743174" latitude="-11.932558"/>
+<marker id="428720286" label="Ufdrágh, White Hand Emissary" category="71" did="1879453279" parentZoneId="1879158614" longitude="-20.705635" latitude="-11.967998"/>
+<marker id="428720287" label="Fathrug, Tarkríp Emissary" category="71" did="1879453280" parentZoneId="1879158614" longitude="-20.595215" latitude="-11.951582"/>
+<marker id="428720291" label="Nâdar&#10;Potions Trader" category="58" did="1879098013" parentZoneId="1879158614" longitude="-20.783085" latitude="-12.363144"/>
+<marker id="428720317" label="Sovairlë&#10;Tribal Scrivener" category="38" did="1879085620" parentZoneId="1879158614" longitude="-20.730234" latitude="-12.288984"/>
 <marker id="428720333" label="Cinaid&#10;Corruptor of Gramsfoot" category="54" did="1879063762" parentZoneId="1879158614" longitude="-20.718105" latitude="-12.357031"/>
+<marker id="428720334" label="Odd Little Sapling" category="73" did="1879464659" parentZoneId="1879158614" longitude="-20.718105" latitude="-12.357031"/>
 <marker id="428724224" label="Gramsfoot" category="74" did="1879063761" parentZoneId="1879158614" longitude="-21.02542" latitude="-11.569199"/>
 <marker id="428724225" label="Eregion Troll Session Bestower" category="71" did="1879154362" parentZoneId="1879158614" longitude="-21.13706" latitude="-11.200479"/>
 <marker id="428724226" label="Eregion Invasion Bestower" category="71" did="1879154561" parentZoneId="1879158614" longitude="-21.086142" latitude="-11.20249"/>
@@ -5113,159 +5113,160 @@
 <marker id="428740619" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.833193" latitude="-20.449541"/>
 <marker id="428740620" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.833193" latitude="-20.449541"/>
 <marker id="428744704" label="Hoarhallow" category="43" did="1879063766" parentZoneId="1879063993" longitude="-20.01375" latitude="-19.84575"/>
-<marker id="428744705" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.26415" latitude="-19.799452"/>
-<marker id="428744706" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.03079" latitude="-19.93458"/>
-<marker id="428744707" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.03079" latitude="-19.93458"/>
-<marker id="428744709" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.346972" latitude="-19.723984"/>
-<marker id="428744710" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.337324" latitude="-19.74168"/>
-<marker id="428744712" label="Brittleleaf Sprout" category="72" did="1879082997" parentZoneId="1879063993" longitude="-20.05203" latitude="-20.232851"/>
-<marker id="428744726" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.341972" latitude="-19.718985"/>
-<marker id="428744727" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.39081" latitude="-20.210215"/>
-<marker id="428744728" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.732119" latitude="-20.257471"/>
-<marker id="428744729" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.027714" latitude="-19.844727"/>
-<marker id="428744730" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.332323" latitude="-19.73668"/>
-<marker id="428744731" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.293144" latitude="-19.960478"/>
-<marker id="428744732" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.288143" latitude="-19.97578"/>
-<marker id="428744733" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.385878" latitude="-20.215567"/>
-<marker id="428744734" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.725527" latitude="-20.255108"/>
-<marker id="428744735" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.995556" latitude="-19.849716"/>
-<marker id="428744736" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.016464" latitude="-19.823769"/>
-<marker id="428744737" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.328115" latitude="-20.17875"/>
-<marker id="428744738" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.951485" latitude="-19.71792"/>
-<marker id="428744739" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.971884" latitude="-19.729208"/>
-<marker id="428744740" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.894785" latitude="-19.742363"/>
-<marker id="428744741" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.944902" latitude="-19.794853"/>
-<marker id="428744742" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.320782" latitude="-20.18538"/>
-<marker id="428744755" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.011944" latitude="-19.823612"/>
-<marker id="428744756" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.950253" latitude="-19.714111"/>
-<marker id="428744757" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.970654" latitude="-19.725399"/>
-<marker id="428744758" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.943672" latitude="-19.791044"/>
-<marker id="428744759" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.893555" latitude="-19.738554"/>
-<marker id="428744760" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.77587" latitude="-20.244814"/>
-<marker id="428744761" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.770868" latitude="-20.186201"/>
-<marker id="428744762" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.389883" latitude="-20.178974"/>
-<marker id="428744763" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.33375" latitude="-20.18125"/>
-<marker id="428744764" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.294775" latitude="-19.905254"/>
-<marker id="428744765" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.087118" latitude="-19.824854"/>
-<marker id="428744766" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.773544" latitude="-20.249725"/>
-<marker id="428744767" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.768545" latitude="-20.191103"/>
-<marker id="428744768" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.382559" latitude="-20.185604"/>
-<marker id="428744769" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.326426" latitude="-20.18788"/>
-<marker id="428744770" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.014502" latitude="-19.824121"/>
-<marker id="428744771" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.969912" latitude="-19.796045"/>
-<marker id="428744772" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.948603" latitude="-19.713877"/>
-<marker id="428744773" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.989706" latitude="-19.728613"/>
-<marker id="428744774" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.293066" latitude="-19.900879"/>
-<marker id="428744775" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.736141" latitude="-20.229258"/>
-<marker id="428744776" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.054111" latitude="-20.233223"/>
-<marker id="428744777" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.394882" latitude="-20.212872"/>
-<marker id="428744778" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.864834" latitude="-19.91452"/>
-<marker id="428744779" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.088614" latitude="-19.824276"/>
-<marker id="428744780" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.12244" latitude="-19.724062"/>
-<marker id="428744781" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.299551" latitude="-19.903906"/>
-<marker id="428744782" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.741396" latitude="-20.246836"/>
-<marker id="428744783" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.105225" latitude="-20.233223"/>
-<marker id="428744784" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.387558" latitude="-20.219501"/>
-<marker id="428744786" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.691757" latitude="-20.309238"/>
-<marker id="428744825" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.03911" latitude="-19.613564"/>
-<marker id="428744826" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-19.653925" latitude="-19.612665"/>
-<marker id="428744827" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.06038" latitude="-20.092216"/>
-<marker id="428744828" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.332157" latitude="-20.280596"/>
-<marker id="428744832" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.016317" latitude="-19.977245"/>
-<marker id="428744833" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.016758" latitude="-19.974648"/>
-<marker id="428744834" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.923632" latitude="-19.81998"/>
-<marker id="428744835" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.987108" latitude="-19.981571"/>
-<marker id="428744836" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.089296" latitude="-19.809452"/>
-<marker id="428744837" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.970303" latitude="-19.720781"/>
-<marker id="428744838" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.859648" latitude="-19.734911"/>
-<marker id="428744839" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.325146" latitude="-19.903818"/>
-<marker id="428744840" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.277685" latitude="-19.876268"/>
-<marker id="428744841" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.347393" latitude="-19.68253"/>
-<marker id="428744842" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.336689" latitude="-20.079268"/>
-<marker id="428744843" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.326445" latitude="-20.162354"/>
-<marker id="428744844" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.81871" latitude="-20.142635"/>
-<marker id="428744845" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76961" latitude="-20.17996"/>
-<marker id="428744846" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76787" latitude="-20.258427"/>
-<marker id="428744847" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.819706" latitude="-20.259678"/>
-<marker id="428744848" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.086786" latitude="-19.80585"/>
-<marker id="428744849" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.91994" latitude="-19.81498"/>
-<marker id="428744850" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.969404" latitude="-19.717958"/>
-<marker id="428744851" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.856934" latitude="-19.729912"/>
-<marker id="428744852" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.764608" latitude="-20.182724"/>
-<marker id="428744853" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76287" latitude="-20.257675"/>
-<marker id="428744854" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.823906" latitude="-20.256542"/>
-<marker id="428744855" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.81461" latitude="-20.14246"/>
-<marker id="428744856" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.336329" latitude="-20.079931"/>
-<marker id="428744857" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.328016" latitude="-20.159052"/>
-<marker id="428744858" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.320147" latitude="-19.908047"/>
-<marker id="428744859" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.277851" latitude="-19.877285"/>
-<marker id="428744862" label="Ned Claybrick" category="71" did="1879082996" parentZoneId="1879063993" longitude="-19.72328" latitude="-20.27002"/>
-<marker id="428744864" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.938602" latitude="-19.728516"/>
-<marker id="428744865" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.938602" latitude="-19.728516"/>
-<marker id="428744866" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.996855" latitude="-19.808516"/>
-<marker id="428744867" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.996855" latitude="-19.808516"/>
-<marker id="428744868" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.16707" latitude="-20.19999"/>
-<marker id="428744869" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.16707" latitude="-20.19999"/>
-<marker id="428744870" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.005917" latitude="-20.233984"/>
-<marker id="428744871" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.005917" latitude="-20.233984"/>
-<marker id="428744872" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.878994" latitude="-19.903906"/>
-<marker id="428744873" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.878994" latitude="-19.903906"/>
-<marker id="428744874" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.071445" latitude="-19.855751"/>
-<marker id="428744875" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.071445" latitude="-19.855751"/>
-<marker id="428744876" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.803036" latitude="-20.214706"/>
-<marker id="428744877" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.803036" latitude="-20.214706"/>
-<marker id="428744878" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.823671" latitude="-20.16456"/>
-<marker id="428744879" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.823671" latitude="-20.16456"/>
-<marker id="428744880" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.25867" latitude="-19.94622"/>
-<marker id="428744881" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.25867" latitude="-19.94622"/>
-<marker id="428744882" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.362793" latitude="-20.192793"/>
-<marker id="428744883" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.362793" latitude="-20.192793"/>
-<marker id="428744884" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.110897" latitude="-19.73373"/>
-<marker id="428744885" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.110897" latitude="-19.73373"/>
-<marker id="428744886" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.801933" latitude="-19.916142"/>
-<marker id="428744887" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.801933" latitude="-19.916142"/>
-<marker id="428744888" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.850536" latitude="-19.81832"/>
-<marker id="428744889" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.850536" latitude="-19.81832"/>
-<marker id="428744890" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.761513" latitude="-19.68418"/>
-<marker id="428744891" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.761513" latitude="-19.68418"/>
-<marker id="428744892" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.010098" latitude="-19.753897"/>
-<marker id="428744893" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.010098" latitude="-19.753897"/>
-<marker id="428744894" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.163193" latitude="-19.768223"/>
-<marker id="428744895" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.163193" latitude="-19.768223"/>
-<marker id="428744896" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.241943" latitude="-19.986288"/>
-<marker id="428744897" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.241943" latitude="-19.986288"/>
-<marker id="428744898" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.099834" latitude="-20.19123"/>
-<marker id="428744899" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.099834" latitude="-20.19123"/>
-<marker id="428744900" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.051474" latitude="-20.24286"/>
-<marker id="428744901" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.051474" latitude="-20.24286"/>
-<marker id="428744902" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.113173" latitude="-20.242"/>
-<marker id="428744903" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.113173" latitude="-20.242"/>
-<marker id="428744904" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.05497" latitude="-20.187391"/>
-<marker id="428744905" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.05497" latitude="-20.187391"/>
-<marker id="428744906" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.866055" latitude="-20.210419"/>
-<marker id="428744907" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.866055" latitude="-20.210419"/>
-<marker id="428744908" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.695663" latitude="-20.190224"/>
-<marker id="428744909" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.695663" latitude="-20.190224"/>
-<marker id="428744910" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.956268" latitude="-19.970694"/>
-<marker id="428744911" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.956268" latitude="-19.970694"/>
-<marker id="428744912" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.82661" latitude="-20.099413"/>
-<marker id="428744913" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.82661" latitude="-20.099413"/>
-<marker id="428744914" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.852655" latitude="-20.316963"/>
-<marker id="428744915" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.852655" latitude="-20.316963"/>
-<marker id="428744916" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.93787" latitude="-20.379082"/>
-<marker id="428744917" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.93787" latitude="-20.379082"/>
-<marker id="428744918" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.261757" latitude="-20.224277"/>
-<marker id="428744919" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.261757" latitude="-20.224277"/>
-<marker id="428744920" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.342342" latitude="-20.200487"/>
-<marker id="428744921" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.342342" latitude="-20.200487"/>
-<marker id="428744922" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.285225" latitude="-20.022158"/>
-<marker id="428744923" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.285225" latitude="-20.022158"/>
-<marker id="428744924" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.175478" latitude="-19.710732"/>
-<marker id="428744925" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.175478" latitude="-19.710732"/>
-<marker id="428744926" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.232714" latitude="-19.612314"/>
-<marker id="428744927" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.232714" latitude="-19.612314"/>
-<marker id="428744928" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
-<marker id="428744929" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
+<marker id="428744705" label="Wilmac Loaming" category="71" did="1879506312" parentZoneId="1879063993" longitude="-20.133905" latitude="-20.052715"/>
+<marker id="428744706" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.26415" latitude="-19.799452"/>
+<marker id="428744707" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.03079" latitude="-19.93458"/>
+<marker id="428744708" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.03079" latitude="-19.93458"/>
+<marker id="428744710" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.346972" latitude="-19.723984"/>
+<marker id="428744711" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.337324" latitude="-19.74168"/>
+<marker id="428744713" label="Brittleleaf Sprout" category="72" did="1879082997" parentZoneId="1879063993" longitude="-20.05203" latitude="-20.232851"/>
+<marker id="428744727" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.341972" latitude="-19.718985"/>
+<marker id="428744728" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.39081" latitude="-20.210215"/>
+<marker id="428744729" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.732119" latitude="-20.257471"/>
+<marker id="428744730" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-20.027714" latitude="-19.844727"/>
+<marker id="428744731" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.332323" latitude="-19.73668"/>
+<marker id="428744732" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.293144" latitude="-19.960478"/>
+<marker id="428744733" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.288143" latitude="-19.97578"/>
+<marker id="428744734" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-20.385878" latitude="-20.215567"/>
+<marker id="428744735" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.725527" latitude="-20.255108"/>
+<marker id="428744736" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.995556" latitude="-19.849716"/>
+<marker id="428744737" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.016464" latitude="-19.823769"/>
+<marker id="428744738" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.328115" latitude="-20.17875"/>
+<marker id="428744739" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.951485" latitude="-19.71792"/>
+<marker id="428744740" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.971884" latitude="-19.729208"/>
+<marker id="428744741" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.894785" latitude="-19.742363"/>
+<marker id="428744742" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.944902" latitude="-19.794853"/>
+<marker id="428744743" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.320782" latitude="-20.18538"/>
+<marker id="428744756" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.011944" latitude="-19.823612"/>
+<marker id="428744757" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.950253" latitude="-19.714111"/>
+<marker id="428744758" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.970654" latitude="-19.725399"/>
+<marker id="428744759" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.943672" latitude="-19.791044"/>
+<marker id="428744760" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.893555" latitude="-19.738554"/>
+<marker id="428744761" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.77587" latitude="-20.244814"/>
+<marker id="428744762" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.770868" latitude="-20.186201"/>
+<marker id="428744763" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.389883" latitude="-20.178974"/>
+<marker id="428744764" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.33375" latitude="-20.18125"/>
+<marker id="428744765" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.294775" latitude="-19.905254"/>
+<marker id="428744766" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.087118" latitude="-19.824854"/>
+<marker id="428744767" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.773544" latitude="-20.249725"/>
+<marker id="428744768" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.768545" latitude="-20.191103"/>
+<marker id="428744769" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.382559" latitude="-20.185604"/>
+<marker id="428744770" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.326426" latitude="-20.18788"/>
+<marker id="428744771" label="Soldier Gazfríb" category="71" did="1879204032" parentZoneId="1879063993" longitude="-20.014502" latitude="-19.824121"/>
+<marker id="428744772" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.969912" latitude="-19.796045"/>
+<marker id="428744773" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.948603" latitude="-19.713877"/>
+<marker id="428744774" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.989706" latitude="-19.728613"/>
+<marker id="428744775" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.293066" latitude="-19.900879"/>
+<marker id="428744776" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.736141" latitude="-20.229258"/>
+<marker id="428744777" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.054111" latitude="-20.233223"/>
+<marker id="428744778" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.394882" latitude="-20.212872"/>
+<marker id="428744779" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.864834" latitude="-19.91452"/>
+<marker id="428744780" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.088614" latitude="-19.824276"/>
+<marker id="428744781" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.12244" latitude="-19.724062"/>
+<marker id="428744782" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.299551" latitude="-19.903906"/>
+<marker id="428744783" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.741396" latitude="-20.246836"/>
+<marker id="428744784" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.105225" latitude="-20.233223"/>
+<marker id="428744785" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.387558" latitude="-20.219501"/>
+<marker id="428744787" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.691757" latitude="-20.309238"/>
+<marker id="428744826" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.03911" latitude="-19.613564"/>
+<marker id="428744827" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-19.653925" latitude="-19.612665"/>
+<marker id="428744828" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.06038" latitude="-20.092216"/>
+<marker id="428744829" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-20.332157" latitude="-20.280596"/>
+<marker id="428744833" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.016317" latitude="-19.977245"/>
+<marker id="428744834" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-20.016758" latitude="-19.974648"/>
+<marker id="428744835" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.923632" latitude="-19.81998"/>
+<marker id="428744836" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.987108" latitude="-19.981571"/>
+<marker id="428744837" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.089296" latitude="-19.809452"/>
+<marker id="428744838" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.970303" latitude="-19.720781"/>
+<marker id="428744839" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.859648" latitude="-19.734911"/>
+<marker id="428744840" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.325146" latitude="-19.903818"/>
+<marker id="428744841" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.277685" latitude="-19.876268"/>
+<marker id="428744842" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.347393" latitude="-19.68253"/>
+<marker id="428744843" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.336689" latitude="-20.079268"/>
+<marker id="428744844" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.326445" latitude="-20.162354"/>
+<marker id="428744845" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.81871" latitude="-20.142635"/>
+<marker id="428744846" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76961" latitude="-20.17996"/>
+<marker id="428744847" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76787" latitude="-20.258427"/>
+<marker id="428744848" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.819706" latitude="-20.259678"/>
+<marker id="428744849" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.086786" latitude="-19.80585"/>
+<marker id="428744850" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.91994" latitude="-19.81498"/>
+<marker id="428744851" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.969404" latitude="-19.717958"/>
+<marker id="428744852" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.856934" latitude="-19.729912"/>
+<marker id="428744853" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.764608" latitude="-20.182724"/>
+<marker id="428744854" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.76287" latitude="-20.257675"/>
+<marker id="428744855" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.823906" latitude="-20.256542"/>
+<marker id="428744856" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.81461" latitude="-20.14246"/>
+<marker id="428744857" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.336329" latitude="-20.079931"/>
+<marker id="428744858" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.328016" latitude="-20.159052"/>
+<marker id="428744859" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.320147" latitude="-19.908047"/>
+<marker id="428744860" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-20.277851" latitude="-19.877285"/>
+<marker id="428744863" label="Ned Claybrick" category="71" did="1879082996" parentZoneId="1879063993" longitude="-19.72328" latitude="-20.27002"/>
+<marker id="428744865" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.938602" latitude="-19.728516"/>
+<marker id="428744866" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.938602" latitude="-19.728516"/>
+<marker id="428744867" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.996855" latitude="-19.808516"/>
+<marker id="428744868" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.996855" latitude="-19.808516"/>
+<marker id="428744869" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.16707" latitude="-20.19999"/>
+<marker id="428744870" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.16707" latitude="-20.19999"/>
+<marker id="428744871" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.005917" latitude="-20.233984"/>
+<marker id="428744872" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.005917" latitude="-20.233984"/>
+<marker id="428744873" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.878994" latitude="-19.903906"/>
+<marker id="428744874" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.878994" latitude="-19.903906"/>
+<marker id="428744875" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.071445" latitude="-19.855751"/>
+<marker id="428744876" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.071445" latitude="-19.855751"/>
+<marker id="428744877" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.803036" latitude="-20.214706"/>
+<marker id="428744878" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.803036" latitude="-20.214706"/>
+<marker id="428744879" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.823671" latitude="-20.16456"/>
+<marker id="428744880" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.823671" latitude="-20.16456"/>
+<marker id="428744881" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.25867" latitude="-19.94622"/>
+<marker id="428744882" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.25867" latitude="-19.94622"/>
+<marker id="428744883" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.362793" latitude="-20.192793"/>
+<marker id="428744884" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.362793" latitude="-20.192793"/>
+<marker id="428744885" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.110897" latitude="-19.73373"/>
+<marker id="428744886" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.110897" latitude="-19.73373"/>
+<marker id="428744887" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.801933" latitude="-19.916142"/>
+<marker id="428744888" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.801933" latitude="-19.916142"/>
+<marker id="428744889" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.850536" latitude="-19.81832"/>
+<marker id="428744890" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.850536" latitude="-19.81832"/>
+<marker id="428744891" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.761513" latitude="-19.68418"/>
+<marker id="428744892" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.761513" latitude="-19.68418"/>
+<marker id="428744893" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.010098" latitude="-19.753897"/>
+<marker id="428744894" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.010098" latitude="-19.753897"/>
+<marker id="428744895" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.163193" latitude="-19.768223"/>
+<marker id="428744896" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.163193" latitude="-19.768223"/>
+<marker id="428744897" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.241943" latitude="-19.986288"/>
+<marker id="428744898" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.241943" latitude="-19.986288"/>
+<marker id="428744899" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.099834" latitude="-20.19123"/>
+<marker id="428744900" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.099834" latitude="-20.19123"/>
+<marker id="428744901" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.051474" latitude="-20.24286"/>
+<marker id="428744902" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.051474" latitude="-20.24286"/>
+<marker id="428744903" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.113173" latitude="-20.242"/>
+<marker id="428744904" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.113173" latitude="-20.242"/>
+<marker id="428744905" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.05497" latitude="-20.187391"/>
+<marker id="428744906" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.05497" latitude="-20.187391"/>
+<marker id="428744907" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.866055" latitude="-20.210419"/>
+<marker id="428744908" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.866055" latitude="-20.210419"/>
+<marker id="428744909" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.695663" latitude="-20.190224"/>
+<marker id="428744910" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.695663" latitude="-20.190224"/>
+<marker id="428744911" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.956268" latitude="-19.970694"/>
+<marker id="428744912" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.956268" latitude="-19.970694"/>
+<marker id="428744913" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.82661" latitude="-20.099413"/>
+<marker id="428744914" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.82661" latitude="-20.099413"/>
+<marker id="428744915" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.852655" latitude="-20.316963"/>
+<marker id="428744916" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.852655" latitude="-20.316963"/>
+<marker id="428744917" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.93787" latitude="-20.379082"/>
+<marker id="428744918" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.93787" latitude="-20.379082"/>
+<marker id="428744919" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.261757" latitude="-20.224277"/>
+<marker id="428744920" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.261757" latitude="-20.224277"/>
+<marker id="428744921" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.342342" latitude="-20.200487"/>
+<marker id="428744922" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.342342" latitude="-20.200487"/>
+<marker id="428744923" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.285225" latitude="-20.022158"/>
+<marker id="428744924" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.285225" latitude="-20.022158"/>
+<marker id="428744925" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.175478" latitude="-19.710732"/>
+<marker id="428744926" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.175478" latitude="-19.710732"/>
+<marker id="428744927" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-20.232714" latitude="-19.612314"/>
+<marker id="428744928" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-20.232714" latitude="-19.612314"/>
+<marker id="428744929" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
+<marker id="428744930" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.839716" latitude="-19.743887"/>
 <marker id="428748801" label="Hoarhallow Farmer" category="71" did="1879082841" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
 <marker id="428748802" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.994316" latitude="-19.465292"/>
 <marker id="428748803" label="Food Sack" category="72" did="1879082913" parentZoneId="1879063993" longitude="-19.791864" latitude="-19.530586"/>
@@ -5311,30 +5312,32 @@
 <marker id="428748850" label="Mayor Wat Mudbottom" category="71" did="1879182696" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
 <marker id="428748851" label="Hoarhallow Gardener" category="71" did="1879082842" parentZoneId="1879063993" longitude="-19.658154" latitude="-19.256113"/>
 <marker id="428752896" label="River Outpost" category="43" did="1879145619" parentZoneId="1879063993" longitude="-20.090595" latitude="-18.408222"/>
-<marker id="428752898" label="Krahjarn Tyrant" category="71" did="1879136841" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
-<marker id="428752899" label="Captain-General" category="71" did="1879136840" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
-<marker id="428752900" label="Moss-patch Elder" category="71" did="1879136843" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
-<marker id="428752901" label="Krahjarn Leader" category="71" did="1879136842" parentZoneId="1879063993" longitude="-20.056992" latitude="-18.53243"/>
-<marker id="428752902" label="Standard of Angmar" category="73" did="1879138007" parentZoneId="1879063993" longitude="-20.106249" latitude="-18.375"/>
-<marker id="428752903" label="Standard of the Free Peoples" category="73" did="1879138009" parentZoneId="1879063993" longitude="-20.106249" latitude="-18.375"/>
-<marker id="428752904" label="Standard of Gaergoth" category="73" did="1879138008" parentZoneId="1879063993" longitude="-20.11536" latitude="-18.511005"/>
-<marker id="428752905" label="Morroval Wing-keeper" category="71" did="1879160716" parentZoneId="1879063993" longitude="-20.06619" latitude="-18.509901"/>
-<marker id="428752906" label="Coldfells Sergeant" category="71" did="1879085061" parentZoneId="1879063993" longitude="-20.06794" latitude="-18.509834"/>
-<marker id="428752907" label="Sun-touched Troll" category="72" did="1879082784" parentZoneId="1879063993" longitude="-19.852276" latitude="-18.23372"/>
+<marker id="428752898" label="Outpost Trader" category="70" did="1879506332" parentZoneId="1879063993" longitude="-20.143661" latitude="-18.411572"/>
+<marker id="428752899" label="Outpost Trader" category="70" did="1879506333" parentZoneId="1879063993" longitude="-20.146563" latitude="-18.418633"/>
+<marker id="428752900" label="Krahjarn Tyrant" category="71" did="1879136841" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
+<marker id="428752901" label="Captain-General" category="71" did="1879136840" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
+<marker id="428752902" label="Moss-patch Elder" category="71" did="1879136843" parentZoneId="1879063993" longitude="-20.1" latitude="-18.386534"/>
+<marker id="428752903" label="Krahjarn Leader" category="71" did="1879136842" parentZoneId="1879063993" longitude="-20.056992" latitude="-18.53243"/>
+<marker id="428752904" label="Standard of Angmar" category="73" did="1879138007" parentZoneId="1879063993" longitude="-20.106249" latitude="-18.375"/>
+<marker id="428752905" label="Standard of the Free Peoples" category="73" did="1879138009" parentZoneId="1879063993" longitude="-20.106249" latitude="-18.375"/>
+<marker id="428752906" label="Standard of Gaergoth" category="73" did="1879138008" parentZoneId="1879063993" longitude="-20.11536" latitude="-18.511005"/>
+<marker id="428752907" label="Morroval Wing-keeper" category="71" did="1879160716" parentZoneId="1879063993" longitude="-20.06619" latitude="-18.509901"/>
+<marker id="428752908" label="Coldfells Sergeant" category="71" did="1879085061" parentZoneId="1879063993" longitude="-20.06794" latitude="-18.509834"/>
+<marker id="428752909" label="Sun-touched Troll" category="72" did="1879082784" parentZoneId="1879063993" longitude="-19.852276" latitude="-18.23372"/>
 <marker id="428752910" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.151768" latitude="-18.330908"/>
 <marker id="428752911" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.151768" latitude="-18.330908"/>
-<marker id="428752914" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.156836" latitude="-18.427969"/>
-<marker id="428752915" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.156836" latitude="-18.427969"/>
-<marker id="428752916" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.113604" latitude="-18.486504"/>
-<marker id="428752917" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.113604" latitude="-18.486504"/>
-<marker id="428752918" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.15291" latitude="-18.40538"/>
-<marker id="428752919" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.15291" latitude="-18.40538"/>
-<marker id="428752920" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.128428" latitude="-18.479374"/>
-<marker id="428752921" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.128428" latitude="-18.479374"/>
-<marker id="428752922" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.020468" latitude="-18.394102"/>
-<marker id="428752923" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.020468" latitude="-18.394102"/>
-<marker id="428752924" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.014404" latitude="-18.415703"/>
-<marker id="428752925" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.014404" latitude="-18.415703"/>
+<marker id="428752916" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.156836" latitude="-18.427969"/>
+<marker id="428752917" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.156836" latitude="-18.427969"/>
+<marker id="428752918" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.113604" latitude="-18.486504"/>
+<marker id="428752919" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.113604" latitude="-18.486504"/>
+<marker id="428752920" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.15291" latitude="-18.40538"/>
+<marker id="428752921" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.15291" latitude="-18.40538"/>
+<marker id="428752922" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.128428" latitude="-18.479374"/>
+<marker id="428752923" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.128428" latitude="-18.479374"/>
+<marker id="428752924" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.020468" latitude="-18.394102"/>
+<marker id="428752925" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.020468" latitude="-18.394102"/>
+<marker id="428752926" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-20.014404" latitude="-18.415703"/>
+<marker id="428752927" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-20.014404" latitude="-18.415703"/>
 <marker id="428756992" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879063991" longitude="-20.020342" latitude="-17.68083"/>
 <marker id="428756993" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-20.020342" latitude="-17.68083"/>
 <marker id="428756994" label="Ranger of Esteldín" category="71" did="1879083008" parentZoneId="1879063991" longitude="-19.665108" latitude="-17.951855"/>
@@ -5369,6 +5372,19 @@
 <marker id="428757023" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-20.010176" latitude="-17.803526"/>
 <marker id="428757024" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879063991" longitude="-19.839403" latitude="-17.893808"/>
 <marker id="428757025" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-19.839403" latitude="-17.893808"/>
+<marker id="428761089" label="Ongbûrz Crusher" category="71" did="1879506318" parentZoneId="1879063991" longitude="-19.805048" latitude="-16.93253"/>
+<marker id="428761090" label="Ongbûrz Black-arrow" category="71" did="1879506319" parentZoneId="1879063991" longitude="-19.742764" latitude="-17.047676"/>
+<marker id="428761091" label="Coldfells Bow-master" category="71" did="1879506316" parentZoneId="1879063991" longitude="-19.748613" latitude="-16.910917"/>
+<marker id="428761092" label="Blogmal Defiler" category="71" did="1879506317" parentZoneId="1879063991" longitude="-19.845087" latitude="-17.041485"/>
+<marker id="428761093" label="Coldfells Herbalist" category="71" did="1879506314" parentZoneId="1879063991" longitude="-19.759052" latitude="-17.055517"/>
+<marker id="428761094" label="Coldfells Captain" category="71" did="1879506315" parentZoneId="1879063991" longitude="-19.815643" latitude="-16.953896"/>
+<marker id="428761095" label="Ongbûrz Skirmisher" category="71" did="1879138456" parentZoneId="1879063991" longitude="-19.695692" latitude="-16.955908"/>
+<marker id="428761096" label="Standard of Angmar" category="73" did="1879138007" parentZoneId="1879063991" longitude="-19.786171" latitude="-16.990332"/>
+<marker id="428761097" label="Standard of the Free Peoples" category="73" did="1879138009" parentZoneId="1879063991" longitude="-19.787998" latitude="-16.989931"/>
+<marker id="428761098" label="White Hand Bow-master" category="71" did="1879492824" parentZoneId="1879063991" longitude="-19.69454" latitude="-16.966005"/>
+<marker id="428761099" label="Forward Camp - Lugazag" category="43" did="1879508165" parentZoneId="1879063991" longitude="-19.809649" latitude="-16.978027"/>
+<marker id="428761100" label="Sergeant-at-Arms" category="71" did="1879508164" parentZoneId="1879063991" longitude="-19.646015" latitude="-16.988281"/>
+<marker id="428761101" label="Sergeant-at-Arms" category="71" did="1879508163" parentZoneId="1879063991" longitude="-19.656826" latitude="-16.998516"/>
 <marker id="428765184" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879063991" longitude="-20.125498" latitude="-15.999268"/>
 <marker id="428765185" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-20.125498" latitude="-15.999268"/>
 <marker id="428765186" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879063991" longitude="-20.374569" latitude="-16.217382"/>
@@ -5391,71 +5407,68 @@
 <marker id="428765203" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-19.995537" latitude="-15.765273"/>
 <marker id="428765204" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879063991" longitude="-19.838448" latitude="-16.146143"/>
 <marker id="428765205" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879063991" longitude="-19.838448" latitude="-16.146143"/>
-<marker id="428769281" label="Lugazag" category="43" did="1879063767" parentZoneId="1879063991" longitude="-20.001123" latitude="-15.276865"/>
-<marker id="428769282" label="Captain-General Harvestgain" category="71" did="1879077119" parentZoneId="1879063991" longitude="-19.866747" latitude="-15.409033"/>
-<marker id="428769283" label="Chieftain Shatog" category="71" did="1879072352" parentZoneId="1879063991" longitude="-19.879667" latitude="-15.439931"/>
-<marker id="428769284" label="Chieftain Grazthluk" category="71" did="1879072353" parentZoneId="1879063991" longitude="-19.882538" latitude="-15.384111"/>
-<marker id="428769285" label="Tyrant Tharbîl" category="71" did="1879072357" parentZoneId="1879063991" longitude="-19.868193" latitude="-15.413261"/>
-<marker id="428769286" label="" category="71" did="1879458492" parentZoneId="1879063991" longitude="-19.79121" latitude="-15.434736"/>
-<marker id="428769287" label="" category="71" did="1879458488" parentZoneId="1879063991" longitude="-19.790771" latitude="-15.433672"/>
-<marker id="428769288" label="Cauldron Iron" category="73" did="1879093680" parentZoneId="1879063991" longitude="-19.801025" latitude="-15.471015"/>
-<marker id="428769289" label="Cauldron Oil" category="73" did="1879093681" parentZoneId="1879063991" longitude="-19.800732" latitude="-15.338057"/>
-<marker id="428769290" label="Cauldron Iron" category="73" did="1879093682" parentZoneId="1879063991" longitude="-19.800371" latitude="-15.466943"/>
-<marker id="428769291" label="Cauldron Oil" category="73" did="1879093683" parentZoneId="1879063991" longitude="-19.802393" latitude="-15.338877"/>
-<marker id="428769292" label="Lugazag" category="43" did="1879063767" parentZoneId="1879063991" longitude="-20.089169" latitude="-15.3521385"/>
-<marker id="428769293" label="Sergeant-at-Arms Kolr" category="71" did="1879091713" parentZoneId="1879063991" longitude="-20.07414" latitude="-15.131875"/>
-<marker id="428769294" label="Sergeant-at-Arms Oswythe" category="71" did="1879091714" parentZoneId="1879063991" longitude="-20.173964" latitude="-15.171728"/>
-<marker id="428769295" label="Entry to Lugazag Tower" category="73" did="1879485170" parentZoneId="1879063991" longitude="-19.795624" latitude="-15.516572"/>
-<marker id="428769296" label="Entry to Lugazag Tower" category="73" did="1879485169" parentZoneId="1879063991" longitude="-19.795527" latitude="-15.516064"/>
-<marker id="428769297" label="Soldier Kafaaz" category="71" did="1879092086" parentZoneId="1879063991" longitude="-20.074472" latitude="-15.126367"/>
-<marker id="428769298" label="Soldier Dumûl" category="71" did="1879092098" parentZoneId="1879063991" longitude="-20.171337" latitude="-15.17001"/>
-<marker id="428769299" label="Entry to Lugazag Tower" category="73" did="1879486238" parentZoneId="1879063991" longitude="-20.178339" latitude="-15.372304"/>
-<marker id="428769300" label="Entry to Lugazag Tower" category="73" did="1879486239" parentZoneId="1879063991" longitude="-20.178768" latitude="-15.372304"/>
-<marker id="428769301" label="Ongbûrz Skirmisher" category="71" did="1879082799" parentZoneId="1879063991" longitude="-19.96121" latitude="-15.399804"/>
-<marker id="428769302" label="Ongbúrz Archer" category="71" did="1879082800" parentZoneId="1879063991" longitude="-20.00956" latitude="-15.443701"/>
-<marker id="428769303" label="Soldier Gazlup" category="71" did="1879082860" parentZoneId="1879063991" longitude="-20.079062" latitude="-15.177441"/>
-<marker id="428769304" label="First Marshal Ari" category="71" did="1879083011" parentZoneId="1879063991" longitude="-19.884531" latitude="-15.382431"/>
-<marker id="428769305" label="First Marshal Barathír" category="71" did="1879083012" parentZoneId="1879063991" longitude="-19.879707" latitude="-15.439853"/>
-<marker id="428769306" label="Lieutenant Án" category="71" did="1879083013" parentZoneId="1879063991" longitude="-20.146318" latitude="-15.342158"/>
-<marker id="428769307" label="Sergeant-at-Arms Gomiriell" category="71" did="1879083014" parentZoneId="1879063991" longitude="-19.789442" latitude="-15.432851"/>
-<marker id="428769308" label="Lieutenant Elswith" category="71" did="1879083015" parentZoneId="1879063991" longitude="-20.116747" latitude="-15.424228"/>
-<marker id="428769309" label="Sergeant-at-Arms Benstan" category="71" did="1879083016" parentZoneId="1879063991" longitude="-20.141064" latitude="-15.19833"/>
-<marker id="428769310" label="Sergeant-at-Arms Cwen" category="71" did="1879083017" parentZoneId="1879063991" longitude="-20.110888" latitude="-15.27002"/>
-<marker id="428769311" label="Sergeant-at-Arms Athelhild" category="71" did="1879083018" parentZoneId="1879063991" longitude="-20.160751" latitude="-15.339072"/>
-<marker id="428769312" label="Coldfells Hunter" category="71" did="1879083019" parentZoneId="1879063991" longitude="-20.11916" latitude="-15.381279"/>
-<marker id="428769313" label="Coldfells Champion" category="71" did="1879083020" parentZoneId="1879063991" longitude="-20.153612" latitude="-15.34955"/>
-<marker id="428769314" label="Coldfells Guardian" category="71" did="1879083021" parentZoneId="1879063991" longitude="-19.960506" latitude="-15.394121"/>
-<marker id="428769315" label="Soldier Ufrant" category="71" did="1879083022" parentZoneId="1879063991" longitude="-20.109266" latitude="-15.268311"/>
-<marker id="428769316" label="Soldier Apsduf" category="71" did="1879083023" parentZoneId="1879063991" longitude="-20.159746" latitude="-15.334805"/>
-<marker id="428769317" label="Task-master Pizdur" category="71" did="1879083024" parentZoneId="1879063991" longitude="-20.145918" latitude="-15.340019"/>
-<marker id="428769318" label="Task-master Snagfigú" category="71" did="1879083025" parentZoneId="1879063991" longitude="-20.118486" latitude="-15.424072"/>
-<marker id="428769319" label="Soldier Kúrub" category="71" did="1879083026" parentZoneId="1879063991" longitude="-20.141903" latitude="-15.199199"/>
-<marker id="428769320" label="Soldier Mugsh" category="71" did="1879083027" parentZoneId="1879063991" longitude="-19.817411" latitude="-15.43288"/>
-<marker id="428769321" label="Lieutenant Sturla" category="71" did="1879083028" parentZoneId="1879063991" longitude="-20.078115" latitude="-15.17749"/>
-<marker id="428769322" label="Sergeant-at-Arms Ambeng" category="71" did="1879083029" parentZoneId="1879063991" longitude="-20.108965" latitude="-15.114238"/>
-<marker id="428769323" label="Taskmaster Fash" category="71" did="1879083031" parentZoneId="1879063991" longitude="-20.117168" latitude="-15.104521"/>
-<marker id="428769326" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-19.763174" latitude="-15.16954"/>
-<marker id="428769327" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-19.763174" latitude="-15.16954"/>
-<marker id="428769359" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-19.853407" latitude="-15.449746"/>
-<marker id="428769360" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-19.853407" latitude="-15.449746"/>
-<marker id="428769361" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.174686" latitude="-15.406894"/>
-<marker id="428769362" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.174686" latitude="-15.406894"/>
-<marker id="428769363" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.089901" latitude="-15.320518"/>
-<marker id="428769364" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.089901" latitude="-15.320518"/>
-<marker id="428769365" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.169453" latitude="-15.137236"/>
-<marker id="428769366" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.169453" latitude="-15.137236"/>
-<marker id="428769367" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.120352" latitude="-15.118476"/>
-<marker id="428769368" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.120352" latitude="-15.118476"/>
-<marker id="428769369" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.145" latitude="-15.112832"/>
-<marker id="428769370" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.145" latitude="-15.112832"/>
-<marker id="428769371" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.100145" latitude="-15.340595"/>
-<marker id="428769372" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.100145" latitude="-15.340595"/>
-<marker id="428769373" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.165985" latitude="-15.4716015"/>
-<marker id="428769374" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.165985" latitude="-15.4716015"/>
-<marker id="428769375" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-19.96917" latitude="-15.479336"/>
-<marker id="428769376" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-19.96917" latitude="-15.479336"/>
-<marker id="428769377" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063991" longitude="-20.073399" latitude="-15.3593645"/>
-<marker id="428769378" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063991" longitude="-20.073399" latitude="-15.3593645"/>
+<marker id="428769280" label="Lugazag" category="43" did="1879063767" parentZoneId="1879506290" longitude="-20.089169" latitude="-15.3521385"/>
+<marker id="428769281" label="Lugazag" category="43" did="1879063767" parentZoneId="1879506290" longitude="-20.001123" latitude="-15.276865"/>
+<marker id="428769282" label="Captain-General Harvestgain" category="71" did="1879077119" parentZoneId="1879506290" longitude="-19.866747" latitude="-15.409033"/>
+<marker id="428769283" label="Ongbûrz Crusher" category="71" did="1879506318" parentZoneId="1879506290" longitude="-20.134834" latitude="-15.338506"/>
+<marker id="428769284" label="Ongbûrz Black-arrow" category="71" did="1879506319" parentZoneId="1879506290" longitude="-20.120615" latitude="-15.319228"/>
+<marker id="428769285" label="Coldfells Bow-master" category="71" did="1879506316" parentZoneId="1879506290" longitude="-20.140469" latitude="-15.348389"/>
+<marker id="428769286" label="Blogmal Defiler" category="71" did="1879506317" parentZoneId="1879506290" longitude="-20.151796" latitude="-15.320107"/>
+<marker id="428769287" label="Coldfells Herbalist" category="71" did="1879506314" parentZoneId="1879506290" longitude="-20.153612" latitude="-15.34955"/>
+<marker id="428769288" label="Coldfells Captain" category="71" did="1879506315" parentZoneId="1879506290" longitude="-20.135273" latitude="-15.341708"/>
+<marker id="428769289" label="Chieftain Shatog" category="71" did="1879072352" parentZoneId="1879506290" longitude="-19.879667" latitude="-15.439931"/>
+<marker id="428769290" label="Chieftain Grazthluk" category="71" did="1879072353" parentZoneId="1879506290" longitude="-19.882538" latitude="-15.384111"/>
+<marker id="428769291" label="Tyrant Tharbîl" category="71" did="1879072357" parentZoneId="1879506290" longitude="-19.868193" latitude="-15.413261"/>
+<marker id="428769292" label="Hardened Gate" category="71" did="1879458492" parentZoneId="1879506290" longitude="-19.79121" latitude="-15.434736"/>
+<marker id="428769293" label="Hardened Gate" category="71" did="1879458488" parentZoneId="1879506290" longitude="-19.790771" latitude="-15.433672"/>
+<marker id="428769294" label="Cauldron Iron" category="73" did="1879093680" parentZoneId="1879506290" longitude="-19.801025" latitude="-15.471015"/>
+<marker id="428769295" label="Cauldron Oil" category="73" did="1879093681" parentZoneId="1879506290" longitude="-19.800732" latitude="-15.338057"/>
+<marker id="428769296" label="Cauldron Iron" category="73" did="1879093682" parentZoneId="1879506290" longitude="-19.800371" latitude="-15.466943"/>
+<marker id="428769297" label="Cauldron Oil" category="73" did="1879093683" parentZoneId="1879506290" longitude="-19.802393" latitude="-15.338877"/>
+<marker id="428769299" label="Sergeant-at-Arms Kolr" category="71" did="1879091713" parentZoneId="1879506290" longitude="-20.07414" latitude="-15.131875"/>
+<marker id="428769300" label="Sergeant-at-Arms Oswythe" category="71" did="1879091714" parentZoneId="1879506290" longitude="-20.173964" latitude="-15.171728"/>
+<marker id="428769301" label="Soldier Kafaaz" category="71" did="1879092086" parentZoneId="1879506290" longitude="-20.074472" latitude="-15.126367"/>
+<marker id="428769302" label="Soldier Dumûl" category="71" did="1879092098" parentZoneId="1879506290" longitude="-20.167587" latitude="-15.17001"/>
+<marker id="428769303" label="Chest of Lugazag" category="72" did="1879508174" parentZoneId="1879506290" longitude="-20.104061" latitude="-15.076366"/>
+<marker id="428769304" label="Chest of Lugazag" category="72" did="1879508177" parentZoneId="1879506290" longitude="-20.129013" latitude="-15.075956"/>
+<marker id="428769305" label="Soldier Gazlup" category="71" did="1879082860" parentZoneId="1879506290" longitude="-20.079062" latitude="-15.177441"/>
+<marker id="428769306" label="First Marshal Ari" category="71" did="1879083011" parentZoneId="1879506290" longitude="-19.884531" latitude="-15.382431"/>
+<marker id="428769307" label="First Marshal Barathír" category="71" did="1879083012" parentZoneId="1879506290" longitude="-19.879707" latitude="-15.439853"/>
+<marker id="428769308" label="Lieutenant Án" category="71" did="1879083013" parentZoneId="1879506290" longitude="-20.146318" latitude="-15.342158"/>
+<marker id="428769309" label="Lieutenant Elswith" category="71" did="1879083015" parentZoneId="1879506290" longitude="-20.116747" latitude="-15.424228"/>
+<marker id="428769310" label="Sergeant-at-Arms Benstan" category="71" did="1879083016" parentZoneId="1879506290" longitude="-20.141064" latitude="-15.19833"/>
+<marker id="428769311" label="Sergeant-at-Arms Cwen" category="71" did="1879083017" parentZoneId="1879506290" longitude="-20.127655" latitude="-15.356679"/>
+<marker id="428769312" label="Sergeant-at-Arms Athelhild" category="71" did="1879083018" parentZoneId="1879506290" longitude="-20.158789" latitude="-15.337011"/>
+<marker id="428769313" label="Soldier Ufrant" category="71" did="1879083022" parentZoneId="1879506290" longitude="-20.126024" latitude="-15.35497"/>
+<marker id="428769314" label="Soldier Apsduf" category="71" did="1879083023" parentZoneId="1879506290" longitude="-20.159746" latitude="-15.334805"/>
+<marker id="428769315" label="Task-master Pizdur" category="71" did="1879083024" parentZoneId="1879506290" longitude="-20.145918" latitude="-15.340019"/>
+<marker id="428769316" label="Task-master Snagfigú" category="71" did="1879083025" parentZoneId="1879506290" longitude="-20.118486" latitude="-15.424072"/>
+<marker id="428769317" label="Soldier Kúrub" category="71" did="1879083026" parentZoneId="1879506290" longitude="-20.141903" latitude="-15.199443"/>
+<marker id="428769318" label="Lieutenant Sturla" category="71" did="1879083028" parentZoneId="1879506290" longitude="-20.078115" latitude="-15.17749"/>
+<marker id="428769319" label="Sergeant-at-Arms Ambeng" category="71" did="1879083029" parentZoneId="1879506290" longitude="-20.108965" latitude="-15.114238"/>
+<marker id="428769320" label="Taskmaster Fash" category="71" did="1879083031" parentZoneId="1879506290" longitude="-20.117168" latitude="-15.104521"/>
+<marker id="428769325" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-19.763174" latitude="-15.16954"/>
+<marker id="428769326" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-19.763174" latitude="-15.16954"/>
+<marker id="428769356" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-19.853407" latitude="-15.449746"/>
+<marker id="428769357" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-19.853407" latitude="-15.449746"/>
+<marker id="428769358" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.174686" latitude="-15.406894"/>
+<marker id="428769359" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.174686" latitude="-15.406894"/>
+<marker id="428769360" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.089901" latitude="-15.320518"/>
+<marker id="428769361" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.089901" latitude="-15.320518"/>
+<marker id="428769362" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.169453" latitude="-15.137236"/>
+<marker id="428769363" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.169453" latitude="-15.137236"/>
+<marker id="428769364" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.120352" latitude="-15.118476"/>
+<marker id="428769365" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.120352" latitude="-15.118476"/>
+<marker id="428769366" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.145" latitude="-15.112832"/>
+<marker id="428769367" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.145" latitude="-15.112832"/>
+<marker id="428769368" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.100145" latitude="-15.340595"/>
+<marker id="428769369" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.100145" latitude="-15.340595"/>
+<marker id="428769370" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.165985" latitude="-15.4716015"/>
+<marker id="428769371" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.165985" latitude="-15.4716015"/>
+<marker id="428769372" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-19.96917" latitude="-15.479336"/>
+<marker id="428769373" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-19.96917" latitude="-15.479336"/>
+<marker id="428769374" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879506290" longitude="-20.073399" latitude="-15.3593645"/>
+<marker id="428769375" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879506290" longitude="-20.073399" latitude="-15.3593645"/>
 <marker id="428773376" label="Coldeve Stone-hewer" category="71" did="1879082792" parentZoneId="1879063991" longitude="-19.818857" latitude="-14.444648"/>
 <marker id="428773377" label="Coldeve Stone-heaver" category="71" did="1879082793" parentZoneId="1879063991" longitude="-19.818857" latitude="-14.444648"/>
 <marker id="428773378" label="Coldeve Stone-hewer" category="71" did="1879082792" parentZoneId="1879063991" longitude="-19.803114" latitude="-14.449912"/>
@@ -5618,33 +5631,35 @@
 <marker id="428806150" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.137226" latitude="-20.824247"/>
 <marker id="428806151" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.148691" latitude="-20.825527"/>
 <marker id="428810241" label="Hithlad Outpost" category="43" did="1879145620" parentZoneId="1879063993" longitude="-19.2979" latitude="-19.872656"/>
-<marker id="428810242" label="Krahjarn Tyrant" category="71" did="1879136841" parentZoneId="1879063993" longitude="-19.321114" latitude="-19.867538"/>
-<marker id="428810243" label="Captain-General" category="71" did="1879136840" parentZoneId="1879063993" longitude="-19.322979" latitude="-19.868145"/>
-<marker id="428810244" label="Moss-patch Elder" category="71" did="1879136843" parentZoneId="1879063993" longitude="-19.322323" latitude="-19.867197"/>
-<marker id="428810245" label="Krahjarn Leader" category="71" did="1879136842" parentZoneId="1879063993" longitude="-19.204218" latitude="-19.86203"/>
-<marker id="428810246" label="Standard of Angmar" category="73" did="1879138007" parentZoneId="1879063993" longitude="-19.325321" latitude="-19.946894"/>
-<marker id="428810247" label="Standard of the Free Peoples" category="73" did="1879138009" parentZoneId="1879063993" longitude="-19.206455" latitude="-19.918135"/>
-<marker id="428810248" label="Standard of Gaergoth" category="73" did="1879138008" parentZoneId="1879063993" longitude="-19.325321" latitude="-19.946894"/>
-<marker id="428810249" label="Morroval Wing-keeper" category="71" did="1879160716" parentZoneId="1879063993" longitude="-19.191074" latitude="-19.820312"/>
-<marker id="428810250" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-19.575352" latitude="-20.076796"/>
-<marker id="428810251" label="Tortmund Cliffside" category="71" did="1879091704" parentZoneId="1879063993" longitude="-19.555185" latitude="-19.652128"/>
-<marker id="428810252" label="Coldfells Sergeant" category="71" did="1879085061" parentZoneId="1879063993" longitude="-19.18916" latitude="-19.818262"/>
-<marker id="428810253" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.533545" latitude="-19.604706"/>
-<marker id="428810254" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.523779" latitude="-19.608934"/>
-<marker id="428810255" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.265644" latitude="-19.81204"/>
-<marker id="428810260" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.265644" latitude="-19.81204"/>
-<marker id="428810262" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.225527" latitude="-19.908916"/>
-<marker id="428810263" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.225527" latitude="-19.908916"/>
-<marker id="428810264" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.336777" latitude="-19.807392"/>
-<marker id="428810265" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.336777" latitude="-19.807392"/>
-<marker id="428810266" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.268536" latitude="-19.786894"/>
-<marker id="428810267" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.268536" latitude="-19.786894"/>
-<marker id="428810268" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.293798" latitude="-19.931005"/>
-<marker id="428810269" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.293798" latitude="-19.931005"/>
-<marker id="428810270" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.336805" latitude="-19.808428"/>
-<marker id="428810271" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.336805" latitude="-19.808428"/>
-<marker id="428810272" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.22035" latitude="-19.896835"/>
-<marker id="428810273" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.22035" latitude="-19.896835"/>
+<marker id="428810242" label="Outpost Trader" category="70" did="1879506332" parentZoneId="1879063993" longitude="-19.315722" latitude="-19.918886"/>
+<marker id="428810243" label="Outpost Trader" category="70" did="1879506333" parentZoneId="1879063993" longitude="-19.308018" latitude="-19.922832"/>
+<marker id="428810244" label="Krahjarn Tyrant" category="71" did="1879136841" parentZoneId="1879063993" longitude="-19.321114" latitude="-19.867538"/>
+<marker id="428810245" label="Captain-General" category="71" did="1879136840" parentZoneId="1879063993" longitude="-19.322979" latitude="-19.868145"/>
+<marker id="428810246" label="Moss-patch Elder" category="71" did="1879136843" parentZoneId="1879063993" longitude="-19.322323" latitude="-19.867197"/>
+<marker id="428810247" label="Krahjarn Leader" category="71" did="1879136842" parentZoneId="1879063993" longitude="-19.204218" latitude="-19.86203"/>
+<marker id="428810248" label="Standard of Angmar" category="73" did="1879138007" parentZoneId="1879063993" longitude="-19.325321" latitude="-19.946894"/>
+<marker id="428810249" label="Standard of the Free Peoples" category="73" did="1879138009" parentZoneId="1879063993" longitude="-19.206455" latitude="-19.918135"/>
+<marker id="428810250" label="Standard of Gaergoth" category="73" did="1879138008" parentZoneId="1879063993" longitude="-19.325321" latitude="-19.946894"/>
+<marker id="428810251" label="Morroval Wing-keeper" category="71" did="1879160716" parentZoneId="1879063993" longitude="-19.191074" latitude="-19.820312"/>
+<marker id="428810252" label="Hoarhallow" category="74" did="1879063766" parentZoneId="1879063993" longitude="-19.575352" latitude="-20.076796"/>
+<marker id="428810253" label="Tortmund Cliffside" category="71" did="1879091704" parentZoneId="1879063993" longitude="-19.555185" latitude="-19.652128"/>
+<marker id="428810254" label="Coldfells Sergeant" category="71" did="1879085061" parentZoneId="1879063993" longitude="-19.18916" latitude="-19.818262"/>
+<marker id="428810255" label="Coldfells Hunter" category="71" did="1879082993" parentZoneId="1879063993" longitude="-19.533545" latitude="-19.604706"/>
+<marker id="428810256" label="Coldfells Hunter" category="71" did="1879082994" parentZoneId="1879063993" longitude="-19.523779" latitude="-19.608934"/>
+<marker id="428810261" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.265644" latitude="-19.81204"/>
+<marker id="428810262" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.265644" latitude="-19.81204"/>
+<marker id="428810264" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.225527" latitude="-19.908916"/>
+<marker id="428810265" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.225527" latitude="-19.908916"/>
+<marker id="428810266" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.336777" latitude="-19.807392"/>
+<marker id="428810267" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.336777" latitude="-19.807392"/>
+<marker id="428810268" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.268536" latitude="-19.786894"/>
+<marker id="428810269" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.268536" latitude="-19.786894"/>
+<marker id="428810270" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.293798" latitude="-19.931005"/>
+<marker id="428810271" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.293798" latitude="-19.931005"/>
+<marker id="428810272" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.336805" latitude="-19.808428"/>
+<marker id="428810273" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.336805" latitude="-19.808428"/>
+<marker id="428810274" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879063993" longitude="-19.22035" latitude="-19.896835"/>
+<marker id="428810275" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879063993" longitude="-19.22035" latitude="-19.896835"/>
 <marker id="428814336" label="Fallen Log" category="72" did="1879082880" parentZoneId="1879063993" longitude="-19.088837" latitude="-19.227861"/>
 <marker id="428814337" label="Fallen Sapling" category="72" did="1879082881" parentZoneId="1879063993" longitude="-18.987978" latitude="-18.830166"/>
 <marker id="428814338" label="Fallen Timber" category="72" did="1879082882" parentZoneId="1879063993" longitude="-19.194073" latitude="-18.928417"/>

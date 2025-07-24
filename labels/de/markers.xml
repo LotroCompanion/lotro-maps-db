@@ -3966,7 +3966,6 @@
 <label key="1879083011" value="Erster Marschall Ari"/>
 <label key="1879083012" value="Erster Marschall Barathír"/>
 <label key="1879083013" value="Leutnant Án"/>
-<label key="1879083014" value="Zeremonienmeister Gomiriell"/>
 <label key="1879083015" value="Leutnant Elswith"/>
 <label key="1879083016" value="Zeremonienmeister Benstan"/>
 <label key="1879083017" value="Zeremonienmeisterin Cwen"/>
@@ -3979,7 +3978,6 @@
 <label key="1879083024" value="Zuchtmeister Pizdur"/>
 <label key="1879083025" value="Zuchtmeister Snagfigú"/>
 <label key="1879083026" value="Soldat Kúrub"/>
-<label key="1879083027" value="Soldat Mugsh"/>
 <label key="1879083028" value="Leutnant Sturla"/>
 <label key="1879083029" value="Zeremonienmeister Ambeng"/>
 <label key="1879083030" value="GNDN"/>
@@ -4044,13 +4042,7 @@
 <label key="1879083171" value="Leutnant Libbi"/>
 <label key="1879083172" value="Zeremonienmeister Mibrethil"/>
 <label key="1879083173" value="Soldat Fandmau"/>
-<label key="1879083174" value="Zuchtmeister Kúfolog"/>
-<label key="1879083175" value="Zuchtmeister Tarbúrzshra"/>
-<label key="1879083177" value="Soldat Atishgor"/>
 <label key="1879083180" value="Zuchtmeister Núrsufum"/>
-<label key="1879083183" value="Zeremonienmeisterin Selethryth"/>
-<label key="1879083185" value="Leutnant Brun"/>
-<label key="1879083186" value="Leutnant Cadda"/>
 <label key="1879083187" value="Erster Marschall Egil"/>
 <label key="1879083188" value="Erster Marschall Laegon"/>
 <label key="1879083196" value="Alter Goldschopf"/>
@@ -5520,9 +5512,9 @@
 <label key="1879095557" value="Gortheblin"/>
 <label key="1879095558" value="Halbschatten-Horror"/>
 <label key="1879095559" value="Schatten-Horror"/>
-<label key="1879095560" value="Träger von Gelid-Entschlossenheit"/>
-<label key="1879095561" value="Träger von Gelid-Standhaftigkeit"/>
-<label key="1879095562" value="Träger von Gelid-Entschlossenheit"/>
+<label key="1879095560" value="Träger der Entschlossenheit der Eiseskälte"/>
+<label key="1879095561" value="Träger der Standhaftigkeit der Eiseskälte"/>
+<label key="1879095562" value="Träger der Wut der Eiseskälte"/>
 <label key="1879095563" value="Gworvaethor"/>
 <label key="1879095564" value="Thorliw"/>
 <label key="1879095565" value="Vergessener Waffenmeister"/>
@@ -6262,7 +6254,7 @@
 <label key="1879107843" value="Fuchsia Gruber"/>
 <label key="1879107852" value="Peikko"/>
 <label key="1879107853" value="Wilder Peikko"/>
-<label key="1879107855" value="Gelid-Grimmiger"/>
+<label key="1879107855" value="Grimmiger der Eiseskälte"/>
 <label key="1879107856" value="Schauergrimmiger"/>
 <label key="1879107857" value="Düstergrimmiger"/>
 <label key="1879107858" value="Brumal-Grimmiger"/>
@@ -6924,7 +6916,7 @@
 <label key="1879115685" value="Hobbit"/>
 <label key="1879115693" value="Karl Stolzfuß"/>
 <label key="1879115695" value="Ernwyd Brandybock"/>
-<label key="1879115698" value="TDB Forge"/>
+<label key="1879115698" value="Angeln"/>
 <label key="1879115716" value="Angeln"/>
 <label key="1879115718" value="GNDN"/>
 <label key="1879115719" value="GNDN"/>
@@ -14574,11 +14566,11 @@
 <label key="1879218894" value="III.4.18 Reise-Hotspot - Tal nach Vier"/>
 <label key="1879218899" value="Saruman"/>
 <label key="1879218905" value="Nebel-Crebain"/>
-<label key="1879218929" value="TDB Forge"/>
-<label key="1879218930" value="TDB Forge"/>
-<label key="1879218931" value="TDB Forge"/>
-<label key="1879218932" value="TDB Forge"/>
-<label key="1879218933" value="TDB Forge"/>
+<label key="1879218929" value="Angeln"/>
+<label key="1879218930" value="Angeln"/>
+<label key="1879218931" value="Angeln"/>
+<label key="1879218932" value="Angeln"/>
+<label key="1879218933" value="Angeln"/>
 <label key="1879218946" value="Quartiermeister der Dunländer"/>
 <label key="1879218947" value="Quartiermeister der Rohirrim"/>
 <label key="1879218948" value="Meister des Westlichen Bezirks"/>
@@ -15253,7 +15245,7 @@
 <label key="1879226971" value="GNDN"/>
 <label key="1879227170" value="GNDN"/>
 <label key="1879227182" value="Keine Reittiere erlaubt"/>
-<label key="1879227190" value="TDB Forge"/>
+<label key="1879227190" value="Angeln"/>
 <label key="1879227299" value="Gandalf"/>
 <label key="1879227313" value="Erdrückende Hitze - Stufe 4"/>
 <label key="1879227314" value="Erdrückende Hitze - Stufe 5"/>
@@ -25591,7 +25583,7 @@
 <label key="1879335116" value="Alte Hobbit-Frau"/>
 <label key="1879335117" value="Katze"/>
 <label key="1879335118" value="Hitzewelle"/>
-<label key="1879335172" value="TDB Forge"/>
+<label key="1879335172" value="Angeln"/>
 <label key="1879335175" value="Melia Pott"/>
 <label key="1879335238" value="Eisblock"/>
 <label key="1879335239" value="Sommerdrachen"/>
@@ -25601,7 +25593,7 @@
 <label key="1879335243" value="Sommerdrachen"/>
 <label key="1879335244" value="Abgestürzter Sommerdrachen"/>
 <label key="1879335284" value="Blüte Goldwert"/>
-<label key="1879335336" value="TDB Forge"/>
+<label key="1879335336" value="Angeln"/>
 <label key="1879335338" value="GNDN"/>
 <label key="1879335340" value="Stadttore"/>
 <label key="1879335342" value="Die Hohe Halle"/>
@@ -26323,6 +26315,7 @@
 <label key="1879340141" value="Geschenke aus Rhûn"/>
 <label key="1879340466" value="DNT - Protects players from falling injuries, but not death"/>
 <label key="1879340480" value="Sengende Hitze"/>
+<label key="1879340545" value="Glitschiger Boden"/>
 <label key="1879340565" value="Berittener Kampf erlaubt"/>
 <label key="1879340840" value="Ereblen"/>
 <label key="1879341017" value="Tordoron"/>
@@ -28250,6 +28243,7 @@
 <label key="1879356147" value="Hauptmann Zaboth"/>
 <label key="1879356148" value="Saboteur Bulmus"/>
 <label key="1879356149" value="Málkon"/>
+<label key="1879356150" value="Hebel"/>
 <label key="1879356153" value="Niederer Feuergrimmiger"/>
 <label key="1879356165" value="Grausamer Geist"/>
 <label key="1879356166" value="Grausamer Geist"/>
@@ -35148,6 +35142,7 @@
 <label key="1879410370" value="Ausbilderin für Schläger"/>
 <label key="1879410371" value="Bregwen"/>
 <label key="1879410372" value="Tathariel"/>
+<label key="1879410374" value="Himrael"/>
 <label key="1879410379" value="Ausbilder für Schläger"/>
 <label key="1879410384" value="Baragir"/>
 <label key="1879410393" value="Hunward"/>
@@ -40694,6 +40689,7 @@
 <label key="1879458014" value="Vandil Fehlfinger"/>
 <label key="1879458023" value="Hithabad"/>
 <label key="1879458039" value="Seefahrerausbilder"/>
+<label key="1879458069" value="Aeldir"/>
 <label key="1879458071" value="Malundril"/>
 <label key="1879458085" value="Mick Mädchenhaar"/>
 <label key="1879458097" value="Sicheldorn"/>
@@ -40771,8 +40767,8 @@
 <label key="1879458478" value="Lágsaith"/>
 <label key="1879458479" value="Aighrig"/>
 <label key="1879458487" value="Dolág"/>
-<label key="1879458488" value=""/>
-<label key="1879458492" value=""/>
+<label key="1879458488" value="Gehärtetes Tor"/>
+<label key="1879458492" value="Gehärtetes Tor"/>
 <label key="1879458557" value="Kurja"/>
 <label key="1879458558" value="Thaurisgar-Saboteur"/>
 <label key="1879458559" value="Thaurisgar-Werfer"/>
@@ -41209,8 +41205,6 @@
 <label key="1879461754" value="Bergmenschen-Pfadfinder"/>
 <label key="1879461755" value="Bergmenschen-Pfadfinder"/>
 <label key="1879461756" value="Bergmenschen-Pfadfinder"/>
-<label key="1879462711" value="DNT - Allows Building of Catapult"/>
-<label key="1879462713" value="DNT - Allows Building of Catapult"/>
 <label key="1879462950" value="GNDN"/>
 <label key="1879462980" value="Splitter von Tauressar"/>
 <label key="1879463041" value="Dingási"/>
@@ -44299,10 +44293,6 @@
 <label key="1879485164" value="Wild gewordene Bestie"/>
 <label key="1879485165" value="Sigileth"/>
 <label key="1879485166" value="Corudan"/>
-<label key="1879485168" value="Eingang zum Turm von Tirith Rhaw"/>
-<label key="1879485169" value="Eingang zum Turm von Lugazag"/>
-<label key="1879485170" value="Eingang zum Turm von Lugazag"/>
-<label key="1879485172" value="Eingang zum Turm von Tirith Rhaw"/>
 <label key="1879485190" value="Unauffällige Ziegelwand"/>
 <label key="1879485231" value="Hâzlur"/>
 <label key="1879485232" value="Râmakhir"/>
@@ -44399,10 +44389,6 @@
 <label key="1879486166" value="Hakâri-Blutgeschworener"/>
 <label key="1879486167" value="Dyjanvar"/>
 <label key="1879486168" value="Lichtlose Matrone"/>
-<label key="1879486237" value="Eingang zum Turm von Tirith Rhaw"/>
-<label key="1879486238" value="Eingang zum Turm von Lugazag"/>
-<label key="1879486239" value="Eingang zum Turm von Lugazag"/>
-<label key="1879486244" value="Eingang zum Turm von Tirith Rhaw"/>
 <label key="1879486273" value="Ingúl Ofenschür"/>
 <label key="1879486274" value="Ogmund Blaseodem"/>
 <label key="1879486275" value="Fauler Schürfer"/>
@@ -45706,7 +45692,6 @@
 <label key="1879493230" value="Phetekâri-Auftragstafel"/>
 <label key="1879493232" value="Adúrhid-Auftragstafel"/>
 <label key="1879493233" value="Ikorbâni-Auftragstafel"/>
-<label key="1879493234" value="\qPhetekâri\q-Sammeltruhe für Aufträge"/>
 <label key="1879493331" value="Anâkhi-Krieger"/>
 <label key="1879493332" value="Anâkhi-Wächter"/>
 <label key="1879493333" value="Anâkhi-Ritualistin"/>
@@ -46017,6 +46002,7 @@
 <label key="1879497801" value="Utûg-Auslöscher"/>
 <label key="1879497802" value="Kulkorth"/>
 <label key="1879497803" value="Utûg-Schlächter"/>
+<label key="1879497923" value="Die schwarze Klinge von Lebennin TESTMODE"/>
 <label key="1879497961" value="Urâshi-Bogenschütze"/>
 <label key="1879497962" value="Uruk-hai-Berserker"/>
 <label key="1879497963" value="Urâsh-Hauptmann"/>
@@ -46286,7 +46272,7 @@
 <label key="1879501152" value="Vorratshändler"/>
 <label key="1879501153" value="Handelsmann"/>
 <label key="1879501154" value="Geheimes Feuer"/>
-<label key="1879501194" value="Aufträge"/>
+<label key="1879501194" value="Zweig"/>
 <label key="1879501199" value="TBD - Hillfolk Hub"/>
 <label key="1879501200" value="TBD - Drake Camp"/>
 <label key="1879501201" value="TBD - Switchstate Evil A"/>
@@ -46741,10 +46727,6 @@
 <label key="1879502525" value="Fallgitter"/>
 <label key="1879502571" value="Mizâdi"/>
 <label key="1879502603" value="Wagen"/>
-<label key="1879502606" value="DNT - Destroys Good Siegecraft and allows Building Good Ballista at Tirith Rhaw"/>
-<label key="1879502607" value="DNT - Destroys Good Siegecraft and allows Building Good Ballista at Lugazag"/>
-<label key="1879502614" value="DNT - Destroys Evil Siegecraft and allows Building Evil Ballista at Lugazag"/>
-<label key="1879502615" value="DNT - Destroys Evil Siegecraft and allows Building Evil Ballista at Tirith Rhaw"/>
 <label key="1879502618" value="Waffenhändler"/>
 <label key="1879502622" value="Händlerin für Zierwerk-Begleiter"/>
 <label key="1879502627" value="Instrumenthändler"/>
@@ -46829,7 +46811,7 @@
 <label key="1879502945" value="Schwertrekrutin"/>
 <label key="1879502946" value="Shubârza"/>
 <label key="1879502947" value="Sângal"/>
-<label key="1879502948" value="Entmutigter Soldat"/>
+<label key="1879502948" value="Demoralisierter Soldat"/>
 <label key="1879502949" value="Vertriebener Krieger"/>
 <label key="1879502950" value="Zamína"/>
 <label key="1879502951" value="Vertriebene Kriegerin"/>
@@ -47016,8 +46998,6 @@
 <label key="1879503443" value="Ulishár"/>
 <label key="1879503444" value="Sigileth"/>
 <label key="1879503445" value="Glorfindel"/>
-<label key="1879503446" value="Follow"/>
-<label key="1879503447" value="Follow Noperception"/>
 <label key="1879503448" value="Kleine Schaufel"/>
 <label key="1879503449" value="Vogelei"/>
 <label key="1879503450" value="Verlorene Axt"/>
@@ -47059,7 +47039,7 @@
 <label key="1879503495" value="Übergreifende Fäulnis"/>
 <label key="1879503496" value="Gefallener Utûgi-Krieger"/>
 <label key="1879503497" value="Geschichtsband"/>
-<label key="1879503498" value="TBD Nest"/>
+<label key="1879503498" value="Kighânisches Vogelnest"/>
 <label key="1879503499" value="Linke Mauer von Emax Dûl"/>
 <label key="1879503500" value="Kaputter Eimer"/>
 <label key="1879503501" value="Wassereimer"/>
@@ -47102,4 +47082,403 @@
 <label key="1879504010" value="Amalíbi"/>
 <label key="1879504011" value="Numûru"/>
 <label key="1879504054" value="Udûn"/>
+<label key="1879504062" value="GNDN"/>
+<label key="1879504063" value="GNDN"/>
+<label key="1879504064" value="GNDN"/>
+<label key="1879504065" value="GNDN"/>
+<label key="1879506112" value="Antlitz Gil-galads"/>
+<label key="1879506113" value="Antlitz Saurons"/>
+<label key="1879506169" value="Der Reiffall"/>
+<label key="1879506294" value="Temámir-Stimme"/>
+<label key="1879506295" value="Rahâzi"/>
+<label key="1879506312" value="Wilmac Lehming"/>
+<label key="1879506313" value="Gurnazt"/>
+<label key="1879506314" value="Kaltfelsen-Kräuterkundiger"/>
+<label key="1879506315" value="General-Hauptmann von Kaltfelsen"/>
+<label key="1879506316" value="Kaltfelsen-Bogenmeister"/>
+<label key="1879506317" value="Blogmal-Saboteur"/>
+<label key="1879506318" value="Ongbúrz-Tyrann"/>
+<label key="1879506319" value="Ongbúrz-Schwarzpfeil"/>
+<label key="1879506332" value="Außenposten-Händler"/>
+<label key="1879506333" value="Außenposten-Händler"/>
+<label key="1879506337" value="Befreiter Gefangener"/>
+<label key="1879506338" value="Gefangene Umbar"/>
+<label key="1879506339" value="Rothog"/>
+<label key="1879506340" value="Befreite Gefangene"/>
+<label key="1879506341" value="Gefängniswache"/>
+<label key="1879506342" value="Tatháta"/>
+<label key="1879506343" value="Jajax"/>
+<label key="1879506344" value="Belondor"/>
+<label key="1879506345" value="Gefangener Umbar"/>
+<label key="1879506346" value="Getöteter Wächter"/>
+<label key="1879506347" value="Getöteter Wächter"/>
+<label key="1879506348" value="Erbengetreuer Verteidiger"/>
+<label key="1879506349" value="Khôltekhs Fußsoldat"/>
+<label key="1879506350" value="Jajax"/>
+<label key="1879506351" value="Tür"/>
+<label key="1879506352" value="GNDN"/>
+<label key="1879506355" value="DNT Teleport 7.Uprising Two to Three"/>
+<label key="1879506356" value="DNT Teleport 7.Uprising One to Two"/>
+<label key="1879506420" value="Zellentür"/>
+<label key="1879506515" value="Kochendes Öl"/>
+<label key="1879506750" value="Belondor"/>
+<label key="1879506751" value="Rothog"/>
+<label key="1879506752" value="Khôltekh"/>
+<label key="1879506753" value="Azagath"/>
+<label key="1879506754" value="Tumúldo"/>
+<label key="1879506755" value="Tatháta"/>
+<label key="1879506756" value="Hármelak"/>
+<label key="1879506757" value="Wächter der Zitadelle"/>
+<label key="1879506758" value="Nehmt seine Hand"/>
+<label key="1879506760" value="DNT Nakasi Costume Applier"/>
+<label key="1879506788" value="Góramul Sai"/>
+<label key="1879506789" value="Ratúlko der Blutige"/>
+<label key="1879506791" value="Góramul Sai"/>
+<label key="1879506792" value="Dunkle Priesterin Barkhuráni"/>
+<label key="1879506793" value="Königliche Wache"/>
+<label key="1879506794" value="Priester des Schattens"/>
+<label key="1879506795" value="Bezauberte Gefangene"/>
+<label key="1879506796" value="Utûgi-Moloch"/>
+<label key="1879506797" value="Thothril die Verstrickerin"/>
+<label key="1879506798" value="Vision des Untergangs"/>
+<label key="1879506799" value="Grüne Phiole"/>
+<label key="1879506800" value="Purpurne Phiole"/>
+<label key="1879506801" value="Utûgi-Pfähler"/>
+<label key="1879506802" value="Priesterin des Befehls"/>
+<label key="1879506803" value="Bild von Thothril"/>
+<label key="1879506804" value="Bezauberte Dienerin"/>
+<label key="1879506805" value="Blutiger Folterknecht"/>
+<label key="1879506806" value="Beseelte Rüstung"/>
+<label key="1879506807" value="Blaue Phiole"/>
+<label key="1879506808" value="Bild von Thothril"/>
+<label key="1879506809" value="Orangefarbene Phiole"/>
+<label key="1879506810" value="Animierte Waffe"/>
+<label key="1879506811" value="Palastwache"/>
+<label key="1879506812" value="Bezauberter Diener"/>
+<label key="1879506813" value="Schattenschrecken"/>
+<label key="1879506814" value="Gelbe Phiole"/>
+<label key="1879506816" value="Palastgarde"/>
+<label key="1879506817" value="Wachhauptmann"/>
+<label key="1879506818" value="Rote Phiole"/>
+<label key="1879506820" value="Schattensucher"/>
+<label key="1879506821" value="Königliche Wache"/>
+<label key="1879506822" value="Bezauberter Gefangener"/>
+<label key="1879507026" value="Kamellia Knopfblüt"/>
+<label key="1879507027" value="Maginard Fuchsflink"/>
+<label key="1879507028" value="Spitzmaus-Räuber"/>
+<label key="1879507029" value="Humbert Dornbau"/>
+<label key="1879507030" value="Habbo Schafgarb"/>
+<label key="1879507031" value="Verirrter Hobbit"/>
+<label key="1879507032" value="Nila Brombeer"/>
+<label key="1879507033" value="Fredegunda Schnitt"/>
+<label key="1879507034" value="Corbo Stollen"/>
+<label key="1879507061" value="Zitadellen-Kohlenbecken"/>
+<label key="1879507075" value="GNDN"/>
+<label key="1879507083" value="Sarah Seichtufers Buch"/>
+<label key="1879507084" value="Ponto Unterbergs Schaufel"/>
+<label key="1879507085" value="Pell Steinblatts Schnitzmesser"/>
+<label key="1879507086" value="Spitzmausnest"/>
+<label key="1879507087" value="Ferdibrand Tuks Pfeife"/>
+<label key="1879507088" value="Ethelinda Burrs Teekanne"/>
+<label key="1879507089" value="Ferumbras Attereeves Lieblingskrug"/>
+<label key="1879507124" value="Grüner Apfel"/>
+<label key="1879507125" value="Kohlkopf"/>
+<label key="1879507126" value="Kartoffel"/>
+<label key="1879507127" value="Rüben"/>
+<label key="1879507128" value="Zwiebel"/>
+<label key="1879507129" value="Roter Apfel"/>
+<label key="1879507130" value="Goldener Apfel"/>
+<label key="1879507131" value="Corbos Gemüse"/>
+<label key="1879507132" value="Habbos Äpfel"/>
+<label key="1879507161" value="Animierter Schleim"/>
+<label key="1879507392" value="Habâti"/>
+<label key="1879507393" value="Sigileth"/>
+<label key="1879507394" value="Cúridwan"/>
+<label key="1879507395" value="Corudan"/>
+<label key="1879507396" value="Rahâzi"/>
+<label key="1879507397" value="Rahâzi"/>
+<label key="1879507398" value="Rahâzi"/>
+<label key="1879507399" value="Cúridwan"/>
+<label key="1879507400" value="Rahâzi"/>
+<label key="1879507401" value="Rahâzi"/>
+<label key="1879507402" value="Corudan"/>
+<label key="1879507403" value="Cúridwan"/>
+<label key="1879507404" value="Corudan"/>
+<label key="1879507405" value="TBD ORDAKH FEMALE A"/>
+<label key="1879507406" value="Corudan"/>
+<label key="1879507407" value="TBD ORDAKH MALE A"/>
+<label key="1879507408" value="Rahâzi"/>
+<label key="1879507409" value="Zu untersuchende Stelle"/>
+<label key="1879507410" value="Ablageort"/>
+<label key="1879507411" value="Vorratskiste der Korsaren"/>
+<label key="1879507412" value="Ablageort"/>
+<label key="1879507413" value="Ablageort"/>
+<label key="1879507414" value="Gekennzeichnete Kiste"/>
+<label key="1879507415" value="Kanonenskizzen"/>
+<label key="1879507416" value="Toter Ork"/>
+<label key="1879507417" value="Vorratskiste der Korsaren"/>
+<label key="1879507418" value="Zu untersuchende Stelle"/>
+<label key="1879507419" value="Gekennzeichnete Kiste"/>
+<label key="1879507420" value="Vorratskiste der Korsaren"/>
+<label key="1879507421" value="Narghâks Kanonen"/>
+<label key="1879507425" value="Stoffsack"/>
+<label key="1879507426" value="Elbenpfeil"/>
+<label key="1879507427" value="Kleine Schaufel"/>
+<label key="1879507428" value="Korsaren-Klinge"/>
+<label key="1879507429" value="Ordâkh-Klinge"/>
+<label key="1879507430" value="Flasche voll Narghâk"/>
+<label key="1879507431" value="Seuchenkapsel"/>
+<label key="1879507581" value="GNDN"/>
+<label key="1879507597" value="Truhe der Verstrickerin (Solo)"/>
+<label key="1879507598" value="Truhe der Verstrickerin (Stufe 2)"/>
+<label key="1879507599" value="Truhe der Verstrickerin (Stufe 3)"/>
+<label key="1879507600" value="Truhe der dunklen Priesterin (Stufe 2)"/>
+<label key="1879507601" value="Truhe der dunklen Priesterin (Solo)"/>
+<label key="1879507602" value="Truhe der dunklen Priesterin (Stufe 3)"/>
+<label key="1879507603" value="Truhe des Blutwächters (Stufe 2)"/>
+<label key="1879507604" value="Truhe der Verstrickerin (Stufe 1)"/>
+<label key="1879507605" value="Truhe der dunklen Priesterin (Stufe 1)"/>
+<label key="1879507606" value="Truhe des Blutwächters (Stufe 3)"/>
+<label key="1879507608" value="Truhe des Blutwächters (Solo)"/>
+<label key="1879507609" value="Truhe des Blutwächters (Stufe 1)"/>
+<label key="1879507610" value="GNDN"/>
+<label key="1879507611" value="GNDN"/>
+<label key="1879507612" value="GNDN"/>
+<label key="1879507613" value="GNDN"/>
+<label key="1879507614" value="GNDN"/>
+<label key="1879507615" value="GNDN"/>
+<label key="1879507618" value="Versuchsergebnis - Blut"/>
+<label key="1879507621" value="Versuchsergebnis - Kleber"/>
+<label key="1879507622" value="Versuchsergebnis - Blut"/>
+<label key="1879507624" value="Klebrige Pfütze"/>
+<label key="1879507625" value="Versuchsergebnis - Schlaf"/>
+<label key="1879507627" value="Versuchsergebnis - Macht"/>
+<label key="1879507630" value="Versuchsergebnis - Wut"/>
+<label key="1879507632" value="Versuchsergebnis - Gift"/>
+<label key="1879507670" value="Brandeisen des Folterknechts"/>
+<label key="1879507810" value="Höhlenklauenbau"/>
+<label key="1879507813" value="Fauler Apfel"/>
+<label key="1879507814" value="Faulendes Gemüse"/>
+<label key="1879507816" value="GNDN"/>
+<label key="1879507867" value="Kiste voller Stiefel"/>
+<label key="1879507870" value="Räuberische Höhlenklaue"/>
+<label key="1879507900" value="Verschlingende Finsternis"/>
+<label key="1879507944" value="DNT - Dispel"/>
+<label key="1879507954" value="DNT - Clear Domination"/>
+<label key="1879507989" value="GNDN"/>
+<label key="1879507999" value="Vorhangzug"/>
+<label key="1879508149" value="Kettenpeitsche"/>
+<label key="1879508163" value="Zeremonienmeisterin"/>
+<label key="1879508164" value="Zeremonienmeisterin"/>
+<label key="1879508165" value="Feldlager - Lugazag"/>
+<label key="1879508166" value="Feldlager - Tírith Rhaw"/>
+<label key="1879508171" value="Truhe von Tírith Rhaw"/>
+<label key="1879508172" value="Truhe von Tírith Rhaw"/>
+<label key="1879508174" value="Truhe von Lugazag"/>
+<label key="1879508177" value="Truhe von Lugazag"/>
+<label key="1879508203" value="Beseelte Rüstung"/>
+<label key="1879508280" value="DNT - Corrupted Spear Target"/>
+<label key="1879508286" value="Verderbter Speer"/>
+<label key="1879508287" value="Verderbter-Speer-Stoß"/>
+<label key="1879508669" value="DNT - Clear Madness"/>
+<label key="1879508671" value="DNT - Reveal Failure"/>
+<label key="1879508672" value="Steigende Dunkelheit"/>
+<label key="1879508673" value="Sog des Wahnsinns - Fern"/>
+<label key="1879508674" value="Sog des Wahnsinns - Mittel"/>
+<label key="1879508686" value="Sog des Wahnsinns - Nah"/>
+<label key="1879508774" value="DNT - Capture Lug MP"/>
+<label key="1879508781" value="DNT - Capture TR P"/>
+<label key="1879508783" value="DNT - Capture Lug P"/>
+<label key="1879508784" value="DNT - Capture TR MP"/>
+<label key="1879508799" value="Hereinbrechende Dunkelheit"/>
+<label key="1879508864" value="Rokhâran"/>
+<label key="1879508865" value="TBD"/>
+<label key="1879508866" value="Azagâya"/>
+<label key="1879508867" value="Masûlga"/>
+<label key="1879508868" value="TBD"/>
+<label key="1879508869" value="TBD"/>
+<label key="1879508870" value="Mashôr"/>
+<label key="1879508871" value="TBD"/>
+<label key="1879508872" value="Gefangener von Zajâna"/>
+<label key="1879508873" value="Mizâdi"/>
+<label key="1879508874" value="TBD"/>
+<label key="1879508875" value="TBD"/>
+<label key="1879508876" value="TBD"/>
+<label key="1879508877" value="Masûlga"/>
+<label key="1879508878" value="Mashôr"/>
+<label key="1879508879" value="Jârano"/>
+<label key="1879508880" value="TBD"/>
+<label key="1879508881" value="Mizâdi"/>
+<label key="1879508882" value="TBD"/>
+<label key="1879508883" value="Mizâdi"/>
+<label key="1879508884" value="TBD"/>
+<label key="1879508885" value="Oren"/>
+<label key="1879508886" value="Sarâgh"/>
+<label key="1879508887" value="Jârano"/>
+<label key="1879508888" value="TBD"/>
+<label key="1879508889" value="Mizâdi"/>
+<label key="1879508890" value="Rokhâran"/>
+<label key="1879508891" value="TBD"/>
+<label key="1879508892" value="Rokhâran"/>
+<label key="1879508893" value="TBD"/>
+<label key="1879508894" value="TBD"/>
+<label key="1879508895" value="TBD"/>
+<label key="1879508896" value="Mizâdi"/>
+<label key="1879508897" value="TBD"/>
+<label key="1879508898" value="Oren"/>
+<label key="1879508899" value="TBD"/>
+<label key="1879508900" value="TBD"/>
+<label key="1879508901" value="TBD"/>
+<label key="1879508902" value="Oren"/>
+<label key="1879508903" value="TBD"/>
+<label key="1879508904" value="Kaufmannin"/>
+<label key="1879508905" value="Rokhâran"/>
+<label key="1879508906" value="TBD"/>
+<label key="1879508907" value="Oren"/>
+<label key="1879508908" value="Sarâgh"/>
+<label key="1879508909" value="TBD"/>
+<label key="1879508910" value="TBD"/>
+<label key="1879508911" value="Jârano"/>
+<label key="1879508912" value="Jârano"/>
+<label key="1879508913" value="TBD"/>
+<label key="1879508914" value="TBD"/>
+<label key="1879508915" value="Mizâdi"/>
+<label key="1879508916" value="Jârano"/>
+<label key="1879508917" value="Sarâgh"/>
+<label key="1879508918" value="Azagâya"/>
+<label key="1879508919" value="TBD"/>
+<label key="1879508920" value="TBD"/>
+<label key="1879508921" value="Masûlga"/>
+<label key="1879508922" value="Razâl"/>
+<label key="1879508923" value="TBD"/>
+<label key="1879508924" value="TBD"/>
+<label key="1879508925" value="Gefangene von Zajâna"/>
+<label key="1879508926" value="Mizâdi"/>
+<label key="1879508927" value="TBD"/>
+<label key="1879508928" value="Oren"/>
+<label key="1879508929" value="TBD"/>
+<label key="1879508930" value="TBD"/>
+<label key="1879508931" value="Azagâya"/>
+<label key="1879508932" value="Mashôr"/>
+<label key="1879508933" value="TBD"/>
+<label key="1879508935" value="Mizâdi"/>
+<label key="1879508936" value="Sarâgh"/>
+<label key="1879508937" value="Oren"/>
+<label key="1879508938" value="Mashôr"/>
+<label key="1879508939" value="Mashôr"/>
+<label key="1879508940" value="TBD"/>
+<label key="1879508941" value="Masûlga"/>
+<label key="1879508942" value="Masûlga"/>
+<label key="1879508943" value="TBD"/>
+<label key="1879508944" value="TBD"/>
+<label key="1879508945" value="Jolakári"/>
+<label key="1879508946" value="TBD"/>
+<label key="1879508947" value="TBD"/>
+<label key="1879508948" value="Mizâdi"/>
+<label key="1879508949" value="Numûru"/>
+<label key="1879508950" value="TBD"/>
+<label key="1879508951" value="TBD"/>
+<label key="1879508952" value="Kaufmann"/>
+<label key="1879508953" value="TBD"/>
+<label key="1879508954" value="Jârano"/>
+<label key="1879508955" value="Azagâya"/>
+<label key="1879508957" value="TBD"/>
+<label key="1879508958" value="Oren"/>
+<label key="1879509030" value="Gespaltene Realität"/>
+<label key="1879509032" value="Fest-Hafenmeister"/>
+<label key="1879509122" value="Geheimnisvolles Buch"/>
+<label key="1879509123" value="Pohâni-Schriften"/>
+<label key="1879509124" value="Zeremonielles Hamâti-Schwert"/>
+<label key="1879509125" value="Oryx-Fleisch für Fallen"/>
+<label key="1879509127" value="TBD"/>
+<label key="1879509128" value="Huorn-Holz"/>
+<label key="1879509129" value="TBD"/>
+<label key="1879509130" value="TBD"/>
+<label key="1879509131" value="Zajâni-Schwert"/>
+<label key="1879509132" value="Schüssel mit Essen"/>
+<label key="1879509133" value="Sarâghs Erlass"/>
+<label key="1879509134" value="Hinweis"/>
+<label key="1879509136" value="TBD"/>
+<label key="1879509137" value="Frischer Käse"/>
+<label key="1879509138" value="Wassereimer"/>
+<label key="1879509139" value="Hinweis"/>
+<label key="1879509140" value="Hinweis"/>
+<label key="1879509141" value="Pohâni-Blume"/>
+<label key="1879509142" value="Huorn-Holz"/>
+<label key="1879509144" value="Schriftrolle"/>
+<label key="1879509145" value="Holz für Fallen"/>
+<label key="1879509146" value="Gemähtes Gras"/>
+<label key="1879509147" value="Honigwaben"/>
+<label key="1879509148" value="Federkiel"/>
+<label key="1879509149" value="Kräuterbündel"/>
+<label key="1879509150" value="TBD's Relic"/>
+<label key="1879509151" value="Stück Stoff"/>
+<label key="1879509154" value="Schätze?"/>
+<label key="1879509155" value="Seltsames Tagebuch"/>
+<label key="1879509156" value="TBD's Treasure"/>
+<label key="1879509157" value="Orange for TBD"/>
+<label key="1879509158" value="Die Geschichte Zajânas"/>
+<label key="1879509159" value="Oryx-Suppenfleisch"/>
+<label key="1879509160" value="Kighâni-Kartoffel"/>
+<label key="1879509161" value="Stöcke zum Feuermachen"/>
+<label key="1879509162" value="Honigwaben"/>
+<label key="1879509163" value="TBD"/>
+<label key="1879509165" value="TBD"/>
+<label key="1879509167" value="TBD's Journal Page"/>
+<label key="1879509169" value="TBD"/>
+<label key="1879509241" value="Serval-Käfig"/>
+<label key="1879509242" value="Bereich für Schwarzpulver"/>
+<label key="1879509243" value="Platz für Wasserschüssel"/>
+<label key="1879509244" value="Karakal-Käfig"/>
+<label key="1879509245" value="Bereich für Hinweise"/>
+<label key="1879509246" value="Kräuter zum Ernten"/>
+<label key="1879509247" value="Bereich für Hinweise"/>
+<label key="1879509248" value="Freundliche Bienenkönigin"/>
+<label key="1879509249" value="Bereich für Hinweise"/>
+<label key="1879509250" value="Verbrannte Lagerfeuerscheite"/>
+<label key="1879509251" value="Palisadentür"/>
+<label key="1879509252" value="Bilwiss-Katapult"/>
+<label key="1879509253" value="Bereich für Hinweise"/>
+<label key="1879509254" value="Bilwiss-Kessel"/>
+<label key="1879509255" value="Hinweis"/>
+<label key="1879509256" value="Bereich für Hinweise"/>
+<label key="1879509257" value="Bereich für Hinweise"/>
+<label key="1879509258" value="Bereich für Hinweise"/>
+<label key="1879509259" value="Platz für Geschenkschwert"/>
+<label key="1879509260" value="Honigvorrat"/>
+<label key="1879509261" value="Eine Lieferung Käse"/>
+<label key="1879509262" value="Bereich mit frischem Wasser"/>
+<label key="1879509263" value="Rokhâran-Beweis"/>
+<label key="1879509264" value="Stelle mit Spinnennetz"/>
+<label key="1879509265" value="Bereich für Hinweise"/>
+<label key="1879509266" value="Kranker Schössling"/>
+<label key="1879509267" value="Denkmal"/>
+<label key="1879509268" value="Hinweis"/>
+<label key="1879509269" value="Hinweis"/>
+<label key="1879509270" value="Platz für Schüssel mit Essen"/>
+<label key="1879509271" value="Pflanzbereich"/>
+<label key="1879509272" value="Bereich für gemähtes Gras"/>
+<label key="1879509273" value="Spinnenkokon"/>
+<label key="1879509274" value="Schwarze Pulver"/>
+<label key="1879509275" value="Moosbedecktes Grab"/>
+<label key="1879509276" value="Bereich für Wasser"/>
+<label key="1879509277" value="Frischer Grasfleck"/>
+<label key="1879509278" value="Hinweis"/>
+<label key="1879509279" value="Laugengetränktes Grab"/>
+<label key="1879509280" value="Azagâya-Beweis"/>
+<label key="1879509281" value="Eintopfkessel"/>
+<label key="1879509282" value="Buch über Feuer"/>
+<label key="1879509283" value="Palisadentür"/>
+<label key="1879509284" value="Zutaten für Eintopf"/>
+<label key="1879509285" value="Pflanzbereich für Blumen"/>
+<label key="1879509286" value="Numûrus Eintopf"/>
+<label key="1879509287" value="Azagâyas Schatzspeicher"/>
+<label key="1879509288" value="Zellentür"/>
+<label key="1879509289" value="Sauberes Grab"/>
+<label key="1879509290" value="Bereich zum Gießen"/>
+<label key="1879509291" value="Honigvorrat"/>
+<label key="1879509294" value="TBD"/>
+<label key="1879509413" value="Tasche"/>
+<label key="1879509414" value="Tasche"/>
+<label key="1879509502" value="Der Reiffall"/>
 </labels>
