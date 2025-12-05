@@ -1,4 +1,396 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1610158085" label="Door" category="100" did="1879497034" parentZoneId="1879513797" longitude="52.901386" latitude="68.359276"/>
+<marker id="1610158086" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158087" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158088" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158089" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158090" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158091" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158092" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158093" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158094" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.897343" latitude="68.77092"/>
+<marker id="1610158095" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.908066" latitude="68.41232"/>
+<marker id="1610158096" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.896503" latitude="68.41324"/>
+<marker id="1610158097" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.233006" latitude="68.90521"/>
+<marker id="1610158098" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.910877" latitude="68.45558"/>
+<marker id="1610158099" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.889744" latitude="68.455215"/>
+<marker id="1610158100" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.29672" latitude="68.97773"/>
+<marker id="1610158101" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.210682" latitude="68.90445"/>
+<marker id="1610158102" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.19031" latitude="68.84162"/>
+<marker id="1610158103" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.190937" latitude="68.96855"/>
+<marker id="1610158104" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.294334" latitude="68.861755"/>
+<marker id="1610158105" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.255096" latitude="68.90537"/>
+<marker id="1610158106" label="Altachár the Slayer" category="71" did="1879518317" parentZoneId="1879513797" longitude="52.90043" latitude="68.46992"/>
+<marker id="1610158107" label="Door" category="100" did="1879497034" parentZoneId="1879513797" longitude="52.900917" latitude="68.35894"/>
+<marker id="1610158108" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.27049" latitude="68.90482"/>
+<marker id="1610158109" label="Ordâkhai Weapon" category="73" did="1879517074" parentZoneId="1879513797" longitude="52.596443" latitude="68.88117"/>
+<marker id="1610158110" label="Ordâkhai Weapon" category="73" did="1879517074" parentZoneId="1879513797" longitude="52.58078" latitude="68.9316"/>
+<marker id="1610158111" label="Ordâkhai Weapon" category="73" did="1879517074" parentZoneId="1879513797" longitude="52.578552" latitude="68.88279"/>
+<marker id="1610158112" label="Ordâkhai Weapon" category="73" did="1879517074" parentZoneId="1879513797" longitude="52.539726" latitude="68.909904"/>
+<marker id="1610158113" label="Ordâkhai Weapon" category="73" did="1879517074" parentZoneId="1879513797" longitude="52.59738" latitude="68.9276"/>
+<marker id="1610158114" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.294453" latitude="68.8341"/>
+<marker id="1610158115" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.298416" latitude="68.995155"/>
+<marker id="1610158116" label="Portcullis" category="100" did="1879502525" parentZoneId="1879513797" longitude="53.15787" latitude="68.90765"/>
+<marker id="1610158117" label="Numûru" category="71" did="1879516508" parentZoneId="1879513797" longitude="52.890507" latitude="68.41957"/>
+<marker id="1610158120" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.901775" latitude="68.94697"/>
+<marker id="1610158121" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.681267" latitude="68.90947"/>
+<marker id="1610158122" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="53.127186" latitude="68.915504"/>
+<marker id="1610158123" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.913574" latitude="68.94404"/>
+<marker id="1610158124" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.681034" latitude="68.92164"/>
+<marker id="1610158125" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="53.12619" latitude="68.905525"/>
+<marker id="1610158126" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.88918" latitude="68.9433"/>
+<marker id="1610158127" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.688065" latitude="68.89824"/>
+<marker id="1610158128" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.124313" latitude="68.89697"/>
+<marker id="1610158129" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.913242" latitude="68.66842"/>
+<marker id="1610158130" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.902596" latitude="68.66797"/>
+<marker id="1610158131" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.891502" latitude="68.66783"/>
+<marker id="1610158132" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.910095" latitude="68.75929"/>
+<marker id="1610158133" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.893826" latitude="68.75859"/>
+<marker id="1610158137" label="Shâpar" category="70" did="1879519039" parentZoneId="1879513797" longitude="52.901268" latitude="68.8508"/>
+<marker id="1610158139" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.930508" latitude="68.899864"/>
+<marker id="1610158140" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="53.199043" latitude="68.9848"/>
+<marker id="1610158141" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="53.213104" latitude="68.830055"/>
+<marker id="1610158142" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.8859" latitude="68.76154"/>
+<marker id="1610158143" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.808163" latitude="68.7499"/>
+<marker id="1610158144" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.56664" latitude="68.867966"/>
+<marker id="1610158145" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.563766" latitude="68.942696"/>
+<marker id="1610158146" label="Ordâkhai Look-out" category="71" did="1879519107" parentZoneId="1879513797" longitude="52.82176" latitude="68.95105"/>
+<marker id="1610158147" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="53.07953" latitude="68.89291"/>
+<marker id="1610158148" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.903046" latitude="68.67074"/>
+<marker id="1610158149" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.963318" latitude="68.7401"/>
+<marker id="1610158150" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.500114" latitude="68.99859"/>
+<marker id="1610158151" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.600525" latitude="68.98808"/>
+<marker id="1610158152" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="52.839256" latitude="69.00924"/>
+<marker id="1610158153" label="Ordâkhai Sorcerer" category="71" did="1879519106" parentZoneId="1879513797" longitude="53.156796" latitude="68.92322"/>
+<marker id="1610158154" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.8742" latitude="68.90197"/>
+<marker id="1610158155" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.24568" latitude="69.007614"/>
+<marker id="1610158156" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.49951" latitude="68.90408"/>
+<marker id="1610158157" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.291973" latitude="68.986305"/>
+<marker id="1610158158" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.978592" latitude="68.949646"/>
+<marker id="1610158159" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.500996" latitude="68.83824"/>
+<marker id="1610158160" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.26789" latitude="68.901054"/>
+<marker id="1610158161" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.726833" latitude="68.8998"/>
+<marker id="1610158162" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.933846" latitude="68.7339"/>
+<marker id="1610158163" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.612556" latitude="68.82586"/>
+<marker id="1610158164" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.528767" latitude="68.81652"/>
+<marker id="1610158165" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.08279" latitude="68.91996"/>
+<marker id="1610158166" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.72627" latitude="68.90787"/>
+<marker id="1610158167" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.248222" latitude="68.826775"/>
+<marker id="1610158168" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.95998" latitude="68.69238"/>
+<marker id="1610158169" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.93273" latitude="68.94598"/>
+<marker id="1610158170" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.893845" latitude="68.67189"/>
+<marker id="1610158171" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="53.268417" latitude="68.91332"/>
+<marker id="1610158172" label="Ordâkhai Warrior" category="71" did="1879519105" parentZoneId="1879513797" longitude="52.835644" latitude="68.69375"/>
+<marker id="1610158188" label="Shâpar" category="70" did="1879519039" parentZoneId="1879513797" longitude="52.90158" latitude="68.588455"/>
+<marker id="1610158224" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879513797" longitude="52.926113" latitude="68.462265"/>
+<marker id="1610158225" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879513797" longitude="52.925896" latitude="68.44334"/>
+<marker id="1610158229" label="Ordâkhai Barricade" category="73" did="1879517077" parentZoneId="1879513797" longitude="52.90205" latitude="68.63226"/>
+<marker id="1610158230" label="Ordâkhai Barricade" category="73" did="1879517077" parentZoneId="1879513797" longitude="52.63883" latitude="68.90764"/>
+<marker id="1610158231" label="Ordâkhai Barricade" category="73" did="1879517077" parentZoneId="1879513797" longitude="53.15836" latitude="68.90764"/>
+<marker id="1610158232" label="Udupóla Bóro" category="71" did="1879519108" parentZoneId="1879513797" longitude="52.903378" latitude="68.972984"/>
+<marker id="1610158233" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="53.318497" latitude="68.98847"/>
+<marker id="1610158234" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="53.27131" latitude="68.87639"/>
+<marker id="1610158235" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="53.20164" latitude="68.86865"/>
+<marker id="1610158236" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="53.199745" latitude="68.92934"/>
+<marker id="1610158237" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="53.293377" latitude="68.91141"/>
+<marker id="1610158238" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.830467" latitude="68.829765"/>
+<marker id="1610158239" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.93535" latitude="68.81523"/>
+<marker id="1610158240" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.80701" latitude="68.781975"/>
+<marker id="1610158241" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.87773" latitude="68.942635"/>
+<marker id="1610158242" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.93246" latitude="68.94619"/>
+<marker id="1610158243" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.576817" latitude="69.001465"/>
+<marker id="1610158244" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.55373" latitude="68.92109"/>
+<marker id="1610158245" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.5782" latitude="68.81107"/>
+<marker id="1610158246" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.6191" latitude="68.80351"/>
+<marker id="1610158247" label="Ordâkhai Bow" category="73" did="1879517056" parentZoneId="1879513797" longitude="52.62527" latitude="68.93631"/>
+<marker id="1610158248" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="53.19045" latitude="68.81953"/>
+<marker id="1610158249" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="53.313515" latitude="68.822014"/>
+<marker id="1610158250" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="53.24816" latitude="68.94257"/>
+<marker id="1610158251" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="53.137478" latitude="68.93193"/>
+<marker id="1610158252" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="53.1874" latitude="68.982185"/>
+<marker id="1610158253" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.82617" latitude="68.741264"/>
+<marker id="1610158254" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.870743" latitude="68.81271"/>
+<marker id="1610158255" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.932674" latitude="68.78313"/>
+<marker id="1610158256" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.92488" latitude="68.70244"/>
+<marker id="1610158257" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.97998" latitude="68.78135"/>
+<marker id="1610158258" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.587185" latitude="68.88359"/>
+<marker id="1610158259" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.49291" latitude="68.80162"/>
+<marker id="1610158260" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.485153" latitude="68.917496"/>
+<marker id="1610158261" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.618923" latitude="68.87193"/>
+<marker id="1610158262" label="Ordâkhai Spear" category="73" did="1879517055" parentZoneId="1879513797" longitude="52.6274" latitude="68.9732"/>
+<marker id="1610158263" label="Mádathal the Deathward" category="71" did="1879519288" parentZoneId="1879513797" longitude="52.899216" latitude="68.65183"/>
+<marker id="1610158264" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158265" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158266" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158267" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158268" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158269" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158270" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158271" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158272" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158273" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158274" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158275" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158276" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158277" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158278" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158279" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.918358" latitude="68.68015"/>
+<marker id="1610158280" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158281" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158282" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158283" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158284" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158285" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158286" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158287" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158288" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158289" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158290" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158291" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158292" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158293" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158294" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158295" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.888065" latitude="68.69295"/>
+<marker id="1610158296" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158297" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158298" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158299" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158300" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158301" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158302" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158303" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158304" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158305" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158306" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158307" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158308" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158309" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158310" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158311" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.89949" latitude="68.81564"/>
+<marker id="1610158312" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158313" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158314" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158315" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158316" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158317" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158318" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158319" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158320" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158321" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158322" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158323" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158324" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158325" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158326" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158327" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.835587" latitude="68.90256"/>
+<marker id="1610158328" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158329" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158330" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158331" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158332" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158333" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158334" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158335" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158336" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158337" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158338" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158339" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158340" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158341" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158342" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158343" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.89125" latitude="68.98191"/>
+<marker id="1610158344" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158345" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158346" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158347" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158348" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158349" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158350" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158351" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158352" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158353" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158354" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158355" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158356" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158357" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158358" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158359" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.90707" latitude="68.96377"/>
+<marker id="1610158360" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158361" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158362" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158363" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158364" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158365" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158366" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158367" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158368" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158369" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158370" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158371" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158372" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158373" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158374" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158375" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.98916" latitude="68.904724"/>
+<marker id="1610158376" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158377" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158378" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158379" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158380" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158381" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158382" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158383" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158384" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158385" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158386" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158387" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158388" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158389" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158390" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158391" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.27" latitude="68.910645"/>
+<marker id="1610158392" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158393" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158394" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158395" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158396" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158397" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158398" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158399" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158400" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158401" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158402" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158403" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158404" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158405" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158406" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158407" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.23795" latitude="68.9143"/>
+<marker id="1610158408" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158409" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158410" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158411" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158412" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158413" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158414" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158415" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158416" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158417" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158418" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158419" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158420" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158421" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158422" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158423" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.264805" latitude="68.989784"/>
+<marker id="1610158424" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158425" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158426" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158427" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158428" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158429" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158430" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158431" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158432" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158433" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158434" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158435" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158436" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158437" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158438" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158439" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.27039" latitude="68.83318"/>
+<marker id="1610158440" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158441" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158442" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158443" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158444" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158445" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158446" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158447" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158448" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158449" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158450" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158451" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158452" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158453" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158454" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158455" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.185154" latitude="68.843475"/>
+<marker id="1610158456" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158457" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158458" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158459" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158460" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158461" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158462" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158463" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158464" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158465" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158466" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158467" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158468" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158469" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158470" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158471" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.53125" latitude="68.8365"/>
+<marker id="1610158472" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158473" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158474" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158475" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158476" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158477" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158478" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158479" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158480" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158481" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158482" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158483" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158484" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158485" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158486" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158487" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.530037" latitude="68.97099"/>
+<marker id="1610158488" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158489" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158490" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158491" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158492" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158493" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158494" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158495" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158496" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158497" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158498" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158499" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158500" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158501" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158502" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158503" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.56455" latitude="68.905525"/>
+<marker id="1610158504" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158505" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158506" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158507" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158508" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158509" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158510" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158511" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158512" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158513" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158514" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158515" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158516" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158517" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158518" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158519" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="52.635643" latitude="68.90666"/>
+<marker id="1610158520" label="Idagâl Slaughterer" category="71" did="1879512742" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158521" label="Ordâkhai Cat-keeper" category="71" did="1879512901" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158522" label="Idagâl Obliterator" category="71" did="1879512741" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158523" label="Idagâl Devastator" category="71" did="1879512739" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158524" label="Ordâkhai Warrior" category="71" did="1879512898" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158525" label="Ordâkhai Look-out" category="71" did="1879512911" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158526" label="Ordâkhai Champion" category="71" did="1879512906" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158527" label="Royal Guard" category="71" did="1879516490" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158528" label="Emax Dûl Sentry" category="71" did="1879516503" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158529" label="Ordâkhai Sorceress" category="71" did="1879513302" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158530" label="Emax Dûl Guard" category="71" did="1879516497" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158531" label="Ordâkhai Bóro" category="71" did="1879513297" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158532" label="Ordâkhai Sorcerer" category="71" did="1879512912" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158533" label="Priestess of Command" category="71" did="1879516507" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158534" label="Ordâkhai Bóro" category="71" did="1879512889" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
+<marker id="1610158535" label="Priest of Shadow" category="71" did="1879516505" parentZoneId="1879513797" longitude="53.184628" latitude="68.90799"/>
 <marker id="1610166273" label="Mizâdi" category="71" did="1879503247" parentZoneId="1879503002" longitude="52.64574" latitude="71.00238"/>
 <marker id="1610166274" label="Mizâdi" category="71" did="1879503247" parentZoneId="1879503002" longitude="52.66496" latitude="69.66449"/>
 <marker id="1610166275" label="Portcullis" category="100" did="1879502524" parentZoneId="1879503002" longitude="52.085407" latitude="70.38953"/>

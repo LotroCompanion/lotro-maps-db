@@ -1511,6 +1511,62 @@
 <min longitude="-124.25" latitude="-6.7999997"/>
 <max longitude="-115.71667" latitude="-0.39999998"/>
 </map>
+<map id="268454914" name="Mûr Ghala (The Ridge of Plenty)" imageId="1093040697">
+<geo factor="14.375">
+<point longitude="-99.6" latitude="-20.156523"/>
+</geo>
+<min longitude="-99.6" latitude="-73.58261"/>
+<max longitude="-28.36522" latitude="-20.156523"/>
+</map>
+<map id="268454915" name="Idagâl" imageId="1093040696">
+<geo factor="25.5">
+<point longitude="-110.18824" latitude="-40.682354"/>
+</geo>
+<min longitude="-110.18824" latitude="-70.8"/>
+<max longitude="-70.03137" latitude="-40.682354"/>
+</map>
+<map id="268454941" name="An Shêru" imageId="1093043080">
+<geo factor="38.4375">
+<point longitude="-86.110565" latitude="-45.21951"/>
+</geo>
+<min longitude="-86.110565" latitude="-65.2"/>
+<max longitude="-59.469917" latitude="-45.21951"/>
+</map>
+<map id="268454943" name="" imageId="1093043074">
+<geo factor="37.125">
+<point longitude="-50.0" latitude="-16.513134"/>
+</geo>
+<min longitude="-50.0" latitude="-37.200005"/>
+<max longitude="-22.41751" latitude="-16.513134"/>
+</map>
+<map id="268454945" name="Kighân" imageId="1093043086">
+<geo factor="33.125">
+<point longitude="-70.5283" latitude="-46.015095"/>
+</geo>
+<min longitude="-70.5283" latitude="-69.2"/>
+<max longitude="-39.61509" latitude="-46.015095"/>
+</map>
+<map id="268454947" name="Kighân Zajâna" imageId="1093043077">
+<geo factor="115.625">
+<point longitude="-67.604324" latitude="-61.070267"/>
+</geo>
+<min longitude="-67.604324" latitude="-67.71243"/>
+<max longitude="-58.748108" latitude="-61.070267"/>
+</map>
+<map id="268454949" name="Adagím" imageId="1093043095">
+<geo factor="31.875">
+<point longitude="-58.737255" latitude="-30.705877"/>
+</geo>
+<min longitude="-58.737255" latitude="-54.799995"/>
+<max longitude="-26.611763" latitude="-30.705877"/>
+</map>
+<map id="268454959" name="Emax Dûl" imageId="1093043075">
+<geo factor="106.25">
+<point longitude="-92.4" latitude="-61.97176"/>
+</geo>
+<min longitude="-92.4" latitude="-69.2"/>
+<max longitude="-82.76235" latitude="-61.97176"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -10200,31 +10256,31 @@
 </map>
 <map id="1879501371" name="Premium House" imageId="1093003092">
 <geo factor="600.0">
-<point longitude="40.53334" latitude="45.6"/>
+<point longitude="40.53334" latitude="44.17334"/>
 </geo>
-<min longitude="40.53334" latitude="44.6"/>
-<max longitude="41.866673" latitude="45.6"/>
+<min longitude="40.53334" latitude="43.17334"/>
+<max longitude="41.866673" latitude="44.17334"/>
 </map>
-<map id="1879501372" name="Deluxe Premium House" imageId="1093003093">
-<geo factor="600.0">
-<point longitude="41.233337" latitude="45.55"/>
+<map id="1879501372" name="Deluxe Premium House" imageId="1093061868">
+<geo factor="599.99994">
+<point longitude="41.33666" latitude="44.12334"/>
 </geo>
-<min longitude="41.233337" latitude="44.55"/>
-<max longitude="42.56667" latitude="45.55"/>
+<min longitude="41.33666" latitude="43.12334"/>
+<max longitude="42.66999" latitude="44.12334"/>
 </map>
-<map id="1879501373" name="Deluxe Premium House" imageId="1093003094">
-<geo factor="600.0">
-<point longitude="42.03334" latitude="45.55"/>
+<map id="1879501373" name="Deluxe Premium House" imageId="1093061869">
+<geo factor="599.99994">
+<point longitude="42.136658" latitude="44.12334"/>
 </geo>
-<min longitude="42.03334" latitude="44.55"/>
-<max longitude="43.366673" latitude="45.55"/>
+<min longitude="42.136658" latitude="43.12334"/>
+<max longitude="43.46999" latitude="44.12334"/>
 </map>
 <map id="1879501374" name="Premium Kinship House" imageId="1093003095">
 <geo factor="600.0">
-<point longitude="42.92666" latitude="46.788338"/>
+<point longitude="44.52166" latitude="44.175"/>
 </geo>
-<min longitude="42.92666" latitude="43.788338"/>
-<max longitude="44.25999" latitude="46.788338"/>
+<min longitude="44.52166" latitude="43.175"/>
+<max longitude="45.854992" latitude="44.175"/>
 </map>
 <map id="1879501636" name="The Cracked Flagon&#10;Tâz Makhum" imageId="1093003601">
 <geo factor="600.0">
@@ -10240,14 +10296,14 @@
 <min longitude="-144.76833" latitude="70.19334"/>
 <max longitude="-143.435" latitude="71.19334"/>
 </map>
-<map id="1879501772" name="The Gaol" imageId="1093003723">
+<map id="1879501772" name="Within The Gaol" imageId="1093003723">
 <geo factor="600.0">
 <point longitude="-145.73332" latitude="70.2"/>
 </geo>
 <min longitude="-145.73332" latitude="68.2"/>
 <max longitude="-143.06665" latitude="70.2"/>
 </map>
-<map id="1879502131" name="Tatháta's Command" imageId="1093004276">
+<map id="1879502131" name="Sotóka, Belowdecks" imageId="1093004276">
 <geo factor="600.00006">
 <point longitude="-145.065" latitude="68.06334"/>
 </geo>
@@ -10303,22 +10359,22 @@
 <min longitude="49.69334" latitude="-66.93"/>
 <max longitude="55.026672" latitude="-62.93"/>
 </map>
-<map id="1879506395" name="TBD - AN SHERU INSTANCE" imageId="1093030366">
+<map id="1879506395" name="Kôth Rau" imageId="1093030366">
 <geo factor="300.0">
-<point longitude="-147.06667" latitude="65.67666"/>
+<point longitude="-145.42" latitude="65.47666"/>
 </geo>
-<min longitude="-147.06667" latitude="61.67666"/>
-<max longitude="-141.73334" latitude="65.67666"/>
+<min longitude="-145.42" latitude="61.47666"/>
+<max longitude="-140.08667" latitude="65.47666"/>
 </map>
-<map id="1879507060" name="TBD - ADAGIM RAID - LOBBY" imageId="1093033166">
+<map id="1879507060" name="The Folly of Nagakhêdi" imageId="1093033166">
 <geo factor="600.0">
-<point longitude="-145.06667" latitude="63.421658"/>
+<point longitude="-145.06667" latitude="63.448338"/>
 </geo>
-<min longitude="-145.06667" latitude="62.421658"/>
-<max longitude="-143.73334" latitude="63.421658"/>
+<min longitude="-145.06667" latitude="62.448338"/>
+<max longitude="-143.73334" latitude="63.448338"/>
 </map>
-<map id="1879507528" name="TBD - ADAGIM RAID - WING 1" imageId="1093034558">
-<geo factor="600.0">
+<map id="1879507528" name="The Folly of Nagakhêdi" imageId="1093034558">
+<geo factor="600.00006">
 <point longitude="-145.24667" latitude="61.67666"/>
 </geo>
 <min longitude="-145.24667" latitude="59.67666"/>
@@ -10331,46 +10387,207 @@
 <min longitude="52.77834" latitude="-112.846664"/>
 <max longitude="54.11167" latitude="-111.846664"/>
 </map>
-<map id="1879507580" name="TBD - ADAGIM RAID - WING 3" imageId="1093033570">
-<geo factor="300.0">
-<point longitude="-147.06667" latitude="61.226658"/>
-</geo>
-<min longitude="-147.06667" latitude="57.226658"/>
-<max longitude="-141.73334" latitude="61.226658"/>
-</map>
-<map id="1879507793" name="TBD - ADAGIM RAID - WING 4" imageId="1093034557">
+<map id="1879507580" name="The Folly of Nagakhêdi" imageId="1093033570">
 <geo factor="600.0">
-<point longitude="-145.58333" latitude="58.55"/>
+<point longitude="-145.73332" latitude="60.07834"/>
 </geo>
-<min longitude="-145.58333" latitude="56.55"/>
-<max longitude="-142.91666" latitude="58.55"/>
+<min longitude="-145.73332" latitude="58.07834"/>
+<max longitude="-143.06665" latitude="60.07834"/>
 </map>
-<map id="1879508687" name="TBD - AN SHERU DIVE BAR" imageId="1093038727">
+<map id="1879507793" name="The Folly of Nagakhêdi" imageId="1093034557">
+<geo factor="600.0">
+<point longitude="-145.58499" latitude="58.55"/>
+</geo>
+<min longitude="-145.58499" latitude="56.55"/>
+<max longitude="-142.91832" latitude="58.55"/>
+</map>
+<map id="1879508687" name="The Camel and Chimes" imageId="1093038727">
 <geo factor="600.0">
 <point longitude="-145.06166" latitude="56.88334"/>
 </geo>
 <min longitude="-145.06166" latitude="55.88334"/>
 <max longitude="-143.72833" latitude="56.88334"/>
 </map>
-<map id="1879508688" name="TBD - DWARF TOMB" imageId="1093038726">
+<map id="1879508688" name="Tomb of Semayâti the Unyielding" imageId="1093038726">
 <geo factor="600.00006">
 <point longitude="-145.06667" latitude="55.449997"/>
 </geo>
 <min longitude="-145.06667" latitude="54.449997"/>
 <max longitude="-143.73334" latitude="55.449997"/>
 </map>
-<map id="1879508829" name="TBD - JIRET-MENESH" imageId="1093039490">
+<map id="1879508829" name="Gêta's Meeting-hall" imageId="1093039490">
 <geo factor="600.0">
 <point longitude="-145.06667" latitude="54.0"/>
 </geo>
 <min longitude="-145.06667" latitude="53.0"/>
 <max longitude="-143.73334" latitude="54.0"/>
 </map>
-<map id="1879509384" name="TBD - ADAGIM RAID - WING 2" imageId="1093040650">
-<geo factor="600.0">
+<map id="1879509384" name="The Folly of Nagakhêdi" imageId="1093040650">
+<geo factor="599.99994">
 <point longitude="-144.80667" latitude="63.875"/>
 </geo>
 <min longitude="-144.80667" latitude="61.875"/>
 <max longitude="-142.14" latitude="63.875"/>
+</map>
+<map id="1879513794" name="Emax Dûl Servants' Quarters" imageId="1093046664">
+<geo factor="600.0">
+<point longitude="52.03334" latitude="64.55334"/>
+</geo>
+<min longitude="52.03334" latitude="63.553337"/>
+<max longitude="53.366673" latitude="64.55334"/>
+</map>
+<map id="1879513795" name="Emax Dûl Royal Living Quarters" imageId="1093046663">
+<geo factor="1200.0">
+<point longitude="52.2325" latitude="61.900837"/>
+</geo>
+<min longitude="52.2325" latitude="60.900837"/>
+<max longitude="53.56583" latitude="61.900837"/>
+</map>
+<map id="1879513796" name="Belly of Emax Dûl" imageId="1093046671">
+<geo factor="600.00006">
+<point longitude="49.7" latitude="63.789997"/>
+</geo>
+<min longitude="49.7" latitude="62.789997"/>
+<max longitude="51.033333" latitude="63.789997"/>
+</map>
+<map id="1879513797" name="Emax Dûl Guard Barracks" imageId="1093046674">
+<geo factor="600.00006">
+<point longitude="52.233337" latitude="69.20334"/>
+</geo>
+<min longitude="52.233337" latitude="68.20334"/>
+<max longitude="53.56667" latitude="69.20334"/>
+</map>
+<map id="1879513798" name="The Haunt of Kidu-bâla" imageId="1093046670">
+<geo factor="431.99997">
+<point longitude="50.17547" latitude="66.58888"/>
+</geo>
+<min longitude="50.17547" latitude="65.2"/>
+<max longitude="52.02732" latitude="66.58888"/>
+</map>
+<map id="1879513799" name="Infirmary of the Harlond" imageId="1093046672">
+<geo factor="600.0">
+<point longitude="51.823338" latitude="67.36166"/>
+</geo>
+<min longitude="51.823338" latitude="66.36166"/>
+<max longitude="53.15667" latitude="67.36166"/>
+</map>
+<map id="1879513800" name="Esh Mêkag Prison" imageId="1093046667">
+<geo factor="432.00003">
+<point longitude="47.97408" latitude="61.13334"/>
+</geo>
+<min longitude="47.97408" latitude="58.35556"/>
+<max longitude="51.677784" latitude="61.13334"/>
+</map>
+<map id="1879513801" name="Emax Dûl Undercroft" imageId="1093046665">
+<geo factor="600.0">
+<point longitude="49.254997" latitude="58.5"/>
+</geo>
+<min longitude="49.254997" latitude="56.5"/>
+<max longitude="51.921665" latitude="58.5"/>
+</map>
+<map id="1879514672" name="Crypts of Gadim-ûn" imageId="1093049569">
+<geo factor="300.0">
+<point longitude="-145.73332" latitude="52.67334"/>
+</geo>
+<min longitude="-145.73332" latitude="50.67334"/>
+<max longitude="-143.06665" latitude="52.67334"/>
+</map>
+<map id="1879515404" name="The Kalmakhíla" imageId="1093051412">
+<geo factor="300.00003">
+<point longitude="52.643337" latitude="43.79334"/>
+</geo>
+<min longitude="52.643337" latitude="41.79334"/>
+<max longitude="55.310005" latitude="43.79334"/>
+</map>
+<map id="1879515405" name="The Shorakhúna" imageId="1093051413">
+<geo factor="600.0">
+<point longitude="53.02834" latitude="44.92"/>
+</geo>
+<min longitude="53.02834" latitude="43.92"/>
+<max longitude="54.36167" latitude="44.92"/>
+</map>
+<map id="1879516527" name="The Blade-horn" imageId="1093053587">
+<geo factor="600.0">
+<point longitude="52.75834" latitude="42.18666"/>
+</geo>
+<min longitude="52.75834" latitude="40.18666"/>
+<max longitude="55.425007" latitude="42.18666"/>
+</map>
+<map id="1879516597" name="Hall of Lajór" imageId="1093054365">
+<geo factor="300.0">
+<point longitude="51.66666" latitude="39.89666"/>
+</geo>
+<min longitude="51.66666" latitude="35.89666"/>
+<max longitude="56.999992" latitude="39.89666"/>
+</map>
+<map id="1879516598" name="Hall of Lajór" imageId="1093054366">
+<geo factor="300.0">
+<point longitude="51.82666" latitude="41.469997"/>
+</geo>
+<min longitude="51.82666" latitude="37.469997"/>
+<max longitude="57.159992" latitude="41.469997"/>
+</map>
+<map id="1879517905" name="The Caves of Hurum Kâna" imageId="1093057579">
+<geo factor="299.99997">
+<point longitude="51.373337" latitude="47.59666"/>
+</geo>
+<min longitude="51.373337" latitude="43.59666"/>
+<max longitude="56.706673" latitude="47.59666"/>
+</map>
+<map id="1879517912" name="Pazakhêra" imageId="1093057577">
+<geo factor="400.0">
+<point longitude="53.074997" latitude="35.55"/>
+</geo>
+<min longitude="53.074997" latitude="34.05"/>
+<max longitude="55.074997" latitude="35.55"/>
+</map>
+<map id="1879517913" name="Jâr Obadal" imageId="1093057578">
+<geo factor="300.0">
+<point longitude="52.77" latitude="37.28667"/>
+</geo>
+<min longitude="52.77" latitude="35.28667"/>
+<max longitude="55.43667" latitude="37.28667"/>
+</map>
+<map id="1879517914" name="Jolakári's House" imageId="1093057576">
+<geo factor="600.0">
+<point longitude="53.69" latitude="33.64333"/>
+</geo>
+<min longitude="53.69" latitude="32.64333"/>
+<max longitude="55.02333" latitude="33.64333"/>
+</map>
+<map id="1879517915" name="Masulga's House" imageId="1093057575">
+<geo factor="600.0">
+<point longitude="53.335" latitude="31.74"/>
+</geo>
+<min longitude="53.335" latitude="30.74"/>
+<max longitude="54.66833" latitude="31.74"/>
+</map>
+<map id="1879518099" name="Pazakhêra" imageId="1093058651">
+<geo factor="599.99994">
+<point longitude="-144.98332" latitude="51.0"/>
+</geo>
+<min longitude="-144.98332" latitude="49.0"/>
+<max longitude="-142.31665" latitude="51.0"/>
+</map>
+<map id="1879520515" name="Ekal-nêbi" imageId="1093064374">
+<geo factor="899.9999">
+<point longitude="52.753338" latitude="50.495544"/>
+</geo>
+<min longitude="52.753338" latitude="47.162212"/>
+<max longitude="55.420006" latitude="50.495544"/>
+</map>
+<map id="1879520516" name="Ekal-nêbi" imageId="1093064376">
+<geo factor="899.9999">
+<point longitude="52.753338" latitude="50.495544"/>
+</geo>
+<min longitude="52.753338" latitude="47.162212"/>
+<max longitude="55.420006" latitude="50.495544"/>
+</map>
+<map id="1879520517" name="Ekal-nêbi" imageId="1093064373">
+<geo factor="899.9999">
+<point longitude="52.753338" latitude="50.495544"/>
+</geo>
+<min longitude="52.753338" latitude="47.162212"/>
+<max longitude="55.420006" latitude="50.495544"/>
 </map>
 </maps>

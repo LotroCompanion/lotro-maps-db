@@ -493,7 +493,7 @@
 <marker id="413667338" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063962" longitude="-37.589394" latitude="4.738408"/>
 <marker id="413667339" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063962" longitude="-37.589394" latitude="4.738408"/>
 <marker id="413667340" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063962" longitude="-37.589394" latitude="4.738408"/>
-<marker id="413667342" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-37.589394" latitude="4.738408"/>
+<marker id="413667341" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-37.589394" latitude="4.738408"/>
 <marker id="413667353" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-37.96823" latitude="4.947656"/>
 <marker id="413667354" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-37.96823" latitude="4.947656"/>
 <marker id="413667355" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-37.96823" latitude="4.947656"/>
@@ -848,8 +848,8 @@
 <marker id="413728777" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
 <marker id="413728778" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
 <marker id="413728779" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
-<marker id="413728781" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
-<marker id="413728782" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
+<marker id="413728780" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
+<marker id="413728781" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-36.726013" latitude="3.964453"/>
 <marker id="413728792" label="Scara Hunter" category="71" did="1879081905" parentZoneId="1879063963" longitude="-36.773193" latitude="3.6966014"/>
 <marker id="413728793" label="Scara Corpse-ravager" category="71" did="1879081906" parentZoneId="1879063963" longitude="-36.773193" latitude="3.6966014"/>
 <marker id="413728794" label="Scara Skulker" category="71" did="1879081907" parentZoneId="1879063963" longitude="-36.773193" latitude="3.6966014"/>
@@ -1562,7 +1562,7 @@
 <marker id="413798410" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063962" longitude="-35.927734" latitude="4.819707"/>
 <marker id="413798411" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063962" longitude="-35.927734" latitude="4.819707"/>
 <marker id="413798412" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063962" longitude="-35.927734" latitude="4.819707"/>
-<marker id="413798414" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-35.927734" latitude="4.819707"/>
+<marker id="413798413" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-35.927734" latitude="4.819707"/>
 <marker id="413798425" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-36.150547" latitude="4.8490524"/>
 <marker id="413798426" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.150547" latitude="4.8490524"/>
 <marker id="413798427" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-36.150547" latitude="4.8490524"/>
@@ -1900,7 +1900,6 @@
 <marker id="413806596" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-36.046024" latitude="6.3476853"/>
 <marker id="413806597" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-36.061306" latitude="6.4003415"/>
 <marker id="413806598" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-36.061306" latitude="6.4003415"/>
-<marker id="413806599" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
 <marker id="413806600" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
 <marker id="413806601" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
 <marker id="413806602" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
@@ -1908,6 +1907,7 @@
 <marker id="413806604" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
 <marker id="413806605" label="Kurth" category="71" did="1879084455" parentZoneId="1879063962" longitude="-35.832294" latitude="6.6456246"/>
 <marker id="413806606" label="Akharn" category="71" did="1879084457" parentZoneId="1879063962" longitude="-35.832294" latitude="6.6456246"/>
+<marker id="413806607" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-36.113632" latitude="6.3659763"/>
 <marker id="413806619" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-35.74662" latitude="6.660898"/>
 <marker id="413806620" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-35.74662" latitude="6.660898"/>
 <marker id="413806621" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-35.74662" latitude="6.660898"/>
@@ -3164,12 +3164,12 @@
 <marker id="413929478" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-34.540672" latitude="4.83875"/>
 <marker id="413929479" label="Deadly Scara" category="71" did="1879082013" parentZoneId="1879063962" longitude="-34.540672" latitude="4.83875"/>
 <marker id="413929480" label="Scara Shadow-stalker" category="71" did="1879082014" parentZoneId="1879063962" longitude="-34.540672" latitude="4.83875"/>
-<marker id="413929481" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
 <marker id="413929482" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
+<marker id="413929483" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
 <marker id="413929484" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
 <marker id="413929485" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
 <marker id="413929486" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
-<marker id="413929487" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
+<marker id="413929487" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063962" longitude="-34.453465" latitude="4.857871"/>
 <marker id="413929501" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063962" longitude="-34.781033" latitude="4.8162107"/>
 <marker id="413929502" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063962" longitude="-34.781033" latitude="4.8162107"/>
 <marker id="413929503" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063962" longitude="-34.781033" latitude="4.8162107"/>
@@ -4086,9 +4086,9 @@
 <marker id="413990922" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
 <marker id="413990923" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
 <marker id="413990924" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
-<marker id="413990925" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
-<marker id="413990926" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
-<marker id="413990927" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
+<marker id="413990925" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
+<marker id="413990926" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
+<marker id="413990927" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063963" longitude="-33.512215" latitude="4.0030856"/>
 <marker id="413990937" label="Iron Crown Fighter" category="71" did="1879081913" parentZoneId="1879063963" longitude="-33.922546" latitude="3.8374412"/>
 <marker id="413990938" label="Iron Crown Scout" category="71" did="1879081914" parentZoneId="1879063963" longitude="-33.922546" latitude="3.8374412"/>
 <marker id="413990939" label="Duvárdain Scout" category="71" did="1879059738" parentZoneId="1879063963" longitude="-33.922546" latitude="3.8374412"/>
@@ -5475,9 +5475,9 @@
 <marker id="414121994" label="Heavy Lebethron Branches" category="50" did="1879087929" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
 <marker id="414121995" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
 <marker id="414121996" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
-<marker id="414121997" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
-<marker id="414121998" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
-<marker id="414121999" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
+<marker id="414121997" label="Lebethron Branches" category="50" did="1879080155" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
+<marker id="414121998" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
+<marker id="414121999" label="Platinum Deposit" category="50" did="1879080463" parentZoneId="1879063963" longitude="-32.174667" latitude="3.8510058"/>
 <marker id="414122009" label="Dwarf-iron Deposit" category="50" did="1879080160" parentZoneId="1879063963" longitude="-32.1745" latitude="3.6797655"/>
 <marker id="414122010" label="Rich Platinum Deposit" category="50" did="1879087936" parentZoneId="1879063963" longitude="-32.1745" latitude="3.6797655"/>
 <marker id="414122011" label="Rich Dwarf-iron Deposit" category="50" did="1879087939" parentZoneId="1879063963" longitude="-32.1745" latitude="3.6797655"/>

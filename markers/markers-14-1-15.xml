@@ -12,9 +12,9 @@
 <marker id="-504360944" label="Khazâd-silver Deposit" category="50" did="1879416188" parentZoneId="1879413511" longitude="-133.57404" latitude="68.691246"/>
 <marker id="-504360943" label="Heavy Frost-rimed Ilex Branches" category="50" did="1879416190" parentZoneId="1879413511" longitude="-133.57404" latitude="68.691246"/>
 <marker id="-504360941" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-133.77805" latitude="68.93039"/>
-<marker id="-504360940" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-133.77805" latitude="68.93039"/>
-<marker id="-504360939" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-133.77805" latitude="68.93039"/>
-<marker id="-504360938" label="Frost-rimed Ilex Branches" category="50" did="1879416189" parentZoneId="1879413511" longitude="-133.57404" latitude="68.691246"/>
+<marker id="-504360940" label="Frost-rimed Ilex Branches" category="50" did="1879416189" parentZoneId="1879413511" longitude="-133.57404" latitude="68.691246"/>
+<marker id="-504360936" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-133.77805" latitude="68.93039"/>
+<marker id="-504360935" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-133.77805" latitude="68.93039"/>
 <marker id="-504360928" label="Rich Khazâd-silver Deposit" category="50" did="1879416193" parentZoneId="1879413511" longitude="-133.57404" latitude="68.691246"/>
 <marker id="-504360927" label="Sapper-bomb Cache" category="73" did="1879418066" parentZoneId="1879413511" longitude="-133.97661" latitude="69.0459"/>
 <marker id="-504360926" label="Sapper-bomb Cache" category="73" did="1879418066" parentZoneId="1879413511" longitude="-133.94153" latitude="69.15848"/>
@@ -424,13 +424,13 @@
 <marker id="-504291310" label="Injured Scout" category="70" did="1879417969" parentZoneId="1879413511" longitude="-133.1581" latitude="69.35828"/>
 <marker id="-504291309" label="Injured Scout" category="70" did="1879417969" parentZoneId="1879413511" longitude="-133.18748" latitude="69.3809"/>
 <marker id="-504291306" label="Vékun" category="70" did="1879420052" parentZoneId="1879413511" longitude="-133.18796" latitude="69.47232"/>
-<marker id="-504291296" label="Khazâd-silver Deposit" category="50" did="1879416188" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
-<marker id="-504291295" label="Heavy Frost-rimed Ilex Branches" category="50" did="1879416190" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
-<marker id="-504291294" label="Rich Khazâd-silver Deposit" category="50" did="1879416193" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
+<marker id="-504291296" label="Rich Khazâd-silver Deposit" category="50" did="1879416193" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
+<marker id="-504291295" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-132.66849" latitude="69.44048"/>
+<marker id="-504291294" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-132.66849" latitude="69.44048"/>
 <marker id="-504291293" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-132.66849" latitude="69.44048"/>
-<marker id="-504291292" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-132.66849" latitude="69.44048"/>
-<marker id="-504291291" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-132.66849" latitude="69.44048"/>
 <marker id="-504291290" label="Frost-rimed Ilex Branches" category="50" did="1879416189" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
+<marker id="-504291289" label="Khazâd-silver Deposit" category="50" did="1879416188" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
+<marker id="-504291288" label="Heavy Frost-rimed Ilex Branches" category="50" did="1879416190" parentZoneId="1879413511" longitude="-132.67035" latitude="69.321655"/>
 <marker id="-504291286" label="Tharkh Shathur" category="74" did="1879415637" parentZoneId="1879413511" longitude="-133.0323" latitude="69.48523"/>
 <marker id="-504291285" label="Tharkh Shathur" category="74" did="1879415637" parentZoneId="1879413511" longitude="-132.76987" latitude="69.23877"/>
 <marker id="-504291284" label="Tharkh Shathur" category="74" did="1879415637" parentZoneId="1879413511" longitude="-132.85135" latitude="69.33904"/>
@@ -756,8 +756,8 @@
 <marker id="-504229881" label="Moria Dale-stalker" category="71" did="1879414350" parentZoneId="1879413511" longitude="-131.92001" latitude="68.850075"/>
 <marker id="-504229871" label="Frost-rimed Ilex Branches" category="50" did="1879416189" parentZoneId="1879413511" longitude="-132.11865" latitude="68.65193"/>
 <marker id="-504229867" label="Winter Hare" category="78" did="1879337046" parentZoneId="1879413511" longitude="-131.90413" latitude="68.81557"/>
-<marker id="-504229866" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-131.90413" latitude="68.81557"/>
-<marker id="-504229865" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-131.90413" latitude="68.81557"/>
+<marker id="-504229862" label="Winter Fox" category="78" did="1879080685" parentZoneId="1879413511" longitude="-131.90413" latitude="68.81557"/>
+<marker id="-504229861" label="Winter Squirrel" category="78" did="1879080686" parentZoneId="1879413511" longitude="-131.90413" latitude="68.81557"/>
 <marker id="-504229856" label="Khazâd-silver Deposit" category="50" did="1879416188" parentZoneId="1879413511" longitude="-132.11865" latitude="68.65193"/>
 <marker id="-504229855" label="Heavy Frost-rimed Ilex Branches" category="50" did="1879416190" parentZoneId="1879413511" longitude="-132.11865" latitude="68.65193"/>
 <marker id="-504229854" label="Rich Khazâd-silver Deposit" category="50" did="1879416193" parentZoneId="1879413511" longitude="-132.11865" latitude="68.65193"/>

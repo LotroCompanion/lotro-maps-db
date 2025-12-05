@@ -164,8 +164,8 @@
 <marker id="644878347" label="Slain Orc" category="70" did="1879261848" parentZoneId="1879257201" longitude="-69.57829" latitude="-33.42164"/>
 <marker id="644878348" label="Slain Orc" category="70" did="1879261848" parentZoneId="1879257201" longitude="-69.783005" latitude="-33.33545"/>
 <marker id="644878349" label="Slain Orc" category="70" did="1879261848" parentZoneId="1879257201" longitude="-69.75043" latitude="-33.600975"/>
-<marker id="644878368" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
-<marker id="644878369" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257201" longitude="-69.46619" latitude="-33.62343"/>
+<marker id="644878368" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
+<marker id="644878369" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
 <marker id="644878370" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257201" longitude="-69.46619" latitude="-33.62343"/>
 <marker id="644878371" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
 <marker id="644878372" label="Tater" category="77" did="1879061257" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
@@ -175,7 +175,7 @@
 <marker id="644878376" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
 <marker id="644878377" label="Horse" category="78" did="1879255968" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
 <marker id="644878378" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
-<marker id="644878379" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879257201" longitude="-69.46573" latitude="-33.62248"/>
+<marker id="644878381" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257201" longitude="-69.46619" latitude="-33.62343"/>
 <marker id="644878382" label="Promising Plant" category="73" did="1879267395" parentZoneId="1879257201" longitude="-69.270065" latitude="-33.957928"/>
 <marker id="644878383" label="Promising Plant" category="73" did="1879267395" parentZoneId="1879257201" longitude="-69.38292" latitude="-33.871807"/>
 <marker id="644878384" label="Promising Plant" category="73" did="1879267395" parentZoneId="1879257201" longitude="-69.48219" latitude="-33.798935"/>
@@ -354,14 +354,14 @@
 <marker id="644882451" label="Icebound Reaver" category="71" did="1879262512" parentZoneId="1879257201" longitude="-69.6762" latitude="-33.11166"/>
 <marker id="644882452" label="Frigid Wood-elder" category="71" did="1879262520" parentZoneId="1879257201" longitude="-69.58095" latitude="-33.139454"/>
 <marker id="644882453" label="Frigid Wood-elder" category="71" did="1879262520" parentZoneId="1879257201" longitude="-69.66284" latitude="-33.160225"/>
-<marker id="644882464" label="Fox" category="78" did="1879078196" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
+<marker id="644882464" label="Tater" category="77" did="1879061257" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882465" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882466" label="Squirrel" category="78" did="1879078796" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882467" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882468" label="Horse" category="78" did="1879255968" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882469" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882472" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
-<marker id="644882473" label="Tater" category="77" did="1879061257" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
+<marker id="644882474" label="Fox" category="78" did="1879078196" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882480" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882481" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879257201" longitude="-69.5345" latitude="-32.820156"/>
 <marker id="644882482" label="Promising Plant" category="73" did="1879267395" parentZoneId="1879257201" longitude="-69.86697" latitude="-33.012695"/>
@@ -505,13 +505,13 @@
 <marker id="644890626" label="Icebound Reaver" category="71" did="1879262512" parentZoneId="1879257201" longitude="-69.60995" latitude="-31.15421"/>
 <marker id="644890627" label="Icy Fangorn Huorn" category="71" did="1879262519" parentZoneId="1879257201" longitude="-69.60995" latitude="-31.15421"/>
 <marker id="644890628" label="Twisted Bale-pine" category="71" did="1879262521" parentZoneId="1879257201" longitude="-69.60995" latitude="-31.15421"/>
-<marker id="644890640" label="Tater" category="77" did="1879061257" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
-<marker id="644890641" label="Fox" category="78" did="1879078196" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
+<marker id="644890640" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
+<marker id="644890641" label="Tater" category="77" did="1879061257" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890642" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890643" label="Squirrel" category="78" did="1879078796" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890644" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890645" label="Horse" category="78" did="1879255968" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
-<marker id="644890649" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
+<marker id="644890651" label="Fox" category="78" did="1879078196" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890656" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890657" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
 <marker id="644890658" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879257201" longitude="-69.610504" latitude="-31.15451"/>
@@ -802,7 +802,7 @@
 <marker id="644943875" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-68.68084" latitude="-33.65165"/>
 <marker id="644943876" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-68.68084" latitude="-33.65165"/>
 <marker id="644943877" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-68.68084" latitude="-33.65165"/>
-<marker id="644943879" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-68.68084" latitude="-33.65165"/>
+<marker id="644943878" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-68.68084" latitude="-33.65165"/>
 <marker id="644943887" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-68.9303" latitude="-33.873898"/>
 <marker id="644943888" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-68.9303" latitude="-33.873898"/>
 <marker id="644943889" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-68.9303" latitude="-33.873898"/>
@@ -1289,10 +1289,10 @@
 <marker id="645013504" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-67.99662" latitude="-32.860703"/>
 <marker id="645013505" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-67.99662" latitude="-32.860703"/>
 <marker id="645013506" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-67.99662" latitude="-32.860703"/>
-<marker id="645013520" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
-<marker id="645013521" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
+<marker id="645013520" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
 <marker id="645013522" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
 <marker id="645013523" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
+<marker id="645013524" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-67.9969" latitude="-32.861465"/>
 <marker id="645013525" label="Ecglaf" category="70" did="1879264246" parentZoneId="1879257205" longitude="-67.7677" latitude="-33.04166"/>
 <marker id="645013526" label="Disturbed Snowpile" category="73" did="1879328145" parentZoneId="1879257205" longitude="-67.772995" latitude="-32.55907"/>
 <marker id="645013527" label="Disturbed Snowpile" category="73" did="1879328145" parentZoneId="1879257205" longitude="-67.868866" latitude="-32.50039"/>
@@ -1812,7 +1812,7 @@
 <marker id="645074947" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-67.24611" latitude="-33.67998"/>
 <marker id="645074948" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-67.24611" latitude="-33.67998"/>
 <marker id="645074949" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-67.24611" latitude="-33.67998"/>
-<marker id="645074951" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.24611" latitude="-33.67998"/>
+<marker id="645074950" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.24611" latitude="-33.67998"/>
 <marker id="645074960" label="Flocking Spy" category="71" did="1879266863" parentZoneId="1879257205" longitude="-67.187126" latitude="-33.677197"/>
 <marker id="645074961" label="Flocking Spy" category="71" did="1879266863" parentZoneId="1879257205" longitude="-67.376495" latitude="-33.78552"/>
 <marker id="645074962" label="Flocking Spy" category="71" did="1879266863" parentZoneId="1879257205" longitude="-67.53631" latitude="-33.567352"/>
@@ -1921,7 +1921,7 @@
 <marker id="645083139" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-67.19904" latitude="-32.001892"/>
 <marker id="645083140" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-67.19904" latitude="-32.001892"/>
 <marker id="645083141" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-67.19904" latitude="-32.001892"/>
-<marker id="645083143" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.19904" latitude="-32.001892"/>
+<marker id="645083142" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-67.19904" latitude="-32.001892"/>
 <marker id="645083151" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-67.5049" latitude="-32.188446"/>
 <marker id="645083152" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-67.5049" latitude="-32.188446"/>
 <marker id="645083153" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-67.5049" latitude="-32.188446"/>
@@ -2325,10 +2325,10 @@
 <marker id="645128233" label="Mor-hai Sentry" category="71" did="1879228942" parentZoneId="1879222973" longitude="-67.22977" latitude="-22.961561"/>
 <marker id="645128234" label="Mor-hai Scout" category="71" did="1879228943" parentZoneId="1879222973" longitude="-67.22977" latitude="-22.961561"/>
 <marker id="645128235" label="Venom-bite Creeper" category="71" did="1879233087" parentZoneId="1879222973" longitude="-67.22977" latitude="-22.961561"/>
-<marker id="645136388" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
-<marker id="645136389" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
-<marker id="645136390" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
-<marker id="645136391" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
+<marker id="645136388" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
+<marker id="645136389" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
+<marker id="645136390" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
+<marker id="645136391" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.36415" latitude="-34.362568"/>
 <marker id="645136396" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.050934" latitude="-34.661804"/>
 <marker id="645136397" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.050934" latitude="-34.661804"/>
 <marker id="645136398" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-66.050934" latitude="-34.661804"/>
@@ -2380,7 +2380,7 @@
 <marker id="645144584" label="Byre Tor Scout" category="71" did="1879265706" parentZoneId="1879257205" longitude="-66.04496" latitude="-32.772118"/>
 <marker id="645144585" label="Byre Tor Marauder" category="71" did="1879265719" parentZoneId="1879257205" longitude="-66.141685" latitude="-32.840263"/>
 <marker id="645144586" label="Byre Tor Marauder" category="71" did="1879265719" parentZoneId="1879257205" longitude="-66.00859" latitude="-32.752842"/>
-<marker id="645144593" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.49567" latitude="-32.712177"/>
+<marker id="645144592" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.49567" latitude="-32.712177"/>
 <marker id="645144594" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.49567" latitude="-32.712177"/>
 <marker id="645144595" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-66.49567" latitude="-32.712177"/>
 <marker id="645144596" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-66.49567" latitude="-32.712177"/>
@@ -2461,10 +2461,10 @@
 <marker id="645152768" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-66.422844" latitude="-31.173319"/>
 <marker id="645152769" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-66.422844" latitude="-31.173319"/>
 <marker id="645152770" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-66.422844" latitude="-31.173319"/>
-<marker id="645152771" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.42322" latitude="-31.173065"/>
 <marker id="645152772" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-66.42322" latitude="-31.173065"/>
 <marker id="645152773" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-66.42322" latitude="-31.173065"/>
 <marker id="645152774" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-66.42322" latitude="-31.173065"/>
+<marker id="645152775" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-66.42322" latitude="-31.173065"/>
 <marker id="645152783" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-66.251305" latitude="-31.061874"/>
 <marker id="645152784" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-66.251305" latitude="-31.061874"/>
 <marker id="645152785" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-66.251305" latitude="-31.061874"/>
@@ -3116,10 +3116,10 @@
 <marker id="645222400" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-65.73028" latitude="-30.47491"/>
 <marker id="645222401" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-65.73028" latitude="-30.47491"/>
 <marker id="645222402" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-65.73028" latitude="-30.47491"/>
-<marker id="645222403" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
 <marker id="645222404" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
 <marker id="645222405" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
-<marker id="645222407" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
+<marker id="645222406" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
+<marker id="645222407" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-65.729965" latitude="-30.473934"/>
 <marker id="645222415" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-65.595436" latitude="-30.73959"/>
 <marker id="645222416" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-65.595436" latitude="-30.73959"/>
 <marker id="645222417" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-65.595436" latitude="-30.73959"/>
@@ -3523,10 +3523,10 @@
 <marker id="645267458" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-65.064865" latitude="-34.269493"/>
 <marker id="645267459" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-64.93994" latitude="-34.22244"/>
 <marker id="645267460" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-65.19878" latitude="-34.312862"/>
-<marker id="645271555" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
 <marker id="645271556" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
-<marker id="645271558" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
-<marker id="645271559" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
+<marker id="645271557" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
+<marker id="645271558" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
+<marker id="645271559" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-64.805046" latitude="-33.52091"/>
 <marker id="645271565" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-64.65218" latitude="-33.85421"/>
 <marker id="645271566" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-64.593376" latitude="-33.512997"/>
 <marker id="645271567" label="Byre Tor Banner" category="71" did="1879265524" parentZoneId="1879257205" longitude="-64.78231" latitude="-33.36621"/>
@@ -3630,10 +3630,10 @@
 <marker id="645279777" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-64.67063" latitude="-32.209793"/>
 <marker id="645279778" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-64.67063" latitude="-32.209793"/>
 <marker id="645279779" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-64.67063" latitude="-32.209793"/>
-<marker id="645283843" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.749344" latitude="-31.147392"/>
 <marker id="645283844" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-64.749344" latitude="-31.147392"/>
 <marker id="645283845" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-64.749344" latitude="-31.147392"/>
 <marker id="645283846" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.749344" latitude="-31.147392"/>
+<marker id="645283847" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.749344" latitude="-31.147392"/>
 <marker id="645283855" label="Dunfast Refugee" category="70" did="1879260942" parentZoneId="1879257205" longitude="-65.001854" latitude="-31.327421"/>
 <marker id="645283856" label="Dunfast Refugee" category="70" did="1879260942" parentZoneId="1879257205" longitude="-64.99826" latitude="-31.336113"/>
 <marker id="645283857" label="Dunfast Refugee" category="70" did="1879260942" parentZoneId="1879257205" longitude="-64.99285" latitude="-31.344032"/>
@@ -3716,7 +3716,7 @@
 <marker id="645292036" label="Byre Tor Refugee" category="70" did="1879265162" parentZoneId="1879257205" longitude="-65.07885" latitude="-29.82082"/>
 <marker id="645292037" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.83521" latitude="-29.592752"/>
 <marker id="645292038" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-64.83521" latitude="-29.592752"/>
-<marker id="645292045" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.83521" latitude="-29.592752"/>
+<marker id="645292044" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.83521" latitude="-29.592752"/>
 <marker id="645292048" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-64.83521" latitude="-29.592752"/>
 <marker id="645292049" label="Byre Tor Refugee" category="70" did="1879264239" parentZoneId="1879257205" longitude="-65.07749" latitude="-29.81168"/>
 <marker id="645292050" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-64.64829" latitude="-29.915762"/>
@@ -4267,10 +4267,10 @@
 <marker id="645353472" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-64.04318" latitude="-30.390184"/>
 <marker id="645353473" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-64.04318" latitude="-30.390184"/>
 <marker id="645353474" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-64.04318" latitude="-30.390184"/>
-<marker id="645353475" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
 <marker id="645353476" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
 <marker id="645353477" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
-<marker id="645353479" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
+<marker id="645353478" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
+<marker id="645353479" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-64.042625" latitude="-30.39034"/>
 <marker id="645353487" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-64.03871" latitude="-30.400751"/>
 <marker id="645353488" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-64.03871" latitude="-30.400751"/>
 <marker id="645353489" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-64.03871" latitude="-30.400751"/>
@@ -4406,9 +4406,9 @@
 <marker id="645378053" label="Door" category="48" did="1879229878" parentZoneId="1879232928" longitude="-63.755905" latitude="-25.516201"/>
 <marker id="645378054" label="Wulfwine" category="70" did="1879229987" parentZoneId="1879232928" longitude="-63.788982" latitude="-25.435106"/>
 <marker id="645378056" label="Door" category="48" did="1879063864" parentZoneId="1879232928" longitude="-63.74954" latitude="-25.531034"/>
-<marker id="645378067" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
-<marker id="645378068" label="Tater" category="77" did="1879061257" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
-<marker id="645378069" label="Rat" category="78" did="1879079243" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
+<marker id="645378067" label="Rat" category="78" did="1879079243" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
+<marker id="645378069" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
+<marker id="645378070" label="Tater" category="77" did="1879061257" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
 <marker id="645378080" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
 <marker id="645378081" label="Red Fox" category="78" did="1879077775" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
 <marker id="645378082" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879232928" longitude="-63.976162" latitude="-25.685537"/>
@@ -4533,7 +4533,7 @@
 <marker id="645382144" label="Plains-goat" category="71" did="1879228841" parentZoneId="1879222974" longitude="-63.836464" latitude="-24.77749"/>
 <marker id="645382145" label="Rock-worm" category="71" did="1879228881" parentZoneId="1879222974" longitude="-63.836464" latitude="-24.77749"/>
 <marker id="645382146" label="Vicious Plains-hound" category="71" did="1879228888" parentZoneId="1879222974" longitude="-63.836464" latitude="-24.77749"/>
-<marker id="645382161" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222974" longitude="-63.827927" latitude="-24.783106"/>
+<marker id="645382167" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222974" longitude="-63.827927" latitude="-24.783106"/>
 <marker id="645382176" label="Tater" category="77" did="1879061257" parentZoneId="1879222974" longitude="-63.827927" latitude="-24.783106"/>
 <marker id="645382177" label="Rat" category="78" did="1879079243" parentZoneId="1879222974" longitude="-63.827927" latitude="-24.783106"/>
 <marker id="645382178" label="Heavy Birch Branches" category="50" did="1879210330" parentZoneId="1879222974" longitude="-63.842762" latitude="-24.77749"/>
@@ -4728,13 +4728,13 @@
 <marker id="645386242" label="Thinglad Wolverine" category="71" did="1879228863" parentZoneId="1879222979" longitude="-63.833874" latitude="-23.845137"/>
 <marker id="645386243" label="Thinglad Matron" category="71" did="1879228860" parentZoneId="1879222979" longitude="-63.833874" latitude="-23.845137"/>
 <marker id="645386244" label="Orc-warrior" category="71" did="1879228891" parentZoneId="1879222979" longitude="-63.833874" latitude="-23.845137"/>
-<marker id="645386256" label="Tater" category="77" did="1879061257" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
-<marker id="645386257" label="Spotted Field Doe" category="78" did="1879078234" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
+<marker id="645386256" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
+<marker id="645386257" label="Tater" category="77" did="1879061257" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386258" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386259" label="Red Fox" category="78" did="1879077775" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386260" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386261" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
-<marker id="645386265" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
+<marker id="645386267" label="Spotted Field Doe" category="78" did="1879078234" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386272" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386273" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
 <marker id="645386274" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879222979" longitude="-63.832275" latitude="-23.858671"/>
@@ -4847,7 +4847,7 @@
 <marker id="645390367" label="Thinglad Howler" category="71" did="1879228883" parentZoneId="1879222979" longitude="-64.10795" latitude="-23.31121"/>
 <marker id="645390368" label="Thinglad Howler" category="71" did="1879228883" parentZoneId="1879222979" longitude="-63.88788" latitude="-23.476416"/>
 <marker id="645390369" label="Thinglad Howler" category="71" did="1879228883" parentZoneId="1879222979" longitude="-63.63661" latitude="-23.572344"/>
-<marker id="645390384" label="Calenard Skarn Deposit" category="50" did="1879210333" parentZoneId="1879222979" longitude="-64.10269" latitude="-23.40537"/>
+<marker id="645390384" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390385" label="Red Fox" category="78" did="1879077775" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390391" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390392" label="Tater" category="77" did="1879061257" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
@@ -4855,7 +4855,7 @@
 <marker id="645390394" label="Birch Branches" category="50" did="1879210331" parentZoneId="1879222979" longitude="-64.10269" latitude="-23.40537"/>
 <marker id="645390395" label="Spotted Field Doe" category="78" did="1879078234" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390396" label="Rich Calenard Skarn Deposit" category="50" did="1879210334" parentZoneId="1879222979" longitude="-64.10269" latitude="-23.40537"/>
-<marker id="645390397" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
+<marker id="645390398" label="Calenard Skarn Deposit" category="50" did="1879210333" parentZoneId="1879222979" longitude="-64.10269" latitude="-23.40537"/>
 <marker id="645390400" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390401" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
 <marker id="645390402" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879222979" longitude="-64.103836" latitude="-23.41457"/>
@@ -4986,13 +4986,13 @@
 <marker id="645394434" label="Thinglad Wolverine" category="71" did="1879228863" parentZoneId="1879222979" longitude="-63.96169" latitude="-22.477568"/>
 <marker id="645394435" label="Thinglad Matron" category="71" did="1879228860" parentZoneId="1879222979" longitude="-63.96169" latitude="-22.477568"/>
 <marker id="645394436" label="Orc-warrior" category="71" did="1879228891" parentZoneId="1879222979" longitude="-63.96169" latitude="-22.477568"/>
-<marker id="645394448" label="Tater" category="77" did="1879061257" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
-<marker id="645394449" label="Spotted Field Doe" category="78" did="1879078234" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
+<marker id="645394448" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
+<marker id="645394449" label="Tater" category="77" did="1879061257" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394450" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394451" label="Red Fox" category="78" did="1879077775" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394452" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394453" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
-<marker id="645394457" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
+<marker id="645394459" label="Spotted Field Doe" category="78" did="1879078234" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394464" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394465" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
 <marker id="645394466" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879222979" longitude="-63.960075" latitude="-22.483067"/>
@@ -5375,10 +5375,10 @@
 <marker id="645423104" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-63.37363" latitude="-29.650097"/>
 <marker id="645423105" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-63.37363" latitude="-29.650097"/>
 <marker id="645423106" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-63.37363" latitude="-29.650097"/>
-<marker id="645423112" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
-<marker id="645423113" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
-<marker id="645423114" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
-<marker id="645423115" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
+<marker id="645423112" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
+<marker id="645423113" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
+<marker id="645423114" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
+<marker id="645423116" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-63.374004" latitude="-29.65121"/>
 <marker id="645423119" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-63.413593" latitude="-29.821045"/>
 <marker id="645423120" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-63.413593" latitude="-29.821045"/>
 <marker id="645423121" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-63.413593" latitude="-29.821045"/>
@@ -6270,10 +6270,10 @@
 <marker id="645484548" label="High Knolls Marauder" category="71" did="1879265704" parentZoneId="1879257205" longitude="-62.43446" latitude="-30.555517"/>
 <marker id="645484549" label="Uruk Siege-leader" category="71" did="1879265714" parentZoneId="1879257205" longitude="-62.43446" latitude="-30.555517"/>
 <marker id="645484550" label="High Knolls Archer" category="71" did="1879265716" parentZoneId="1879257205" longitude="-62.43446" latitude="-30.555517"/>
-<marker id="645484552" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
-<marker id="645484553" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
-<marker id="645484554" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
+<marker id="645484552" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
+<marker id="645484553" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
 <marker id="645484555" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
+<marker id="645484556" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-62.434795" latitude="-30.554111"/>
 <marker id="645484559" label="Thrymm Red-beard" category="70" did="1879259962" parentZoneId="1879257205" longitude="-62.37792" latitude="-30.170244"/>
 <marker id="645484561" label="Cyneberg" category="70" did="1879267080" parentZoneId="1879257205" longitude="-62.380615" latitude="-30.163418"/>
 <marker id="645484563" label="Uruk Siege-leader" category="71" did="1879265714" parentZoneId="1879257205" longitude="-62.433125" latitude="-30.553017"/>
@@ -7753,10 +7753,10 @@
 <marker id="645545988" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-61.695095" latitude="-31.035313"/>
 <marker id="645545989" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-61.695095" latitude="-31.035313"/>
 <marker id="645545990" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-61.695095" latitude="-31.035313"/>
-<marker id="645545992" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
-<marker id="645545993" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
-<marker id="645545994" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
-<marker id="645545995" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
+<marker id="645545992" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
+<marker id="645545993" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
+<marker id="645545994" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
+<marker id="645545996" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879257205" longitude="-61.64522" latitude="-31.267685"/>
 <marker id="645545999" label="Wild Hill-goat" category="71" did="1879265712" parentZoneId="1879257205" longitude="-61.306717" latitude="-31.051805"/>
 <marker id="645546000" label="Snow-stalker" category="71" did="1879265718" parentZoneId="1879257205" longitude="-61.306717" latitude="-31.051805"/>
 <marker id="645546001" label="Snowy Grim" category="71" did="1879265707" parentZoneId="1879257205" longitude="-61.306717" latitude="-31.051805"/>

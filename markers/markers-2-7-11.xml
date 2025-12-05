@@ -2251,10 +2251,10 @@
 <marker id="665886729" label="Anduin Moose" category="71" did="1879404101" parentZoneId="1879400537" longitude="-57.027596" latitude="25.00575"/>
 <marker id="665886730" label="Anduin Badger" category="71" did="1879404102" parentZoneId="1879400537" longitude="-57.027596" latitude="25.00575"/>
 <marker id="665886731" label="Northern Wood-avanc" category="71" did="1879404096" parentZoneId="1879400537" longitude="-57.027596" latitude="25.00575"/>
-<marker id="665886736" label="Red Fox" category="78" did="1879086600" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
-<marker id="665886737" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
-<marker id="665886738" label="Rusty Hill-goat" category="78" did="1879378326" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
-<marker id="665886739" label="Red Squirrel" category="78" did="1879086591" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
+<marker id="665886736" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
+<marker id="665886737" label="Rusty Hill-goat" category="78" did="1879378326" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
+<marker id="665886738" label="Red Squirrel" category="78" did="1879086591" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
+<marker id="665886739" label="Red Fox" category="78" did="1879086600" parentZoneId="1879400537" longitude="-57.016716" latitude="24.97123"/>
 <marker id="665886744" label="Langflood Skarn Deposit" category="50" did="1879406848" parentZoneId="1879400537" longitude="-56.72568" latitude="24.894892"/>
 <marker id="665886745" label="Heavy Langflood Branches" category="50" did="1879406850" parentZoneId="1879400537" longitude="-56.72568" latitude="24.894892"/>
 <marker id="665886746" label="Rich Langflood Skarn Deposit" category="50" did="1879406845" parentZoneId="1879400537" longitude="-56.72568" latitude="24.894892"/>
@@ -5099,10 +5099,10 @@
 <marker id="665952278" label="Anduin Moose" category="71" did="1879404101" parentZoneId="1879400521" longitude="-56.236767" latitude="24.966503"/>
 <marker id="665952279" label="Anduin Badger" category="71" did="1879404102" parentZoneId="1879400521" longitude="-56.236767" latitude="24.966503"/>
 <marker id="665952280" label="Northern Wood-avanc" category="71" did="1879404096" parentZoneId="1879400521" longitude="-56.236767" latitude="24.966503"/>
-<marker id="665952288" label="Red Squirrel" category="78" did="1879086591" parentZoneId="1879400521" longitude="-56.225887" latitude="24.931992"/>
 <marker id="665952289" label="Red Fox" category="78" did="1879086600" parentZoneId="1879400521" longitude="-56.225887" latitude="24.931992"/>
 <marker id="665952290" label="Northern Hare" category="78" did="1879363821" parentZoneId="1879400521" longitude="-56.225887" latitude="24.931992"/>
 <marker id="665952291" label="Rusty Hill-goat" category="78" did="1879378326" parentZoneId="1879400521" longitude="-56.225887" latitude="24.931992"/>
+<marker id="665952292" label="Red Squirrel" category="78" did="1879086591" parentZoneId="1879400521" longitude="-56.225887" latitude="24.931992"/>
 <marker id="665952293" label="Grugáth" category="71" did="1879406672" parentZoneId="1879400521" longitude="-55.85232" latitude="24.972246"/>
 <marker id="665952294" label="Anduin Moose" category="71" did="1879404101" parentZoneId="1879400521" longitude="-56.060497" latitude="24.901571"/>
 <marker id="665952295" label="Gundabad Warg" category="71" did="1879404965" parentZoneId="1879400521" longitude="-56.060497" latitude="24.901571"/>
@@ -10721,8 +10721,8 @@
 <marker id="666238984" label="Vale-fly" category="71" did="1879386229" parentZoneId="1879384448" longitude="-51.74782" latitude="16.651474"/>
 <marker id="666238985" label="Vale Badger" category="71" did="1879386236" parentZoneId="1879384448" longitude="-51.74782" latitude="16.651474"/>
 <marker id="666238986" label="Vale-hart" category="71" did="1879386243" parentZoneId="1879384448" longitude="-51.74782" latitude="16.651474"/>
-<marker id="666238996" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
-<marker id="666238997" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
+<marker id="666238994" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
+<marker id="666238995" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
 <marker id="666238998" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
 <marker id="666238999" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384448" longitude="-51.72197" latitude="16.717842"/>
 <marker id="666239002" label="Mushroom" category="73" did="1879386386" parentZoneId="1879384448" longitude="-52.247635" latitude="16.930899"/>

@@ -544,13 +544,13 @@
 <marker id="1195421699" label="Healer" category="38" did="1879461258" parentZoneId="1879456564" longitude="-57.05496" latitude="-64.24897"/>
 <marker id="1195421700" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879456564" longitude="-57.074715" latitude="-64.09509"/>
 <marker id="1195421701" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.968163" latitude="-64.00688"/>
-<marker id="1195421702" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879456564" longitude="-57.079735" latitude="-64.09527"/>
 <marker id="1195421706" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.98045" latitude="-64.20443"/>
 <marker id="1195421707" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.190098" latitude="-64.1296"/>
 <marker id="1195421708" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-57.067226" latitude="-63.867836"/>
 <marker id="1195421709" label="Scrap Wood" category="73" did="1879467857" parentZoneId="1879456564" longitude="-56.735195" latitude="-63.92199"/>
 <marker id="1195421712" label="Watchman" category="71" did="1879474943" parentZoneId="1879456564" longitude="-56.95109" latitude="-64.29958"/>
 <marker id="1195421714" label="Lothgobel" category="74" did="1879466452" parentZoneId="1879456564" longitude="-56.817665" latitude="-63.99514"/>
+<marker id="1195421760" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879456564" longitude="-57.079735" latitude="-64.09527"/>
 <marker id="1195425792" label="Tathrendalf" category="74" did="1879466453" parentZoneId="1879456564" longitude="-56.815174" latitude="-62.940754"/>
 <marker id="1195425793" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879456564" longitude="-56.8" latitude="-63.199997"/>
 <marker id="1195425794" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879456564" longitude="-56.8" latitude="-63.199997"/>
@@ -3523,7 +3523,7 @@
 <marker id="1195651088" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456564" longitude="-53.49163" latitude="-70.07822"/>
 <marker id="1195651089" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456564" longitude="-53.765896" latitude="-70.224495"/>
 <marker id="1195651090" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456564" longitude="-53.765896" latitude="-70.224495"/>
-<marker id="1195651092" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456564" longitude="-53.49163" latitude="-70.07822"/>
+<marker id="1195651094" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456564" longitude="-53.49163" latitude="-70.07822"/>
 <marker id="1195651114" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456564" longitude="-53.604336" latitude="-70.23157"/>
 <marker id="1195651115" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456564" longitude="-53.604336" latitude="-70.23157"/>
 <marker id="1195651116" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456564" longitude="-53.604336" latitude="-70.23157"/>
@@ -4094,7 +4094,7 @@
 <marker id="1195720720" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-52.728516" latitude="-69.7535"/>
 <marker id="1195720721" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456570" longitude="-52.61817" latitude="-69.61467"/>
 <marker id="1195720722" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456570" longitude="-52.61817" latitude="-69.61467"/>
-<marker id="1195720724" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.728516" latitude="-69.7535"/>
+<marker id="1195720726" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.728516" latitude="-69.7535"/>
 <marker id="1195720746" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456570" longitude="-52.532127" latitude="-69.49337"/>
 <marker id="1195720747" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456570" longitude="-52.532127" latitude="-69.49337"/>
 <marker id="1195720748" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456570" longitude="-52.532127" latitude="-69.49337"/>
@@ -4368,7 +4368,7 @@
 <marker id="1195773968" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-52.145683" latitude="-71.86307"/>
 <marker id="1195773969" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456570" longitude="-51.89744" latitude="-71.84918"/>
 <marker id="1195773970" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456570" longitude="-51.89744" latitude="-71.84918"/>
-<marker id="1195773972" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.145683" latitude="-71.86307"/>
+<marker id="1195773974" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.145683" latitude="-71.86307"/>
 <marker id="1195773994" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456570" longitude="-52.27955" latitude="-72.26332"/>
 <marker id="1195773995" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456570" longitude="-52.27955" latitude="-72.26332"/>
 <marker id="1195773996" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456570" longitude="-52.27955" latitude="-72.26332"/>
@@ -4608,7 +4608,7 @@
 <marker id="1195782160" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-52.050262" latitude="-70.31189"/>
 <marker id="1195782161" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456570" longitude="-52.04772" latitude="-70.2835"/>
 <marker id="1195782162" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456570" longitude="-52.04772" latitude="-70.2835"/>
-<marker id="1195782164" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.050262" latitude="-70.31189"/>
+<marker id="1195782166" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.050262" latitude="-70.31189"/>
 <marker id="1195782186" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456570" longitude="-52.22212" latitude="-70.445206"/>
 <marker id="1195782187" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456570" longitude="-52.22212" latitude="-70.445206"/>
 <marker id="1195782188" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456570" longitude="-52.22212" latitude="-70.445206"/>
@@ -4763,7 +4763,7 @@
 <marker id="1195786257" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879456570" longitude="-52.183952" latitude="-69.69609"/>
 <marker id="1195786258" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879456570" longitude="-52.183952" latitude="-69.69609"/>
 <marker id="1195786259" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-52.183952" latitude="-69.69609"/>
-<marker id="1195786260" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.183952" latitude="-69.69609"/>
+<marker id="1195786263" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-52.183952" latitude="-69.69609"/>
 <marker id="1195786288" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456570" longitude="-52.12825" latitude="-69.899376"/>
 <marker id="1195786289" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456570" longitude="-52.12825" latitude="-69.899376"/>
 <marker id="1195786290" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456570" longitude="-52.12825" latitude="-69.899376"/>
@@ -5054,7 +5054,7 @@
 <marker id="1195843600" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-51.047565" latitude="-70.934135"/>
 <marker id="1195843601" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456570" longitude="-51.22702" latitude="-71.11513"/>
 <marker id="1195843602" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456570" longitude="-51.22702" latitude="-71.11513"/>
-<marker id="1195843604" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-51.047565" latitude="-70.934135"/>
+<marker id="1195843606" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-51.047565" latitude="-70.934135"/>
 <marker id="1195843626" label="Spider of the Woods" category="71" did="1879466502" parentZoneId="1879456570" longitude="-51.110203" latitude="-70.859024"/>
 <marker id="1195843627" label="Vale-hind" category="71" did="1879466501" parentZoneId="1879456570" longitude="-51.110203" latitude="-70.859024"/>
 <marker id="1195843628" label="Ringló Bear" category="71" did="1879466499" parentZoneId="1879456570" longitude="-51.110203" latitude="-70.859024"/>
@@ -5503,7 +5503,6 @@
 <marker id="1195966672" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879456570" longitude="-49.2699" latitude="-72.78804"/>
 <marker id="1195970560" label="Tasks Bulletin Board" category="27" did="1879475223" parentZoneId="1879456570" longitude="-49.878555" latitude="-72.06199"/>
 <marker id="1195970561" label="Ethring" category="74" did="1879466411" parentZoneId="1879456570" longitude="-49.658085" latitude="-72.168434"/>
-<marker id="1195970562" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879456570" longitude="-49.87998" latitude="-72.05717"/>
 <marker id="1195970563" label="Door" category="100" did="1879227953" parentZoneId="1879456570" longitude="-49.50251" latitude="-72.18467"/>
 <marker id="1195970564" label="Watchman" category="71" did="1879474943" parentZoneId="1879456570" longitude="-49.890312" latitude="-71.725464"/>
 <marker id="1195970567" label="Callothor" category="70" did="1879466196" parentZoneId="1879456570" longitude="-49.48189" latitude="-72.148895"/>
@@ -5512,6 +5511,7 @@
 <marker id="1195970570" label="Arvaethor" category="70" did="1879466396" parentZoneId="1879456570" longitude="-49.864628" latitude="-72.08294"/>
 <marker id="1195970571" label="Dervorin" category="70" did="1879465892" parentZoneId="1879456570" longitude="-49.879227" latitude="-72.01124"/>
 <marker id="1195970572" label="Nodaer" category="70" did="1879466082" parentZoneId="1879456570" longitude="-49.522938" latitude="-72.206665"/>
+<marker id="1195970625" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879456570" longitude="-49.87998" latitude="-72.05717"/>
 <marker id="1195974656" label="Fox" category="78" did="1879078196" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>
 <marker id="1195974657" label="Squirrel" category="78" did="1879078796" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>
 <marker id="1195974658" label="Rabbit" category="78" did="1879079062" parentZoneId="1879456570" longitude="-49.726982" latitude="-71.37282"/>
@@ -5891,8 +5891,8 @@
 <marker id="1196097559" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879456570" longitude="-48.186367" latitude="-72.8916"/>
 <marker id="1196097560" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456570" longitude="-48.24035" latitude="-72.81464"/>
 <marker id="1196097561" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456570" longitude="-48.24035" latitude="-72.81464"/>
-<marker id="1196097563" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-48.186367" latitude="-72.8916"/>
-<marker id="1196097566" label="Tater" category="77" did="1879061257" parentZoneId="1879456570" longitude="-48.186367" latitude="-72.8916"/>
+<marker id="1196097562" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879456570" longitude="-48.186367" latitude="-72.8916"/>
+<marker id="1196097567" label="Tater" category="77" did="1879061257" parentZoneId="1879456570" longitude="-48.186367" latitude="-72.8916"/>
 <marker id="1196097585" label="Nathiel" category="71" did="1879467616" parentZoneId="1879456570" longitude="-48.118702" latitude="-72.47843"/>
 <marker id="1196097586" label="Dravron" category="71" did="1879467617" parentZoneId="1879456570" longitude="-48.128143" latitude="-72.514175"/>
 <marker id="1196097587" label="Hired Skirmisher" category="71" did="1879467628" parentZoneId="1879456570" longitude="-48.204266" latitude="-72.54373"/>

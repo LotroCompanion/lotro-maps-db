@@ -224,6 +224,7 @@
 <label key="1879049644" value="Wilcome Tunnelly"/>
 <label key="1879049645" value="Wilimar Bolger"/>
 <label key="1879049669" value="Mushroom"/>
+<label key="1879049672" value="Yellow Onion"/>
 <label key="1879049707" value="Gil Sandheaver"/>
 <label key="1879049708" value="Goldberry"/>
 <label key="1879049710" value="Saradoc Brandybuck"/>
@@ -3966,6 +3967,7 @@
 <label key="1879083011" value="First Marshal Ari"/>
 <label key="1879083012" value="First Marshal Barathír"/>
 <label key="1879083013" value="Lieutenant Án"/>
+<label key="1879083014" value="Sergeant-at-Arms Gomiriell"/>
 <label key="1879083015" value="Lieutenant Elswith"/>
 <label key="1879083016" value="Sergeant-at-Arms Benstan"/>
 <label key="1879083017" value="Sergeant-at-Arms Cwen"/>
@@ -5010,7 +5012,6 @@
 <label key="1879090958" value="Fallen Ranger"/>
 <label key="1879090959" value="Fallen Ranger"/>
 <label key="1879090960" value="Angmarim Corpse"/>
-<label key="1879090961" value=""/>
 <label key="1879090962" value="Crates of Supplies"/>
 <label key="1879090963" value="Crates of Supplies"/>
 <label key="1879090964" value="Crates of Supplies"/>
@@ -18928,8 +18929,6 @@
 <label key="1879264655" value="Teleport Inside"/>
 <label key="1879264656" value="A Vivid Memory"/>
 <label key="1879264657" value="Teleport Outside"/>
-<label key="1879264881" value=""/>
-<label key="1879264882" value=""/>
 <label key="1879264994" value="Ice Shard"/>
 <label key="1879264996" value="Frozen Critter"/>
 <label key="1879264997" value="Wilsig's Memorial Flame"/>
@@ -21232,7 +21231,6 @@
 <label key="1879303755" value="Radanir"/>
 <label key="1879303756" value="Merry"/>
 <label key="1879303757" value="Éomer"/>
-<label key="1879303758" value=""/>
 <label key="1879303759" value="Calenglad"/>
 <label key="1879303760" value="Halbarad"/>
 <label key="1879303761" value="Golodir"/>
@@ -26339,6 +26337,7 @@
 <label key="1879341066" value="Mílgamel"/>
 <label key="1879341067" value="Mílgamel"/>
 <label key="1879341068" value="Mílgamel"/>
+<label key="1879341232" value="Task-master Pugh"/>
 <label key="1879341285" value="Maggot Larva"/>
 <label key="1879341286" value="Mordor Driver"/>
 <label key="1879341287" value="Slag-bat"/>
@@ -27386,7 +27385,7 @@
 <label key="1879346967" value="Watching Stone"/>
 <label key="1879346968" value="Durthang Guard"/>
 <label key="1879346969" value="Mordor Captain"/>
-<label key="1879346970" value="Forgeworker"/>
+<label key="1879346970" value="Forge-worker"/>
 <label key="1879346971" value="Mordor Warrior"/>
 <label key="1879346972" value="Durthang Sentry"/>
 <label key="1879346973" value="Mordor Archer"/>
@@ -33160,6 +33159,7 @@
 <label key="1879399257" value="Memory of Laerdan"/>
 <label key="1879399258" value="Memory of Golasgil"/>
 <label key="1879399259" value="Memory of Sauron"/>
+<label key="1879399262" value="Mottled Shrew"/>
 <label key="1879399267" value="Wild Goat"/>
 <label key="1879399268" value="Chronicle of the Third Age"/>
 <label key="1879399269" value="Dolguzigir"/>
@@ -39653,7 +39653,7 @@
 <label key="1879448912" value="Half-orc Trapper"/>
 <label key="1879448913" value="Moor Hendroval"/>
 <label key="1879448914" value="Half-orc Bandit"/>
-<label key="1879448917" value="White Hand Orc-scout"/>
+<label key="1879448917" value="Wandering Orc-scout"/>
 <label key="1879448918" value="Downs Lynx"/>
 <label key="1879448919" value="Barrow-root"/>
 <label key="1879448920" value="Wandering Barrow-spirit"/>
@@ -40584,6 +40584,7 @@
 <label key="1879455521" value="Black Powder"/>
 <label key="1879455650" value="GNDN"/>
 <label key="1879455652" value="GNDN"/>
+<label key="1879455656" value="GNDN"/>
 <label key="1879455999" value="Door"/>
 <label key="1879456025" value="GNDN"/>
 <label key="1879456026" value="GNDN"/>
@@ -42430,23 +42431,14 @@
 <label key="1879469345" value="Iáphel"/>
 <label key="1879469365" value="Torcadáll Wild-eye"/>
 <label key="1879469368" value="The Witch-king"/>
-<label key="1879469370" value="The Gloom of Nurn"/>
 <label key="1879469372" value="The Gloom of Nurn"/>
 <label key="1879469373" value="The Cursed Rider"/>
 <label key="1879469375" value="The Forsaken Reaver"/>
-<label key="1879469378" value="The Grim Southron"/>
-<label key="1879469380" value="The Cursed Rider"/>
 <label key="1879469381" value="The Bane of Rhûn"/>
-<label key="1879469384" value="The Witch-king"/>
 <label key="1879469385" value="The Black Blade of Lebennin"/>
-<label key="1879469388" value="The Black Blade of Lebennin"/>
 <label key="1879469389" value="The Woe of Khand"/>
-<label key="1879469391" value="The High Sorcerer of Harad"/>
-<label key="1879469393" value="The Bane of Rhûn"/>
 <label key="1879469394" value="The Grim Southron"/>
-<label key="1879469396" value="The Woe of Khand"/>
 <label key="1879469397" value="The High Sorcerer of Harad"/>
-<label key="1879469399" value="The Forsaken Reaver"/>
 <label key="1879469400" value="Throghásh"/>
 <label key="1879469402" value="Krauzhaf"/>
 <label key="1879469419" value="DNT - Winner"/>
@@ -42933,6 +42925,7 @@
 <label key="1879471364" value="Arena Match-ups"/>
 <label key="1879471412" value="Zarai"/>
 <label key="1879471427" value="Hedâkha"/>
+<label key="1879471522" value="Clump of Shagâni Peat"/>
 <label key="1879471641" value="Shagâni Candle"/>
 <label key="1879473212" value="Caravan Manifest"/>
 <label key="1879473252" value="Cryptic Note"/>
@@ -43851,7 +43844,7 @@
 <label key="1879480646" value="Nâxam"/>
 <label key="1879480650" value="Lêshana"/>
 <label key="1879480743" value="OnnMM"/>
-<label key="1879480744" value="Umbari Anvil"/>
+<label key="1879480744" value="Equipment Anvil"/>
 <label key="1879481332" value="Horthion"/>
 <label key="1879481333" value="Rothog"/>
 <label key="1879481334" value="Shaidal"/>
@@ -44301,6 +44294,8 @@
 <label key="1879485231" value="Hâzlur"/>
 <label key="1879485232" value="Râmakhir"/>
 <label key="1879485259" value="Sêkhta"/>
+<label key="1879485296" value="Hamster"/>
+<label key="1879485297" value="Hamster"/>
 <label key="1879485299" value="Hamster"/>
 <label key="1879485301" value="Hedgehog"/>
 <label key="1879485356" value="Iskánta Memorial"/>
@@ -44831,9 +44826,9 @@
 <label key="1879488824" value="Great Dread-tortoise"/>
 <label key="1879488825" value="Great Dread-tortoise"/>
 <label key="1879488826" value="Young Dread-tortoise"/>
-<label key="1879488862" value="Imhûlari Marsh-strider"/>
+<label key="1879488862" value="Adagím Fen-ambler"/>
 <label key="1879488864" value="Ambarûli Marsh-strider"/>
-<label key="1879488865" value="Imhûlari Marsh-binder"/>
+<label key="1879488865" value="Sóthadar the Trickster"/>
 <label key="1879488866" value="Katrakhi Mâta"/>
 <label key="1879488867" value="Barkhûshim Skirmisher"/>
 <label key="1879488868" value="Barkhûshim Sorcerer"/>
@@ -45823,12 +45818,22 @@
 <label key="1879494562" value="Wretched Nirgambâr Spirit"/>
 <label key="1879494563" value="Nirgambâr Crypt-horror"/>
 <label key="1879494564" value="Fallen Nirgambâr Spirit"/>
+<label key="1879494567" value="Nomad"/>
+<label key="1879494569" value="Vault-keeper"/>
+<label key="1879494570" value="Auctioneer"/>
+<label key="1879494574" value="Bard"/>
 <label key="1879494576" value="Fishing Supplier"/>
+<label key="1879494577" value="Hobby Master"/>
+<label key="1879494578" value="Nomad"/>
 <label key="1879494579" value="Auctioneer"/>
 <label key="1879494582" value="Vault-keeper"/>
+<label key="1879494583" value="Master of Apprentices"/>
 <label key="1879494585" value="Forge-master"/>
+<label key="1879494589" value="Barber"/>
 <label key="1879494590" value="Auctioneer"/>
+<label key="1879494591" value="Forge-master"/>
 <label key="1879494594" value="Forge-master"/>
+<label key="1879494595" value="Forge-master"/>
 <label key="1879494598" value="Caretaker"/>
 <label key="1879494600" value="Watchman"/>
 <label key="1879494601" value="Mistress of Apprentices"/>
@@ -45979,6 +45984,8 @@
 <label key="1879497016" value="Mission Recruiter"/>
 <label key="1879497019" value="Mission Recruiter"/>
 <label key="1879497032" value="Mission Recruiter"/>
+<label key="1879497034" value="Door"/>
+<label key="1879497035" value="Door"/>
 <label key="1879497036" value="Door"/>
 <label key="1879497037" value="Door"/>
 <label key="1879497038" value="Door"/>
@@ -46010,7 +46017,6 @@
 <label key="1879497801" value="Utûgi Obliterator"/>
 <label key="1879497802" value="Kulkorth"/>
 <label key="1879497803" value="Utûgi Slaughterer"/>
-<label key="1879497923" value="The Black Blade of Lebennin TESTMODE"/>
 <label key="1879497961" value="Urâshi Archer"/>
 <label key="1879497962" value="Urâshi Berserker"/>
 <label key="1879497963" value="Urâshi Captain"/>
@@ -46157,7 +46163,7 @@
 <label key="1879499028" value="Gain Skill: For Middle-earth!"/>
 <label key="1879499029" value="Gain Skill: For Middle-earth!"/>
 <label key="1879499030" value="Gain Skill: For Middle-earth!"/>
-<label key="1879499034" value="Wretched Utug-bûr Spirit"/>
+<label key="1879499034" value="Wretched Spirit"/>
 <label key="1879499035" value="Kanâshu"/>
 <label key="1879499036" value="Rumók the Blood-spiller"/>
 <label key="1879499175" value="Portcullis"/>
@@ -46244,7 +46250,7 @@
 <label key="1879500316" value="Whisper of Fire"/>
 <label key="1879500317" value="Cursed Fury"/>
 <label key="1879500318" value="Whisper of Storm (Stun)"/>
-<label key="1879500319" value="Protection from Whisper of Blood"/>
+<label key="1879500319" value="DNT - Tank Soak Phase 2"/>
 <label key="1879500380" value="Gârash, the Emptiness"/>
 <label key="1879500403" value="Skill: Glorfindel's Aid"/>
 <label key="1879500405" value="Skill: Glorfindel's Aid"/>
@@ -46425,8 +46431,8 @@
 <label key="1879501524" value="Inîk Jewel-brow"/>
 <label key="1879501525" value="Jajax"/>
 <label key="1879501526" value="Mêshka"/>
-<label key="1879501527" value="TBD Sail-haven Man"/>
-<label key="1879501528" value="TBD Lower Ward Woman"/>
+<label key="1879501527" value="Ilmár"/>
+<label key="1879501528" value="Jínen"/>
 <label key="1879501529" value="Sigileth"/>
 <label key="1879501530" value="Jajax"/>
 <label key="1879501531" value="Corudan"/>
@@ -46702,13 +46708,10 @@
 <label key="1879502451" value="Clue"/>
 <label key="1879502452" value="Subuzûri"/>
 <label key="1879502453" value="Subuzûri"/>
-<label key="1879502466" value="UMBARI VENDOR TBD"/>
-<label key="1879502467" value="Ushrin"/>
+<label key="1879502456" value="Portcullis"/>
 <label key="1879502468" value="Daxamat"/>
-<label key="1879502469" value="Tasâdi"/>
-<label key="1879502470" value="Phârex"/>
 <label key="1879502471" value="Umbari Guardsman"/>
-<label key="1879502472" value="UMBARI VENDOR TBD"/>
+<label key="1879502472" value="Mother Phúrsi"/>
 <label key="1879502473" value="Rahâzi"/>
 <label key="1879502474" value="Ushrin"/>
 <label key="1879502475" value="Phârex"/>
@@ -46934,6 +46937,7 @@
 <label key="1879503370" value="Ulishár"/>
 <label key="1879503371" value="Glorfindel"/>
 <label key="1879503372" value="Dunaïl"/>
+<label key="1879503373" value="Inkanûsh"/>
 <label key="1879503374" value="Kinta of Sul Madásh"/>
 <label key="1879503375" value="Ulishár"/>
 <label key="1879503376" value="Glorfindel"/>
@@ -46953,7 +46957,6 @@
 <label key="1879503390" value="Jêsamin"/>
 <label key="1879503391" value="Rahâzi"/>
 <label key="1879503392" value="Glorfindel"/>
-<label key="1879503393" value="Ulishár"/>
 <label key="1879503394" value="Gurdûnum"/>
 <label key="1879503395" value="Ulishár"/>
 <label key="1879503396" value="Rahâzi"/>
@@ -46967,7 +46970,6 @@
 <label key="1879503404" value="Shenzâmin"/>
 <label key="1879503405" value="Baharúd"/>
 <label key="1879503406" value="Asharmûl"/>
-<label key="1879503407" value="Rahâzi"/>
 <label key="1879503408" value="Glorfindel"/>
 <label key="1879503409" value="Ulishár"/>
 <label key="1879503410" value="Zimêlkha"/>
@@ -47006,33 +47008,16 @@
 <label key="1879503443" value="Ulishár"/>
 <label key="1879503444" value="Sigileth"/>
 <label key="1879503445" value="Glorfindel"/>
-<label key="1879503448" value="Small Trowel"/>
-<label key="1879503449" value="Bird Egg"/>
 <label key="1879503450" value="Misplaced Axe"/>
-<label key="1879503451" value="Pass Sealed With Wax"/>
-<label key="1879503452" value="Heavy Coinpurse"/>
-<label key="1879503453" value="Brigand Blade"/>
-<label key="1879503454" value="Unblighted Seed-pods"/>
-<label key="1879503455" value="Blight Sample"/>
-<label key="1879503456" value="Damaged Leaves"/>
-<label key="1879503457" value="Hyena Meat"/>
 <label key="1879503458" value="Fancy Blade of Ordâkh"/>
 <label key="1879503459" value="Stolen Sacred Stone"/>
-<label key="1879503460" value="Crocodile Teeth"/>
-<label key="1879503461" value="Spider Venom Sac"/>
-<label key="1879503462" value="Light Coinpurse"/>
+<label key="1879503462" value="Light Coin-purse"/>
 <label key="1879503463" value="Brigand Bow"/>
 <label key="1879503464" value="Surrendered Sword"/>
-<label key="1879503465" value="Sickly Wings"/>
-<label key="1879503466" value="Gredbyg Egg Cluster"/>
-<label key="1879503474" value="Mad Ravings"/>
-<label key="1879503475" value="Satagêra's Parchment"/>
-<label key="1879503476" value="Satagêra's Parchment"/>
-<label key="1879503477" value="Satagêra's Parchment"/>
-<label key="1879503478" value="Mad Ravings"/>
+<label key="1879503466" value="Grodbog Egg Cluster"/>
 <label key="1879503480" value="Zimakh"/>
-<label key="1879503482" value="Kighân Signpost"/>
-<label key="1879503483" value="Kighân Signpost"/>
+<label key="1879503482" value="An Shêru Signpost"/>
+<label key="1879503483" value="An Shêru Signpost"/>
 <label key="1879503484" value="Sorcerers of Ordâkh"/>
 <label key="1879503485" value="Slain Utûgi Warrior"/>
 <label key="1879503486" value="Collected Knowledge"/>
@@ -47042,13 +47027,13 @@
 <label key="1879503490" value="Slain Sorcerer"/>
 <label key="1879503491" value="Pervasive Rot"/>
 <label key="1879503492" value="Blight Pustule"/>
-<label key="1879503493" value="Right Wall of Emax Dûl"/>
+<label key="1879503493" value="Crumbled Masonry Outside Emax Dûl"/>
 <label key="1879503494" value="Kighân Signpost"/>
 <label key="1879503495" value="Pervasive Rot"/>
 <label key="1879503496" value="Slain Utûgi Warrior"/>
 <label key="1879503497" value="Tome of History"/>
 <label key="1879503498" value="Kighân Bird Nest"/>
-<label key="1879503499" value="Left Wall of Emax Dûl"/>
+<label key="1879503499" value="Crumbled Masonry Outside Emax Dûl"/>
 <label key="1879503500" value="Broken Bucket"/>
 <label key="1879503501" value="Bucket of Water"/>
 <label key="1879503502" value="Thardúth of Damudûr"/>
@@ -47094,6 +47079,32 @@
 <label key="1879504063" value="GNDN"/>
 <label key="1879504064" value="GNDN"/>
 <label key="1879504065" value="GNDN"/>
+<label key="1879504066" value="Mizâdi"/>
+<label key="1879504075" value="Provisioner"/>
+<label key="1879504077" value="Provisioner"/>
+<label key="1879504078" value="Healer"/>
+<label key="1879504079" value="Dwarf Barber"/>
+<label key="1879504081" value="Provisioner"/>
+<label key="1879504082" value="Supplier"/>
+<label key="1879504083" value="Supplier"/>
+<label key="1879504084" value="Healer"/>
+<label key="1879504085" value="Supplier"/>
+<label key="1879504086" value="Vault-keeper"/>
+<label key="1879504087" value="Healer"/>
+<label key="1879504088" value="Vault-keeper"/>
+<label key="1879504089" value="Provisioner"/>
+<label key="1879504091" value="Supplier"/>
+<label key="1879504092" value="Healer"/>
+<label key="1879504093" value="Healer"/>
+<label key="1879504094" value="Provisioner"/>
+<label key="1879504095" value="Supplier"/>
+<label key="1879504096" value="Forge-master"/>
+<label key="1879504098" value="Fishing Supplier"/>
+<label key="1879504100" value="Auctioneer"/>
+<label key="1879504106" value="Forge-master"/>
+<label key="1879504108" value="Master of Apprentices"/>
+<label key="1879504109" value="Forge-master"/>
+<label key="1879504111" value="Hobby Master"/>
 <label key="1879506112" value="Visage of Gil-galad"/>
 <label key="1879506113" value="Visage of Sauron"/>
 <label key="1879506169" value="The Hoarfall"/>
@@ -47123,7 +47134,6 @@
 <label key="1879506348" value="Heirsworn Defender"/>
 <label key="1879506349" value="Khôltekh's Footsoldier"/>
 <label key="1879506350" value="Jajax"/>
-<label key="1879506351" value="Door"/>
 <label key="1879506352" value="GNDN"/>
 <label key="1879506355" value="DNT Teleport 7.Uprising Two to Three"/>
 <label key="1879506356" value="DNT Teleport 7.Uprising One to Two"/>
@@ -47168,7 +47178,6 @@
 <label key="1879506816" value="Palace Guard"/>
 <label key="1879506817" value="Guard Captain"/>
 <label key="1879506818" value="Red Phial"/>
-<label key="1879506820" value="Shadow Seeker"/>
 <label key="1879506821" value="Royal Guard"/>
 <label key="1879506822" value="Enthralled Prisoner"/>
 <label key="1879507026" value="Camelia Buttonbloom"/>
@@ -47196,8 +47205,6 @@
 <label key="1879507128" value="Yellow Onion"/>
 <label key="1879507129" value="Red Apple"/>
 <label key="1879507130" value="Gold Apple"/>
-<label key="1879507131" value="Corbo's Vegetables"/>
-<label key="1879507132" value="Habbo's Apples"/>
 <label key="1879507161" value="Animated Ooze"/>
 <label key="1879507392" value="Habâti"/>
 <label key="1879507393" value="Sigileth"/>
@@ -47212,29 +47219,23 @@
 <label key="1879507402" value="Corudan"/>
 <label key="1879507403" value="Cúridwan"/>
 <label key="1879507404" value="Corudan"/>
-<label key="1879507405" value="TBD ORDAKH FEMALE A"/>
+<label key="1879507405" value="Jóla"/>
 <label key="1879507406" value="Corudan"/>
-<label key="1879507407" value="TBD ORDAKH MALE A"/>
+<label key="1879507407" value="Onúkho"/>
 <label key="1879507408" value="Rahâzi"/>
-<label key="1879507409" value="Examination Location"/>
+<label key="1879507409" value="Storage Amphorae"/>
 <label key="1879507410" value="Disposal Location"/>
 <label key="1879507411" value="Corsair Supply Crate"/>
 <label key="1879507412" value="Disposal Location"/>
 <label key="1879507413" value="Disposal Location"/>
-<label key="1879507414" value="Marked Crate"/>
+<label key="1879507414" value="Marked Barrel"/>
 <label key="1879507415" value="Cannon Sketches"/>
 <label key="1879507416" value="Orc Corpse"/>
 <label key="1879507417" value="Corsair Supply Crate"/>
-<label key="1879507418" value="Examination Location"/>
-<label key="1879507419" value="Marked Crate"/>
+<label key="1879507418" value="Map of Sûg Nidar"/>
+<label key="1879507419" value="Marked Barrel"/>
 <label key="1879507420" value="Corsair Supply Crate"/>
-<label key="1879507421" value="Narghâk Cannon"/>
-<label key="1879507425" value="Cloth Sack"/>
-<label key="1879507426" value="Elf-arrow"/>
-<label key="1879507427" value="Small Trowel"/>
-<label key="1879507428" value="Corsair Blade"/>
-<label key="1879507429" value="Ordâkh Blade"/>
-<label key="1879507430" value="Narghâk Bottle"/>
+<label key="1879507421" value="Narghâk Siphon"/>
 <label key="1879507431" value="Pod of the Blight"/>
 <label key="1879507581" value="GNDN"/>
 <label key="1879507597" value="The Entangler's Chest - Solo"/>
@@ -47264,9 +47265,16 @@
 <label key="1879507630" value="Experiment Result - Rage"/>
 <label key="1879507632" value="Experiment Result - Poison"/>
 <label key="1879507670" value="Torturer's Brand"/>
+<label key="1879507779" value="Yawning Yellow Mushroom"/>
+<label key="1879507780" value="Bloated Blue Mushroom"/>
+<label key="1879507781" value="Yawning Yellow Mushroom"/>
+<label key="1879507782" value="Bloated Blue Mushroom"/>
+<label key="1879507783" value="Yawning Yellow Mushroom"/>
+<label key="1879507784" value="Bloated Blue Mushroom"/>
+<label key="1879507785" value="Roiling Red Mushroom"/>
+<label key="1879507786" value="Roiling Red Mushroom"/>
+<label key="1879507787" value="Roiling Red Mushroom"/>
 <label key="1879507810" value="Cave-claw Den"/>
-<label key="1879507813" value="Rotting Apple"/>
-<label key="1879507814" value="Rotting Vegetable"/>
 <label key="1879507816" value="GNDN"/>
 <label key="1879507867" value="Crate of Boots"/>
 <label key="1879507870" value="Thieving Cave-claw"/>
@@ -47299,140 +47307,159 @@
 <label key="1879508784" value="DNT - Capture TR MP"/>
 <label key="1879508799" value="Encroaching Madness"/>
 <label key="1879508864" value="Rokhâran"/>
-<label key="1879508865" value="TBD"/>
+<label key="1879508865" value="Khónyo Bóro"/>
 <label key="1879508866" value="Azagâya"/>
 <label key="1879508867" value="Masûlga"/>
-<label key="1879508868" value="TBD"/>
-<label key="1879508869" value="TBD"/>
+<label key="1879508868" value="Jarôba"/>
+<label key="1879508869" value="Lejâl"/>
 <label key="1879508870" value="Mashôr"/>
-<label key="1879508871" value="TBD"/>
+<label key="1879508871" value="Galêris"/>
 <label key="1879508872" value="Zajâna Prisoner"/>
 <label key="1879508873" value="Mizâdi"/>
-<label key="1879508874" value="TBD"/>
-<label key="1879508875" value="TBD"/>
-<label key="1879508876" value="TBD"/>
+<label key="1879508874" value="Jórbol Bóro"/>
+<label key="1879508875" value="Marôr"/>
+<label key="1879508876" value="Alizâr"/>
 <label key="1879508877" value="Masûlga"/>
 <label key="1879508878" value="Mashôr"/>
 <label key="1879508879" value="Jârano"/>
-<label key="1879508880" value="TBD"/>
+<label key="1879508880" value="Zâmaklar"/>
 <label key="1879508881" value="Mizâdi"/>
-<label key="1879508882" value="TBD"/>
+<label key="1879508882" value="Rayíka"/>
 <label key="1879508883" value="Mizâdi"/>
-<label key="1879508884" value="TBD"/>
+<label key="1879508884" value="Barad"/>
 <label key="1879508885" value="Oren"/>
 <label key="1879508886" value="Sarâgh"/>
 <label key="1879508887" value="Jârano"/>
-<label key="1879508888" value="TBD"/>
+<label key="1879508888" value="Baradûm"/>
 <label key="1879508889" value="Mizâdi"/>
 <label key="1879508890" value="Rokhâran"/>
-<label key="1879508891" value="TBD"/>
+<label key="1879508891" value="Muzâwi"/>
 <label key="1879508892" value="Rokhâran"/>
-<label key="1879508893" value="TBD"/>
-<label key="1879508894" value="TBD"/>
-<label key="1879508895" value="TBD"/>
+<label key="1879508893" value="Khazât"/>
+<label key="1879508894" value="Bajâti"/>
+<label key="1879508895" value="Sênjar"/>
 <label key="1879508896" value="Mizâdi"/>
-<label key="1879508897" value="TBD"/>
+<label key="1879508897" value="Mashûmi"/>
 <label key="1879508898" value="Oren"/>
-<label key="1879508899" value="TBD"/>
-<label key="1879508900" value="TBD"/>
-<label key="1879508901" value="TBD"/>
+<label key="1879508899" value="Khârmab"/>
+<label key="1879508900" value="Mysterious Spirit"/>
+<label key="1879508901" value="Nirjára Bóro"/>
 <label key="1879508902" value="Oren"/>
-<label key="1879508903" value="TBD"/>
+<label key="1879508903" value="Jangâli"/>
 <label key="1879508904" value="Merchant"/>
 <label key="1879508905" value="Rokhâran"/>
-<label key="1879508906" value="TBD"/>
+<label key="1879508906" value="Sâkham"/>
 <label key="1879508907" value="Oren"/>
 <label key="1879508908" value="Sarâgh"/>
-<label key="1879508909" value="TBD"/>
-<label key="1879508910" value="TBD"/>
+<label key="1879508909" value="Marôr"/>
+<label key="1879508910" value="Ahâto"/>
 <label key="1879508911" value="Jârano"/>
 <label key="1879508912" value="Jârano"/>
-<label key="1879508913" value="TBD"/>
-<label key="1879508914" value="TBD"/>
+<label key="1879508913" value="Jûshal"/>
+<label key="1879508914" value="Khaljûn"/>
 <label key="1879508915" value="Mizâdi"/>
 <label key="1879508916" value="Jârano"/>
 <label key="1879508917" value="Sarâgh"/>
 <label key="1879508918" value="Azagâya"/>
-<label key="1879508919" value="TBD"/>
-<label key="1879508920" value="TBD"/>
+<label key="1879508919" value="Bríya"/>
+<label key="1879508920" value="Sârwi"/>
 <label key="1879508921" value="Masûlga"/>
 <label key="1879508922" value="Razâl"/>
-<label key="1879508923" value="TBD"/>
-<label key="1879508924" value="TBD"/>
+<label key="1879508923" value="Valrazâr"/>
+<label key="1879508924" value="Marôr"/>
 <label key="1879508925" value="Zajâna Prisoner"/>
 <label key="1879508926" value="Mizâdi"/>
-<label key="1879508927" value="TBD"/>
+<label key="1879508927" value="Guladâra"/>
 <label key="1879508928" value="Oren"/>
-<label key="1879508929" value="TBD"/>
-<label key="1879508930" value="TBD"/>
+<label key="1879508929" value="Mithûrtu"/>
+<label key="1879508930" value="Râjoron"/>
 <label key="1879508931" value="Azagâya"/>
 <label key="1879508932" value="Mashôr"/>
-<label key="1879508933" value="TBD"/>
+<label key="1879508933" value="Khâbakh"/>
 <label key="1879508935" value="Mizâdi"/>
 <label key="1879508936" value="Sarâgh"/>
 <label key="1879508937" value="Oren"/>
 <label key="1879508938" value="Mashôr"/>
 <label key="1879508939" value="Mashôr"/>
-<label key="1879508940" value="TBD"/>
+<label key="1879508940" value="Akráho Bóro"/>
 <label key="1879508941" value="Masûlga"/>
 <label key="1879508942" value="Masûlga"/>
-<label key="1879508943" value="TBD"/>
-<label key="1879508944" value="TBD"/>
+<label key="1879508943" value="Merbâna"/>
+<label key="1879508944" value="Lurâkha"/>
 <label key="1879508945" value="Jolakári"/>
-<label key="1879508946" value="TBD"/>
-<label key="1879508947" value="TBD"/>
+<label key="1879508946" value="Jurmêna"/>
+<label key="1879508947" value="Têredal"/>
 <label key="1879508948" value="Mizâdi"/>
 <label key="1879508949" value="Numûru"/>
-<label key="1879508950" value="TBD"/>
-<label key="1879508951" value="TBD"/>
+<label key="1879508950" value="Kôrzan"/>
+<label key="1879508951" value="Majâryan"/>
 <label key="1879508952" value="Merchant"/>
-<label key="1879508953" value="TBD"/>
+<label key="1879508953" value="Jôrlar"/>
 <label key="1879508954" value="Jârano"/>
 <label key="1879508955" value="Azagâya"/>
-<label key="1879508957" value="TBD"/>
+<label key="1879508957" value="Katâl"/>
 <label key="1879508958" value="Oren"/>
+<label key="1879508992" value="TBD Commander"/>
+<label key="1879508993" value="Blood Orb"/>
+<label key="1879508994" value="Seregost Black Uruk"/>
+<label key="1879508995" value="Morvul Darkwing"/>
+<label key="1879508996" value="Seregost Black Uruk"/>
+<label key="1879508997" value="Troll Demolisher"/>
+<label key="1879508998" value="Morroval Nightsinger"/>
+<label key="1879508999" value="Armoured Morvul"/>
+<label key="1879509000" value="Morroval Blade-thrower"/>
+<label key="1879509001" value="TBD Sorceress"/>
+<label key="1879509003" value="Morroval Blade-thrower"/>
+<label key="1879509005" value="Troll Demolisher"/>
+<label key="1879509006" value="Morvul Darkwing"/>
+<label key="1879509007" value="Morroval Stalker"/>
+<label key="1879509008" value="Morroval Bloodsinger"/>
+<label key="1879509009" value="Morroval Assassin"/>
+<label key="1879509010" value="Morroval Bloodsinger"/>
+<label key="1879509011" value="TBD Assassin"/>
 <label key="1879509030" value="Fracture Reality"/>
 <label key="1879509032" value="Festival Dock-master"/>
+<label key="1879509037" value="Bounty: Jûkhtar"/>
+<label key="1879509038" value="Bounty: Korutásh"/>
+<label key="1879509039" value="Bounty: Nâralarg"/>
+<label key="1879509040" value="Bounty: Shahâk"/>
 <label key="1879509122" value="Mysterious Book"/>
 <label key="1879509123" value="Pohâni Writings"/>
 <label key="1879509124" value="Ceremonial Hamâti Sword"/>
-<label key="1879509125" value="Oryx Meat for Traps"/>
-<label key="1879509127" value="TBD"/>
+<label key="1879509127" value="Chronicles of the Tarsâri, Vol. I"/>
 <label key="1879509128" value="Huorn Wood"/>
-<label key="1879509129" value="TBD"/>
-<label key="1879509130" value="TBD"/>
+<label key="1879509129" value="Chronicles of the Tarsâri, Vol. IV"/>
+<label key="1879509130" value="Chronicles of the Tarsâri, Vol. II"/>
 <label key="1879509131" value="Zajâni Sword"/>
 <label key="1879509132" value="Bowl of Food"/>
 <label key="1879509133" value="Sarâgh's Decree"/>
-<label key="1879509134" value="Clue"/>
-<label key="1879509136" value="TBD"/>
-<label key="1879509137" value="Fresh Cheese"/>
-<label key="1879509138" value="Bucket of Water"/>
-<label key="1879509139" value="Clue"/>
-<label key="1879509140" value="Clue"/>
-<label key="1879509141" value="Pohâni Flower"/>
-<label key="1879509142" value="Huorn Wood"/>
+<label key="1879509134" value="Baradûm's Clue"/>
+<label key="1879509135" value="Fresh Dill"/>
+<label key="1879509136" value="The Farings of Kábuzar"/>
+<label key="1879509139" value="Baradûm's Clue"/>
+<label key="1879509140" value="Baradûm's Clue"/>
+<label key="1879509141" value="Pohâni Flower Bunch"/>
+<label key="1879509143" value="Ancient Heirloom"/>
 <label key="1879509144" value="Scroll"/>
 <label key="1879509145" value="Wood for Traps"/>
-<label key="1879509146" value="Cut Grass"/>
-<label key="1879509147" value="Honeycomb"/>
 <label key="1879509148" value="Quill"/>
 <label key="1879509149" value="Bunch of Herbs"/>
-<label key="1879509150" value="TBD's Relic"/>
+<label key="1879509150" value="Zâmaklar's Relic"/>
 <label key="1879509151" value="Piece of Cloth"/>
 <label key="1879509154" value="Treasure?"/>
 <label key="1879509155" value="Strange Journal"/>
-<label key="1879509156" value="TBD's Treasure"/>
-<label key="1879509157" value="Orange for TBD"/>
+<label key="1879509156" value="Zâwakhar's Treasure"/>
+<label key="1879509157" value="Orange for Merbâna"/>
 <label key="1879509158" value="A History of Zajâna"/>
-<label key="1879509159" value="Oryx Stew Meat"/>
-<label key="1879509160" value="Kighâni Potato"/>
-<label key="1879509161" value="Sticks for Fire"/>
-<label key="1879509162" value="Honeycomb"/>
-<label key="1879509163" value="TBD"/>
-<label key="1879509165" value="TBD"/>
-<label key="1879509167" value="TBD's Journal Page"/>
-<label key="1879509169" value="TBD"/>
+<label key="1879509160" value="Kighâni Chickpeas"/>
+<label key="1879509161" value="Wood for Fire"/>
+<label key="1879509163" value="Fang"/>
+<label key="1879509164" value="Amaranth"/>
+<label key="1879509165" value="Block"/>
+<label key="1879509166" value="Foxglove"/>
+<label key="1879509167" value="Journal Page"/>
+<label key="1879509168" value="Blue Thistle"/>
+<label key="1879509169" value="Bash"/>
 <label key="1879509241" value="Serval Cage"/>
 <label key="1879509242" value="Area for Black Powder"/>
 <label key="1879509243" value="Area for Water Bowl"/>
@@ -47447,19 +47474,19 @@
 <label key="1879509252" value="Goblin Catapult"/>
 <label key="1879509253" value="Area for Clues"/>
 <label key="1879509254" value="Goblin Cauldron"/>
-<label key="1879509255" value="Clue"/>
+<label key="1879509255" value="Book"/>
 <label key="1879509256" value="Area for Clues"/>
 <label key="1879509257" value="Area for Clues"/>
 <label key="1879509258" value="Area for Clues"/>
 <label key="1879509259" value="Area for Gift Sword"/>
 <label key="1879509260" value="Honey Deposit"/>
 <label key="1879509261" value="Cheese for Delivery"/>
-<label key="1879509262" value="Area of Fresh Water"/>
+<label key="1879509262" value="Bucket of Fresh Water"/>
 <label key="1879509263" value="Rokhâran Evidence"/>
 <label key="1879509264" value="Spider Web Patch"/>
 <label key="1879509265" value="Area for Clues"/>
 <label key="1879509266" value="Afflicted Sapling"/>
-<label key="1879509267" value="Memorial"/>
+<label key="1879509267" value="Mashâr-azon's Memorial"/>
 <label key="1879509268" value="Clue"/>
 <label key="1879509269" value="Clue"/>
 <label key="1879509270" value="Area for Bowl of Food"/>
@@ -47483,9 +47510,1496 @@
 <label key="1879509288" value="Cage Door"/>
 <label key="1879509289" value="Clean Tomb"/>
 <label key="1879509290" value="Area to Water"/>
-<label key="1879509291" value="Honey Deposit"/>
-<label key="1879509294" value="TBD"/>
+<label key="1879509291" value="Large Honeycomb"/>
+<label key="1879509294" value="Nazâkh"/>
 <label key="1879509413" value="Satchel"/>
 <label key="1879509414" value="Satchel"/>
+<label key="1879509464" value="Reclaim Weapon"/>
 <label key="1879509502" value="The Hoarfall"/>
+<label key="1879509513" value="Medân Makhai"/>
+<label key="1879509514" value="Pools of Taridím"/>
+<label key="1879509515" value="The Cloakwood"/>
+<label key="1879509516" value="Lhámuth"/>
+<label key="1879509517" value="Sâr Marsag"/>
+<label key="1879509518" value="Sâkhazai"/>
+<label key="1879509519" value="Jâr Obadal"/>
+<label key="1879509520" value="Tombs of Khâb Ishil"/>
+<label key="1879509521" value="Gadim-ûn"/>
+<label key="1879509522" value="Khatzâla"/>
+<label key="1879509523" value="Bâdrasag, the Blade-horn"/>
+<label key="1879509524" value="Duríga"/>
+<label key="1879509525" value="The Seething-wells"/>
+<label key="1879509526" value="Khanâg Gur"/>
+<label key="1879509527" value="Fane of Shahûru"/>
+<label key="1879509528" value="Edrúth-nin, the Elderwell"/>
+<label key="1879509529" value="Dathrudúsh"/>
+<label key="1879509530" value="Khab Antâx"/>
+<label key="1879509531" value="Sormedân"/>
+<label key="1879509532" value="The Scardelve"/>
+<label key="1879509533" value="Mokh Grazádh"/>
+<label key="1879509534" value="Laivárth"/>
+<label key="1879509535" value="Roost of the Anzûri"/>
+<label key="1879509536" value="Thor Lhîg"/>
+<label key="1879509538" value="The Wither-watch"/>
+<label key="1879509539" value="Shádhag"/>
+<label key="1879509541" value="Gundurai"/>
+<label key="1879509542" value="Kôth Rau"/>
+<label key="1879509543" value="Nax Shalâl"/>
+<label key="1879509545" value="The Haunt of Kidu-bâla"/>
+<label key="1879509546" value="Naxar Dâl"/>
+<label key="1879509547" value="Arch of Adazâr"/>
+<label key="1879509548" value="Karmu Râx"/>
+<label key="1879509549" value="Nagakhêdi"/>
+<label key="1879509550" value="Zakhûr"/>
+<label key="1879509551" value="Lair of the Shadlúgai"/>
+<label key="1879509552" value="Hall of Lajór"/>
+<label key="1879509553" value="Erakúndo, the Spent-lodes"/>
+<label key="1879509554" value="The Beast-fields"/>
+<label key="1879509555" value="Hordírid"/>
+<label key="1879509557" value="Damudûr"/>
+<label key="1879509558" value="Treasure Caves of Hurum Kâna"/>
+<label key="1879509559" value="Ahâba"/>
+<label key="1879509560" value="Abníshu"/>
+<label key="1879509561" value="Ogultáth"/>
+<label key="1879509562" value="Jiret-menêsh"/>
+<label key="1879509563" value="Nashûbu"/>
+<label key="1879509565" value="Gnasher's Delf"/>
+<label key="1879509566" value="Narchásh"/>
+<label key="1879509568" value="Lâkindar"/>
+<label key="1879509570" value="Zajâna"/>
+<label key="1879509571" value="Mauthark"/>
+<label key="1879509572" value="Mires of Moth Thúruch"/>
+<label key="1879509573" value="Ushumût"/>
+<label key="1879509574" value="Dur Nâgu"/>
+<label key="1879509575" value="Pazakhêra"/>
+<label key="1879509576" value="Hold of Jalkhíla"/>
+<label key="1879509578" value="Sen Chatâk"/>
+<label key="1879509579" value="Hadrudád"/>
+<label key="1879509580" value="Jolakhúro"/>
+<label key="1879509581" value="Hurum Kâna"/>
+<label key="1879509582" value="Slopes of Shâlahin"/>
+<label key="1879509583" value="Saig Hathíl"/>
+<label key="1879509584" value="Uruthúsh"/>
+<label key="1879509585" value="Crypts of Khâb Daku"/>
+<label key="1879509586" value="Khab Kitâx"/>
+<label key="1879509587" value="Pits of Chortáth"/>
+<label key="1879509588" value="Spoiler's Crag"/>
+<label key="1879509589" value="Groves of Gatúr"/>
+<label key="1879509590" value="The Dawn-warden"/>
+<label key="1879509591" value="Jag Golód"/>
+<label key="1879509593" value="Emax Dûl"/>
+<label key="1879509594" value="Esh Mêkag Pit-mine"/>
+<label key="1879509595" value="Khamósh-engar"/>
+<label key="1879509596" value="Ingar-garâsh"/>
+<label key="1879509597" value="Thalat Tîr"/>
+<label key="1879509598" value="Tûl Ama"/>
+<label key="1879509599" value="Glúkroz"/>
+<label key="1879509600" value="Onabóha"/>
+<label key="1879509601" value="Dân Shatagan"/>
+<label key="1879509602" value="Sul Madásh"/>
+<label key="1879509618" value="Blood Storm"/>
+<label key="1879509619" value="Eye of the Storm"/>
+<label key="1879509648" value="DNT - Remove Nightfall"/>
+<label key="1879509649" value="Nightfall"/>
+<label key="1879509661" value="Injured Kinta"/>
+<label key="1879509662" value="Ildimár"/>
+<label key="1879509663" value="Irsinith"/>
+<label key="1879509664" value="Sálunath"/>
+<label key="1879509665" value="Injured Kinta"/>
+<label key="1879509666" value="Tálbiral"/>
+<label key="1879509667" value="Dáthlil"/>
+<label key="1879509668" value="Calúrmin"/>
+<label key="1879509669" value="Injured Kinta"/>
+<label key="1879509670" value="Mírthar"/>
+<label key="1879509672" value="Ráthwil"/>
+<label key="1879509673" value="Mírthar"/>
+<label key="1879509674" value="Baráil"/>
+<label key="1879509675" value="Dead Orc"/>
+<label key="1879509676" value="Samítai"/>
+<label key="1879509677" value="Sílivat"/>
+<label key="1879509678" value="Várudar"/>
+<label key="1879509679" value="Lóburdith"/>
+<label key="1879509680" value="Tábai"/>
+<label key="1879509683" value="Máladil"/>
+<label key="1879509685" value="Serâna"/>
+<label key="1879509686" value="Bíralad"/>
+<label key="1879509687" value="Dead Scholar"/>
+<label key="1879509688" value="Orthél"/>
+<label key="1879509690" value="Thárnar"/>
+<label key="1879509692" value="Dead Scholar"/>
+<label key="1879509693" value="Dead Scholar"/>
+<label key="1879509694" value="Faeron"/>
+<label key="1879509696" value="Rhadrog"/>
+<label key="1879509697" value="Viznak"/>
+<label key="1879509698" value="Viznak"/>
+<label key="1879509727" value="Goblin Prowler"/>
+<label key="1879509728" value="Goblin Sapper"/>
+<label key="1879509730" value="Goblin Raider"/>
+<label key="1879509733" value="Goblin Raider"/>
+<label key="1879509734" value="Goblin Sapper"/>
+<label key="1879509738" value="Goblin Watch-keep"/>
+<label key="1879509740" value="Goblin Sticker"/>
+<label key="1879509742" value="Goblin Raider"/>
+<label key="1879509744" value="Goblin Watch-keep"/>
+<label key="1879509746" value="Goblin Berserk"/>
+<label key="1879509749" value="Goblin Watch-keep"/>
+<label key="1879509750" value="Goblin Sticker"/>
+<label key="1879509753" value="Korutásh"/>
+<label key="1879509755" value="Goblin Berserk"/>
+<label key="1879509756" value="Goblin Captain"/>
+<label key="1879509757" value="Korutásh"/>
+<label key="1879509758" value="Goblin Prowler"/>
+<label key="1879509788" value="Plant Sample"/>
+<label key="1879509789" value="Sap Sample"/>
+<label key="1879509794" value="Insect Sample"/>
+<label key="1879509795" value="Bloody Sap"/>
+<label key="1879509798" value="Blighted Sap"/>
+<label key="1879509799" value="Research Papers"/>
+<label key="1879509800" value="Research Papers"/>
+<label key="1879509801" value="Research Papers"/>
+<label key="1879509802" value="Blighted Water"/>
+<label key="1879509804" value="Rotting Berries"/>
+<label key="1879509805" value="Blighted Mushroom"/>
+<label key="1879509806" value="Rotting Flower"/>
+<label key="1879509811" value="Poisoned Water"/>
+<label key="1879509814" value="Small Sample of Pale Blight"/>
+<label key="1879509815" value="Large Sample of Pale Blight"/>
+<label key="1879509816" value="Small Sample of Pale Blight"/>
+<label key="1879509822" value="Blighted Leaves"/>
+<label key="1879509823" value="'Safe' Mushroom"/>
+<label key="1879509826" value="Medicinal Mushroom"/>
+<label key="1879509827" value="Medicinal Herb"/>
+<label key="1879509828" value="Blighted Mushroom"/>
+<label key="1879509831" value="Suitable Firewood"/>
+<label key="1879509832" value="Yellow Mushroom"/>
+<label key="1879509833" value="Rat Nest"/>
+<label key="1879509834" value="Blighted Tree"/>
+<label key="1879509835" value="Diseased Fish"/>
+<label key="1879509836" value="Fungal Rot"/>
+<label key="1879509837" value="Infected Orc"/>
+<label key="1879509838" value="Fungal Rot"/>
+<label key="1879509839" value="Monstrous Fungi"/>
+<label key="1879509840" value="Combine Concoction"/>
+<label key="1879509842" value="Red Mushroom"/>
+<label key="1879509843" value="Pale Sapling"/>
+<label key="1879509844" value="Orc Supplies"/>
+<label key="1879509846" value="Pale Tree"/>
+<label key="1879509850" value="Fungal Rot"/>
+<label key="1879509852" value="Pale Blight Sample"/>
+<label key="1879509853" value="Green Mushroom"/>
+<label key="1879509854" value="Blue Mushroom"/>
+<label key="1879509855" value="Mixing Table"/>
+<label key="1879509856" value="Pale Spider Egg"/>
+<label key="1879509858" value="Diseased Insects"/>
+<label key="1879509859" value="Pale Blight Sample"/>
+<label key="1879509861" value="Raze Ground Location"/>
+<label key="1879509862" value="Blighted Root"/>
+<label key="1879509864" value="Diseased Fish"/>
+<label key="1879509865" value="Pale Blight Sample"/>
+<label key="1879509866" value="DNT - Choice Beam"/>
+<label key="1879509867" value="Ancient Hamâti Chest - Tier 2"/>
+<label key="1879509869" value="Ancient Hamâti Chest - Tier 3"/>
+<label key="1879509870" value="Badharál's Grotesque Egg - Tier 2"/>
+<label key="1879509871" value="Badharál's Grotesque Egg - Tier 3"/>
+<label key="1879509872" value="The Legion's Chest - Tier 1"/>
+<label key="1879509874" value="Ancient Hamâti Chest - Tier 1"/>
+<label key="1879509875" value="Badharál's Grotesque Egg - Tier 1"/>
+<label key="1879509876" value="The Legion's Chest - Tier 2"/>
+<label key="1879509877" value="The Legion's Chest - Tier 3"/>
+<label key="1879509879" value="DNT - Knockback"/>
+<label key="1879509903" value="DNT - Rain of Knives Spawner"/>
+<label key="1879509904" value="Adventurer's Quartermaster"/>
+<label key="1879510013" value="Adagím Crop Seeds"/>
+<label key="1879510032" value="TBD Sorceress"/>
+<label key="1879510033" value="TBD Commander"/>
+<label key="1879510034" value="TBD Assassin"/>
+<label key="1879510036" value="Zajâna Task Board"/>
+<label key="1879510042" value="Kintai of Sul Madásh Task Board"/>
+<label key="1879510043" value="Hamât Renewed Task Board"/>
+<label key="1879510044" value="Temámir Task Board"/>
+<label key="1879510442" value="DNT - Animate Blood"/>
+<label key="1879512074" value="Kighân Blightwood"/>
+<label key="1879512075" value="Kighân Rotting Moulder-wood"/>
+<label key="1879512076" value="Adagím Blightwood"/>
+<label key="1879512077" value="Kighân Rotting Moulder-wood"/>
+<label key="1879512078" value="Kighân Blightwood"/>
+<label key="1879512079" value="Adagím Rotting Moulder-wood"/>
+<label key="1879512080" value="Totâkhri"/>
+<label key="1879512081" value="Adagím Blightwood"/>
+<label key="1879512082" value="Adagím Rotting Moulder-wood"/>
+<label key="1879512083" value="Kighân Great Blight-wood"/>
+<label key="1879512084" value="Khanda-khêl Guard"/>
+<label key="1879512086" value="Ombátha"/>
+<label key="1879512087" value="Nikûm"/>
+<label key="1879512088" value="Khagâmi"/>
+<label key="1879512089" value="Tekâmi"/>
+<label key="1879512090" value="Gôbezhir Firmhand"/>
+<label key="1879512091" value="Halshûm"/>
+<label key="1879512092" value="Khagâmi"/>
+<label key="1879512093" value="Andûmu"/>
+<label key="1879512094" value="Cherêka"/>
+<label key="1879512095" value="Namâdi"/>
+<label key="1879512096" value="Gíshgi"/>
+<label key="1879512097" value="Faeron"/>
+<label key="1879512098" value="Khagâmi"/>
+<label key="1879512099" value="Châmelek Gêta"/>
+<label key="1879512100" value="Prisoner"/>
+<label key="1879512101" value="Prisoner"/>
+<label key="1879512102" value="Rhadrog"/>
+<label key="1879512103" value="Khagâmi"/>
+<label key="1879512104" value="Sikût"/>
+<label key="1879512105" value="Mêshaget"/>
+<label key="1879512106" value="Rhadrog"/>
+<label key="1879512107" value="Prisoner"/>
+<label key="1879512108" value="Játsakori Guard"/>
+<label key="1879512109" value="Prisoner"/>
+<label key="1879512110" value="Bounties"/>
+<label key="1879512111" value="Mêshaget"/>
+<label key="1879512112" value="Faeron"/>
+<label key="1879512113" value="Nabatínu"/>
+<label key="1879512114" value="Mêshaget"/>
+<label key="1879512115" value="Faeron"/>
+<label key="1879512116" value="Khagâmi"/>
+<label key="1879512117" value="Khagâmi"/>
+<label key="1879512119" value="Sâdikiz the Sky-hungry"/>
+<label key="1879512120" value="DNT Utûgi Guard"/>
+<label key="1879512121" value="Mêshaget"/>
+<label key="1879512122" value="Faeron"/>
+<label key="1879512123" value="Gôbezhir Firmhand"/>
+<label key="1879512124" value="Mêshaget"/>
+<label key="1879512125" value="Mêshaget"/>
+<label key="1879512126" value="Bounties"/>
+<label key="1879512127" value="Rhadrog"/>
+<label key="1879512128" value="Mísikir Thickbeard"/>
+<label key="1879512129" value="DNT Utûgi Guard Leader"/>
+<label key="1879512130" value="Têsegi"/>
+<label key="1879512131" value="Kufâro"/>
+<label key="1879512132" value="Adagím Weaver"/>
+<label key="1879512133" value="Jûkhtar the Ravenous"/>
+<label key="1879512134" value="Kighân Skulker"/>
+<label key="1879512135" value="Kighân Spitter"/>
+<label key="1879512136" value="An Shêru Blighted Hill-bat"/>
+<label key="1879512137" value="Kighân Weaver"/>
+<label key="1879512138" value="Kighân Weaver"/>
+<label key="1879512139" value="Nâralarg"/>
+<label key="1879512140" value="Adagím Fen-roamer"/>
+<label key="1879512141" value="Jûkhtar the Ravenous"/>
+<label key="1879512142" value="Kighân Hatchling"/>
+<label key="1879512143" value="Adagím Spitter"/>
+<label key="1879512144" value="Adagím Hatchling"/>
+<label key="1879512145" value="Adagím Fen-roamer"/>
+<label key="1879512146" value="Kighân Skulker"/>
+<label key="1879512147" value="Adagím Fen-ambler"/>
+<label key="1879512148" value="An Shêru Hill-bat"/>
+<label key="1879512149" value="Adagím Skulker"/>
+<label key="1879512150" value="Adagím Weaver"/>
+<label key="1879512151" value="Kighân Spitter"/>
+<label key="1879512152" value="Adagím Fen-ambler"/>
+<label key="1879512153" value="Kighân Hatchling"/>
+<label key="1879512154" value="Adagím Spitter"/>
+<label key="1879512207" value="Borndir"/>
+<label key="1879512208" value="Aphadaer"/>
+<label key="1879512209" value="Tatháta"/>
+<label key="1879512210" value="Jajax"/>
+<label key="1879512211" value="Borndir"/>
+<label key="1879512212" value="Queen Arwen"/>
+<label key="1879512213" value="Tatháta"/>
+<label key="1879512214" value="Líniel"/>
+<label key="1879512215" value="Soldier of Gondor"/>
+<label key="1879512216" value="Belondor"/>
+<label key="1879512217" value="King Elessar"/>
+<label key="1879512218" value="King Elessar"/>
+<label key="1879512219" value="Agladal"/>
+<label key="1879512220" value="Gaeranor"/>
+<label key="1879512221" value="Glindor"/>
+<label key="1879512222" value="King Elessar"/>
+<label key="1879512223" value="Ioreth"/>
+<label key="1879512224" value="King Elessar"/>
+<label key="1879512225" value="Aphadaer"/>
+<label key="1879512226" value="Jajax"/>
+<label key="1879512227" value="Lornion"/>
+<label key="1879512228" value="Gondorian Blade"/>
+<label key="1879512229" value="Weapons Barrel"/>
+<label key="1879512375" value="Sâdikiz the Sky-hungry"/>
+<label key="1879512376" value="Rhadrog"/>
+<label key="1879512377" value="Mêshaget"/>
+<label key="1879512378" value="Mêshaget"/>
+<label key="1879512379" value="Nabatínu"/>
+<label key="1879512380" value="Prisoner"/>
+<label key="1879512381" value="Mêshaget"/>
+<label key="1879512382" value="Prisoner"/>
+<label key="1879512383" value="Faeron"/>
+<label key="1879512586" value="Tavern Keep"/>
+<label key="1879512592" value="Katâl"/>
+<label key="1879512637" value="Corudan"/>
+<label key="1879512639" value="Glorfindel"/>
+<label key="1879512640" value="Utûgi Raid-leader"/>
+<label key="1879512641" value="Orc Raider"/>
+<label key="1879512642" value="Utûgi Raider"/>
+<label key="1879512643" value="Corpse"/>
+<label key="1879512644" value="Ulishár"/>
+<label key="1879512645" value="Cúridwan"/>
+<label key="1879512646" value="Inkanûsh"/>
+<label key="1879512647" value="Orc Raider"/>
+<label key="1879512649" value="Kinta Defender"/>
+<label key="1879512651" value="Buzzing Worker Bee"/>
+<label key="1879512652" value="Aggressive Queen Bee"/>
+<label key="1879512653" value="Aggressive Queen Bee"/>
+<label key="1879512654" value="Stinging Guardian Bee"/>
+<label key="1879512655" value="Serrated Corpse-fly"/>
+<label key="1879512656" value="Stinging Marsh-fly"/>
+<label key="1879512657" value="Buzzing Worker Bee"/>
+<label key="1879512658" value="Stinging Guardian Bee"/>
+<label key="1879512659" value="Serrated Corpse-fly"/>
+<label key="1879512660" value="Stinging Marsh-fly"/>
+<label key="1879512662" value="Tarsâri Butcher"/>
+<label key="1879512664" value="Tarsâri Shrouded One"/>
+<label key="1879512665" value="Kighân Captain"/>
+<label key="1879512666" value="Cutthroat Cutpurse"/>
+<label key="1879512668" value="Kighân Marksman"/>
+<label key="1879512669" value="Ordâkhai Deserter"/>
+<label key="1879512670" value="Dead-eye Outlaw"/>
+<label key="1879512673" value="Idagâl Marksman"/>
+<label key="1879512674" value="Idagâl Robber"/>
+<label key="1879512675" value="Kighân Cutthroat"/>
+<label key="1879512676" value="Tarsâri Rogue"/>
+<label key="1879512677" value="Kighân Tough"/>
+<label key="1879512678" value="Outlaw Captain"/>
+<label key="1879512679" value="Cutthroat Cutpurse"/>
+<label key="1879512680" value="Wastes Ruffian"/>
+<label key="1879512681" value="Tarsâri Dagger"/>
+<label key="1879512682" value="Azâbira"/>
+<label key="1879512683" value="Tarsâri Operative"/>
+<label key="1879512684" value="Kighân Rat-keeper"/>
+<label key="1879512686" value="Idagâl Rat-keeper"/>
+<label key="1879512687" value="Tarsâri Rogue"/>
+<label key="1879512688" value="Idagâl Cutthroat"/>
+<label key="1879512689" value="Tarsâri Veiled One"/>
+<label key="1879512690" value="Desert Rat-keeper"/>
+<label key="1879512691" value="Shubâza"/>
+<label key="1879512692" value="Wastes Ruffian"/>
+<label key="1879512693" value="Tarsâri Butcher"/>
+<label key="1879512694" value="Tarsâri Dagger"/>
+<label key="1879512695" value="Desert Rat-keeper"/>
+<label key="1879512696" value="Tarsâri Operative"/>
+<label key="1879512697" value="Kighân Marksman"/>
+<label key="1879512698" value="Tarsâri Veiled One"/>
+<label key="1879512699" value="Dead-eye Outlaw"/>
+<label key="1879512700" value="Kighân Tough"/>
+<label key="1879512702" value="Idagâl Caracal"/>
+<label key="1879512705" value="Idagâl Serval"/>
+<label key="1879512706" value="Blood-beaked Craban"/>
+<label key="1879512707" value="Bronze Lizard"/>
+<label key="1879512708" value="Great Bronze Lizard"/>
+<label key="1879512709" value="Wriggling Corpse-arm"/>
+<label key="1879512710" value="Idagâl Serpent"/>
+<label key="1879512711" value="Idagâl Cobra"/>
+<label key="1879512712" value="Idagâl Serpent"/>
+<label key="1879512713" value="Idagâl Striker"/>
+<label key="1879512714" value="Carrion-fed Craban"/>
+<label key="1879512715" value="Wriggling Corpse-arm"/>
+<label key="1879512716" value="Great Tomb Lizard"/>
+<label key="1879512717" value="Tomb Lizard"/>
+<label key="1879512718" value="Idagâl Cobra"/>
+<label key="1879512719" value="Wild-drake Matron"/>
+<label key="1879512720" value="Wild-drake Whelpling"/>
+<label key="1879512721" value="Wild-drake Whelpling"/>
+<label key="1879512722" value="Adagím Crocodile"/>
+<label key="1879512723" value="Adagím Crocodile"/>
+<label key="1879512724" value="Young Wild-drake"/>
+<label key="1879512725" value="Young Wild-drake"/>
+<label key="1879512726" value="Elder Adagím Crocodile"/>
+<label key="1879512727" value="Elder Adagím Crocodile"/>
+<label key="1879512729" value="An Shêru Devastator"/>
+<label key="1879512730" value="Deserter Skirmisher"/>
+<label key="1879512731" value="Deserter Skulker"/>
+<label key="1879512732" value="An Shêru Obliterator"/>
+<label key="1879512733" value="An Shêru Annihilator"/>
+<label key="1879512734" value="Deserter Captain"/>
+<label key="1879512735" value="An Shêru Devastator"/>
+<label key="1879512736" value="An Shêru Obliterator"/>
+<label key="1879512737" value="Deserter Straggler"/>
+<label key="1879512738" value="Deserter Skirmisher"/>
+<label key="1879512739" value="Idagâl Devastator"/>
+<label key="1879512740" value="Deserter Warrior"/>
+<label key="1879512741" value="Idagâl Obliterator"/>
+<label key="1879512742" value="Idagâl Slaughterer"/>
+<label key="1879512743" value="An Shêru Slaughterer"/>
+<label key="1879512744" value="Deserter Warrior"/>
+<label key="1879512746" value="Footprint"/>
+<label key="1879512747" value="Banner of Barkhûsh"/>
+<label key="1879512748" value="Journal of Semayâti the Unyielding"/>
+<label key="1879512749" value="Sarláshi Branch"/>
+<label key="1879512750" value="Relic of Lâkindar"/>
+<label key="1879512751" value="Grave-goods"/>
+<label key="1879512752" value="Birêt-kibur"/>
+<label key="1879512753" value="Ordâkhai Treasure"/>
+<label key="1879512754" value="Crate of Supplies"/>
+<label key="1879512755" value="Ordâkhai Tent"/>
+<label key="1879512756" value="Ordâkhai Rations"/>
+<label key="1879512757" value="Bandit's Coffer"/>
+<label key="1879512760" value="Iron Cage"/>
+<label key="1879512763" value="Brass Button"/>
+<label key="1879512765" value="A Good Place for a Torch"/>
+<label key="1879512766" value="Roc Nest"/>
+<label key="1879512767" value="Rock-worm Gland"/>
+<label key="1879512768" value="Ordâkhai Tent"/>
+<label key="1879512769" value="Ordâkhai Command Tent"/>
+<label key="1879512770" value="Water Sample"/>
+<label key="1879512771" value="DNT"/>
+<label key="1879512774" value="Image of Thothril"/>
+<label key="1879512780" value="An Shêru Corpse-beetle"/>
+<label key="1879512781" value="Street-rat"/>
+<label key="1879512782" value="Idagâl Dune-beetle"/>
+<label key="1879512783" value="Idagâl Dune-beetle"/>
+<label key="1879512784" value="An Shêru Corpse-beetle"/>
+<label key="1879512785" value="Foetid Marsh-rat"/>
+<label key="1879512786" value="Idagâl Burrower"/>
+<label key="1879512787" value="Idagâl Hive-queen"/>
+<label key="1879512788" value="An Shêru Guardian"/>
+<label key="1879512789" value="An Shêru Hive-queen"/>
+<label key="1879512790" value="Idagâl Guardian"/>
+<label key="1879512791" value="Idagâl Hive-defender"/>
+<label key="1879512792" value="Idagâl Hive-defender"/>
+<label key="1879512793" value="Diseased Street-rat"/>
+<label key="1879512794" value="An Shêru Burrower"/>
+<label key="1879512795" value="An Shêru Hive-defender"/>
+<label key="1879512796" value="Marsh-rat"/>
+<label key="1879512797" value="An Shêru Hive-defender"/>
+<label key="1879512798" value="Jázga Heckler"/>
+<label key="1879512799" value="Jázga Pup"/>
+<label key="1879512800" value="Shahâk"/>
+<label key="1879512804" value="Jázga Pup"/>
+<label key="1879512805" value="Bloodtooth"/>
+<label key="1879512806" value="Jázga Matron"/>
+<label key="1879512807" value="Jázga Pup"/>
+<label key="1879512808" value="Jázga Heckler"/>
+<label key="1879512809" value="Jázga Heckler"/>
+<label key="1879512810" value="Manyêki"/>
+<label key="1879512813" value="Utûgi Gaoler"/>
+<label key="1879512814" value="Mirnamêsh"/>
+<label key="1879512815" value="Biret-kôda"/>
+<label key="1879512816" value="Enudâri"/>
+<label key="1879512817" value="Têzdab the Butcher"/>
+<label key="1879512820" value="Újumai the Earth-stirrer"/>
+<label key="1879512821" value="Fer-nefâsi"/>
+<label key="1879512822" value="Fearsome Dwarf-wight"/>
+<label key="1879512824" value="Surnamêsh"/>
+<label key="1879512825" value="Sâdikiz the Sky-hungry"/>
+<label key="1879512827" value="Kighân Jackal"/>
+<label key="1879512828" value="Idagâl Jackal"/>
+<label key="1879512829" value="Kighân Hunter Scorpion"/>
+<label key="1879512830" value="Adagím Pack-leader"/>
+<label key="1879512832" value="Adagím Jackal Pup"/>
+<label key="1879512833" value="Idagâl Pack-leader"/>
+<label key="1879512834" value="Adagím Jackal"/>
+<label key="1879512835" value="TBD Sample Spot"/>
+<label key="1879512836" value="Abandoned Supplies"/>
+<label key="1879512837" value="An Shêru Heaver"/>
+<label key="1879512838" value="An Shêru Ravager"/>
+<label key="1879512839" value="Stinging Corpse-fly Swarm"/>
+<label key="1879512840" value="An Shêru Heaver"/>
+<label key="1879512841" value="Idagâl Ravager"/>
+<label key="1879512842" value="An Shêru Ravager"/>
+<label key="1879512843" value="Idagâl Heaver"/>
+<label key="1879512844" value="An Shêru Brute"/>
+<label key="1879512845" value="Idagâl Brute"/>
+<label key="1879512846" value="Grave-goods"/>
+<label key="1879512847" value="Roc Huntress"/>
+<label key="1879512848" value="Young Roc"/>
+<label key="1879512849" value="Roc Huntress"/>
+<label key="1879512850" value="Forgotten Oath-breaker"/>
+<label key="1879512851" value="Relentless Soldier"/>
+<label key="1879512852" value="Young Roc"/>
+<label key="1879512856" value="Zâwakhar the Hoardsman"/>
+<label key="1879512857" value="Ordâkhai Champion"/>
+<label key="1879512858" value="Loose War Mûmak"/>
+<label key="1879512859" value="Ordâkhai Sorcerer"/>
+<label key="1879512860" value="Ordâkhai Sorcerer"/>
+<label key="1879512862" value="Young Mûmak"/>
+<label key="1879512863" value="Biting Zizanu"/>
+<label key="1879512864" value="Ordâkhai Bóro"/>
+<label key="1879512865" value="Ordâkhai Cat-keeper"/>
+<label key="1879512866" value="Ordâkhai Sorcerer"/>
+<label key="1879512867" value="Terrifying Chicken"/>
+<label key="1879512868" value="Young Mûmak"/>
+<label key="1879512869" value="Biting Zizanu"/>
+<label key="1879512870" value="Plains Cow"/>
+<label key="1879512871" value="Ordâkhai Champion"/>
+<label key="1879512872" value="Ordâkhai Warrior"/>
+<label key="1879512873" value="Ordâkhai Champion"/>
+<label key="1879512874" value="Biting Zizanu"/>
+<label key="1879512875" value="Ordâkhai Warrior"/>
+<label key="1879512876" value="Oryx Buck"/>
+<label key="1879512877" value="Ordâkhai Look-out"/>
+<label key="1879512878" value="Ordâkhai Look-out"/>
+<label key="1879512879" value="Potók Dôlo"/>
+<label key="1879512880" value="Ordâkhai Look-out"/>
+<label key="1879512881" value="Ordâkhai Look-out"/>
+<label key="1879512882" value="Ordâkhai Look-out"/>
+<label key="1879512884" value="Oryx Buck"/>
+<label key="1879512885" value="Nirjára Bóro"/>
+<label key="1879512886" value="Ordâkhai Look-out"/>
+<label key="1879512887" value="Plains Ox"/>
+<label key="1879512889" value="Ordâkhai Bóro"/>
+<label key="1879512890" value="Ordâkhai Warrior"/>
+<label key="1879512891" value="Ordâkhai Warrior"/>
+<label key="1879512892" value="Ordâkhai Cat-keeper"/>
+<label key="1879512893" value="Zizanu Queen"/>
+<label key="1879512894" value="Zizanu Queen"/>
+<label key="1879512895" value="Zizanu Burrower"/>
+<label key="1879512896" value="Ordâkhai Warrior"/>
+<label key="1879512897" value="Ordâkhai Look-out"/>
+<label key="1879512898" value="Ordâkhai Warrior"/>
+<label key="1879512899" value="Loose War Mûmak"/>
+<label key="1879512900" value="Swift Oryx"/>
+<label key="1879512901" value="Ordâkhai Cat-keeper"/>
+<label key="1879512902" value="Ordâkhai Cat-keeper"/>
+<label key="1879512903" value="Ordâkhai Sorcerer"/>
+<label key="1879512904" value="Ordâkhai Champion"/>
+<label key="1879512905" value="Runaway War Mûmak"/>
+<label key="1879512906" value="Ordâkhai Champion"/>
+<label key="1879512907" value="Ordâkhai Warrior"/>
+<label key="1879512908" value="Ordâkhai Cat-keeper"/>
+<label key="1879512909" value="Swift Oryx"/>
+<label key="1879512910" value="Ordâkhai Dôlo"/>
+<label key="1879512911" value="Ordâkhai Look-out"/>
+<label key="1879512912" value="Ordâkhai Sorcerer"/>
+<label key="1879512914" value="Young Mûmak"/>
+<label key="1879512915" value="Ordâkhai Warrior"/>
+<label key="1879512922" value="Deadly Ordâkhai Archers"/>
+<label key="1879513193" value="Kalorkhûn"/>
+<label key="1879513195" value="Kalorkhûn Matron"/>
+<label key="1879513196" value="Callow Kalorkhûn"/>
+<label key="1879513198" value="Fallen Armsman"/>
+<label key="1879513199" value="Kalorkhûn"/>
+<label key="1879513200" value="Forgotten Oath-breaker"/>
+<label key="1879513203" value="Callow Kalorkhûn"/>
+<label key="1879513204" value="Thunderous Sûlok"/>
+<label key="1879513206" value="Kalorkhûn Matron"/>
+<label key="1879513207" value="Relentless Soldier"/>
+<label key="1879513209" value="Callow Kalorkhûn"/>
+<label key="1879513210" value="Grazing Sûlok"/>
+<label key="1879513211" value="Kalorkhûn"/>
+<label key="1879513212" value="Kalorkhûn"/>
+<label key="1879513256" value="Angry Adagím Thicket"/>
+<label key="1879513257" value="Vicious Rock-worm"/>
+<label key="1879513258" value="Wandering Dwarf-wight"/>
+<label key="1879513259" value="Young Dread-tortoise"/>
+<label key="1879513261" value="Marsh Root"/>
+<label key="1879513262" value="Great Dread-tortoise"/>
+<label key="1879513263" value="Basking Rock-worm"/>
+<label key="1879513265" value="Dwarf-wight of Lâkindar"/>
+<label key="1879513266" value="Enduring Crypt-sentinel of Gadim"/>
+<label key="1879513269" value="Wandering Thicket"/>
+<label key="1879513271" value="Wandering Bramble"/>
+<label key="1879513272" value="Mashâli Crypt-horror"/>
+<label key="1879513273" value="Adagím Thicket"/>
+<label key="1879513274" value="Elder Adagím Tangle"/>
+<label key="1879513275" value="Barrens Crypt-guardian"/>
+<label key="1879513276" value="Great Dread-tortoise"/>
+<label key="1879513277" value="Adagím Bramble"/>
+<label key="1879513278" value="Mashâli Crypt-guardian"/>
+<label key="1879513279" value="Armoured Dwarf-wight"/>
+<label key="1879513280" value="Mashâli Crypt-sentinel"/>
+<label key="1879513282" value="Ordâkhai Battle-cat"/>
+<label key="1879513285" value="Young Dread-tortoise"/>
+<label key="1879513286" value="Crypt-guardian of Gadim"/>
+<label key="1879513287" value="Haramûl Dwarf-wight"/>
+<label key="1879513288" value="Vile Crypt-horror of Gadim"/>
+<label key="1879513289" value="Armoured Dwarf-wight"/>
+<label key="1879513290" value="Ordâkhai Dôlo"/>
+<label key="1879513291" value="Ordâkhai Look-out"/>
+<label key="1879513292" value="Ordâkhai Look-out"/>
+<label key="1879513294" value="Ordâkhai Bóro"/>
+<label key="1879513295" value="Ordâkhai Sorceress"/>
+<label key="1879513296" value="Ordâkhai Sorceress"/>
+<label key="1879513297" value="Ordâkhai Bóro"/>
+<label key="1879513298" value="Ordâkhai Sorceress"/>
+<label key="1879513299" value="Ordâkhai Look-out"/>
+<label key="1879513300" value="Ordâkhai Sorceress"/>
+<label key="1879513301" value="Ordâkhai Look-out"/>
+<label key="1879513302" value="Ordâkhai Sorceress"/>
+<label key="1879513303" value="Khamôsh"/>
+<label key="1879513304" value="Lemûlkhan the Gnasher"/>
+<label key="1879513305" value="Târchakh"/>
+<label key="1879513307" value="Todôkha the Scorching Wind"/>
+<label key="1879513308" value="Heirsworn Captain"/>
+<label key="1879513309" value="Nakási"/>
+<label key="1879513310" value="Corudan"/>
+<label key="1879513311" value="Sigileth"/>
+<label key="1879513312" value="Rahâzi"/>
+<label key="1879513313" value="Corudan"/>
+<label key="1879513314" value="Heirsworn Corsair"/>
+<label key="1879513315" value="Balakhâd"/>
+<label key="1879513326" value="Spore Cloud"/>
+<label key="1879513337" value="Zamâktar the Putrescent"/>
+<label key="1879513689" value="An Shêru Treasure Cache"/>
+<label key="1879513690" value="Idagâl Treasure Cache"/>
+<label key="1879513691" value="Kighân Treasure Cache"/>
+<label key="1879513693" value="Adagím Treasure Cache"/>
+<label key="1879513720" value="Jázga Cub"/>
+<label key="1879513730" value="Salt-land Pack-leader"/>
+<label key="1879513736" value="Wandering Sûlok"/>
+<label key="1879513737" value="Sûlok Bull"/>
+<label key="1879513740" value="Jázga Queen of Shêru"/>
+<label key="1879513741" value="Grazing Sûlok"/>
+<label key="1879513747" value="Jázga Howler"/>
+<label key="1879513748" value="Wild Young Mûmak"/>
+<label key="1879513754" value="Wild Mûmak Bull"/>
+<label key="1879513762" value="Salt-land Jackal"/>
+<label key="1879513764" value="Wild Mûmak"/>
+<label key="1879513769" value="Jázga Howler"/>
+<label key="1879513771" value="Jázga Cub"/>
+<label key="1879513772" value="Salt-sifter"/>
+<label key="1879513827" value="Biting Zizanu"/>
+<label key="1879513853" value="Wild Serval"/>
+<label key="1879513854" value="Restless Soldier"/>
+<label key="1879513857" value="Forsaken Armsman"/>
+<label key="1879513866" value="Territorial Raptor"/>
+<label key="1879513882" value="Grazing Oryx"/>
+<label key="1879513887" value="Vengeful Oath-breaker"/>
+<label key="1879513897" value="Zarzûmir"/>
+<label key="1879513903" value="Tâklu"/>
+<label key="1879513915" value="Bounty: Sóthadar the Trickster"/>
+<label key="1879513916" value="Bounty: Shálith"/>
+<label key="1879513917" value="Bounty: Strákhal the Strangler"/>
+<label key="1879513918" value="Bounty: Thagára"/>
+<label key="1879513930" value="Banner of Barkhûsh"/>
+<label key="1879513933" value="DNT - In Jail"/>
+<label key="1879513938" value="DNT - Pull Toward Blocker"/>
+<label key="1879513944" value="The Court of Larinâsta"/>
+<label key="1879513945" value="The Kalmakhíla"/>
+<label key="1879513946" value="Charganpâta"/>
+<label key="1879513947" value="Gebarakór"/>
+<label key="1879513961" value="Thothril"/>
+<label key="1879513962" value="Imalêkh"/>
+<label key="1879513963" value="Ulishár"/>
+<label key="1879513964" value="Góramul Sai"/>
+<label key="1879513965" value="Jêsamin"/>
+<label key="1879513966" value="Soldier of Ordâkh"/>
+<label key="1879513967" value="Mûmak"/>
+<label key="1879513968" value="Mashkânu"/>
+<label key="1879513969" value="Zimêlkha"/>
+<label key="1879513970" value="Atâlsi"/>
+<label key="1879513971" value="Words of Góramul Sai"/>
+<label key="1879513972" value="Soldier of Ordâkh"/>
+<label key="1879513973" value="Asharmûl"/>
+<label key="1879513974" value="Satagêra"/>
+<label key="1879513975" value="Scattered Papers"/>
+<label key="1879513976" value="Scattered Papers"/>
+<label key="1879513984" value="Khomar Bóha"/>
+<label key="1879513985" value="Drushkála"/>
+<label key="1879513986" value="Haven of Bâkhridar"/>
+<label key="1879513987" value="Fearwater Notch"/>
+<label key="1879513988" value="Lipûzu the Hungerful"/>
+<label key="1879513989" value="Adâzi the Scather"/>
+<label key="1879513990" value="Úmgi Shearspur"/>
+<label key="1879513991" value="Gilkharkûn"/>
+<label key="1879513996" value="Deadshore Muck-raker"/>
+<label key="1879514000" value="Scavenging Vulture"/>
+<label key="1879514002" value="Hungry Vulture"/>
+<label key="1879514008" value="Lakeshore Scavenger"/>
+<label key="1879514013" value="Deadshore Pup"/>
+<label key="1879514023" value="Deadshore Lobber"/>
+<label key="1879514029" value="Deadshore Heckler"/>
+<label key="1879514036" value="Fushaum Sûlm"/>
+<label key="1879514059" value="Callow Kalorkhûn"/>
+<label key="1879514345" value="Fearwater Orc Warrior"/>
+<label key="1879514346" value="Orc Skirmisher"/>
+<label key="1879514347" value="Fearwater Orc Skirmisher"/>
+<label key="1879514348" value="Orc Warrior"/>
+<label key="1879514349" value="Fearwater Orc Captain"/>
+<label key="1879514350" value="Orc Captain"/>
+<label key="1879514353" value="Khaljûn"/>
+<label key="1879514354" value="Khaljûn"/>
+<label key="1879514355" value="Khaljûn"/>
+<label key="1879514464" value="Ordâkhai Soldier"/>
+<label key="1879514465" value="Heirsworn Captain"/>
+<label key="1879514466" value="Ordâkhai Look-out"/>
+<label key="1879514467" value="Troll Stone-thrower"/>
+<label key="1879514468" value="Ordâkhai Look-out"/>
+<label key="1879514469" value="Ordâkhai Soldier"/>
+<label key="1879514470" value="Heirsworn Corsair"/>
+<label key="1879514471" value="Heirsworn Dead-eye"/>
+<label key="1879514472" value="Heirsworn Captain"/>
+<label key="1879514473" value="Troll Warrior"/>
+<label key="1879514474" value="Heirsworn Dead-eye"/>
+<label key="1879514475" value="Ordâkhai Commander"/>
+<label key="1879514476" value="Ordâkhai Commander"/>
+<label key="1879514477" value="Heirsworn Corsair"/>
+<label key="1879514478" value="Troll Stone-thrower"/>
+<label key="1879514479" value="Troll Warrior"/>
+<label key="1879514591" value="Rothog"/>
+<label key="1879514592" value="Jajax"/>
+<label key="1879514593" value="Belondor"/>
+<label key="1879514594" value="Tatháta"/>
+<label key="1879514595" value="Rothog"/>
+<label key="1879514596" value="Rothog"/>
+<label key="1879514597" value="Nakási Wave-reaper"/>
+<label key="1879514598" value="Ravener of Grishúlvosh"/>
+<label key="1879514599" value="Zaumoz the Black Wind, War-leader of Grishúlvosh"/>
+<label key="1879514600" value="Aphadaer, Heirsworn"/>
+<label key="1879514601" value="Soldier of Kosagháti"/>
+<label key="1879514602" value="Ghómbok Bóro, Captain of Kosagháti"/>
+<label key="1879514603" value="Balakhâd, Son of Balakhôr"/>
+<label key="1879514604" value="Khâtiph the Ransomer, Captain of Phazanêg"/>
+<label key="1879514605" value="Corsair of Phazanêg"/>
+<label key="1879514606" value="Zajâni Scout"/>
+<label key="1879514608" value="Zajâni Scout"/>
+<label key="1879514610" value="Narghâk Siphon"/>
+<label key="1879514611" value="Narghâk Siphon"/>
+<label key="1879514612" value="Narghâk Siphon"/>
+<label key="1879514613" value="Narghâk Siphon"/>
+<label key="1879514645" value="Ordâkhai Sorcerer"/>
+<label key="1879514646" value="Orc Captain"/>
+<label key="1879514647" value="Utûgi Obliterator"/>
+<label key="1879514648" value="Orc Berserker"/>
+<label key="1879514649" value="Ordâkhai Warrior"/>
+<label key="1879514650" value="Ordâkhai Look-out"/>
+<label key="1879514651" value="Orc Archer"/>
+<label key="1879514652" value="Utûgi Destroyer"/>
+<label key="1879514653" value="Ordâkhai Sorceress"/>
+<label key="1879514654" value="Utûgi Slaughterer"/>
+<label key="1879514660" value="Orc Archer"/>
+<label key="1879514661" value="Ordâkhai Look-out"/>
+<label key="1879514662" value="Utûgi Obliterator"/>
+<label key="1879514663" value="Ordâkhai Sorcerer"/>
+<label key="1879514664" value="Ordâkhai Sorceress"/>
+<label key="1879514666" value="Orc Berserker"/>
+<label key="1879514667" value="Ordâkhai Warrior"/>
+<label key="1879514668" value="Utûgi Destroyer"/>
+<label key="1879514669" value="Orc Captain"/>
+<label key="1879514693" value="Horse"/>
+<label key="1879514694" value="GNDN"/>
+<label key="1879514695" value="Butters"/>
+<label key="1879514696" value="Bailey"/>
+<label key="1879514697" value="Biscuit"/>
+<label key="1879514698" value="Bela"/>
+<label key="1879514700" value="Blossom"/>
+<label key="1879514729" value="Encased Crystal"/>
+<label key="1879514734" value="Zajâni Rune-rock"/>
+<label key="1879514740" value="Large Unsullied Seed Pod"/>
+<label key="1879514742" value="Zajâni Cache"/>
+<label key="1879514743" value="Unsullied Seed Pod"/>
+<label key="1879514747" value="Salt-encrusted Stone"/>
+<label key="1879514750" value="Aralath"/>
+<label key="1879514751" value="Alahamâr"/>
+<label key="1879514752" value="Valakhâri"/>
+<label key="1879514753" value="Dithúrim"/>
+<label key="1879514754" value="Tirukêni"/>
+<label key="1879514755" value="Síladag"/>
+<label key="1879514756" value="Lumgâna"/>
+<label key="1879514757" value="Semanísi"/>
+<label key="1879514778" value="Kugâna"/>
+<label key="1879514779" value="Bokhór"/>
+<label key="1879514780" value="Kugâna"/>
+<label key="1879514781" value="Jatsakór"/>
+<label key="1879514782" value="Jatsakór"/>
+<label key="1879514785" value="Relic of Umbar"/>
+<label key="1879514822" value="To the Fearwater"/>
+<label key="1879514823" value="Return to Umbar Baharbêl"/>
+<label key="1879514824" value="Return to the Harlond In Flames"/>
+<label key="1879514825" value="Return to Khanâg Valoyar"/>
+<label key="1879514826" value="DNT Teleport 7.Verse One to Two"/>
+<label key="1879514963" value="Audience Member"/>
+<label key="1879514964" value="Satagêra"/>
+<label key="1879514965" value="The Mighty Mûmak"/>
+<label key="1879514966" value="Imalêkh"/>
+<label key="1879514967" value="Jêsamin"/>
+<label key="1879514968" value="Ulishár"/>
+<label key="1879514969" value="Atâlsi"/>
+<label key="1879514970" value="Mashkânu"/>
+<label key="1879514971" value="Inkanûsh"/>
+<label key="1879514972" value="Audience Member"/>
+<label key="1879514973" value="Asharmûl"/>
+<label key="1879514974" value="Jêsamin"/>
+<label key="1879514976" value="Guard"/>
+<label key="1879514978" value="Commoner"/>
+<label key="1879515010" value="GNDN"/>
+<label key="1879515011" value="GNDN"/>
+<label key="1879515015" value="DNT - Anguished Wind Whispers"/>
+<label key="1879515308" value="Corrupted Corpse"/>
+<label key="1879515312" value="Beltáni Shepherd"/>
+<label key="1879515313" value="Ishûri"/>
+<label key="1879515314" value="Líshu"/>
+<label key="1879515315" value="Captain Hanâbu"/>
+<label key="1879515316" value="Ashâb"/>
+<label key="1879515317" value="Abashêm"/>
+<label key="1879515318" value="Lokóya"/>
+<label key="1879515319" value="Enûtu"/>
+<label key="1879515320" value="Beltáni Shepherd"/>
+<label key="1879515321" value="Royal Guard"/>
+<label key="1879515322" value="Góramul Sai"/>
+<label key="1879515323" value="Malêrti"/>
+<label key="1879515324" value="Dark Priestess Barkhuráni"/>
+<label key="1879515326" value="Sorkamâl the Forbearing"/>
+<label key="1879515327" value="Sorkamâl the Forbearing"/>
+<label key="1879515328" value="Râsabur"/>
+<label key="1879515329" value="Kotráka Saiya"/>
+<label key="1879515330" value="Beltáni Hunter"/>
+<label key="1879515331" value="Unusâli"/>
+<label key="1879515332" value="Palace Servant"/>
+<label key="1879515333" value="Shakûl"/>
+<label key="1879515334" value="Palace Servant"/>
+<label key="1879515335" value="Beltáni Hunter"/>
+<label key="1879515336" value="Enûtu"/>
+<label key="1879515337" value="Arâniz"/>
+<label key="1879515338" value="Beltáni Hunter"/>
+<label key="1879515339" value="Ebuzâm"/>
+<label key="1879515340" value="Posted Bounties"/>
+<label key="1879515341" value="Mizâdi"/>
+<label key="1879515342" value="Ebuzâm"/>
+<label key="1879515343" value="Mizâdi"/>
+<label key="1879515344" value="Unusâli"/>
+<label key="1879515345" value="Kâbtam"/>
+<label key="1879515346" value="Phardâli Ink-fingers"/>
+<label key="1879515347" value="Shakûl"/>
+<label key="1879515348" value="Loyal Guard"/>
+<label key="1879515349" value="Numûru"/>
+<label key="1879515350" value="Batâla"/>
+<label key="1879515351" value="Phardâli Ink-fingers"/>
+<label key="1879515352" value="Adúri"/>
+<label key="1879515353" value="Bârshud"/>
+<label key="1879515354" value="Mizâdi"/>
+<label key="1879515355" value="Beltáni Sheep"/>
+<label key="1879515356" value="Otibúk"/>
+<label key="1879515357" value="Razâl"/>
+<label key="1879515358" value="Mysterious Figure"/>
+<label key="1879515359" value="Shâpar"/>
+<label key="1879515360" value="Sorkamâl the Forbearing"/>
+<label key="1879515361" value="Khêjiba"/>
+<label key="1879515362" value="Lost Sheep"/>
+<label key="1879515363" value="Mizâdi"/>
+<label key="1879515364" value="Kûrmi"/>
+<label key="1879515365" value="Razâl"/>
+<label key="1879515366" value="Razâl"/>
+<label key="1879515367" value="Hidâti"/>
+<label key="1879515369" value="Ebuzâm"/>
+<label key="1879515370" value="Nahíd"/>
+<label key="1879515371" value="Aradûni Soldier"/>
+<label key="1879515372" value="Captain Hanâbu"/>
+<label key="1879515373" value="Numûru"/>
+<label key="1879515374" value="Aradûni Captive"/>
+<label key="1879515375" value="Hidâti"/>
+<label key="1879515376" value="Posted Bounties"/>
+<label key="1879515377" value="Beltáni Shepherd"/>
+<label key="1879515378" value="Royal Guard"/>
+<label key="1879515379" value="Ratúlko the Bloody"/>
+<label key="1879515380" value="Beltáni Shepherd"/>
+<label key="1879515381" value="Numûru"/>
+<label key="1879515382" value="Sorkamâl the Forbearing"/>
+<label key="1879515407" value="Baradûm's Journal"/>
+<label key="1879515442" value="Caustic Pool"/>
+<label key="1879515717" value="Volatile Mushroom"/>
+<label key="1879515736" value="Volatile Mushroom"/>
+<label key="1879515738" value="Volatile Mushroom"/>
+<label key="1879515740" value="Swan-knight"/>
+<label key="1879515741" value="Knight of Gondor"/>
+<label key="1879515743" value="Gáthtrag Gloomhammer"/>
+<label key="1879515744" value="Sorceress Ombátha"/>
+<label key="1879515745" value="Sorceress Ombátha"/>
+<label key="1879515746" value="Râkdakul"/>
+<label key="1879515747" value="Gáthtrag Gloomhammer"/>
+<label key="1879515748" value="Rátinur"/>
+<label key="1879515749" value="Rátinur"/>
+<label key="1879515750" value="Râkdakul"/>
+<label key="1879516408" value="Peculiar Looking Mushroom"/>
+<label key="1879516409" value="Map of Mûr Ghala"/>
+<label key="1879516411" value="Deceased Temámir Artisan"/>
+<label key="1879516412" value="Blight-troll"/>
+<label key="1879516413" value="Blighted Weaver"/>
+<label key="1879516414" value="Blight-warrior"/>
+<label key="1879516415" value="Dúrvenel"/>
+<label key="1879516416" value="Blight-skirmisher"/>
+<label key="1879516417" value="Blighted Hunter"/>
+<label key="1879516418" value="Grave-goods"/>
+<label key="1879516419" value="Grave-goods"/>
+<label key="1879516420" value="Grave-goods"/>
+<label key="1879516421" value="Grave-goods"/>
+<label key="1879516422" value="Grave-goods"/>
+<label key="1879516423" value="Grave-goods"/>
+<label key="1879516424" value="Bêtam the Couthful"/>
+<label key="1879516429" value="Viznak"/>
+<label key="1879516431" value="Dabâr"/>
+<label key="1879516432" value="Phardâli Ink-fingers"/>
+<label key="1879516433" value="Malgâras"/>
+<label key="1879516434" value="Vilgêra"/>
+<label key="1879516435" value="Kojomedên the Artisan"/>
+<label key="1879516488" value="Dark Priestess Barkhuráni"/>
+<label key="1879516489" value="Overseer Jóha"/>
+<label key="1879516490" value="Royal Guard"/>
+<label key="1879516491" value="Esh Mêkag Guard"/>
+<label key="1879516492" value="Enthralled Servant"/>
+<label key="1879516493" value="Ulóngha Bóro"/>
+<label key="1879516494" value="Head Servant Sintáhi"/>
+<label key="1879516495" value="Ratúlko the Bloody"/>
+<label key="1879516496" value="Enthralled Servant"/>
+<label key="1879516497" value="Emax Dûl Guard"/>
+<label key="1879516498" value="Góramul Sai"/>
+<label key="1879516499" value="Orihóta Bóro"/>
+<label key="1879516500" value="Esh Mêkag Sentry"/>
+<label key="1879516501" value="Dúrkhamos the Far-reaching"/>
+<label key="1879516502" value="Esh Mêkag Torturer"/>
+<label key="1879516503" value="Emax Dûl Sentry"/>
+<label key="1879516504" value="Warden Khusóku"/>
+<label key="1879516505" value="Priest of Shadow"/>
+<label key="1879516506" value="Overseer Basóra"/>
+<label key="1879516507" value="Priestess of Command"/>
+<label key="1879516508" value="Numûru"/>
+<label key="1879516509" value="Beltáni Fighter"/>
+<label key="1879516510" value="Hamâti Soldier"/>
+<label key="1879516511" value="Aradûni Soldier"/>
+<label key="1879516512" value="Freed Thrall"/>
+<label key="1879516513" value="Ebuzâm"/>
+<label key="1879516514" value="Subuzûri"/>
+<label key="1879516515" value="Mizâdi"/>
+<label key="1879516516" value="Unusâli"/>
+<label key="1879516517" value="Râsabur"/>
+<label key="1879516518" value="Beltáni Fighter"/>
+<label key="1879516519" value="Subuzûri"/>
+<label key="1879516520" value="Subuzûri"/>
+<label key="1879516521" value="Aradûni Soldier"/>
+<label key="1879516522" value="Captain Hanâbu"/>
+<label key="1879516523" value="Freed Thrall"/>
+<label key="1879516524" value="Hamâti Soldier"/>
+<label key="1879516525" value="Razâl"/>
+<label key="1879516526" value="Sorkamâl the Forbearing"/>
+<label key="1879516572" value="Stable-master"/>
+<label key="1879516573" value="Stable-master"/>
+<label key="1879516574" value="Stable-master"/>
+<label key="1879516575" value="Stable-master"/>
+<label key="1879516576" value="Stable-master"/>
+<label key="1879516577" value="Stable-master"/>
+<label key="1879516578" value="Stable-master"/>
+<label key="1879516579" value="Stable-master"/>
+<label key="1879516580" value="Stable-master"/>
+<label key="1879516581" value="Stable-master"/>
+<label key="1879516582" value="Stable-master"/>
+<label key="1879516583" value="Stable-master"/>
+<label key="1879516584" value="Stable-master"/>
+<label key="1879516585" value="Stable-master"/>
+<label key="1879516586" value="Stable-master"/>
+<label key="1879516587" value="Sûg Nidar Explorer"/>
+<label key="1879516588" value="Stable-master"/>
+<label key="1879516589" value="Stable-master"/>
+<label key="1879516590" value="Sûg Nidar Explorer"/>
+<label key="1879516591" value="Sûg Nidar Explorer"/>
+<label key="1879516592" value="Sûg Nidar Explorer"/>
+<label key="1879516593" value="Sûg Nidar Explorer"/>
+<label key="1879516854" value="Tomb of Semayâti the Unyielding"/>
+<label key="1879516903" value="Beltáni Shepherd"/>
+<label key="1879516911" value="Blighted Great Bramble"/>
+<label key="1879516916" value="Blighted Great Thicket"/>
+<label key="1879516919" value="Blighted Tangle-sire"/>
+<label key="1879516946" value="Hamâti Forward Camp"/>
+<label key="1879516951" value="GNDN"/>
+<label key="1879516952" value="GNDN"/>
+<label key="1879516953" value="GNDN"/>
+<label key="1879516954" value="GNDN"/>
+<label key="1879516955" value="Akílu the Feaster"/>
+<label key="1879516956" value="Râhasham the Exiled"/>
+<label key="1879516957" value="Nagísu the Keen-eyed"/>
+<label key="1879516958" value="GNDN"/>
+<label key="1879516959" value="Captured Beltáni"/>
+<label key="1879517044" value="Ancient Treasure"/>
+<label key="1879517045" value="Double-locked Chest"/>
+<label key="1879517046" value="Wild-drake Eggs"/>
+<label key="1879517047" value="Historical Tome"/>
+<label key="1879517048" value="Packaged Meals"/>
+<label key="1879517049" value="Stolen Valuables"/>
+<label key="1879517051" value="Citrus Fruits"/>
+<label key="1879517052" value="Ritual Pedestal"/>
+<label key="1879517053" value="Ahâba Dates"/>
+<label key="1879517054" value="Palace Foodstuffs"/>
+<label key="1879517055" value="Ordâkhai Spear"/>
+<label key="1879517056" value="Ordâkhai Bow"/>
+<label key="1879517057" value="Gate Lever"/>
+<label key="1879517061" value="Assemble Artifact"/>
+<label key="1879517062" value="Animal Carcass"/>
+<label key="1879517063" value="Artifact Piece"/>
+<label key="1879517066" value="Artifact Piece"/>
+<label key="1879517067" value="Hay Bale"/>
+<label key="1879517068" value="Grodbog Hive"/>
+<label key="1879517069" value="Kâparai Ward"/>
+<label key="1879517070" value="Thardúth Implement"/>
+<label key="1879517071" value="Ordâkhai Barricade"/>
+<label key="1879517072" value="Artifact Piece"/>
+<label key="1879517074" value="Ordâkhai Weapon"/>
+<label key="1879517076" value="Oasis Mulberries"/>
+<label key="1879517077" value="Ordâkhai Barricade"/>
+<label key="1879517078" value="Artifact Piece"/>
+<label key="1879517079" value="Ornate key"/>
+<label key="1879517082" value="Adagím Eggplant"/>
+<label key="1879517084" value="Daxamat's Refuge"/>
+<label key="1879517138" value="Daily: Continuing to Stem a Blighted Tide"/>
+<label key="1879517143" value="Daily: An Even Stickier Harvest"/>
+<label key="1879517154" value="Daily: A Kit for Rune-reading"/>
+<label key="1879517155" value="Daily: Continuing Care and Feeding"/>
+<label key="1879517158" value="Daily: The Cure Among the Tyrants"/>
+<label key="1879517165" value="Well-preserved Desert Artifact"/>
+<label key="1879517167" value="Rich Silvered Ore Deposit"/>
+<label key="1879517168" value="Desert Artifact"/>
+<label key="1879517171" value="Silvered Ore Deposit"/>
+<label key="1879517175" value="Heavy Teak Branches"/>
+<label key="1879517180" value="Teak Branches"/>
+<label key="1879517190" value="Mûmak Trainers' Horn"/>
+<label key="1879517191" value="Queen's Protector Bee"/>
+<label key="1879517197" value="Líshu's Horn"/>
+<label key="1879517203" value="Kighân Reflecting Pool"/>
+<label key="1879517204" value="Idagâl Reflecting Pool"/>
+<label key="1879517205" value="An Shêru Reflecting Pool"/>
+<label key="1879517206" value="Adagím Reflecting Pool"/>
+<label key="1879517207" value="Sûg Nidar Reflecting Pool"/>
+<label key="1879517210" value="The Council of Shadows' Chest - Solo"/>
+<label key="1879517211" value="Pakhán-gebar's Chest - Tier 1"/>
+<label key="1879517212" value="Bârlat the Bold's Chest - Solo"/>
+<label key="1879517213" value="The Council of Shadows' Chest - Tier 3"/>
+<label key="1879517214" value="Bârlat the Bold's Chest - Tier 3"/>
+<label key="1879517215" value="The Council of Shadows' Chest - Tier 2"/>
+<label key="1879517216" value="Bârlat the Bold's Chest - Tier 2"/>
+<label key="1879517217" value="The Council of Shadows' Chest - Tier 1"/>
+<label key="1879517218" value="Bârlat the Bold's Chest - Tier 1"/>
+<label key="1879517219" value="Pakhán-gebar's Chest - Tier 3"/>
+<label key="1879517220" value="Pakhán-gebar's Chest - Solo"/>
+<label key="1879517221" value="Pakhán-gebar's Chest - Tier 2"/>
+<label key="1879517236" value="Gírkhash"/>
+<label key="1879517259" value="Blighted Weaver"/>
+<label key="1879517260" value="Blighted Hunter"/>
+<label key="1879517261" value="Blighted Hatchling"/>
+<label key="1879517262" value="Giant Blightwood"/>
+<label key="1879517266" value="Fell Mirage"/>
+<label key="1879517267" value="Fell Mirage"/>
+<label key="1879517268" value="Ishími, the Anguished Wind"/>
+<label key="1879517322" value="Mêshaget"/>
+<label key="1879517323" value="Roc Huntress"/>
+<label key="1879517351" value="Aradûni Captive"/>
+<label key="1879517352" value="Frightened Aradûni"/>
+<label key="1879517390" value="Mûr Ghala Decoration Vendor"/>
+<label key="1879517391" value="Housing Furnisher"/>
+<label key="1879517392" value="Housing Furnisher"/>
+<label key="1879517393" value="Housing Furnisher"/>
+<label key="1879517394" value="Housing Furnisher"/>
+<label key="1879517481" value="Blue Blight Nodule"/>
+<label key="1879517482" value="Yellow Blight Nodule"/>
+<label key="1879517483" value="Red Blight Nodule"/>
+<label key="1879517485" value="Giant Erupting Growth"/>
+<label key="1879517505" value="Kâparai Ward"/>
+<label key="1879517526" value="Generator - Resources"/>
+<label key="1879517528" value="Medicine Supply"/>
+<label key="1879517529" value="Suffocating Spore Cloud"/>
+<label key="1879517530" value="Aradûni Soldier"/>
+<label key="1879517534" value="Kidnapped Beltáni"/>
+<label key="1879517535" value="Kidnapped Beltáni"/>
+<label key="1879517536" value="Rescued Beltáni"/>
+<label key="1879517537" value="Rescued Beltáni"/>
+<label key="1879517543" value="Fearwater Craban"/>
+<label key="1879517544" value="Fearwater Jackal"/>
+<label key="1879517545" value="Ordâkhai Engineer"/>
+<label key="1879517546" value="Fearwater Snake"/>
+<label key="1879517547" value="Creeper From Adagím"/>
+<label key="1879517548" value="Sicklefly Interloper"/>
+<label key="1879517582" value="Binding Chains"/>
+<label key="1879517583" value="Toiling Thrall"/>
+<label key="1879517584" value="Toiling Thrall"/>
+<label key="1879517594" value="Starkhaven"/>
+<label key="1879517595" value="Blighted Nook"/>
+<label key="1879517596" value="Fungal Root"/>
+<label key="1879517615" value="Giríshu, Thief of Blades"/>
+<label key="1879517616" value="Pakhán-gebar, Servant of Stone"/>
+<label key="1879517618" value="Molbása the Untamed"/>
+<label key="1879517619" value="Bârlat the Bold"/>
+<label key="1879517620" value="Samâshu, Thief of Blight"/>
+<label key="1879517621" value="Bârlat's Rat-master"/>
+<label key="1879517623" value="Molbása the Untamed"/>
+<label key="1879517624" value="Bârlat's Tough"/>
+<label key="1879517625" value="Bârlat's Tough"/>
+<label key="1879517628" value="Bârlat's Overseer"/>
+<label key="1879517629" value="Bârlat's Deadeye"/>
+<label key="1879517630" value="Bârlat the Bold"/>
+<label key="1879517632" value="Bârlat's Deadeye"/>
+<label key="1879517633" value="Giríshu, Thief of Blades"/>
+<label key="1879517634" value="Gizûshu, Thief of Shadows"/>
+<label key="1879517635" value="Samâshu, Thief of Blight"/>
+<label key="1879517636" value="Bârlat's Overseer"/>
+<label key="1879517641" value="Gizûshu, Thief of Shadows"/>
+<label key="1879517645" value="Pakhán-gebar, Servant of Stone"/>
+<label key="1879517661" value="Chest"/>
+<label key="1879517662" value="Backpack"/>
+<label key="1879517663" value="Corpse"/>
+<label key="1879517665" value="Wretched Spirit"/>
+<label key="1879517675" value="Blood Pool"/>
+<label key="1879517676" value="DNT - Ordakhai Disguise"/>
+<label key="1879517787" value="Bârlat's Apothecary"/>
+<label key="1879517788" value="Bârlat's Apothecary"/>
+<label key="1879517816" value="Imprisoned Thrall"/>
+<label key="1879517817" value="Imprisoned Thrall"/>
+<label key="1879517819" value="Unblemished Log"/>
+<label key="1879517820" value="Heavy Unblemished Log"/>
+<label key="1879517825" value="Venomous Egg Sac"/>
+<label key="1879517826" value="Webmother's Brood"/>
+<label key="1879517827" value="Badharál the Gorger"/>
+<label key="1879517828" value="Badharál's Spitter"/>
+<label key="1879517829" value="Badharál's Weaver"/>
+<label key="1879517830" value="Badharál's Webmother"/>
+<label key="1879517831" value="Plump Spiderling"/>
+<label key="1879517832" value="Blighted Egg Sac"/>
+<label key="1879517833" value="Unnerving Weaver"/>
+<label key="1879517834" value="Blighted Spiderling"/>
+<label key="1879517835" value="Badharál's Skulker"/>
+<label key="1879517836" value="Plump Egg Sac"/>
+<label key="1879517837" value="Venomous Spiderling"/>
+<label key="1879517838" value="Badharál's Hunter"/>
+<label key="1879517954" value="The Twins' Chest - Tier 2"/>
+<label key="1879517955" value="Ombátha's Personal Chest - Solo"/>
+<label key="1879517956" value="The Twins' Chest - Tier 3"/>
+<label key="1879517957" value="Râkdakul's Tribute - Solo"/>
+<label key="1879517958" value="Râkdakul's Tribute - Tier 1"/>
+<label key="1879517959" value="Râkdakul's Tribute - Tier 2"/>
+<label key="1879517960" value="Ombátha's Personal Chest - Tier 1"/>
+<label key="1879517961" value="Râkdakul's Tribute - Tier 3"/>
+<label key="1879517962" value="Ombátha's Personal Chest - Tier 2"/>
+<label key="1879517963" value="Ombátha's Personal Chest - Tier 3"/>
+<label key="1879517964" value="The Twins' Chest - Tier 1"/>
+<label key="1879517965" value="The Twins' Chest - Solo"/>
+<label key="1879517974" value="Umanûgu, The Mother of Many"/>
+<label key="1879518036" value="Lamâmut, the Corpse-chewer"/>
+<label key="1879518037" value="Ershubât the Cradle-thief"/>
+<label key="1879518038" value="Kasâshu the Grinder"/>
+<label key="1879518039" value="Spiderweb"/>
+<label key="1879518040" value="Old Cloth"/>
+<label key="1879518041" value="Weathered Markings"/>
+<label key="1879518047" value="Imtushâl the Gall-spitter"/>
+<label key="1879518048" value="Eshen-erêz, the Bone-queen"/>
+<label key="1879518058" value="Aradûni Horn"/>
+<label key="1879518066" value="Thagára"/>
+<label key="1879518067" value="Sóthadar the Trickster"/>
+<label key="1879518068" value="Strákhal the Strangler"/>
+<label key="1879518069" value="Shálith"/>
+<label key="1879518070" value="Agáthar the Bereft"/>
+<label key="1879518072" value="Weapon Rack"/>
+<label key="1879518079" value="DNT - Allow Diplomatic Words"/>
+<label key="1879518098" value="Captain Hanâbu"/>
+<label key="1879518173" value="Door"/>
+<label key="1879518174" value="Pods of Blight"/>
+<label key="1879518175" value="Laivárth Strongbox"/>
+<label key="1879518176" value="Cocooned Body"/>
+<label key="1879518177" value="Pods of Blight"/>
+<label key="1879518178" value="Pods of Blight"/>
+<label key="1879518179" value="Orc Barricade in the Woods"/>
+<label key="1879518180" value="Warning Sign"/>
+<label key="1879518181" value="Cocooned Body"/>
+<label key="1879518182" value="Deadly Ordâkhai Archers"/>
+<label key="1879518193" value="Mizâdi"/>
+<label key="1879518206" value="Subuzûri"/>
+<label key="1879518207" value="Villager"/>
+<label key="1879518208" value="Subuzûri"/>
+<label key="1879518209" value="Villager"/>
+<label key="1879518215" value="Jatsakóri Watchman"/>
+<label key="1879518216" value="Khanda-khêl Guard"/>
+<label key="1879518292" value="Râsabur"/>
+<label key="1879518293" value="Warlord Bârshud"/>
+<label key="1879518297" value="Faeron"/>
+<label key="1879518298" value="Rhadrog"/>
+<label key="1879518305" value="Daithor's Obliterator"/>
+<label key="1879518306" value="Daithor's Devastator"/>
+<label key="1879518307" value="Daithor, Terror of An Shêru"/>
+<label key="1879518308" value="Daithor's Slaughterer"/>
+<label key="1879518309" value="Onadrókha Bóro"/>
+<label key="1879518310" value="Brikóno the Marauder"/>
+<label key="1879518311" value="Sondrókor Bóro"/>
+<label key="1879518312" value="Istoráli Bóro"/>
+<label key="1879518313" value="Mórobul the World-treader"/>
+<label key="1879518314" value="Waylaid Trader"/>
+<label key="1879518315" value="Disguised Robber"/>
+<label key="1879518317" value="Altachár the Slayer"/>
+<label key="1879518319" value="Achárbam, the Blood-hand"/>
+<label key="1879518320" value="Súlkhor the Hollow-hearted"/>
+<label key="1879518328" value="Âkhtal the Despoiler"/>
+<label key="1879518329" value="Lhálach the Stricken"/>
+<label key="1879518330" value="Hórush Hollow-heart"/>
+<label key="1879518331" value="Caelgeth"/>
+<label key="1879518332" value="Hard-shell Pond Crab"/>
+<label key="1879518333" value="Ordâkhai Warrior"/>
+<label key="1879518334" value="Ordâkhai Dôlo"/>
+<label key="1879518335" value="Ordâkhai Warrior"/>
+<label key="1879518336" value="Ordâkhai Cat-keeper"/>
+<label key="1879518337" value="Glimglam"/>
+<label key="1879518338" value="Glimglam"/>
+<label key="1879518340" value="Lugadúr"/>
+<label key="1879518376" value="Strange Crack"/>
+<label key="1879518377" value="Wailing Spirit"/>
+<label key="1879518378" value="Memorial Stone"/>
+<label key="1879518379" value="Khaljûn"/>
+<label key="1879518380" value="Valrazâr"/>
+<label key="1879518382" value="GNDN"/>
+<label key="1879518423" value="Uzmar"/>
+<label key="1879518424" value="Lûba"/>
+<label key="1879518425" value="Dayâr"/>
+<label key="1879518426" value="Bâdmash"/>
+<label key="1879518427" value="Bakhtûr"/>
+<label key="1879518428" value="Chôr"/>
+<label key="1879518429" value="Leyâno"/>
+<label key="1879518430" value="Phazâl"/>
+<label key="1879518431" value="Heyân"/>
+<label key="1879518432" value="Tûtai"/>
+<label key="1879518433" value="Rângasor"/>
+<label key="1879518434" value="Mâska"/>
+<label key="1879518435" value="Sharât"/>
+<label key="1879518436" value="Sahât"/>
+<label key="1879518437" value="Kôda"/>
+<label key="1879518438" value="Lûgi"/>
+<label key="1879518439" value="Dâgh"/>
+<label key="1879518440" value="Khamôsh"/>
+<label key="1879518441" value="Kachâk"/>
+<label key="1879518442" value="Nílam"/>
+<label key="1879518443" value="Sêya"/>
+<label key="1879518444" value="Sêshar"/>
+<label key="1879518445" value="Vâloyar"/>
+<label key="1879518446" value="Zûmri"/>
+<label key="1879518447" value="Ghûsa"/>
+<label key="1879518448" value="Isha"/>
+<label key="1879518449" value="Khôg"/>
+<label key="1879518450" value="Tâkhbar"/>
+<label key="1879518451" value="Zalânda"/>
+<label key="1879518452" value="Mâlgar"/>
+<label key="1879518453" value="Gadûd"/>
+<label key="1879518454" value="Jadôga"/>
+<label key="1879518455" value="Khâla"/>
+<label key="1879518456" value="Shâkman"/>
+<label key="1879518457" value="Zayôr"/>
+<label key="1879518458" value="Gûldan"/>
+<label key="1879518459" value="Aza"/>
+<label key="1879518460" value="Tôko"/>
+<label key="1879518461" value="Biyâni"/>
+<label key="1879518462" value="Nârbad"/>
+<label key="1879518463" value="Thatâgh"/>
+<label key="1879518464" value="Aphadar"/>
+<label key="1879518465" value="Eshi"/>
+<label key="1879518466" value="Emâkh"/>
+<label key="1879518467" value="Chalûni"/>
+<label key="1879518468" value="Sophâna"/>
+<label key="1879518469" value="Ghârma"/>
+<label key="1879518470" value="Rokhâna"/>
+<label key="1879518471" value="Châkho"/>
+<label key="1879518472" value="Arâma"/>
+<label key="1879518473" value="Mârmar"/>
+<label key="1879518474" value="Bandázan"/>
+<label key="1879518475" value="Bandázan"/>
+<label key="1879518476" value="Rockfall"/>
+<label key="1879518481" value="Orc Berserker"/>
+<label key="1879518482" value="Orc Berserker"/>
+<label key="1879518483" value="Utûgi Destroyer"/>
+<label key="1879518484" value="Ordâkhai Look-out"/>
+<label key="1879518486" value="Ordâkhai Look-out"/>
+<label key="1879518487" value="Ordâkhai Sorceress"/>
+<label key="1879518488" value="Ordâkhai Sorceress"/>
+<label key="1879518533" value="Temámir Quartermaster"/>
+<label key="1879518534" value="Kintai Quartermaster"/>
+<label key="1879518535" value="Delving Quartermaster"/>
+<label key="1879518536" value="Delving Quartermaster"/>
+<label key="1879518537" value="Hamâti Quartermaster"/>
+<label key="1879518539" value="Kintai Quartermaster"/>
+<label key="1879518541" value="Zajâna Quartermaster"/>
+<label key="1879518686" value="Ordâkhai Cat-keeper"/>
+<label key="1879518687" value="Ordâkhai Bóro"/>
+<label key="1879518688" value="Ordâkhai Warrior"/>
+<label key="1879518689" value="Ordâkhai Sorcerer"/>
+<label key="1879518690" value="Ordâkhai Look-out"/>
+<label key="1879518691" value="Ordâkhai Bóro"/>
+<label key="1879518692" value="Ordâkhai Champion"/>
+<label key="1879518693" value="Ordâkhai Look-out"/>
+<label key="1879518694" value="Ordâkhai Sorceress"/>
+<label key="1879518695" value="Return to the Royal Palace"/>
+<label key="1879518698" value="DNT - Summon Ebuzam"/>
+<label key="1879518710" value="Esh Mêkag Overseer"/>
+<label key="1879518716" value="Esh Mêkag Prison"/>
+<label key="1879518717" value="Vengeful Oath-breaker"/>
+<label key="1879518718" value="Restless Soldier"/>
+<label key="1879518719" value="Forsaken Armsman"/>
+<label key="1879518724" value="Medicinal Bandages"/>
+<label key="1879518728" value="Aradûni Battle-horn"/>
+<label key="1879518743" value="GNDN"/>
+<label key="1879518744" value="GNDN"/>
+<label key="1879518750" value="Kinta Sickle"/>
+<label key="1879518751" value="Kinta Hoe"/>
+<label key="1879518757" value="Overseer Purjóro"/>
+<label key="1879518759" value="Baltmau Bow-master"/>
+<label key="1879518760" value="Baltmau Attacker"/>
+<label key="1879518761" value="Baltmau Invader"/>
+<label key="1879518762" value="Baltmau Overseer"/>
+<label key="1879518763" value="Baltmau Stalker"/>
+<label key="1879518766" value="Badharál's Young"/>
+<label key="1879518769" value="Mêshaget"/>
+<label key="1879518823" value="Boar"/>
+<label key="1879518824" value="Phazâl"/>
+<label key="1879518825" value="Mârmar"/>
+<label key="1879518826" value="Ghârma"/>
+<label key="1879518827" value="Zûmri"/>
+<label key="1879518828" value="Area for Second Trap"/>
+<label key="1879518829" value="Kôda"/>
+<label key="1879518830" value="Area for Third Trap"/>
+<label key="1879518831" value="Zalânda"/>
+<label key="1879518832" value="Area for First Trap"/>
+<label key="1879518833" value="Aphadar"/>
+<label key="1879518836" value="Bucket of Water"/>
+<label key="1879518840" value="Corrupted Corpse"/>
+<label key="1879518888" value="Hamâti War-horse"/>
+<label key="1879518891" value="Hamâti War-horse"/>
+<label key="1879518892" value="Hamâti War-horse"/>
+<label key="1879518893" value="Milestone"/>
+<label key="1879518915" value="Afflicted Sapling"/>
+<label key="1879518943" value="Abandoned Farmers' Tools"/>
+<label key="1879518944" value="Isamó"/>
+<label key="1879518945" value="Engéru"/>
+<label key="1879518946" value="Isamó"/>
+<label key="1879518947" value="Parchment Outside the Keep"/>
+<label key="1879518948" value="'Join Zaumoz Today!'"/>
+<label key="1879518949" value="Banner Near the Light"/>
+<label key="1879518950" value="Banner by the Docks"/>
+<label key="1879518951" value="Slain Orc of Drushkála"/>
+<label key="1879518952" value="Slain Orc of Drushkála"/>
+<label key="1879518953" value="Slain Orc of Drushkála"/>
+<label key="1879518954" value="Weapons Rack"/>
+<label key="1879518955" value="Banner at the Haven of Bâkhridar"/>
+<label key="1879518956" value="Banner by the Bridge"/>
+<label key="1879518957" value="Weapons Rack"/>
+<label key="1879518958" value="A Door of Interest"/>
+<label key="1879518959" value="Banner at the Ship-yard"/>
+<label key="1879518960" value="Weapons Rack"/>
+<label key="1879518961" value="Slain Orc of Drushkála"/>
+<label key="1879518962" value="Nearby Brazier"/>
+<label key="1879518964" value="Ghómbok's Trusted Man"/>
+<label key="1879518965" value="Heirsworn Shipmate"/>
+<label key="1879518966" value="Orc Shipmate"/>
+<label key="1879518967" value="Right Hand of Zaumoz"/>
+<label key="1879518969" value="Ruhíshi the Bounteous"/>
+<label key="1879518970" value="Idagâl Tough"/>
+<label key="1879518971" value="Idagâl Cutthroat"/>
+<label key="1879518972" value="Idagâl Marksman"/>
+<label key="1879519039" value="Shâpar"/>
+<label key="1879519046" value="Kulgath the Ruiner"/>
+<label key="1879519047" value="Fell Temámir Dwarf-wight"/>
+<label key="1879519048" value="Enraged Mûmak"/>
+<label key="1879519049" value="Maddening Illusion"/>
+<label key="1879519050" value=""/>
+<label key="1879519051" value="Iron Cage"/>
+<label key="1879519052" value="Clue"/>
+<label key="1879519077" value="Mysterious Spirit"/>
+<label key="1879519078" value="Mashâr"/>
+<label key="1879519079" value="Khaljûn"/>
+<label key="1879519080" value="Captive Scout"/>
+<label key="1879519081" value="Captive Scout"/>
+<label key="1879519082" value="Wriggling Cocoon"/>
+<label key="1879519083" value="Small Sample of Pale Blight"/>
+<label key="1879519085" value="Blight Mushroom"/>
+<label key="1879519086" value="Idagâl Kergim Invoker"/>
+<label key="1879519087" value="Idagâl Kergim Heaver"/>
+<label key="1879519088" value="Idagâl Kergim Ravager"/>
+<label key="1879519089" value="Zâkrat the Whisperer"/>
+<label key="1879519090" value="Fell Spirit"/>
+<label key="1879519105" value="Ordâkhai Warrior"/>
+<label key="1879519106" value="Ordâkhai Sorcerer"/>
+<label key="1879519107" value="Ordâkhai Look-out"/>
+<label key="1879519108" value="Udupóla Bóro"/>
+<label key="1879519110" value="Urilár"/>
+<label key="1879519111" value="Harthanár"/>
+<label key="1879519112" value="Málacál"/>
+<label key="1879519113" value="Orvísh"/>
+<label key="1879519120" value="DNT - Anguished Wind Whispers"/>
+<label key="1879519123" value="Khónyo Bóro"/>
+<label key="1879519124" value="Khónyo Bóro"/>
+<label key="1879519132" value="Sorkamâl the Forbearing"/>
+<label key="1879519143" value="Enthralled Servant"/>
+<label key="1879519144" value="Enthralled Servant"/>
+<label key="1879519159" value="Subuzûri Messenger"/>
+<label key="1879519235" value="TBD"/>
+<label key="1879519236" value="Rivendell Homesteads"/>
+<label key="1879519237" value="Rhadrog"/>
+<label key="1879519238" value="Ildimár"/>
+<label key="1879519239" value="Faeron"/>
+<label key="1879519240" value="Dáthlil"/>
+<label key="1879519241" value="Irsinith"/>
+<label key="1879519242" value="Viznak"/>
+<label key="1879519244" value="Street-rat"/>
+<label key="1879519246" value="Sul Madásh Scout"/>
+<label key="1879519247" value="Irsinith"/>
+<label key="1879519248" value="Numûru"/>
+<label key="1879519249" value="Numûru"/>
+<label key="1879519252" value="Khomar Bóha Soldier"/>
+<label key="1879519253" value="Khomar Bóha Soldier"/>
+<label key="1879519254" value="Baltmau Invader"/>
+<label key="1879519255" value="Baltmau Bow-master"/>
+<label key="1879519256" value="Idagâl Obliterator"/>
+<label key="1879519257" value="Idagâl Devastator"/>
+<label key="1879519258" value="Daithúch Wound-drinker"/>
+<label key="1879519273" value="Karjah"/>
+<label key="1879519282" value="Satchel of Unpolished Crystals"/>
+<label key="1879519283" value="Tracks"/>
+<label key="1879519284" value="Tracks"/>
+<label key="1879519285" value="Tracks"/>
+<label key="1879519286" value="Tracks"/>
+<label key="1879519287" value="Tracks"/>
+<label key="1879519288" value="Mádathal the Deathward"/>
+<label key="1879519296" value="Thardúth Statue"/>
+<label key="1879519305" value="Call Sorkamâl"/>
+<label key="1879519306" value="Call Kotráka"/>
+<label key="1879519307" value="Call Razâl"/>
+<label key="1879519308" value="Call Ebuzâm"/>
+<label key="1879519309" value="Guard"/>
+<label key="1879519310" value="Guard"/>
+<label key="1879519311" value="Ishûri"/>
+<label key="1879519313" value="DNT Goat"/>
+<label key="1879519318" value="Spider Egg"/>
+<label key="1879519319" value="Arvunath"/>
+<label key="1879519411" value="Arâniz"/>
+<label key="1879519412" value="Adagím Blight-weaver"/>
+<label key="1879519413" value="Baltmau Skirmisher"/>
+<label key="1879519414" value="Baltmau Stalker"/>
+<label key="1879519415" value="Sul Madásh Rat"/>
+<label key="1879519416" value="Adagím Rotting Moulder-wood"/>
+<label key="1879519417" value="Adagím Blightwood"/>
+<label key="1879519418" value="Vicious Adagím Huorn"/>
+<label key="1879519419" value="Monstrous Sul Madásh Rat"/>
+<label key="1879519420" value="Adagím Blight-matron"/>
+<label key="1879519421" value="Adagím Spitter"/>
+<label key="1879519422" value="Adagím Jackal"/>
+<label key="1879519423" value="Vicious Adagím Pack-leader"/>
+<label key="1879519494" value="Sul Madásh Scout"/>
+<label key="1879519495" value="Sul Madásh Scout"/>
+<label key="1879519496" value="Khanâg Valoyar"/>
+<label key="1879519517" value="GNDN"/>
+<label key="1879519974" value="Shâdugan Gânda's Favourite"/>
+<label key="1879520055" value="Khagâmi"/>
+<label key="1879520058" value="DNT - Summon Sandstorm"/>
+<label key="1879520136" value="Farmhand"/>
+<label key="1879520137" value="Local Supplier"/>
+<label key="1879520138" value="Grocer"/>
+<label key="1879520144" value="Crafting Lore-master"/>
+<label key="1879520163" value="GNDN"/>
+<label key="1879520173" value="Ordâkhai Weapons"/>
+<label key="1879520192" value="Treasure Pile"/>
+<label key="1879520193" value="Imprisoned Thrall"/>
+<label key="1879520195" value="Housing Furnisher"/>
+<label key="1879520196" value="Forge-master"/>
+<label key="1879520197" value="Stable-master"/>
+<label key="1879520360" value="Forge"/>
+<label key="1879520361" value="Oven"/>
+<label key="1879520362" value="Study"/>
+<label key="1879520363" value="Workbench"/>
+<label key="1879520369" value="Enthralled Prisoner"/>
+<label key="1879520372" value="Palace Guard"/>
+<label key="1879520378" value="Red Phial"/>
+<label key="1879520381" value="Guard Captain"/>
+<label key="1879520384" value="Enthralled Servant"/>
+<label key="1879520386" value="Blue Phial"/>
+<label key="1879520387" value="Palace Sentry"/>
+<label key="1879520388" value="Green Phial"/>
+<label key="1879520391" value="Bloody Torturer"/>
+<label key="1879520393" value="Enthralled Prisoner"/>
+<label key="1879520396" value="Ratúlko the Bloody"/>
+<label key="1879520397" value="Enthralled Servant"/>
+<label key="1879520398" value="Animated Ooze"/>
+<label key="1879520426" value="Pull of Madness"/>
+<label key="1879520465" value="Mizâdi"/>
 </labels>
