@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
 <marker id="1398722560" label="Guard" category="71" did="1879519310" parentZoneId="1879500849" longitude="-96.53001" latitude="-49.83843"/>
 <marker id="1398722561" label="Guard" category="71" did="1879519309" parentZoneId="1879500849" longitude="-96.69906" latitude="-49.631687"/>
-<marker id="1398722564" label="Posted Bounties" category="70" did="1879515340" parentZoneId="1879500849" longitude="-96.50879" latitude="-49.43573"/>
-<marker id="1398722573" label="Unusâli" category="70" did="1879515344" parentZoneId="1879500849" longitude="-96.50207" latitude="-49.511875"/>
-<marker id="1398722574" label="Sorkamâl the Forbearing" category="70" did="1879515360" parentZoneId="1879500849" longitude="-96.50331" latitude="-49.494198"/>
-<marker id="1398722577" label="Hidâti" category="70" did="1879515375" parentZoneId="1879500849" longitude="-96.50529" latitude="-49.52635"/>
-<marker id="1398722578" label="Hidâti" category="70" did="1879515375" parentZoneId="1879500849" longitude="-96.50451" latitude="-49.526722"/>
-<marker id="1398722580" label="Captain Hanâbu" category="70" did="1879515315" parentZoneId="1879500849" longitude="-96.51445" latitude="-49.503662"/>
+<marker id="1398722562" label="Regional Quests: Idagâl" category="70" did="1879522445" parentZoneId="1879500849" longitude="-96.509705" latitude="-49.45883"/>
+<marker id="1398722565" label="Posted Bounties" category="70" did="1879515340" parentZoneId="1879500849" longitude="-96.50879" latitude="-49.43573"/>
+<marker id="1398722574" label="Unusâli" category="70" did="1879515344" parentZoneId="1879500849" longitude="-96.50207" latitude="-49.511875"/>
+<marker id="1398722575" label="Sorkamâl the Forbearing" category="70" did="1879515360" parentZoneId="1879500849" longitude="-96.50331" latitude="-49.494198"/>
+<marker id="1398722578" label="Hidâti" category="70" did="1879515375" parentZoneId="1879500849" longitude="-96.50529" latitude="-49.52635"/>
+<marker id="1398722579" label="Hidâti" category="70" did="1879515375" parentZoneId="1879500849" longitude="-96.50451" latitude="-49.526722"/>
+<marker id="1398722580" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.53039" latitude="-49.36616"/>
+<marker id="1398722581" label="Captain Hanâbu" category="70" did="1879515315" parentZoneId="1879500849" longitude="-96.51445" latitude="-49.503662"/>
 <marker id="1398722582" label="Ashâb" category="70" did="1879515316" parentZoneId="1879500849" longitude="-96.51891" latitude="-49.420498"/>
-<marker id="1398722583" label="The Dawn-warden" category="74" did="1879509590" parentZoneId="1879500849" longitude="-96.62261" latitude="-49.635086"/>
-<marker id="1398722584" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.53039" latitude="-49.36616"/>
+<marker id="1398722584" label="The Dawn-warden" category="74" did="1879509590" parentZoneId="1879500849" longitude="-96.62261" latitude="-49.635086"/>
 <marker id="1398767617" label="Idagâl Serpent" category="71" did="1879512710" parentZoneId="1879500849" longitude="-95.68274" latitude="-53.652187"/>
 <marker id="1398767618" label="Idagâl Cobra" category="71" did="1879512718" parentZoneId="1879500849" longitude="-95.68274" latitude="-53.652187"/>
 <marker id="1398767619" label="Idagâl Striker" category="71" did="1879512713" parentZoneId="1879500849" longitude="-95.68274" latitude="-53.652187"/>
@@ -536,165 +537,181 @@
 <marker id="1398784005" label="Deadshore Pup" category="71" did="1879514013" parentZoneId="1879500849" longitude="-96.0" latitude="-50.399998"/>
 <marker id="1398784006" label="Deadshore Lobber" category="71" did="1879514023" parentZoneId="1879500849" longitude="-96.0" latitude="-50.399998"/>
 <marker id="1398784007" label="Deadshore Heckler" category="71" did="1879514029" parentZoneId="1879500849" longitude="-96.0" latitude="-50.399998"/>
-<marker id="1398784009" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.1039" latitude="-50.201523"/>
-<marker id="1398784010" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784011" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784012" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784013" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784014" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784015" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784016" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784017" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784018" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784019" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784020" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784021" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784022" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
-<marker id="1398784023" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784024" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784025" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784026" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784027" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784028" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784029" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784030" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784031" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784032" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784033" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784034" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784035" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
-<marker id="1398784036" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784037" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784038" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784039" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784040" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784041" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784042" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784043" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784044" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784045" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784046" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784047" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784048" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
-<marker id="1398784049" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784050" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784051" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784052" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784053" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784054" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784055" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784056" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784057" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784058" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784059" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784060" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784061" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
-<marker id="1398784062" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784063" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784064" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784065" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784066" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784067" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784068" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784069" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784070" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784071" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784072" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784073" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784074" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
-<marker id="1398784075" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784076" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784077" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784078" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784079" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784080" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784081" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784082" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784083" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784084" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784085" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784086" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784087" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
-<marker id="1398784088" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784089" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784090" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784091" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784092" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784093" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784094" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784095" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784096" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784097" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784098" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784099" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784100" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
-<marker id="1398784101" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784102" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784103" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784104" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784105" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784106" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784107" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784108" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784109" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784110" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784111" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784112" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784113" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
-<marker id="1398784114" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784115" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784116" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784117" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784118" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784119" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784120" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784121" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784122" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784123" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784124" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784125" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784126" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
-<marker id="1398784127" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784128" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784129" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784130" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784131" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784132" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784133" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784134" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784135" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784136" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784137" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784138" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
-<marker id="1398784139" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784008" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.1039" latitude="-50.201523"/>
+<marker id="1398784009" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784010" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784011" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784012" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784013" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784014" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784015" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784016" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784017" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784018" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784019" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784020" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784021" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.690155" latitude="-50.35798"/>
+<marker id="1398784022" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784023" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784024" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784025" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784026" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784027" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784028" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784029" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784030" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784031" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784032" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784033" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784034" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-96.13052" latitude="-50.750286"/>
+<marker id="1398784035" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784036" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784037" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784038" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784039" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784040" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784041" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784042" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784043" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784044" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784045" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784046" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784047" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.74175" latitude="-50.52141"/>
+<marker id="1398784048" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784049" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784050" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784051" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784052" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784053" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784054" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784055" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784056" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784057" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784058" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784059" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784060" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.759415" latitude="-50.339924"/>
+<marker id="1398784061" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784062" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784063" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784064" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784065" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784066" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784067" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784068" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784069" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784070" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784071" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784072" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784073" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.661606" latitude="-50.087505"/>
+<marker id="1398784074" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784075" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784076" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784077" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784078" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784079" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784080" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784081" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784082" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784083" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784084" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784085" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784086" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.721405" latitude="-50.64875"/>
+<marker id="1398784087" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784088" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784089" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784090" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784091" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784092" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784093" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784094" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784095" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784096" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784097" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784098" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784099" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-96.16836" latitude="-50.676163"/>
+<marker id="1398784100" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784101" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784102" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784103" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784104" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784105" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784106" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784107" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784108" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784109" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784110" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784111" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784112" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.965805" latitude="-50.695732"/>
+<marker id="1398784113" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784114" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784115" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784116" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784117" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784118" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784119" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784120" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784121" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784122" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784123" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784124" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784125" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.74147" latitude="-50.59379"/>
+<marker id="1398784126" label="Cabbage" category="77" did="1879061345" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784127" label="Yarrow Root" category="77" did="1879066722" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784128" label="Fennec Fox" category="78" did="1879468674" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784129" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784130" label="Yellow Onion" category="77" did="1879049672" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784131" label="Tater" category="77" did="1879061257" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784132" label="Wild Donkey" category="78" did="1879496042" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784133" label="Oryx" category="78" did="1879496053" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784134" label="Jerboa" category="78" did="1879478483" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784135" label="Hamster" category="78" did="1879485296" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784136" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784137" label="Hamster" category="78" did="1879485297" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
+<marker id="1398784138" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879500849" longitude="-95.96353" latitude="-50.499073"/>
 <marker id="1398788102" label="Healer" category="38" did="1879504084" parentZoneId="1879500849" longitude="-96.198296" latitude="-49.300213"/>
 <marker id="1398788103" label="Provisioner" category="38" did="1879504094" parentZoneId="1879500849" longitude="-96.01019" latitude="-49.335003"/>
 <marker id="1398788104" label="Supplier" category="38" did="1879504091" parentZoneId="1879500849" longitude="-96.15284" latitude="-49.951164"/>
 <marker id="1398788105" label="Guard" category="71" did="1879519310" parentZoneId="1879500849" longitude="-95.97594" latitude="-49.63489"/>
 <marker id="1398788106" label="Guard" category="71" did="1879519309" parentZoneId="1879500849" longitude="-95.61242" latitude="-49.650284"/>
-<marker id="1398788107" label="Malêrti" category="70" did="1879515323" parentZoneId="1879500849" longitude="-96.231636" latitude="-49.30312"/>
-<marker id="1398788108" label="Mailbox" category="34" did="1879222087" parentZoneId="1879500849" longitude="-96.26406" latitude="-49.310658"/>
-<marker id="1398788111" label="Râsabur" category="70" did="1879518292" parentZoneId="1879500849" longitude="-96.25252" latitude="-49.318554"/>
-<marker id="1398788112" label="Milestone" category="55" did="1879518893" parentZoneId="1879500849" longitude="-96.04137" latitude="-49.31718"/>
-<marker id="1398788114" label="Stable-master" category="51" did="1879516572" parentZoneId="1879500849" longitude="-95.7566" latitude="-49.578873"/>
-<marker id="1398788115" label="The Dawn-warden" category="74" did="1879509590" parentZoneId="1879500849" longitude="-95.977066" latitude="-49.829403"/>
-<marker id="1398788116" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.102325" latitude="-49.226387"/>
-<marker id="1398788117" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.9842" latitude="-49.447197"/>
-<marker id="1398788118" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.71587" latitude="-49.62633"/>
-<marker id="1398788119" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.28953" latitude="-49.966106"/>
-<marker id="1398788120" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.8576" latitude="-49.86878"/>
-<marker id="1398788121" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.28112" latitude="-49.36034"/>
-<marker id="1398788122" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.150116" latitude="-49.327847"/>
-<marker id="1398788123" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.18967" latitude="-49.373257"/>
-<marker id="1398788124" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.03941" latitude="-49.285927"/>
-<marker id="1398788125" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-95.94438" latitude="-49.41145"/>
-<marker id="1398788126" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.34945" latitude="-49.76123"/>
-<marker id="1398788127" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.206345" latitude="-49.85162"/>
-<marker id="1398788149" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.109726" latitude="-49.904842"/>
-<marker id="1398788150" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.03747" latitude="-49.899773"/>
-<marker id="1398788151" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.09494" latitude="-49.98783"/>
-<marker id="1398788152" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-95.93904" latitude="-49.832745"/>
-<marker id="1398788153" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.22897" latitude="-49.511898"/>
+<marker id="1398788107" label="Kâparai Ward" category="73" did="1879520584" parentZoneId="1879500849" longitude="-96.09707" latitude="-49.226276"/>
+<marker id="1398788108" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-95.934044" latitude="-49.827744"/>
+<marker id="1398788109" label="Malêrti" category="70" did="1879515323" parentZoneId="1879500849" longitude="-96.231636" latitude="-49.30312"/>
+<marker id="1398788110" label="Mailbox" category="34" did="1879222087" parentZoneId="1879500849" longitude="-96.26406" latitude="-49.310658"/>
+<marker id="1398788113" label="Râsabur" category="70" did="1879518292" parentZoneId="1879500849" longitude="-96.25252" latitude="-49.318554"/>
+<marker id="1398788114" label="Milestone" category="55" did="1879518893" parentZoneId="1879500849" longitude="-96.04137" latitude="-49.31718"/>
+<marker id="1398788116" label="Stable-master" category="51" did="1879516572" parentZoneId="1879500849" longitude="-95.7566" latitude="-49.578873"/>
+<marker id="1398788117" label="The Dawn-warden" category="74" did="1879509590" parentZoneId="1879500849" longitude="-95.977066" latitude="-49.829403"/>
+<marker id="1398788118" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.102325" latitude="-49.226387"/>
+<marker id="1398788119" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.98201" latitude="-49.44106"/>
+<marker id="1398788120" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.71587" latitude="-49.62633"/>
+<marker id="1398788121" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-96.28953" latitude="-49.966106"/>
+<marker id="1398788122" label="Kâparai Ward" category="73" did="1879517069" parentZoneId="1879500849" longitude="-95.8576" latitude="-49.86878"/>
+<marker id="1398788123" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.28112" latitude="-49.36034"/>
+<marker id="1398788124" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.150116" latitude="-49.327847"/>
+<marker id="1398788125" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.18967" latitude="-49.373257"/>
+<marker id="1398788126" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.03941" latitude="-49.285927"/>
+<marker id="1398788127" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-95.94438" latitude="-49.41145"/>
+<marker id="1398788128" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.34945" latitude="-49.76123"/>
+<marker id="1398788129" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.206345" latitude="-49.85162"/>
+<marker id="1398788130" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.109726" latitude="-49.904842"/>
+<marker id="1398788131" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.03747" latitude="-49.899773"/>
+<marker id="1398788132" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.09494" latitude="-49.98783"/>
+<marker id="1398788133" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-95.93904" latitude="-49.832745"/>
+<marker id="1398788134" label="Frightened Aradûni" category="70" did="1879517352" parentZoneId="1879500849" longitude="-96.2265" latitude="-49.534378"/>
+<marker id="1398788140" label="Kâparai Ward" category="73" did="1879520584" parentZoneId="1879500849" longitude="-95.9838" latitude="-49.43632"/>
+<marker id="1398788141" label="Kâparai Ward" category="73" did="1879520584" parentZoneId="1879500849" longitude="-95.7066" latitude="-49.666096"/>
+<marker id="1398788142" label="Kâparai Ward" category="73" did="1879520584" parentZoneId="1879500849" longitude="-95.86067" latitude="-49.875076"/>
+<marker id="1398788143" label="Kâparai Ward" category="73" did="1879520584" parentZoneId="1879500849" longitude="-96.29423" latitude="-49.962196"/>
+<marker id="1398788145" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.27699" latitude="-49.346523"/>
+<marker id="1398788146" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.14512" latitude="-49.322845"/>
+<marker id="1398788147" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.17123" latitude="-49.377247"/>
+<marker id="1398788148" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.01639" latitude="-49.29324"/>
+<marker id="1398788149" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-95.939384" latitude="-49.40645"/>
+<marker id="1398788150" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.34445" latitude="-49.75623"/>
+<marker id="1398788151" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.10472" latitude="-49.89984"/>
+<marker id="1398788152" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.03247" latitude="-49.894775"/>
+<marker id="1398788153" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.08994" latitude="-49.98283"/>
+<marker id="1398788154" label="Frightened Aradûni" category="70" did="1879520663" parentZoneId="1879500849" longitude="-96.22759" latitude="-49.52818"/>
 <marker id="1398792192" label="Guard" category="71" did="1879519310" parentZoneId="1879500849" longitude="-96.02477" latitude="-48.915073"/>
 <marker id="1398792193" label="Guard" category="71" did="1879519309" parentZoneId="1879500849" longitude="-95.99246" latitude="-48.927105"/>
 <marker id="1398792194" label="Idagâl Dune-beetle" category="71" did="1879512783" parentZoneId="1879500849" longitude="-96.0" latitude="-48.8"/>

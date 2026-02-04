@@ -10493,11 +10493,11 @@
 <max longitude="-143.06665" latitude="52.67334"/>
 </map>
 <map id="1879515404" name="The Kalmakhíla" imageId="1093051412">
-<geo factor="300.00003">
-<point longitude="52.643337" latitude="43.79334"/>
+<geo factor="600.0">
+<point longitude="52.643337" latitude="43.79166"/>
 </geo>
-<min longitude="52.643337" latitude="41.79334"/>
-<max longitude="55.310005" latitude="43.79334"/>
+<min longitude="52.643337" latitude="41.79166"/>
+<max longitude="55.310005" latitude="43.79166"/>
 </map>
 <map id="1879515405" name="The Shorakhúna" imageId="1093051413">
 <geo factor="600.0">
@@ -10515,24 +10515,24 @@
 </map>
 <map id="1879516597" name="Hall of Lajór" imageId="1093054365">
 <geo factor="300.0">
-<point longitude="51.66666" latitude="39.89666"/>
+<point longitude="52.949997" latitude="38.896667"/>
 </geo>
-<min longitude="51.66666" latitude="35.89666"/>
-<max longitude="56.999992" latitude="39.89666"/>
+<min longitude="52.949997" latitude="36.896667"/>
+<max longitude="55.616665" latitude="38.896667"/>
 </map>
 <map id="1879516598" name="Hall of Lajór" imageId="1093054366">
 <geo factor="300.0">
-<point longitude="51.82666" latitude="41.469997"/>
+<point longitude="53.11" latitude="40.469997"/>
 </geo>
-<min longitude="51.82666" latitude="37.469997"/>
-<max longitude="57.159992" latitude="41.469997"/>
+<min longitude="53.11" latitude="38.469997"/>
+<max longitude="55.77667" latitude="40.469997"/>
 </map>
 <map id="1879517905" name="The Caves of Hurum Kâna" imageId="1093057579">
-<geo factor="299.99997">
-<point longitude="51.373337" latitude="47.59666"/>
+<geo factor="300.0">
+<point longitude="51.07666" latitude="47.59666"/>
 </geo>
-<min longitude="51.373337" latitude="43.59666"/>
-<max longitude="56.706673" latitude="47.59666"/>
+<min longitude="51.07666" latitude="43.59666"/>
+<max longitude="56.409992" latitude="47.59666"/>
 </map>
 <map id="1879517912" name="Pazakhêra" imageId="1093057577">
 <geo factor="400.0">
@@ -10542,11 +10542,11 @@
 <max longitude="55.074997" latitude="35.55"/>
 </map>
 <map id="1879517913" name="Jâr Obadal" imageId="1093057578">
-<geo factor="300.0">
-<point longitude="52.77" latitude="37.28667"/>
+<geo factor="600.0">
+<point longitude="52.77" latitude="37.285"/>
 </geo>
-<min longitude="52.77" latitude="35.28667"/>
-<max longitude="55.43667" latitude="37.28667"/>
+<min longitude="52.77" latitude="35.285"/>
+<max longitude="55.43667" latitude="37.285"/>
 </map>
 <map id="1879517914" name="Jolakári's House" imageId="1093057576">
 <geo factor="600.0">
@@ -10569,25 +10569,39 @@
 <min longitude="-144.98332" latitude="49.0"/>
 <max longitude="-142.31665" latitude="51.0"/>
 </map>
-<map id="1879520515" name="Ekal-nêbi" imageId="1093064374">
-<geo factor="899.9999">
-<point longitude="52.753338" latitude="50.495544"/>
+<map id="1879520060" name="Deluxe Premium House" imageId="1093061867">
+<geo factor="599.99994">
+<point longitude="42.93666" latitude="44.12334"/>
 </geo>
-<min longitude="52.753338" latitude="47.162212"/>
-<max longitude="55.420006" latitude="50.495544"/>
+<min longitude="42.93666" latitude="43.12334"/>
+<max longitude="44.269993" latitude="44.12334"/>
+</map>
+<map id="1879520061" name="Deluxe Premium House" imageId="1093061870">
+<geo factor="599.99994">
+<point longitude="43.73666" latitude="44.12334"/>
+</geo>
+<min longitude="43.73666" latitude="43.12334"/>
+<max longitude="45.069992" latitude="44.12334"/>
+</map>
+<map id="1879520515" name="Ekal-nêbi" imageId="1093064374">
+<geo factor="300.0">
+<point longitude="51.42" latitude="49.49666"/>
+</geo>
+<min longitude="51.42" latitude="45.49666"/>
+<max longitude="56.75333" latitude="49.49666"/>
 </map>
 <map id="1879520516" name="Ekal-nêbi" imageId="1093064376">
-<geo factor="899.9999">
-<point longitude="52.753338" latitude="50.495544"/>
+<geo factor="300.0">
+<point longitude="51.42" latitude="49.49666"/>
 </geo>
-<min longitude="52.753338" latitude="47.162212"/>
-<max longitude="55.420006" latitude="50.495544"/>
+<min longitude="51.42" latitude="45.49666"/>
+<max longitude="56.75333" latitude="49.49666"/>
 </map>
-<map id="1879520517" name="Ekal-nêbi" imageId="1093064373">
-<geo factor="899.9999">
-<point longitude="52.753338" latitude="50.495544"/>
+<map id="1879520695" name="Boulder-fall Den" imageId="1093065641">
+<geo factor="599.99994">
+<point longitude="-144.46832" latitude="61.699997"/>
 </geo>
-<min longitude="52.753338" latitude="47.162212"/>
-<max longitude="55.420006" latitude="50.495544"/>
+<min longitude="-144.46832" latitude="60.699997"/>
+<max longitude="-143.135" latitude="61.699997"/>
 </map>
 </maps>
