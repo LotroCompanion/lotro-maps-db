@@ -76,12 +76,12 @@
 <min longitude="-24.290195" latitude="-22.0"/>
 <max longitude="-8.227449" latitude="-9.952939"/>
 </map>
-<map id="268437713" name="Rivendell" imageId="1090552109">
-<geo factor="106.25">
-<point longitude="-9.350586" latitude="-26.263525"/>
+<map id="268437713" name="Rivendell" imageId="1093069830">
+<geo factor="96.25">
+<point longitude="-10.675322" latitude="-24.909092"/>
 </geo>
-<min longitude="-9.350586" latitude="-33.49176"/>
-<max longitude="0.28706074" latitude="-26.263525"/>
+<min longitude="-10.675322" latitude="-32.888313"/>
+<max longitude="-0.03636074" latitude="-24.909092"/>
 </map>
 <map id="268437716" name="Bree" imageId="1090552116">
 <geo factor="150.0">
@@ -1566,6 +1566,13 @@
 </geo>
 <min longitude="-92.4" latitude="-69.2"/>
 <max longitude="-82.76235" latitude="-61.97176"/>
+</map>
+<map id="268455133" name="Rivendell Steadings" imageId="1093069703">
+<geo factor="120.00001">
+<point longitude="-13.441669" latitude="-24.06667"/>
+</geo>
+<min longitude="-13.441669" latitude="-30.46667"/>
+<max longitude="-4.9083366" latitude="-24.06667"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -10528,11 +10535,11 @@
 <max longitude="55.77667" latitude="40.469997"/>
 </map>
 <map id="1879517905" name="The Caves of Hurum Kâna" imageId="1093057579">
-<geo factor="300.0">
-<point longitude="51.07666" latitude="47.59666"/>
+<geo factor="400.0">
+<point longitude="51.7425" latitude="47.094997"/>
 </geo>
-<min longitude="51.07666" latitude="43.59666"/>
-<max longitude="56.409992" latitude="47.59666"/>
+<min longitude="51.7425" latitude="44.094997"/>
+<max longitude="55.7425" latitude="47.094997"/>
 </map>
 <map id="1879517912" name="Pazakhêra" imageId="1093057577">
 <geo factor="400.0">

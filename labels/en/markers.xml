@@ -23958,7 +23958,6 @@
 <label key="1879327593" value="Large Stone"/>
 <label key="1879327594" value="A Hat"/>
 <label key="1879327595" value="Charred Wood"/>
-<label key="1879327596" value="Beren's Blood Wine (Empty)"/>
 <label key="1879327598" value="Brazier Ash"/>
 <label key="1879327601" value="Old Calembel"/>
 <label key="1879327605" value="Ale Dregs"/>
@@ -46955,7 +46954,6 @@
 <label key="1879503390" value="Jêsamin"/>
 <label key="1879503391" value="Rahâzi"/>
 <label key="1879503392" value="Glorfindel"/>
-<label key="1879503394" value="Gurdûnum"/>
 <label key="1879503395" value="Ulishár"/>
 <label key="1879503396" value="Rahâzi"/>
 <label key="1879503397" value="Rahâzi"/>
@@ -47699,14 +47697,17 @@
 <label key="1879509865" value="Pale Blight Sample"/>
 <label key="1879509866" value="DNT - Choice Beam"/>
 <label key="1879509867" value="Zamâktar the Putrescent - Tier 2"/>
+<label key="1879509868" value="Maukhorn's Chest - Tier 3"/>
 <label key="1879509869" value="Zamâktar the Putrescent - Tier 3"/>
 <label key="1879509870" value="Badharál's Grotesque Egg - Tier 2"/>
 <label key="1879509871" value="Badharál's Grotesque Egg - Tier 3"/>
 <label key="1879509872" value="The Legion's Chest - Tier 1"/>
+<label key="1879509873" value="Maukhorn's Chest - Tier 1"/>
 <label key="1879509874" value="Zamâktar the Putrescent - Tier 1"/>
 <label key="1879509875" value="Badharál's Grotesque Egg - Tier 1"/>
 <label key="1879509876" value="The Legion's Chest - Tier 2"/>
 <label key="1879509877" value="The Legion's Chest - Tier 3"/>
+<label key="1879509878" value="Maukhorn's Chest - Tier 2"/>
 <label key="1879509879" value="DNT - Knockback"/>
 <label key="1879509903" value="DNT - Rain of Knives Spawner"/>
 <label key="1879509904" value="Adventurer's Quartermaster"/>
@@ -48605,7 +48606,6 @@
 <label key="1879517623" value="Molbása the Untamed"/>
 <label key="1879517624" value="Bârlat's Tough"/>
 <label key="1879517625" value="Bârlat's Tough"/>
-<label key="1879517627" value="Torrent of Gold"/>
 <label key="1879517628" value="Bârlat's Overseer"/>
 <label key="1879517629" value="Bârlat's Deadeye"/>
 <label key="1879517630" value="Bârlat the Bold"/>
@@ -48795,6 +48795,7 @@
 <label key="1879518536" value="Delving Quartermaster"/>
 <label key="1879518537" value="Hamâti Quartermaster"/>
 <label key="1879518539" value="Kintai Quartermaster"/>
+<label key="1879518540" value="Mûr Ghala Quartermaster"/>
 <label key="1879518541" value="Zajâna Quartermaster"/>
 <label key="1879518686" value="Ordâkhai Cat-keeper"/>
 <label key="1879518687" value="Ordâkhai Bóro"/>
@@ -49101,7 +49102,7 @@
 <label key="1879520962" value="Duvárdain Hunter"/>
 <label key="1879520963" value="Snow-clad Cow"/>
 <label key="1879520965" value="DNT - Vault Teleport"/>
-<label key="1879520992" value="DNT - Shower of Jewels"/>
+<label key="1879520992" value="DNT"/>
 <label key="1879521000" value="Suffocating Spore Cloud"/>
 <label key="1879521010" value="Suffocating Spore Cloud"/>
 <label key="1879521013" value="Suffocating Spore Cloud"/>
@@ -49130,18 +49131,18 @@
 <label key="1879521625" value="Drummer"/>
 <label key="1879521626" value="Welduth Lhush"/>
 <label key="1879521633" value="Map to Clegur"/>
-<label key="1879521650" value="TBD's Bodhran"/>
+<label key="1879521650" value="Bodhran"/>
 <label key="1879521651" value="Leeks"/>
 <label key="1879521652" value="Butchered Lamb Meat"/>
 <label key="1879521653" value="Deliver the Package"/>
-<label key="1879521654" value="TBD Daffodil Bulbs"/>
+<label key="1879521654" value="Prized Daffodil Bulbs"/>
 <label key="1879521655" value="Potatoes"/>
-<label key="1879521656" value="TBD's Bagpipes"/>
-<label key="1879521657" value="TBD's Lute"/>
-<label key="1879521658" value="TBD's Fiddle"/>
-<label key="1879521659" value="TBD Flier"/>
+<label key="1879521656" value="Bagpipes"/>
+<label key="1879521657" value="Lute"/>
+<label key="1879521658" value="Fiddle"/>
+<label key="1879521659" value="Bacon Pie Flier"/>
 <label key="1879521660" value="Carrots"/>
-<label key="1879521672" value="TBD's Flute"/>
+<label key="1879521672" value="Flute"/>
 <label key="1879521722" value="Water Bucket"/>
 <label key="1879521732" value="Rivendell Decoration Vendor"/>
 <label key="1879521736" value="Lhaereth the Stained"/>
@@ -49165,7 +49166,7 @@
 <label key="1879521860" value="Medium Armour Tailor"/>
 <label key="1879521865" value="Minstrel Trader"/>
 <label key="1879521868" value="Warden Trader"/>
-<label key="1879521869" value="Quartermaster"/>
+<label key="1879521869" value="Mûr Ghala Quartermaster"/>
 <label key="1879521873" value="Guardian Trader"/>
 <label key="1879522022" value="A Good Place For A Banner"/>
 <label key="1879522023" value="Daffodil Days Banner"/>
@@ -49186,6 +49187,7 @@
 <label key="1879522443" value="Regional Quests: Adagím"/>
 <label key="1879522444" value="Regional Quests: An Shêru"/>
 <label key="1879522445" value="Regional Quests: Idagâl"/>
+<label key="1879522446" value="Agitated Spores"/>
 <label key="1879522448" value="Kotráka Saiya"/>
 <label key="1879522450" value="Faeron"/>
 <label key="1879522480" value="Corrupted Spear"/>
@@ -49204,4 +49206,136 @@
 <label key="1879522648" value="GNDN"/>
 <label key="1879522649" value="GNDN"/>
 <label key="1879522650" value="DNT Reapply Solo Buffs"/>
+<label key="1879522697" value="GNDN"/>
+<label key="1879522765" value="GNDN"/>
+<label key="1879522774" value="DNT - Plus Two Domination"/>
+<label key="1879522809" value="Hungry Hobbit"/>
+<label key="1879522810" value="Maramam's Bacon Pie"/>
+<label key="1879522835" value="TBD SLOPES VILLAGER A"/>
+<label key="1879522836" value="TBD SLOPES VILLAGER C"/>
+<label key="1879522837" value="TBD SLOPES VILLAGER B"/>
+<label key="1879522840" value="Fiddler"/>
+<label key="1879522841" value="Piper"/>
+<label key="1879522842" value="Drummer"/>
+<label key="1879522843" value="Flautist"/>
+<label key="1879522844" value="Lutenist"/>
+<label key="1879522845" value="GNDN"/>
+<label key="1879522908" value="TBD WAR CAMP SOLDIER C"/>
+<label key="1879522909" value="TBD VISITING STORYTELLER"/>
+<label key="1879522910" value="TBD CHILD A"/>
+<label key="1879522911" value="TBD WAR CAMP SOLDIER D"/>
+<label key="1879522912" value="TBD VISITING STORYTELLER"/>
+<label key="1879522913" value="TBD CHILD LEADER"/>
+<label key="1879522914" value="TBD WAR CAMP SOLDIER D"/>
+<label key="1879522915" value="TBD VISITING STORYTELLER"/>
+<label key="1879522916" value="TBD CHILD LEADER"/>
+<label key="1879522917" value="TBD WAR CAMP SOLDIER E"/>
+<label key="1879522918" value="TBD STORYTELLER'S SATCHEL"/>
+<label key="1879522919" value="TBD CHILD A"/>
+<label key="1879522920" value="TBD WAR CAMP SOLDIER E"/>
+<label key="1879522921" value="TBD TRAINING SOLDIER"/>
+<label key="1879522922" value="TBD CHILD B"/>
+<label key="1879522923" value="TBD WAR CAMP SOLDIER F"/>
+<label key="1879522924" value="TBD VILLAGE FARMER"/>
+<label key="1879522925" value="TBD CHILD C"/>
+<label key="1879522926" value="TBD WAR CAMP SOLDIER F"/>
+<label key="1879522927" value="TBD VILLAGE FARMER'S SON"/>
+<label key="1879522928" value="TBD CHILD A"/>
+<label key="1879522929" value="TBD WAR CAMP STRATEGIST"/>
+<label key="1879522930" value="TBD VILLAGE FARMER'S SON"/>
+<label key="1879522931" value="TBD CHILD B"/>
+<label key="1879522932" value="TBD WAR CAMP SUPERVISOR"/>
+<label key="1879522933" value="TBD VILLAGE FARMER'S SON"/>
+<label key="1879522934" value="TBD CHILD C"/>
+<label key="1879522935" value="TBD WAR CAMP SWORD MASTER"/>
+<label key="1879522936" value="TBD VILLAGE GUARDSMAN"/>
+<label key="1879522937" value="Kishâtal"/>
+<label key="1879522938" value="TBD WOUNDED HAMATI SOLDIER"/>
+<label key="1879522939" value="TBD VILLAGE RESIDENT A"/>
+<label key="1879522940" value="Kishâtal"/>
+<label key="1879522941" value="TBD VILLAGE RESIDENT B"/>
+<label key="1879522942" value="Kishâtal"/>
+<label key="1879522943" value="TBD VILLAGE TOYMAKER"/>
+<label key="1879522944" value="TBD GRAIN VILLAGER"/>
+<label key="1879522945" value="TBD VISITING STORYTELLER"/>
+<label key="1879522946" value="TBD GRAIN VILLAGER"/>
+<label key="1879522947" value="Kishâtal"/>
+<label key="1879522948" value="TBD HAMATI HERBALIST"/>
+<label key="1879522949" value="Chief Provisioner Dunaïl"/>
+<label key="1879522950" value="TBD HAMATI SCOUT OBSERVER"/>
+<label key="1879522951" value="Shenzâmin"/>
+<label key="1879522952" value="TBD HAMATI SCOUT ORC CAMP"/>
+<label key="1879522953" value="Shenzâmin"/>
+<label key="1879522954" value="TBD HAMATI SCOUT ORDAKHAI CAMP"/>
+<label key="1879522955" value="TBD WAR CAMP SOLDIER A"/>
+<label key="1879522956" value="TBD HAMATI SOLDIER NORTH ORD CAMP"/>
+<label key="1879522957" value="TBD WAR CAMP SOLDIER A"/>
+<label key="1879522958" value="TBD INJURED MAN"/>
+<label key="1879522959" value="TBD WAR CAMP SOLDIER B"/>
+<label key="1879522960" value="TBD INJURED MAN"/>
+<label key="1879522961" value="TBD WAR CAMP SOLDIER B"/>
+<label key="1879522962" value="TBD LIVING COUSIN"/>
+<label key="1879522963" value="TBD WAR CAMP SOLDIER C"/>
+<label key="1879522964" value="TBD VISITING STORYTELLER"/>
+<label key="1879522965" value="TBD LIVING COUSIN"/>
+<label key="1879522966" value="Unusual Crate"/>
+<label key="1879522967" value="Ordâkhai Corpse"/>
+<label key="1879522968" value="Forging Fire"/>
+<label key="1879522969" value="Unusual Crate"/>
+<label key="1879522970" value="Spilled Grain"/>
+<label key="1879522971" value="Scrap Barrel"/>
+<label key="1879522972" value="Rustling Bush"/>
+<label key="1879522973" value="Place for Sword"/>
+<label key="1879522974" value="Incomplete Cairn"/>
+<label key="1879522975" value="Ordâkhai Corpse"/>
+<label key="1879522976" value="Spilled Grain"/>
+<label key="1879522977" value="Disposal Site"/>
+<label key="1879522978" value="Unusual Crate"/>
+<label key="1879522979" value="Mound of Earth"/>
+<label key="1879522980" value="Incomplete Cairn"/>
+<label key="1879522983" value="Pacifying Mushroom"/>
+<label key="1879523008" value="Stable-master"/>
+<label key="1879523009" value="Stable-master"/>
+<label key="1879523013" value="Suggested Spear"/>
+<label key="1879523014" value="Assorted Broken Swords"/>
+<label key="1879523015" value="Snake Meat"/>
+<label key="1879523016" value="Freshly-made Bandages"/>
+<label key="1879523017" value="TBD Two's Blade"/>
+<label key="1879523018" value="Discarded Bag"/>
+<label key="1879523019" value="Ordâkhai Trinkets"/>
+<label key="1879523020" value="Abandoned Ordâkhai Sword"/>
+<label key="1879523021" value="Bandage"/>
+<label key="1879523022" value="Bag of Food"/>
+<label key="1879523023" value="TBD's Rake"/>
+<label key="1879523024" value="TBD Village Shovel"/>
+<label key="1879523025" value="TBD's Old Sword"/>
+<label key="1879523026" value="Ordâkhai Sword"/>
+<label key="1879523027" value="Burned Crop"/>
+<label key="1879523028" value="Bandage"/>
+<label key="1879523029" value="Kishâtal's Broken Sword"/>
+<label key="1879523030" value="Clean Cloth"/>
+<label key="1879523031" value="Stolen Grain"/>
+<label key="1879523032" value="Makeshift Weapon"/>
+<label key="1879523033" value="Stolen Keepsake"/>
+<label key="1879523034" value="TBD Meat"/>
+<label key="1879523035" value="TBD Meat"/>
+<label key="1879523036" value="Wooden Stave"/>
+<label key="1879523037" value="Fallen Branch"/>
+<label key="1879523038" value="Shoreline Reeds"/>
+<label key="1879523039" value="Wood Suitable For Carving"/>
+<label key="1879523040" value="Discarded Sword"/>
+<label key="1879523041" value="Suggested Axe"/>
+<label key="1879523042" value="TBD's Stolen Shovel"/>
+<label key="1879523043" value="TBD's Hoe"/>
+<label key="1879523044" value="Collection of Ordâkhai Trinkets"/>
+<label key="1879523045" value="Water Jar"/>
+<label key="1879523046" value="Suggested Club"/>
+<label key="1879523047" value="TBD's Special Stones"/>
+<label key="1879523048" value="TBD One's Blade"/>
+<label key="1879523049" value="Scorpion Stinger"/>
+<label key="1879523050" value="TBD's Special Stones"/>
+<label key="1879523051" value="Removed Gemstone"/>
+<label key="1879523099" value="Blight-spreading Bat"/>
+<label key="1879523103" value="Blight-spreading Bat"/>
+<label key="1879523146" value="Daffodil Bulbs"/>
 </labels>
