@@ -10611,4 +10611,32 @@
 <min longitude="-144.46832" latitude="60.699997"/>
 <max longitude="-143.135" latitude="61.699997"/>
 </map>
+<map id="1879523368" name="TBD - KERGRIM CAVE 2" imageId="1093080589">
+<geo factor="360.0">
+<point longitude="-147.29443" latitude="49.21666"/>
+</geo>
+<min longitude="-147.29443" latitude="45.883327"/>
+<max longitude="-142.84999" latitude="49.21666"/>
+</map>
+<map id="1879523369" name="TBD - KERGRIM CAVE 1" imageId="1093080590">
+<geo factor="600.0">
+<point longitude="-145.66" latitude="50.075"/>
+</geo>
+<min longitude="-145.66" latitude="48.075"/>
+<max longitude="-142.99333" latitude="50.075"/>
+</map>
+<map id="1879523607" name="TBD - ORDAKHAI COMPOUND" imageId="1093080712">
+<geo factor="600.0">
+<point longitude="-143.11833" latitude="79.299995"/>
+</geo>
+<min longitude="-143.11833" latitude="78.299995"/>
+<max longitude="-141.785" latitude="79.299995"/>
+</map>
+<map id="1879523636" name="TBD - MIZADI COMPOUND" imageId="1093080713">
+<geo factor="600.0">
+<point longitude="-143.46666" latitude="77.7"/>
+</geo>
+<min longitude="-143.46666" latitude="76.7"/>
+<max longitude="-142.13333" latitude="77.7"/>
+</map>
 </maps>
