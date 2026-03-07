@@ -10639,4 +10639,18 @@
 <min longitude="-143.46666" latitude="76.7"/>
 <max longitude="-142.13333" latitude="77.7"/>
 </map>
+<map id="1879523682" name="TBD - MISSION CRYPT" imageId="1093080769">
+<geo factor="600.0">
+<point longitude="-144.8" latitude="76.125"/>
+</geo>
+<min longitude="-144.8" latitude="73.125"/>
+<max longitude="-140.8" latitude="76.125"/>
+</map>
+<map id="1879523712" name="TBD - MISSION WATERWORKS" imageId="1093080796">
+<geo factor="720.0">
+<point longitude="-143.61111" latitude="75.35834"/>
+</geo>
+<min longitude="-143.61111" latitude="73.69167"/>
+<max longitude="-141.38889" latitude="75.35834"/>
+</map>
 </maps>
