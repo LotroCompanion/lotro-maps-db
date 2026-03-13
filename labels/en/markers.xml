@@ -5012,6 +5012,7 @@
 <label key="1879090958" value="Fallen Ranger"/>
 <label key="1879090959" value="Fallen Ranger"/>
 <label key="1879090960" value="Angmarim Corpse"/>
+<label key="1879090961" value=""/>
 <label key="1879090962" value="Crates of Supplies"/>
 <label key="1879090963" value="Crates of Supplies"/>
 <label key="1879090964" value="Crates of Supplies"/>
@@ -18929,6 +18930,8 @@
 <label key="1879264655" value="Teleport Inside"/>
 <label key="1879264656" value="A Vivid Memory"/>
 <label key="1879264657" value="Teleport Outside"/>
+<label key="1879264881" value=""/>
+<label key="1879264882" value=""/>
 <label key="1879264994" value="Ice Shard"/>
 <label key="1879264996" value="Frozen Critter"/>
 <label key="1879264997" value="Wilsig's Memorial Flame"/>
@@ -21231,6 +21234,7 @@
 <label key="1879303755" value="Radanir"/>
 <label key="1879303756" value="Merry"/>
 <label key="1879303757" value="Éomer"/>
+<label key="1879303758" value=""/>
 <label key="1879303759" value="Calenglad"/>
 <label key="1879303760" value="Halbarad"/>
 <label key="1879303761" value="Golodir"/>
@@ -47340,7 +47344,7 @@
 <label key="1879508896" value="Mizâdi"/>
 <label key="1879508897" value="Mashûmi"/>
 <label key="1879508898" value="Oren"/>
-<label key="1879508899" value="Khârmab"/>
+<label key="1879508899" value="Traveller"/>
 <label key="1879508900" value="Mysterious Spirit"/>
 <label key="1879508901" value="Nirjára Bóro"/>
 <label key="1879508902" value="Oren"/>
@@ -47596,7 +47600,6 @@
 <label key="1879509600" value="Onabóha"/>
 <label key="1879509601" value="Dân Shatagan"/>
 <label key="1879509602" value="Sul Madásh"/>
-<label key="1879509618" value="Blood Storm"/>
 <label key="1879509619" value="Eye of the Storm"/>
 <label key="1879509648" value="DNT - Remove Nightfall"/>
 <label key="1879509649" value="Nightfall"/>
@@ -47861,13 +47864,17 @@
 <label key="1879512658" value="Stinging Guardian Bee"/>
 <label key="1879512659" value="Serrated Corpse-fly"/>
 <label key="1879512660" value="Stinging Marsh-fly"/>
+<label key="1879512661" value="Kighân Cutthroat"/>
 <label key="1879512662" value="Tarsâri Butcher"/>
 <label key="1879512664" value="Tarsâri Shrouded One"/>
 <label key="1879512665" value="Kighân Captain"/>
 <label key="1879512666" value="Cutthroat Cutpurse"/>
+<label key="1879512667" value="Kighân Marksman"/>
 <label key="1879512668" value="Kighân Marksman"/>
 <label key="1879512669" value="Ordâkhai Deserter"/>
 <label key="1879512670" value="Dead-eye Outlaw"/>
+<label key="1879512671" value="Kighân Rat-keeper"/>
+<label key="1879512672" value="Kighân Captain"/>
 <label key="1879512673" value="Idagâl Marksman"/>
 <label key="1879512674" value="Idagâl Robber"/>
 <label key="1879512675" value="Kighân Cutthroat"/>
@@ -47880,6 +47887,7 @@
 <label key="1879512682" value="Azâbira"/>
 <label key="1879512683" value="Tarsâri Operative"/>
 <label key="1879512684" value="Kighân Rat-keeper"/>
+<label key="1879512685" value="Kighân Tough"/>
 <label key="1879512686" value="Idagâl Rat-keeper"/>
 <label key="1879512687" value="Tarsâri Rogue"/>
 <label key="1879512688" value="Idagâl Cutthroat"/>
@@ -49366,7 +49374,7 @@
 <label key="1879523285" value="Zizanu Burrower"/>
 <label key="1879523286" value="Enraged Hatokáli Ox"/>
 <label key="1879523287" value="Plan For Scorpions"/>
-<label key="1879523288" value="TBD"/>
+<label key="1879523288" value="Rhudamer Hirtul"/>
 <label key="1879523292" value="Ordâkhai Look-out"/>
 <label key="1879523294" value="Hatokáli Mauler"/>
 <label key="1879523297" value="Hatokáli Skulker"/>
@@ -49394,7 +49402,6 @@
 <label key="1879523357" value="Ordâkhai Sorceress"/>
 <label key="1879523372" value="Craven Ordâkhai"/>
 <label key="1879523621" value="DNT - Darkness Phase Remove Effects"/>
-<label key="1879523696" value="DNT - Spring Music"/>
 <label key="1879523700" value="The Farings of Kábuzar, Vol II"/>
 <label key="1879523702" value="Blinding Flash"/>
 <label key="1879523708" value="Shielding Volatile Spores"/>
@@ -49402,4 +49409,9 @@
 <label key="1879523969" value="Morroval Assassin"/>
 <label key="1879523974" value="Morroval Stalker"/>
 <label key="1879523982" value="Combat"/>
+<label key="1879524109" value="Tarsâri Shrouded One"/>
+<label key="1879524110" value="Tarsâri Shrouded One"/>
+<label key="1879524112" value="Terrifying 'Chicken'"/>
+<label key="1879524152" value="GNDN"/>
+<label key="1879524156" value="GNDN"/>
 </labels>
