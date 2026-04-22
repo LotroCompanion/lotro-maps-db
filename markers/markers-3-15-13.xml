@@ -316,7 +316,7 @@
 <marker id="1071428006" label="Giant Powder Cask" category="100" did="1879328354" parentZoneId="1879328273" longitude="53.968513" latitude="49.851677"/>
 <marker id="1071428007" label="Door" category="48" did="1879329225" parentZoneId="1879328273" longitude="54.490036" latitude="50.01697"/>
 <marker id="1071428008" label="Lady Raenemel" category="70" did="1879329348" parentZoneId="1879328273" longitude="55.077168" latitude="50.307755"/>
-<marker id="1071428009" label="Door" category="100" did="1879328993" parentZoneId="1879328273" longitude="54.490234" latitude="50.01697"/>
+<marker id="1071428009" label="Door" category="100" did="1879328993" parentZoneId="1879328273" longitude="54.490116" latitude="50.01697"/>
 <marker id="1071428010" label="Morgul Sentry" category="71" did="1879327664" parentZoneId="1879328273" longitude="54.799805" latitude="50.13461"/>
 <marker id="1071428011" label="Morgul Sentry" category="71" did="1879327664" parentZoneId="1879328273" longitude="55.13801" latitude="50.28316"/>
 <marker id="1071428012" label="Morgul Sentry" category="71" did="1879327664" parentZoneId="1879328273" longitude="54.792187" latitude="50.135723"/>
@@ -1210,29 +1210,29 @@
 <marker id="1071566854" label="Duinhir's Notes" category="73" did="1879308448" parentZoneId="1879310194" longitude="56.407734" latitude="52.475624"/>
 <marker id="1071566856" label="Rosfin" category="70" did="1879313688" parentZoneId="1879310194" longitude="56.415684" latitude="52.480408"/>
 <marker id="1071566858" label="Malthellam" category="70" did="1879309889" parentZoneId="1879310194" longitude="56.37945" latitude="52.45414"/>
-<marker id="1071575040" label="Legendary Recipes&#10;Cook's Guild" category="33" did="1879313720" parentZoneId="1879310197" longitude="56.53082" latitude="53.823807"/>
-<marker id="1071575041" label="Guild Leader&#10;Cook's Guild" category="58" did="1879313717" parentZoneId="1879310197" longitude="56.53582" latitude="53.8309"/>
-<marker id="1071575042" label="Improved Recipes&#10;Cook's Guild" category="33" did="1879313714" parentZoneId="1879310197" longitude="56.521973" latitude="53.8275"/>
-<marker id="1071575043" label="Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879313727" parentZoneId="1879310197" longitude="56.42994" latitude="53.815174"/>
-<marker id="1071575044" label="Guild Leader&#10;Jeweller's Guild" category="58" did="1879313729" parentZoneId="1879310197" longitude="56.42068" latitude="53.827362"/>
-<marker id="1071575045" label="Improved Recipes&#10;Jeweller's Guild" category="33" did="1879313732" parentZoneId="1879310197" longitude="56.423553" latitude="53.817226"/>
-<marker id="1071575046" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879313716" parentZoneId="1879310197" longitude="56.41797" latitude="54.15906"/>
-<marker id="1071575047" label="Guild Leader&#10;Metalsmith's Guild" category="58" did="1879313723" parentZoneId="1879310197" longitude="56.42545" latitude="54.154373"/>
-<marker id="1071575048" label="Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879313722" parentZoneId="1879310197" longitude="56.401505" latitude="54.151073"/>
-<marker id="1071575049" label="Legendary Recipes&#10;Scholar's Guild" category="33" did="1879313713" parentZoneId="1879310197" longitude="56.759197" latitude="53.97834"/>
-<marker id="1071575050" label="Guild Leader&#10;Scholar's Guild" category="58" did="1879313728" parentZoneId="1879310197" longitude="56.75166" latitude="53.983536"/>
-<marker id="1071575051" label="Improved Recipes&#10;Scholar's Guild" category="33" did="1879313715" parentZoneId="1879310197" longitude="56.75084" latitude="53.975117"/>
-<marker id="1071575052" label="Legendary Recipes&#10;Tailor's Guild" category="33" did="1879313719" parentZoneId="1879310197" longitude="56.64631" latitude="54.1516"/>
-<marker id="1071575053" label="Guild Leader&#10;Tailor's Guild" category="58" did="1879313712" parentZoneId="1879310197" longitude="56.640915" latitude="54.157852"/>
-<marker id="1071575054" label="Improved Recipes&#10;Tailor's Guild" category="33" did="1879313725" parentZoneId="1879310197" longitude="56.63545" latitude="54.1516"/>
-<marker id="1071575055" label="Legendary Recipes&#10;Weaponsmith's Guild" category="33" did="1879313721" parentZoneId="1879310197" longitude="56.523438" latitude="54.151913"/>
-<marker id="1071575056" label="Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879313718" parentZoneId="1879310197" longitude="56.50506" latitude="54.1558"/>
-<marker id="1071575057" label="Improved Recipes&#10;Weaponsmith's Guild" category="33" did="1879313726" parentZoneId="1879310197" longitude="56.510567" latitude="54.148575"/>
-<marker id="1071575058" label="Legendary Recipes&#10;Woodworker's Guild" category="33" did="1879313730" parentZoneId="1879310197" longitude="56.629044" latitude="53.817947"/>
-<marker id="1071575059" label="Guild Leader&#10;Woodworker's Guild" category="58" did="1879313724" parentZoneId="1879310197" longitude="56.62619" latitude="53.82551"/>
-<marker id="1071575060" label="Improved Recipes&#10;Woodworker's Guild" category="33" did="1879313731" parentZoneId="1879310197" longitude="56.621384" latitude="53.819763"/>
-<marker id="1071575061" label="Study" category="45" did="1879314747" parentZoneId="1879310197" longitude="56.539978" latitude="54.047695"/>
-<marker id="1071575062" label="Study" category="45" did="1879314747" parentZoneId="1879310197" longitude="56.539978" latitude="53.931953"/>
+<marker id="1071575040" label="Improved Recipes&#10;Weaponsmith's Guild" category="33" did="1879313726" parentZoneId="1879310197" longitude="56.510567" latitude="54.148575"/>
+<marker id="1071575041" label="Legendary Recipes&#10;Woodworker's Guild" category="33" did="1879313730" parentZoneId="1879310197" longitude="56.629044" latitude="53.817947"/>
+<marker id="1071575042" label="Guild Leader&#10;Woodworker's Guild" category="58" did="1879313724" parentZoneId="1879310197" longitude="56.62619" latitude="53.82551"/>
+<marker id="1071575043" label="Improved Recipes&#10;Woodworker's Guild" category="33" did="1879313731" parentZoneId="1879310197" longitude="56.621384" latitude="53.819763"/>
+<marker id="1071575044" label="Study" category="45" did="1879314747" parentZoneId="1879310197" longitude="56.539978" latitude="54.047695"/>
+<marker id="1071575045" label="Study" category="45" did="1879314747" parentZoneId="1879310197" longitude="56.539978" latitude="53.931953"/>
+<marker id="1071575046" label="Legendary Recipes&#10;Cook's Guild" category="33" did="1879313720" parentZoneId="1879310197" longitude="56.53082" latitude="53.823807"/>
+<marker id="1071575047" label="Guild Leader&#10;Cook's Guild" category="58" did="1879313717" parentZoneId="1879310197" longitude="56.53582" latitude="53.8309"/>
+<marker id="1071575048" label="Improved Recipes&#10;Cook's Guild" category="33" did="1879313714" parentZoneId="1879310197" longitude="56.521973" latitude="53.8275"/>
+<marker id="1071575049" label="Legendary Recipes&#10;Jeweller's Guild" category="33" did="1879313727" parentZoneId="1879310197" longitude="56.42994" latitude="53.815174"/>
+<marker id="1071575050" label="Guild Leader&#10;Jeweller's Guild" category="58" did="1879313729" parentZoneId="1879310197" longitude="56.42068" latitude="53.827362"/>
+<marker id="1071575051" label="Improved Recipes&#10;Jeweller's Guild" category="33" did="1879313732" parentZoneId="1879310197" longitude="56.423553" latitude="53.817226"/>
+<marker id="1071575052" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879313716" parentZoneId="1879310197" longitude="56.41797" latitude="54.15906"/>
+<marker id="1071575053" label="Guild Leader&#10;Metalsmith's Guild" category="58" did="1879313723" parentZoneId="1879310197" longitude="56.42545" latitude="54.154373"/>
+<marker id="1071575054" label="Improved Recipes&#10;Metalsmith's Guild" category="33" did="1879313722" parentZoneId="1879310197" longitude="56.401505" latitude="54.151073"/>
+<marker id="1071575055" label="Legendary Recipes&#10;Scholar's Guild" category="33" did="1879313713" parentZoneId="1879310197" longitude="56.759197" latitude="53.97834"/>
+<marker id="1071575056" label="Guild Leader&#10;Scholar's Guild" category="58" did="1879313728" parentZoneId="1879310197" longitude="56.75166" latitude="53.983536"/>
+<marker id="1071575057" label="Improved Recipes&#10;Scholar's Guild" category="33" did="1879313715" parentZoneId="1879310197" longitude="56.75084" latitude="53.975117"/>
+<marker id="1071575058" label="Legendary Recipes&#10;Tailor's Guild" category="33" did="1879313719" parentZoneId="1879310197" longitude="56.64631" latitude="54.1516"/>
+<marker id="1071575059" label="Guild Leader&#10;Tailor's Guild" category="58" did="1879313712" parentZoneId="1879310197" longitude="56.640915" latitude="54.157852"/>
+<marker id="1071575060" label="Improved Recipes&#10;Tailor's Guild" category="33" did="1879313725" parentZoneId="1879310197" longitude="56.63545" latitude="54.1516"/>
+<marker id="1071575061" label="Legendary Recipes&#10;Weaponsmith's Guild" category="33" did="1879313721" parentZoneId="1879310197" longitude="56.523438" latitude="54.151913"/>
+<marker id="1071575062" label="Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879313718" parentZoneId="1879310197" longitude="56.50506" latitude="54.1558"/>
 <marker id="1071575071" label="Door" category="100" did="1879157895" parentZoneId="1879310197" longitude="56.194042" latitude="53.990524"/>
 <marker id="1071575074" label="" category="70" did="1879313180" parentZoneId="1879310197" longitude="56.539883" latitude="54.31088"/>
 <marker id="1071575075" label="" category="70" did="1879313180" parentZoneId="1879310197" longitude="56.637188" latitude="53.9891"/>

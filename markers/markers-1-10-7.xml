@@ -12041,38 +12041,42 @@
 <marker id="444366864" label="Workbench" category="45" did="1879063072" parentZoneId="1879501361" longitude="-8.948144" latitude="-28.26587"/>
 <marker id="444366865" label="Forge" category="45" did="1879085254" parentZoneId="1879501361" longitude="-8.96876" latitude="-28.235703"/>
 <marker id="444366866" label="Mailbox" category="34" did="1879084181" parentZoneId="1879501361" longitude="-8.873809" latitude="-27.998505"/>
-<marker id="444366868" label="141 - 150 Umbari" category="70" did="1879475222" parentZoneId="1879501361" longitude="-8.810732" latitude="-27.844257"/>
-<marker id="444366869" label="Task Board" category="27" did="1879442462" parentZoneId="1879501361" longitude="-8.820087" latitude="-27.851522"/>
-<marker id="444366870" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879501361" longitude="-8.813769" latitude="-27.848495"/>
-<marker id="444366871" label="121-130" category="70" did="1879396434" parentZoneId="1879501361" longitude="-8.815801" latitude="-27.84828"/>
-<marker id="444366872" label="Auctioneer" category="53" did="1879084240" parentZoneId="1879501361" longitude="-8.892695" latitude="-27.923985"/>
-<marker id="444366873" label="Vault-keeper" category="40" did="1879063817" parentZoneId="1879501361" longitude="-8.909433" latitude="-28.04208"/>
-<marker id="444366874" label="101-110" category="70" did="1879332162" parentZoneId="1879501361" longitude="-8.819981" latitude="-27.85167"/>
-<marker id="444366876" label="111-120" category="70" did="1879378497" parentZoneId="1879501361" longitude="-8.818799" latitude="-27.850702"/>
-<marker id="444366877" label="131 - 140" category="70" did="1879482984" parentZoneId="1879501361" longitude="-8.81373" latitude="-27.846903"/>
-<marker id="444366879" label="Healer" category="38" did="1879222903" parentZoneId="1879501361" longitude="-8.883447" latitude="-27.94003"/>
-<marker id="444366880" label="Provisioner" category="38" did="1879222922" parentZoneId="1879501361" longitude="-8.93874" latitude="-28.237333"/>
-<marker id="444366881" label="Supplier" category="38" did="1879222931" parentZoneId="1879501361" longitude="-8.98455" latitude="-28.215458"/>
-<marker id="444366882" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879501361" longitude="-8.831406" latitude="-27.861025"/>
-<marker id="444366883" label="21-30" category="70" did="1879330588" parentZoneId="1879501361" longitude="-8.823876" latitude="-27.854834"/>
-<marker id="444366884" label="31-40" category="70" did="1879330589" parentZoneId="1879501361" longitude="-8.826211" latitude="-27.856728"/>
-<marker id="444366885" label="91-100" category="70" did="1879330590" parentZoneId="1879501361" longitude="-8.821191" latitude="-27.852646"/>
-<marker id="444366886" label="51-60" category="70" did="1879330591" parentZoneId="1879501361" longitude="-8.823896" latitude="-27.854843"/>
-<marker id="444366887" label="0-10" category="70" did="1879330586" parentZoneId="1879501361" longitude="-8.826377" latitude="-27.856855"/>
-<marker id="444366888" label="11-20" category="70" did="1879330587" parentZoneId="1879501361" longitude="-8.825" latitude="-27.855742"/>
-<marker id="444366889" label="41-50" category="70" did="1879330592" parentZoneId="1879501361" longitude="-8.825058" latitude="-27.855791"/>
-<marker id="444366890" label="61-70" category="70" did="1879330593" parentZoneId="1879501361" longitude="-8.821094" latitude="-27.852577"/>
-<marker id="444366891" label="71-80" category="70" did="1879330594" parentZoneId="1879501361" longitude="-8.81997" latitude="-27.85166"/>
-<marker id="444366892" label="81-90" category="70" did="1879330595" parentZoneId="1879501361" longitude="-8.818887" latitude="-27.85078"/>
-<marker id="444366893" label="Forge-master" category="29" did="1879520196" parentZoneId="1879501361" longitude="-8.96917" latitude="-28.248886"/>
-<marker id="444366894" label="Housing Furnisher" category="38" did="1879520195" parentZoneId="1879501361" longitude="-8.900869" latitude="-28.054804"/>
-<marker id="444366895" label="141 - 150 Ikorbâni" category="70" did="1879498719" parentZoneId="1879501361" longitude="-8.808525" latitude="-27.842733"/>
-<marker id="444366897" label="141 - 150 Adúrhid" category="70" did="1879498720" parentZoneId="1879501361" longitude="-8.809912" latitude="-27.843788"/>
-<marker id="444366898" label="141 - 150 Phetekâri" category="70" did="1879498721" parentZoneId="1879501361" longitude="-8.808154" latitude="-27.84248"/>
-<marker id="444367384" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879501361" longitude="-8.82417" latitude="-27.856934"/>
-<marker id="444367388" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879501361" longitude="-8.819062" latitude="-27.852793"/>
-<marker id="444367412" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879501361" longitude="-8.808877" latitude="-27.84453"/>
-<marker id="444367414" label="Hirthamel&#10;Rivendell Housing Broker" category="38" did="1879519235" parentZoneId="1879501361" longitude="-8.81042" latitude="-28.34658"/>
+<marker id="444366868" label="141 - 150 Umbari" category="70" did="1879475222" parentZoneId="1879501361" longitude="-8.814697" latitude="-27.84747"/>
+<marker id="444366869" label="151 - 160 Kintai of Sul Madásh" category="70" did="1879510039" parentZoneId="1879501361" longitude="-8.810459" latitude="-27.843945"/>
+<marker id="444366870" label="151 - 160 Hamât Renewed" category="70" did="1879510037" parentZoneId="1879501361" longitude="-8.809365" latitude="-27.843046"/>
+<marker id="444366871" label="Task Board" category="27" did="1879442462" parentZoneId="1879501361" longitude="-8.820087" latitude="-27.851522"/>
+<marker id="444366872" label="151 - 160 Temámir" category="70" did="1879510041" parentZoneId="1879501361" longitude="-8.809336" latitude="-27.843027"/>
+<marker id="444366873" label="151 - 160 Zajâna" category="70" did="1879510040" parentZoneId="1879501361" longitude="-8.810556" latitude="-27.844072"/>
+<marker id="444366874" label="Task Collection Box" category="70" did="1879396435" parentZoneId="1879501361" longitude="-8.813769" latitude="-27.848495"/>
+<marker id="444366875" label="121-130" category="70" did="1879396434" parentZoneId="1879501361" longitude="-8.815879" latitude="-27.84834"/>
+<marker id="444366876" label="Auctioneer" category="53" did="1879084240" parentZoneId="1879501361" longitude="-8.892695" latitude="-27.923985"/>
+<marker id="444366877" label="Vault-keeper" category="40" did="1879063817" parentZoneId="1879501361" longitude="-8.909433" latitude="-28.04208"/>
+<marker id="444366878" label="101-110" category="70" did="1879332162" parentZoneId="1879501361" longitude="-8.819981" latitude="-27.85167"/>
+<marker id="444366880" label="111-120" category="70" did="1879378497" parentZoneId="1879501361" longitude="-8.818799" latitude="-27.850702"/>
+<marker id="444366881" label="131 - 140" category="70" did="1879482984" parentZoneId="1879501361" longitude="-8.815635" latitude="-27.848436"/>
+<marker id="444366883" label="Healer" category="38" did="1879222903" parentZoneId="1879501361" longitude="-8.883447" latitude="-27.94003"/>
+<marker id="444366884" label="Provisioner" category="38" did="1879222922" parentZoneId="1879501361" longitude="-8.93874" latitude="-28.237333"/>
+<marker id="444366885" label="Supplier" category="38" did="1879222931" parentZoneId="1879501361" longitude="-8.98455" latitude="-28.215458"/>
+<marker id="444366886" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879501361" longitude="-8.831406" latitude="-27.861025"/>
+<marker id="444366887" label="21-30" category="70" did="1879330588" parentZoneId="1879501361" longitude="-8.823876" latitude="-27.854834"/>
+<marker id="444366888" label="31-40" category="70" did="1879330589" parentZoneId="1879501361" longitude="-8.826211" latitude="-27.856728"/>
+<marker id="444366889" label="91-100" category="70" did="1879330590" parentZoneId="1879501361" longitude="-8.821191" latitude="-27.852646"/>
+<marker id="444366890" label="51-60" category="70" did="1879330591" parentZoneId="1879501361" longitude="-8.823896" latitude="-27.854843"/>
+<marker id="444366891" label="0-10" category="70" did="1879330586" parentZoneId="1879501361" longitude="-8.826377" latitude="-27.856855"/>
+<marker id="444366892" label="11-20" category="70" did="1879330587" parentZoneId="1879501361" longitude="-8.825" latitude="-27.855742"/>
+<marker id="444366893" label="41-50" category="70" did="1879330592" parentZoneId="1879501361" longitude="-8.825058" latitude="-27.855791"/>
+<marker id="444366894" label="61-70" category="70" did="1879330593" parentZoneId="1879501361" longitude="-8.821094" latitude="-27.852577"/>
+<marker id="444366895" label="71-80" category="70" did="1879330594" parentZoneId="1879501361" longitude="-8.81997" latitude="-27.85166"/>
+<marker id="444366896" label="81-90" category="70" did="1879330595" parentZoneId="1879501361" longitude="-8.818887" latitude="-27.85078"/>
+<marker id="444366897" label="Forge-master" category="29" did="1879520196" parentZoneId="1879501361" longitude="-8.96917" latitude="-28.248886"/>
+<marker id="444366898" label="Housing Furnisher" category="38" did="1879520195" parentZoneId="1879501361" longitude="-8.900869" latitude="-28.054804"/>
+<marker id="444366899" label="141 - 150 Ikorbâni" category="70" did="1879498719" parentZoneId="1879501361" longitude="-8.813506" latitude="-27.846777"/>
+<marker id="444366901" label="141 - 150 Adúrhid" category="70" did="1879498720" parentZoneId="1879501361" longitude="-8.814511" latitude="-27.847519"/>
+<marker id="444366902" label="141 - 150 Phetekâri" category="70" did="1879498721" parentZoneId="1879501361" longitude="-8.812871" latitude="-27.846308"/>
+<marker id="444367388" label="Task Collection Box" category="70" did="1879233909" parentZoneId="1879501361" longitude="-8.82417" latitude="-27.856934"/>
+<marker id="444367392" label="Task Collection Box" category="70" did="1879366262" parentZoneId="1879501361" longitude="-8.819062" latitude="-27.852793"/>
+<marker id="444367416" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879501361" longitude="-8.808877" latitude="-27.84453"/>
+<marker id="444367418" label="Hirthamel&#10;Rivendell Housing Broker" category="38" did="1879519235" parentZoneId="1879501361" longitude="-8.81042" latitude="-28.34658"/>
 <marker id="444370944" label="Door" category="100" did="1879063389" parentZoneId="1879501361" longitude="-8.760772" latitude="-27.475058"/>
 <marker id="444370945" label="Mailbox" category="73" did="1879101650" parentZoneId="1879501361" longitude="-8.783643" latitude="-27.466776"/>
 <marker id="444370946" label="Doormat" category="100" did="1879338342" parentZoneId="1879501361" longitude="-8.761104" latitude="-27.467646"/>

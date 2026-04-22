@@ -1718,7 +1718,7 @@
 <label key="1879072352" value="Häuptling Shatog"/>
 <label key="1879072353" value="Häuptling Grazthluk"/>
 <label key="1879072354" value="Häuptling Gukhnúrz"/>
-<label key="1879072357" value="Tyrann Tharbîl"/>
+<label key="1879072357" value="Geist der Rache"/>
 <label key="1879072358" value="Tyrann Barashish"/>
 <label key="1879072359" value="Tyrann Gundzor"/>
 <label key="1879072360" value="Tyrann Bûrzgoth"/>
@@ -26319,6 +26319,7 @@
 <label key="1879340545" value="Glitschiger Boden"/>
 <label key="1879340565" value="Berittener Kampf erlaubt"/>
 <label key="1879340840" value="Ereblen"/>
+<label key="1879341014" value="Kaltfelsen-Leutnant"/>
 <label key="1879341017" value="Tordoron"/>
 <label key="1879341018" value="Mablung"/>
 <label key="1879341019" value="Arodor"/>
@@ -30277,6 +30278,10 @@
 <label key="1879376337" value="Feuerdrache"/>
 <label key="1879376338" value="Gundabad-Krieger"/>
 <label key="1879376339" value="Feuerwurm"/>
+<label key="1879376358" value="Malembor"/>
+<label key="1879376359" value="Iachador"/>
+<label key="1879376360" value="Gúrhardron"/>
+<label key="1879376361" value="Raingorth"/>
 <label key="1879376364" value="Spall"/>
 <label key="1879376427" value="Skoghús"/>
 <label key="1879376428" value="Furuk-mekhem, das Südtor"/>
@@ -44281,6 +44286,7 @@
 <label key="1879485126" value="Khôltekh der Verschlagene"/>
 <label key="1879485127" value="Spinnenopfer"/>
 <label key="1879485133" value="Hírkha"/>
+<label key="1879485147" value="Fallgitter"/>
 <label key="1879485150" value="Wache"/>
 <label key="1879485151" value="Ehrenwache"/>
 <label key="1879485158" value="Deckaufseher"/>
@@ -44300,6 +44306,7 @@
 <label key="1879485296" value="Hamster"/>
 <label key="1879485297" value="Hamster"/>
 <label key="1879485299" value="Hamster"/>
+<label key="1879485300" value="Hamster"/>
 <label key="1879485301" value="Igel"/>
 <label key="1879485356" value="Iskánta-Denkmal"/>
 <label key="1879485422" value="Bereich für Essen"/>
@@ -47241,7 +47248,6 @@
 <label key="1879507420" value="Vorratskiste der Korsaren"/>
 <label key="1879507421" value="Narghâk-Siphon"/>
 <label key="1879507431" value="Seuchenkapsel"/>
-<label key="1879507581" value="GNDN"/>
 <label key="1879507597" value="Truhe der Verstrickerin (Solo)"/>
 <label key="1879507598" value="Truhe der Verstrickerin (Stufe 2)"/>
 <label key="1879507599" value="Truhe der Verstrickerin (Stufe 3)"/>
@@ -47502,7 +47508,6 @@
 <label key="1879509276" value="Bereich für Wasser"/>
 <label key="1879509277" value="Frischer Grasfleck"/>
 <label key="1879509278" value="Hinweis"/>
-<label key="1879509279" value="Laugengetränktes Grab"/>
 <label key="1879509280" value="Azagâya-Beweis"/>
 <label key="1879509281" value="Eintopfkessel"/>
 <label key="1879509282" value="Buch über Feuer"/>
@@ -47723,6 +47728,10 @@
 <label key="1879510033" value="Kommandeurin Mornang"/>
 <label key="1879510034" value="Cristhir Nachtschatten"/>
 <label key="1879510036" value="Auftragstafel von Zajâna"/>
+<label key="1879510037" value="151-160 Das Erneuerte Hamât"/>
+<label key="1879510039" value="151-160 Kintai von Sul Madásh"/>
+<label key="1879510040" value="151-160 Zajâna"/>
+<label key="1879510041" value="151-160 Temámir"/>
 <label key="1879510042" value="Auftragstafel der Kintai von Sul Madásh"/>
 <label key="1879510043" value="Auftragstafel des Erneuerten Hamât"/>
 <label key="1879510044" value="Auftragstafel der Temámir"/>
@@ -47997,7 +48006,7 @@
 <label key="1879512817" value="Têzdab der Fleischer"/>
 <label key="1879512820" value="Újumai, Meister der Beben"/>
 <label key="1879512821" value="Fer-nefâsi"/>
-<label key="1879512822" value="Grässlicher Zwergenunhold"/>
+<label key="1879512822" value="Grässlicher Zwergen-Unhold"/>
 <label key="1879512824" value="Surnamêsh"/>
 <label key="1879512825" value="Sâdikiz der Himmelshungrige"/>
 <label key="1879512827" value="Kighân-Schakal"/>
@@ -49130,7 +49139,6 @@
 <label key="1879521080" value="Gehärtetes Tor"/>
 <label key="1879521211" value="GNDN"/>
 <label key="1879521223" value="GNDN"/>
-<label key="1879521236" value="Narzissentage-Banner"/>
 <label key="1879521237" value="Pflanztopf"/>
 <label key="1879521238" value="Eine gute Stelle für ein Banner"/>
 <label key="1879521239" value="Narzissen"/>
@@ -49146,20 +49154,16 @@
 <label key="1879521624" value="Flötistin"/>
 <label key="1879521625" value="Trommlerin"/>
 <label key="1879521626" value="Welduth Lhush"/>
-<label key="1879521633" value="Karte nach Clegur"/>
 <label key="1879521650" value="Bodhran"/>
 <label key="1879521651" value="Lauch"/>
 <label key="1879521652" value="Portioniertes Lammfleisch"/>
-<label key="1879521653" value="Liefert das Paket aus"/>
 <label key="1879521654" value="Begehrte Narzissenzwiebeln"/>
 <label key="1879521655" value="Kartoffeln"/>
 <label key="1879521656" value="Dudelsäcke"/>
 <label key="1879521657" value="Laute"/>
 <label key="1879521658" value="Fiedel"/>
-<label key="1879521659" value="Speckpastetenflugblatt"/>
 <label key="1879521660" value="Karotten"/>
 <label key="1879521672" value="Flöte"/>
-<label key="1879521722" value="Wassereimer"/>
 <label key="1879521732" value="Einrichtungshändler von Bruchtal"/>
 <label key="1879521736" value="Lhaereth die Befleckte"/>
 <label key="1879521737" value="Vor Fäulnis erstarrt"/>
@@ -49185,7 +49189,6 @@
 <label key="1879521869" value="Mûr-Ghala-Quartiermeister"/>
 <label key="1879521873" value="Wächter-Tauschhändlerin"/>
 <label key="1879522022" value="Eine gute Stelle für ein Banner"/>
-<label key="1879522023" value="Narzissentage-Banner"/>
 <label key="1879522273" value="GNDN"/>
 <label key="1879522291" value="Aufmüpfiger Jugendlicher"/>
 <label key="1879522292" value="Aufmüpfige Jugendliche"/>
@@ -49322,29 +49325,15 @@
 <label key="1879523008" value="Stallmeister"/>
 <label key="1879523009" value="Stallmeisterin"/>
 <label key="1879523013" value="Empfohlener Speer"/>
-<label key="1879523014" value="Zusammengestellte zerbrochene Schwerter"/>
-<label key="1879523015" value="Schlangenfleisch"/>
-<label key="1879523016" value="Frische Verbände"/>
-<label key="1879523017" value="Hulâdas Klinge"/>
 <label key="1879523018" value="Weggeworfener Beutel"/>
-<label key="1879523019" value="Ordâkhai-Schmuckstücke"/>
 <label key="1879523020" value="Zurückgelassenes Ordâkhai-Schwert"/>
 <label key="1879523021" value="Verband"/>
 <label key="1879523022" value="Essensbündel"/>
 <label key="1879523023" value="Ebnûrs Rechen"/>
 <label key="1879523024" value="Hanamíku-Schaufel"/>
-<label key="1879523025" value="Pasumíns altes Schwert"/>
-<label key="1879523026" value="Ordâkhai-Schwert"/>
 <label key="1879523027" value="Verbrannte Feldfrucht"/>
-<label key="1879523028" value="Verband"/>
-<label key="1879523029" value="Kishâtals zerbrochenes Schwert"/>
-<label key="1879523030" value="Sauberes Tuch"/>
 <label key="1879523031" value="Gestohlenes Getreide"/>
 <label key="1879523032" value="Provisorische Waffe"/>
-<label key="1879523033" value="Gestohlenes Andenken"/>
-<label key="1879523034" value="Alap-nâri-Fleisch"/>
-<label key="1879523035" value="Kalorkhûn-Fleisch"/>
-<label key="1879523036" value="Holzstab"/>
 <label key="1879523037" value="Abgebrochener Ast"/>
 <label key="1879523038" value="Uferschilfe"/>
 <label key="1879523039" value="Holz zum Schnitzen"/>
@@ -49352,55 +49341,73 @@
 <label key="1879523041" value="Empfohlene Axt"/>
 <label key="1879523042" value="Ebnûrs gestohlene Schaufel"/>
 <label key="1879523043" value="Ebnûrs Hacke"/>
-<label key="1879523044" value="Sammlung von Ordâkhai-Schmuckstücken"/>
 <label key="1879523045" value="Wasserglas"/>
 <label key="1879523046" value="Empfohlene Keule"/>
-<label key="1879523047" value="Rashlûts besondere Steine"/>
-<label key="1879523048" value="Hulûrmakhs Klinge"/>
-<label key="1879523049" value="Skorpionstachel"/>
-<label key="1879523050" value="Rashlûts besondere Steine"/>
-<label key="1879523051" value="Entfernter Edelstein"/>
 <label key="1879523099" value="Fäulnisverbreitende Fldermaus"/>
 <label key="1879523103" value="Fäulnisverbreitende Fldermaus"/>
 <label key="1879523146" value="Narzissenzwiebeln"/>
 <label key="1879523246" value="Troll-Brecher"/>
 <label key="1879523247" value="Troll-Zerstörerpilz"/>
+<label key="1879523267" value="Alap-nâri-Kuh"/>
 <label key="1879523268" value="Hatokáli-Riesenskorpion"/>
-<label key="1879523270" value="Hatokáli-Kuh"/>
+<label key="1879523269" value="Hatokáli-Schlange"/>
+<label key="1879523270" value="Alap-nâri-Kuh"/>
+<label key="1879523271" value="Agile Kalorkhûn"/>
+<label key="1879523272" value="Aggressive Kalorkhûn"/>
+<label key="1879523273" value="Alap-nâri-Ochse"/>
 <label key="1879523274" value="Zizanu-Königin"/>
-<label key="1879523278" value="Hatokáli-Ochse"/>
+<label key="1879523276" value="Hatokáli-Angreifer"/>
+<label key="1879523278" value="Alap-nâri-Ochse"/>
+<label key="1879523279" value="Hatokáli-Jägerskorpion"/>
 <label key="1879523280" value="Hatokáli-Jägerskorpion"/>
 <label key="1879523281" value="Beißender Zizanu"/>
 <label key="1879523284" value="Junger Hatokáli-Skorpion"/>
 <label key="1879523285" value="Zizanu-Gräber"/>
-<label key="1879523286" value="Wütender Hatokáli-Ochse"/>
-<label key="1879523287" value="Plan für Skorpione"/>
+<label key="1879523286" value="Wütender Alap-nâri-Ochse"/>
 <label key="1879523288" value="Rhudamer Hirtul"/>
 <label key="1879523292" value="Ordakh-Späherin"/>
 <label key="1879523294" value="Hatokáli-Schläger"/>
+<label key="1879523296" value="Ordakh-Zauberer"/>
 <label key="1879523297" value="Hatokáli-Schleicher"/>
 <label key="1879523298" value="Hatokáli-Fährtenleser"/>
+<label key="1879523299" value="Freibauer des Zweiten Zeitalters"/>
 <label key="1879523303" value="Ordakh-Waffenmeisterin"/>
 <label key="1879523305" value="Hatokáli-Nachzügler"/>
 <label key="1879523306" value="Hatokáli-Löwin"/>
+<label key="1879523307" value="Bauer des Zweiten Zeitalters"/>
 <label key="1879523308" value="Ordakh-Krieger"/>
 <label key="1879523310" value="Hatokáli-Scharfschütze"/>
 <label key="1879523312" value="Hatokáli-Aufseher"/>
+<label key="1879523313" value="Zwergenbergarbeiter des Zweiten Zeitalters"/>
 <label key="1879523315" value="Hatokáli-Rohling"/>
+<label key="1879523316" value="Ausgebildete Hatokáli-Pirscherin"/>
+<label key="1879523318" value="Hatokáli-Halsabschneider"/>
 <label key="1879523319" value="Ordakh-Zauberer"/>
 <label key="1879523320" value="Hatokáli-Wächter"/>
 <label key="1879523321" value="Ordâkhai Bóro"/>
 <label key="1879523322" value="Hatokáli-Zerstörer"/>
 <label key="1879523323" value="Ordakh-Späher"/>
 <label key="1879523325" value="Hatokáli-Werfer"/>
+<label key="1879523326" value="Hatokáli-Zerstörer"/>
 <label key="1879523328" value="Hatokáli-Halsabschneider"/>
 <label key="1879523329" value="Hatokáli-Aufseher"/>
 <label key="1879523331" value="Ordâkhai Bóro"/>
+<label key="1879523333" value="Hatokáli-Werfer"/>
 <label key="1879523336" value="Hatokáli-Löwe"/>
 <label key="1879523337" value="Hatokáli-Einschüchterer"/>
+<label key="1879523339" value="Neugieriger Falke"/>
+<label key="1879523341" value="Ordakh-Krieger"/>
+<label key="1879523344" value="Ordakh-Späherin"/>
+<label key="1879523348" value="Ausgebildeter Hatokáli-Zerfleischer"/>
 <label key="1879523350" value="Ordakh-Katzenhüter"/>
+<label key="1879523351" value="Bogenschütze des Zweiten Zeitalters"/>
+<label key="1879523354" value="Wachmann des Zweiten Zeitalters"/>
 <label key="1879523355" value="Hatokáli-Rattenhüter"/>
 <label key="1879523357" value="Ordakh-Zaubererin"/>
+<label key="1879523358" value="Hatokáli-Scharfschütze"/>
+<label key="1879523359" value="Blutverschmierter Falke"/>
+<label key="1879523360" value="Hauptmann des Zweiten Zeitalters"/>
+<label key="1879523361" value="Hatokáli-Rohling"/>
 <label key="1879523372" value="Ordâkhai-Hasenfuß"/>
 <label key="1879523621" value="DNT - Darkness Phase Remove Effects"/>
 <label key="1879523700" value="Kábuzars Erlebnisse, Band II"/>
@@ -49410,10 +49417,351 @@
 <label key="1879523969" value="Morroval-Assassine"/>
 <label key="1879523974" value="Morroval-Pirscherin"/>
 <label key="1879523982" value="Kampf"/>
+<label key="1879524003" value="Candaith"/>
+<label key="1879524004" value="Gildor Inglorion"/>
+<label key="1879524005" value="Cwendreda"/>
+<label key="1879524006" value="Mincham"/>
+<label key="1879524007" value="DNT Runaway Children"/>
+<label key="1879524008" value="Lädierte Schatulle"/>
+<label key="1879524009" value="Wertvolles Sammlerstück"/>
+<label key="1879524010" value="Candaiths Bogen"/>
+<label key="1879524011" value="Schreckliches Götzenbild"/>
 <label key="1879524109" value="Verhüllter Tarsâri"/>
 <label key="1879524110" value="Verhüllter Tarsâri"/>
 <label key="1879524112" value="Schreckhuhn"/>
+<label key="1879524113" value="Tarkrîp-Vergelter"/>
+<label key="1879524114" value="Aufmerksamer Weißhand"/>
+<label key="1879524115" value="Tarkrîp-Jäger"/>
+<label key="1879524116" value="Bogenschütze der Weißen Hand"/>
+<label key="1879524117" value="Kriegshäuptling der Weißen Hand"/>
+<label key="1879524118" value="Oberanführer Uzorr"/>
+<label key="1879524119" value="Soldat der Weißen Hand"/>
+<label key="1879524121" value="Gallespeier-Schütze"/>
+<label key="1879524122" value="Tödlicher Gallespeier"/>
+<label key="1879524123" value="Uralter Gallespeier"/>
+<label key="1879524124" value="Meister von Nan Dhelu"/>
+<label key="1879524125" value="Aridmanen-Beschützer"/>
+<label key="1879524126" value="Aridmanen-Kriegssänger"/>
+<label key="1879524127" value="Olnathron"/>
+<label key="1879524128" value="Eidbrecher-Anführer"/>
+<label key="1879524129" value="Verbrecherischer Eidbrecher"/>
+<label key="1879524130" value="Eidbrecher-Schütze"/>
+<label key="1879524131" value="Horror-Barghest"/>
+<label key="1879524132" value="Schreckens-Barghest"/>
+<label key="1879524133" value="Tarkrîp-Drescher"/>
+<label key="1879524134" value="Drukordh"/>
+<label key="1879524135" value="Brutaler Tarkrîp"/>
+<label key="1879524136" value="Widerlicher Tarkrîp"/>
+<label key="1879524137" value="Warg-Verwüster"/>
 <label key="1879524152" value="GNDN"/>
 <label key="1879524156" value="GNDN"/>
+<label key="1879524169" value="Shûmadir"/>
+<label key="1879524170" value="Pagru-kirít"/>
+<label key="1879524171" value="Aptíku"/>
+<label key="1879524172" value="Ukh-bâra"/>
+<label key="1879524173" value="Nar Makâru"/>
+<label key="1879524174" value="Kirzâmur"/>
+<label key="1879524175" value="Ingarûma"/>
+<label key="1879524176" value="Imizíla"/>
+<label key="1879524177" value="Mut-hûru"/>
+<label key="1879524178" value="Nakársong"/>
+<label key="1879524179" value="Sakhar Kishâsya"/>
+<label key="1879524180" value="Roz Káskrauz"/>
+<label key="1879524181" value="Kakidûr"/>
+<label key="1879524182" value="Bolo Thúki"/>
+<label key="1879524183" value="Mûl Erebu"/>
+<label key="1879524184" value="Hanamíku"/>
+<label key="1879524206" value="Tore von Eshkhâbul"/>
+<label key="1879524207" value="Bûlkharar"/>
+<label key="1879524208" value="Der Reißende Hatokáli"/>
+<label key="1879524209" value="Khabur Pâshu"/>
+<label key="1879524215" value="Bogenschütze der Weißen Hand"/>
+<label key="1879524272" value="Schatzspeicher der Hatokáli-Hügel"/>
+<label key="1879524273" value="Klakki"/>
+<label key="1879524282" value="GNDN"/>
+<label key="1879524420" value="Gloomfang"/>
+<label key="1879524421" value="Tarkrîp-Rudelmeister"/>
+<label key="1879524429" value="Verderbter Altar"/>
+<label key="1879524468" value="Takâltu Waffenscheide"/>
+<label key="1879524470" value="Khardâmu Blutschwur"/>
+<label key="1879524471" value="Kishâsu der Wissende"/>
+<label key="1879524473" value="Ushkudâsh"/>
+<label key="1879524474" value="Ushkudâsh"/>
+<label key="1879524475" value="Kishâsu der Wissende"/>
+<label key="1879524477" value="Khardâmu Blutschwur"/>
+<label key="1879524478" value="Takâltu Waffenscheide"/>
+<label key="1879524479" value="Takâltu Waffenscheide"/>
+<label key="1879524480" value="Takâltu Waffenscheide"/>
+<label key="1879524491" value="Belagerungsmaterialien"/>
+<label key="1879524492" value="Ordâkhai-Zelt"/>
+<label key="1879524494" value="Belagerungsmaterialien"/>
+<label key="1879524496" value="Eine Leere Kiste"/>
+<label key="1879524498" value="Gut gebaute Kiste"/>
+<label key="1879524500" value="Belagerungsmaterialien"/>
+<label key="1879524511" value="Stabiles Boot"/>
+<label key="1879524512" value="Gut gebaute Kiste"/>
+<label key="1879524514" value="Werkzeugständer"/>
+<label key="1879524516" value="Veredelte Bretter"/>
+<label key="1879524519" value="Hamâti-Kundschafter"/>
+<label key="1879524520" value="Kusâg"/>
+<label key="1879524521" value="Hamâti-Kundschafterin"/>
+<label key="1879524523" value="Ordâkhai Bóro"/>
+<label key="1879524524" value="Ordakh-Krieger"/>
+<label key="1879524525" value="Ordâkhai Bóro"/>
+<label key="1879524526" value="Ordâkhai-Verteidiger"/>
+<label key="1879524527" value="Ordâkhai Bóro"/>
+<label key="1879524528" value="Ródruho Dôlo"/>
+<label key="1879524530" value="Ordakh-Zauberer"/>
+<label key="1879524531" value="Ordâkhai-Abgesandter"/>
+<label key="1879524532" value="Utûgi-Nachzügler"/>
+<label key="1879524533" value="Ordakh-Krieger"/>
+<label key="1879524534" value="Ordâkhai-Katzenbändiger"/>
+<label key="1879524535" value="Khómabekh Dôlo"/>
+<label key="1879524536" value="Ordakh-Späher"/>
+<label key="1879524537" value="Ordakh-Zaubererin"/>
+<label key="1879524538" value="Ordakh-Zauberer"/>
+<label key="1879524539" value="Ordâkhai-Deserteur"/>
+<label key="1879524540" value="Ordâkhai Bóro"/>
+<label key="1879524541" value="Ordakh-Späherin"/>
+<label key="1879524542" value="Ordâkhai-Scharfschützin"/>
+<label key="1879524543" value="Ideale Stelle für Aufruf"/>
+<label key="1879524544" value="Gefangener Erntearbeiter"/>
+<label key="1879524546" value="Gefangene Baumeisterin"/>
+<label key="1879524548" value="Gefangener Baumeister"/>
+<label key="1879524549" value="Gefangene Erntearbeiterin"/>
+<label key="1879524570" value="Zaun"/>
+<label key="1879524612" value="Mervárth"/>
+<label key="1879524622" value="GNDN"/>
+<label key="1879524623" value="GNDN"/>
+<label key="1879524683" value="Alte Schatulle"/>
+<label key="1879524689" value="Bingo Boffin"/>
 <label key="1879524699" value="DNT - Remove Subdue"/>
+<label key="1879524700" value="Hatokáli-Halsabschneider"/>
+<label key="1879524701" value="Gestohlener Schatz"/>
+<label key="1879524702" value="Hatokáli-Aufseher"/>
+<label key="1879524703" value="Hatokáli-Rohling"/>
+<label key="1879524704" value="Hatokáli-Scharfschütze"/>
+<label key="1879524708" value="Khârdab"/>
+<label key="1879524709" value="Ikâru"/>
+<label key="1879524710" value="Sekhûr"/>
+<label key="1879524711" value="Pasumín"/>
+<label key="1879524712" value="Lakhêpi die Weitgereiste"/>
+<label key="1879524713" value="Hanamíku-Dorfbewohner"/>
+<label key="1879524714" value="Zíri"/>
+<label key="1879524715" value="Ikâru"/>
+<label key="1879524716" value="Sekhûr"/>
+<label key="1879524717" value="Tebût"/>
+<label key="1879524718" value="Tebût"/>
+<label key="1879524719" value="Hanamíku-Dorfbewohnerin"/>
+<label key="1879524722" value="Ordâkhai-Soldat"/>
+<label key="1879524723" value="Ordâkhai-Katzenmeister"/>
+<label key="1879524724" value="Ordakh-Späherin"/>
+<label key="1879524725" value="Wächter Khârdab"/>
+<label key="1879524726" value="Nakársong-Löwe"/>
+<label key="1879524728" value="Aptíku-Späher"/>
+<label key="1879524729" value="Aptíku-Raufbold"/>
+<label key="1879524743" value="Nushâbas Schleifstein"/>
+<label key="1879524744" value="Haufen von Tebíras Erz"/>
+<label key="1879524745" value="Numûrus Gedenkstein"/>
+<label key="1879524746" value="Stein zum Putzen"/>
+<label key="1879524747" value="Frische Schulterverbände"/>
+<label key="1879524748" value="Hatokáli-Erzvorkommen"/>
+<label key="1879524749" value="Klafter Holz"/>
+<label key="1879524750" value="Schössling für ein Reetdach"/>
+<label key="1879524751" value="Numûrus Blume"/>
+<label key="1879524752" value="Rüstungsöle"/>
+<label key="1879524753" value="Schlüssel zum Tor von Imizíla"/>
+<label key="1879524754" value="Schleifstein"/>
+<label key="1879524755" value="Wasserschlauch"/>
+<label key="1879524756" value="Fisch-Trockengestell"/>
+<label key="1879524757" value="Fass mit frischem Wasser"/>
+<label key="1879524758" value="Weinfass"/>
+<label key="1879524759" value="Numûrus Schwert"/>
+<label key="1879524760" value="Karte von Pahar Hatokáli"/>
+<label key="1879524761" value="Numûrus Rüstung"/>
+<label key="1879524762" value="Getreidesack"/>
+<label key="1879524763" value="Mizâdi"/>
+<label key="1879524764" value="Razâl"/>
+<label key="1879524765" value="Gíshu"/>
+<label key="1879524766" value="Mizâdi"/>
+<label key="1879524767" value="Razâl"/>
+<label key="1879524768" value="Mizâdi"/>
+<label key="1879524769" value="Kutímu"/>
+<label key="1879524770" value="Rahâzi"/>
+<label key="1879524771" value="Festgast"/>
+<label key="1879524772" value="Razâl"/>
+<label key="1879524773" value="Razâl"/>
+<label key="1879524775" value="Festgast"/>
+<label key="1879524776" value="Numûru"/>
+<label key="1879524777" value="Ishumâni"/>
+<label key="1879524778" value="Mizâdi"/>
+<label key="1879524779" value="Khónyo Bóro"/>
+<label key="1879524780" value="Mizâdi"/>
+<label key="1879524781" value="Rahâzi"/>
+<label key="1879524782" value="Mizâdi"/>
+<label key="1879524783" value="Schwächelnder Subuzûri"/>
+<label key="1879524784" value="Mizâdi"/>
+<label key="1879524785" value="Razâl"/>
+<label key="1879524786" value="Mizâdi"/>
+<label key="1879524787" value="Numûru"/>
+<label key="1879524788" value="Numûru"/>
+<label key="1879524789" value="Numûru"/>
+<label key="1879524790" value="Verwundete Subuzûri"/>
+<label key="1879524791" value="Mizâdi"/>
+<label key="1879524792" value="Schwächelnde Subuzûri"/>
+<label key="1879524793" value="Rahâzi"/>
+<label key="1879524794" value="Razâl"/>
+<label key="1879524795" value="Verwundete Subuzûri"/>
+<label key="1879524796" value="Numûru"/>
+<label key="1879524797" value="Razâl"/>
+<label key="1879524798" value="Numûru"/>
+<label key="1879524799" value="Razâl"/>
+<label key="1879524800" value="Mizâdi"/>
+<label key="1879524801" value="Razâl"/>
+<label key="1879524802" value="Rahâzi"/>
+<label key="1879524803" value="Shâgigal Hieltsilber"/>
+<label key="1879524804" value="Übereifriger Festgänger"/>
+<label key="1879524805" value="Numûru"/>
+<label key="1879524806" value="Verwundete Subuzûri"/>
+<label key="1879524807" value="Unagâr"/>
+<label key="1879524808" value="Verwundete Subuzûri"/>
+<label key="1879524809" value="Übereifrige Festgängerin"/>
+<label key="1879524810" value="Razâl"/>
+<label key="1879524811" value="Mizâdi"/>
+<label key="1879524812" value="Zâgsha"/>
+<label key="1879524813" value="Tebíra"/>
+<label key="1879524814" value="Nushâba"/>
+<label key="1879524820" value="Khardâmus Truhe (Solo)"/>
+<label key="1879524821" value="Kishâsus Truhe (Stufe 1)"/>
+<label key="1879524822" value="Ushkudâshs Truhe (Stufe 1)"/>
+<label key="1879524823" value="Kishâsus Truhe (Stufe 2)"/>
+<label key="1879524824" value="Ushkudâshs Truhe (Stufe 2)"/>
+<label key="1879524825" value="Khardâmus Truhe (Stufe 1)"/>
+<label key="1879524826" value="Kishâsus Truhe (Stufe 3)"/>
+<label key="1879524827" value="Ushkudâshs Truhe (Solo)"/>
+<label key="1879524828" value="Ushkudâshs Truhe (Stufe 3)"/>
+<label key="1879524829" value="Khardâmus Truhe (Stufe 2)"/>
+<label key="1879524830" value="Khardâmus Truhe (Stufe 3)"/>
+<label key="1879524831" value="Kishâsu's Truhe (Solo)"/>
+<label key="1879524848" value="Subuzûri-Leiter"/>
+<label key="1879524849" value="Platz für Numûrus Schwert"/>
+<label key="1879524850" value="Heißes Pech"/>
+<label key="1879524851" value="Schloss des Schleusentors"/>
+<label key="1879524852" value="Ordâkhai-Koppel"/>
+<label key="1879524853" value="Ordâkhai-Stiefelabdrücke"/>
+<label key="1879524854" value="Verbrannter Marktstand"/>
+<label key="1879524855" value="Razâls Horn"/>
+<label key="1879524856" value="Schwarze Pulver"/>
+<label key="1879524857" value="Haupttorhebel"/>
+<label key="1879524858" value="Bereich für die Tanzbühne"/>
+<label key="1879524859" value="Subuzûri-Belagerungswaffe"/>
+<label key="1879524860" value="Neuer Marktstand"/>
+<label key="1879524861" value="Dubioses Gericht"/>
+<label key="1879524862" value="Ordâkhai-Löwenkäfig"/>
+<label key="1879524863" value="Ordâkhai-Stiefelabdrücke"/>
+<label key="1879524864" value="Köstliches Gericht"/>
+<label key="1879524865" value="Bereich für Essen"/>
+<label key="1879524866" value="Interessantes Gericht"/>
+<label key="1879524867" value="Verbeulter Schild"/>
+<label key="1879524868" value="Stelle für Holzstütze"/>
+<label key="1879524869" value="Platz für Numûrus Rüstung"/>
+<label key="1879524870" value="Hamât-Barrikade"/>
+<label key="1879524871" value="Hamât-Lagerfeuer"/>
+<label key="1879524872" value="Hamât-Zelt"/>
+<label key="1879524873" value="Duftendes Gericht"/>
+<label key="1879524874" value="Eilig errichtete Barrikade"/>
+<label key="1879524875" value="Stelle für Karte von Pahar Hatokáli"/>
+<label key="1879524876" value="Ordâkhai-Barrikade"/>
+<label key="1879524877" value="Exotisches Gericht"/>
+<label key="1879524878" value="Ordâkhai-Stiefelabdrücke"/>
+<label key="1879524879" value="Bereich für ein Banner"/>
+<label key="1879524887" value="TBD Healer Wight"/>
+<label key="1879524888" value="TBD Heavy Wight"/>
+<label key="1879524889" value="TBD Debuff Darkwater"/>
+<label key="1879524890" value="TBD Ranged Wight"/>
+<label key="1879524891" value="TBD Melee Darkwater"/>
+<label key="1879524892" value="TBD Melee Wight"/>
+<label key="1879524893" value="TBD Debuff Wight"/>
+<label key="1879524895" value="TBD Heavy Wight"/>
+<label key="1879524896" value="TBD Ranged Wight"/>
+<label key="1879524897" value="TBD Debuff Darkwater"/>
+<label key="1879524898" value="TBD Healer Wight"/>
+<label key="1879524899" value="TBD Debuff Wight"/>
+<label key="1879524900" value="TBD Melee Darkwater"/>
+<label key="1879524901" value="TBD Melee Wight"/>
+<label key="1879524934" value="Gefesselte Leiche"/>
+<label key="1879524935" value="Zâkhabat der Bosheitsfresser"/>
+<label key="1879524936" value="GNDN"/>
+<label key="1879524937" value="GNDN"/>
+<label key="1879524938" value="GNDN"/>
+<label key="1879524939" value="GNDN"/>
+<label key="1879524942" value="GNDN"/>
+<label key="1879524945" value="Ordâkhai-Zelt"/>
+<label key="1879524981" value="Mizâdi"/>
+<label key="1879524982" value="Rahâzi"/>
+<label key="1879524996" value="TBD Heavy Skeleton"/>
+<label key="1879524998" value="TBD Melee Skeleton"/>
+<label key="1879524999" value="TBD Melee Skeleton"/>
+<label key="1879525001" value="TBD Ranged Skeleton"/>
+<label key="1879525003" value="TBD Heavy Skeleton"/>
+<label key="1879525004" value="TBD Ranged Skeleton"/>
+<label key="1879525018" value="TBD Ranged Ordakhai"/>
+<label key="1879525019" value="TBD Healer Ordakhai"/>
+<label key="1879525021" value="TBD Debuff Ordakhai"/>
+<label key="1879525024" value="TBD Melee Ordakhai"/>
+<label key="1879525027" value="TBD Debuff Ordakhai"/>
+<label key="1879525031" value="TBD Melee Ordakhai"/>
+<label key="1879525032" value="TBD Ranged Ordakhai"/>
+<label key="1879525034" value="TBD Healer Ordakhai"/>
+<label key="1879525040" value="Spiegelteich von Pahar Hatokáli"/>
+<label key="1879525079" value="Quartiermeister für Jäger"/>
+<label key="1879525090" value="Der Boxer"/>
+<label key="1879525091" value="Der Drache"/>
+<label key="1879525092" value="Stück Totholz"/>
+<label key="1879525093" value="Kirzâmur-Orange"/>
+<label key="1879525095" value="Schwärmende Hatokáli-Wespe"/>
+<label key="1879525106" value="Ordakh-Späherin"/>
+<label key="1879525107" value="Ordakh-Krieger"/>
+<label key="1879525121" value="Barrikade"/>
+<label key="1879525171" value="Ugmârat"/>
+<label key="1879525172" value="Erímukil"/>
+<label key="1879525173" value="Nasíkhtu"/>
+<label key="1879525174" value="Pashâzmar"/>
+<label key="1879525175" value="Unagârs Haus"/>
+<label key="1879525248" value="Sudûgul"/>
+<label key="1879525249" value="Bârshud II."/>
+<label key="1879525250" value="Sudûgul"/>
+<label key="1879525251" value="Sudûgul"/>
+<label key="1879525252" value="Bârshud II."/>
+<label key="1879525253" value="Bârshud II."/>
+<label key="1879525352" value="Zalûd"/>
+<label key="1879525353" value="Razâl"/>
+<label key="1879525354" value="Subuzûri"/>
+<label key="1879525355" value="Razâl"/>
+<label key="1879525356" value="Numûru"/>
+<label key="1879525357" value="Mizâdi"/>
+<label key="1879525358" value="Mizâdi"/>
+<label key="1879525359" value="Mizâdi"/>
+<label key="1879525360" value="Rahâzi"/>
+<label key="1879525364" value="Kutímus Katze"/>
+<label key="1879525365" value="Kutímus Katze"/>
+<label key="1879525366" value="Kutímus Katze"/>
+<label key="1879525367" value="Kutímus Haus"/>
+<label key="1879525368" value="Kutímus Katze"/>
+<label key="1879525369" value="Kutímus Katze"/>
+<label key="1879525370" value="GNDN"/>
+<label key="1879525817" value="Auferstandener Numûru"/>
+<label key="1879525818" value="Bârshuds Beschützer"/>
+<label key="1879525857" value="Ordâkhai-Ausbilder"/>
+<label key="1879525858" value="Rogtúrz Nachtauge"/>
+<label key="1879525859" value="Dhókhur Bóro"/>
+<label key="1879525861" value="Katâl"/>
+<label key="1879525862" value="Razâl"/>
+<label key="1879525885" value="Mizâdi"/>
+<label key="1879525886" value="Razâl"/>
+<label key="1879525887" value="Numûru"/>
+<label key="1879525911" value="Gefangener Löwe"/>
+<label key="1879525912" value="Gefangene Löwin"/>
+<label key="1879525946" value="Kirí"/>
+<label key="1879525947" value="Kirí"/>
 </labels>

@@ -813,7 +813,6 @@
 <label key="1879338355" value="Maison de luxe premium"/>
 <label key="1879338356" value="Maison de confrérie premium"/>
 <label key="1879338357" value="Maison premium"/>
-<label key="1879338362" value="Maison de luxe premium"/>
 <label key="1879339005" value="Provisions des résidences"/>
 <label key="1879339191" value="Narchost"/>
 <label key="1879339193" value="Narchost"/>
@@ -1289,12 +1288,12 @@
 <label key="1879520061" value="Maison de luxe premium"/>
 <label key="1879520515" value="Ekal-nêbi"/>
 <label key="1879520695" value="Antre de Chute-rocher"/>
-<label key="1879523368" value="TBD - KERGRIM CAVE 2"/>
-<label key="1879523369" value="TBD - KERGRIM CAVE 1"/>
-<label key="1879523607" value="TBD - ORDAKHAI COMPOUND"/>
-<label key="1879523636" value="TBD - MIZADI COMPOUND"/>
-<label key="1879523682" value="TBD - MISSION CRYPT"/>
-<label key="1879523712" value="TBD - MISSION WATERWORKS"/>
+<label key="1879523368" value="Mut-hûru"/>
+<label key="1879523369" value="Mut-hûru"/>
+<label key="1879523607" value="Sakhar Kishâsya"/>
+<label key="1879523636" value="Domaine de Mizâdi"/>
+<label key="1879523682" value="Labyrinthe de Kishâsu"/>
+<label key="1879523712" value="Nar Makâru"/>
 <label key="268437554" value="Terre du Milieu"/>
 <label key="268437557" value="Eriador"/>
 <label key="268437576" value="Ered Luin"/>
@@ -1382,7 +1381,7 @@
 <label key="268450888" value="Dor-en-Ernil"/>
 <label key="268450890" value="Lebennin"/>
 <label key="268450892" value="Pelargir"/>
-<label key="268450894" value="Val de Ringló"/>
+<label key="268450894" value="Val de Ringlo"/>
 <label key="268450898" value="Maison de Grimbeorn"/>
 <label key="268450901" value="Gondor"/>
 <label key="268450932" value="Est du Gondor"/>
@@ -1498,4 +1497,6 @@
 <label key="268454949" value="Adagim"/>
 <label key="268454959" value="Emax Dûl"/>
 <label key="268455133" value="Forts de Fondcombe"/>
+<label key="268455152" value="Les Monts de l’Hatokali"/>
+<label key="268455160" value="Monts de l'Hatokali - Crypte"/>
 </labels>

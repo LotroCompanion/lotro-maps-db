@@ -1512,11 +1512,11 @@
 <max longitude="-115.71667" latitude="-0.39999998"/>
 </map>
 <map id="268454914" name="Mûr Ghala (The Ridge of Plenty)" imageId="1093040697">
-<geo factor="14.375">
-<point longitude="-99.6" latitude="-20.156523"/>
+<geo factor="14.687499">
+<point longitude="-99.6" latitude="-31.634043"/>
 </geo>
-<min longitude="-99.6" latitude="-73.58261"/>
-<max longitude="-28.36522" latitude="-20.156523"/>
+<min longitude="-99.6" latitude="-83.92341"/>
+<max longitude="-29.880844" latitude="-31.634043"/>
 </map>
 <map id="268454915" name="Idagâl" imageId="1093040696">
 <geo factor="25.5">
@@ -1573,6 +1573,20 @@
 </geo>
 <min longitude="-13.441669" latitude="-30.46667"/>
 <max longitude="-4.9083366" latitude="-24.06667"/>
+</map>
+<map id="268455152" name="Hatokáli Fells" imageId="1093081130">
+<geo factor="53.125">
+<point longitude="-95.6" latitude="-66.74353"/>
+</geo>
+<min longitude="-95.6" latitude="-81.2"/>
+<max longitude="-76.32471" latitude="-66.74353"/>
+</map>
+<map id="268455160" name="Hatokáli Fells - Crypt" imageId="1093135355">
+<geo factor="160.0">
+<point longitude="-143.625" latitude="-98.0"/>
+</geo>
+<min longitude="-143.625" latitude="-102.8"/>
+<max longitude="-137.225" latitude="-98.0"/>
 </map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
@@ -10611,42 +10625,42 @@
 <min longitude="-144.46832" latitude="60.699997"/>
 <max longitude="-143.135" latitude="61.699997"/>
 </map>
-<map id="1879523368" name="TBD - KERGRIM CAVE 2" imageId="1093080589">
+<map id="1879523368" name="Mut-hûru" imageId="1093080589">
 <geo factor="360.0">
 <point longitude="-147.29443" latitude="49.21666"/>
 </geo>
 <min longitude="-147.29443" latitude="45.883327"/>
 <max longitude="-142.84999" latitude="49.21666"/>
 </map>
-<map id="1879523369" name="TBD - KERGRIM CAVE 1" imageId="1093080590">
+<map id="1879523369" name="Mut-hûru" imageId="1093080590">
 <geo factor="600.0">
 <point longitude="-145.66" latitude="50.075"/>
 </geo>
 <min longitude="-145.66" latitude="48.075"/>
 <max longitude="-142.99333" latitude="50.075"/>
 </map>
-<map id="1879523607" name="TBD - ORDAKHAI COMPOUND" imageId="1093080712">
+<map id="1879523607" name="Sakhar Kishâsya" imageId="1093080712">
 <geo factor="600.0">
 <point longitude="-143.11833" latitude="79.299995"/>
 </geo>
 <min longitude="-143.11833" latitude="78.299995"/>
 <max longitude="-141.785" latitude="79.299995"/>
 </map>
-<map id="1879523636" name="TBD - MIZADI COMPOUND" imageId="1093080713">
+<map id="1879523636" name="Mizâdi's Compound" imageId="1093080713">
 <geo factor="600.0">
 <point longitude="-143.46666" latitude="77.7"/>
 </geo>
 <min longitude="-143.46666" latitude="76.7"/>
 <max longitude="-142.13333" latitude="77.7"/>
 </map>
-<map id="1879523682" name="TBD - MISSION CRYPT" imageId="1093080769">
+<map id="1879523682" name="Kishâsu's Labyrinth" imageId="1093080769">
 <geo factor="600.0">
 <point longitude="-144.8" latitude="76.125"/>
 </geo>
 <min longitude="-144.8" latitude="73.125"/>
 <max longitude="-140.8" latitude="76.125"/>
 </map>
-<map id="1879523712" name="TBD - MISSION WATERWORKS" imageId="1093080796">
+<map id="1879523712" name="Nar Makâru" imageId="1093080796">
 <geo factor="720.0">
 <point longitude="-143.61111" latitude="75.35834"/>
 </geo>

@@ -251,7 +251,6 @@
 <marker id="1336705066" label="Glorfindel" category="70" did="1879341456" parentZoneId="1879341328" longitude="54.659355" latitude="9.993809"/>
 <marker id="1336705068" label="Expert Cook" category="33" did="1879076381" parentZoneId="1879341328" longitude="54.744335" latitude="10.116172"/>
 <marker id="1336705069" label="Expert Tailor" category="33" did="1879076394" parentZoneId="1879341328" longitude="54.732048" latitude="10.092509"/>
-<marker id="1336705070" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879341328" longitude="54.69465" latitude="10.085068"/>
 <marker id="1336705071" label="Fingwen&#10;Barber" category="60" did="1879103936" parentZoneId="1879341328" longitude="54.750565" latitude="9.885322"/>
 <marker id="1336705076" label="Vault-keeper" category="40" did="1879063385" parentZoneId="1879341328" longitude="54.669235" latitude="9.910723"/>
 <marker id="1336705077" label="Rildan&#10;Forge-master" category="29" did="1879162791" parentZoneId="1879341328" longitude="54.784275" latitude="9.934609"/>
@@ -266,6 +265,7 @@
 <marker id="1336705106" label="Rider to Mordor" category="48" did="1879357875" parentZoneId="1879341328" longitude="54.819023" latitude="9.980215"/>
 <marker id="1336705116" label="Mirkwood Warrior" category="71" did="1879341545" parentZoneId="1879341328" longitude="54.695877" latitude="10.032598"/>
 <marker id="1336705118" label="Interaction Target" category="73" did="1879302738" parentZoneId="1879341328" longitude="54.580547" latitude="9.999951"/>
+<marker id="1336705156" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879341328" longitude="54.69465" latitude="10.085068"/>
 <marker id="1336713216" label="Quartermaster&#10;Hobbits of the Company" category="58" did="1879354076" parentZoneId="1879341322" longitude="54.42697" latitude="11.696074"/>
 <marker id="1336713218" label="Vault-keeper" category="40" did="1879313187" parentZoneId="1879341322" longitude="54.369003" latitude="11.81915"/>
 <marker id="1336713219" label="Auctioneer" category="53" did="1879313209" parentZoneId="1879341322" longitude="54.273846" latitude="11.77624"/>
@@ -365,8 +365,6 @@
 <marker id="1336721625" label="Dwarf" category="70" did="1879368299" parentZoneId="1879358081" longitude="53.49861" latitude="13.573076"/>
 <marker id="1336721626" label="Authi Gem-cutter" category="70" did="1879369039" parentZoneId="1879358081" longitude="53.480877" latitude="14.136298"/>
 <marker id="1336721654" label="Expert Scholar" category="33" did="1879337147" parentZoneId="1879358081" longitude="53.604782" latitude="12.416416"/>
-<marker id="1336721660" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879358081" longitude="53.669746" latitude="12.213662"/>
-<marker id="1336721661" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879358081" longitude="53.391502" latitude="12.224599"/>
 <marker id="1336721663" label="Quartermaster&#10;Dwarves of Erebor Crafting" category="61" did="1879365423" parentZoneId="1879358081" longitude="53.41176" latitude="12.36163"/>
 <marker id="1336721664" label="Quartermaster&#10;Dwarves of Erebor Rewards" category="61" did="1879365419" parentZoneId="1879358081" longitude="53.411446" latitude="12.350771"/>
 <marker id="1336721672" label="Hidden Door" category="48" did="1879365633" parentZoneId="1879358081" longitude="53.633358" latitude="14.224267"/>
@@ -645,6 +643,8 @@
 <marker id="1336722295" label="Thoughts of Dáin" category="70" did="1879417608" parentZoneId="1879358081" longitude="53.480915" latitude="14.209003"/>
 <marker id="1336722296" label="Thoughts of Durin" category="70" did="1879417607" parentZoneId="1879358081" longitude="53.480644" latitude="14.148818"/>
 <marker id="1336722299" label="Hermáth Stormhammer" category="70" did="1879416345" parentZoneId="1879358081" longitude="53.485703" latitude="14.174384"/>
+<marker id="1336722312" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879358081" longitude="53.391502" latitude="12.224599"/>
+<marker id="1336722313" label="Keeper of Mysteries&#10;Vendor dealing in Motes of Enchantment and Figments of Splendour" category="58" did="1879364745" parentZoneId="1879358081" longitude="53.669746" latitude="12.213662"/>
 <marker id="1336729600" label="Quartermaster&#10;Kingdom of Gondor" category="58" did="1879354072" parentZoneId="1879341325" longitude="55.03746" latitude="14.770615"/>
 <marker id="1336729612" label="Supplier" category="38" did="1879222918" parentZoneId="1879341325" longitude="54.95539" latitude="14.700156"/>
 <marker id="1336729613" label="Expert Metalsmith" category="33" did="1879313227" parentZoneId="1879341325" longitude="54.851444" latitude="14.887939"/>

@@ -1,4 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="286777344" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.03983" latitude="-100.04221"/>
+<marker id="286777345" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777346" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777347" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777348" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777349" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777350" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.99269" latitude="-100.04221"/>
+<marker id="286777351" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.03983" latitude="-100.04221"/>
+<marker id="286777352" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777353" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777354" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.00769" latitude="-100.04221"/>
+<marker id="286777355" label="Lever" category="100" did="1879150297" parentZoneId="1879063919" longitude="-128.00586" latitude="-100.04566"/>
+<marker id="286777356" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777357" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777358" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777359" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777360" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777361" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777362" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777363" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777364" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.2" latitude="-100.2"/>
+<marker id="286777365" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777366" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777367" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777368" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777369" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777370" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777371" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777372" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777373" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.2" latitude="-99.799995"/>
+<marker id="286777374" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777375" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777376" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777377" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777378" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777379" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777380" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777381" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777382" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.799995" latitude="-99.799995"/>
+<marker id="286777383" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777384" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777385" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777386" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777387" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777388" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777389" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777390" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777391" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.799995" latitude="-100.2"/>
+<marker id="286777500" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777501" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777502" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777503" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777504" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777505" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777506" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777507" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777508" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777509" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777510" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777511" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777512" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777513" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777514" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777515" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777516" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777517" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777518" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777519" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777520" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777521" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777522" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.27324" latitude="-99.71997"/>
+<marker id="286777523" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777524" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777525" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777526" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777527" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777528" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777529" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777530" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777531" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777532" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777533" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777534" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777535" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777536" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777537" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777538" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777539" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777540" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777541" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777542" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777543" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777544" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777545" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.27054" latitude="-100.32076"/>
+<marker id="286777546" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777547" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777548" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777549" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777550" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777551" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777552" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777553" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777554" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777555" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777556" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777557" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777558" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777559" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777560" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777561" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777562" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777563" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777564" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777565" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777566" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777567" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777568" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.28761" latitude="-100.034775"/>
+<marker id="286777569" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777570" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777571" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777572" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777573" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777574" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777575" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777576" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777577" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777578" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777579" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777580" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777581" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777582" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777583" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777584" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777585" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777586" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777587" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777588" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777589" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777590" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777591" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.08739" latitude="-100.32061"/>
+<marker id="286777592" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777593" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777594" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777595" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777596" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777597" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777598" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777599" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777600" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777601" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777602" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777603" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777604" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777605" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777606" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777607" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777608" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777609" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777610" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777611" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777612" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777613" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777614" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.06822" latitude="-100.13192"/>
+<marker id="286777615" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777616" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777617" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777618" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777619" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777620" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777621" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777622" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777623" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777624" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777625" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777626" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777627" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777628" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777629" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777630" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777631" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777632" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777633" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777634" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777635" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777636" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777637" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.1668" latitude="-100.040405"/>
+<marker id="286777638" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777639" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777640" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777641" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777642" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777643" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777644" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777645" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777646" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777647" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777648" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777649" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777650" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777651" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777652" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777653" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777654" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777655" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777656" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777657" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777658" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777659" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777660" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.05406" latitude="-99.950294"/>
+<marker id="286777661" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777662" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777663" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777664" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777665" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777666" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777667" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777668" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777669" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777670" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777671" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777672" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777673" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777674" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777675" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777676" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777677" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777678" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777679" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777680" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777681" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777682" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777683" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-128.0593" latitude="-99.703476"/>
+<marker id="286777684" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777685" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777686" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777687" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777688" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777689" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777690" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777691" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777692" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777693" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777694" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777695" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777696" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777697" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777698" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777699" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777700" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777701" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777702" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777703" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777704" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777705" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777706" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.89822" latitude="-99.70968"/>
+<marker id="286777707" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777708" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777709" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777710" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777711" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777712" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777713" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777714" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777715" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777716" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777717" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777718" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777719" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777720" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777721" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777722" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777723" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777724" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777725" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777726" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777727" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777728" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777729" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.918884" latitude="-100.18758"/>
+<marker id="286777730" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777731" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777732" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777733" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777734" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777735" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777736" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777737" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777738" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777739" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777740" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777741" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777742" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777743" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777744" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777745" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777746" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777747" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777748" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777749" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777750" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777751" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777752" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.672" latitude="-99.98359"/>
+<marker id="286777753" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777754" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777755" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777756" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777757" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777758" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777759" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777760" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777761" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777762" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777763" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777764" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777765" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777766" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777767" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777768" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777769" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777770" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777771" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777772" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777773" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777774" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777775" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.6716" latitude="-99.6792"/>
+<marker id="286777776" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777777" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777778" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777779" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777780" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777781" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777782" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777783" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777784" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777785" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777786" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777787" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777788" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777789" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777790" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777791" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777792" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777793" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777794" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777795" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777796" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777797" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777798" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.646935" latitude="-100.18157"/>
+<marker id="286777799" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777800" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777801" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777802" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777803" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777804" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777805" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777806" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777807" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777808" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777809" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777810" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777811" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777812" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777813" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777814" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777815" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777816" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777817" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777818" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777819" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777820" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777821" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.83676" latitude="-100.34664"/>
+<marker id="286777822" label="Cruel-beak Courier" category="71" did="1879498437" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777823" label="Shadowmaw Warg" category="71" did="1879498434" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777824" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777825" label="Grey-Hills Buck" category="78" did="1879392352" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777826" label="Bleakfield Hare" category="78" did="1879343233" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777827" label="Ongbúrz Intimidator" category="71" did="1879498432" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777828" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777829" label="Kit Fox" category="78" did="1879392418" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777830" label="Ongbúrz Tracker" category="71" did="1879498447" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777831" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777832" label="Tater" category="77" did="1879061257" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777833" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777834" label="Wandering Bull" category="71" did="1879498445" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777835" label="Wandering Aurochs" category="71" did="1879498442" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777836" label="Gramsfoot Berserker" category="71" did="1879498443" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777837" label="Duvárdain Scout" category="71" did="1879498421" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777838" label="Duvárdain Warrior" category="71" did="1879498448" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777839" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777840" label="Grey-Hills Doe" category="78" did="1879392511" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777841" label="Foothills Forager" category="71" did="1879498426" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777842" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777843" label="Ribbon Snake" category="78" did="1879078078" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
+<marker id="286777844" label="Gramsfoot Scout" category="71" did="1879498425" parentZoneId="1879063919" longitude="-127.831245" latitude="-99.94082"/>
 <marker id="286818304" label="Door" category="100" did="1879063434" parentZoneId="1879063919" longitude="-127.54404" latitude="-105.122215"/>
 <marker id="286818305" label="Door" category="100" did="1879063434" parentZoneId="1879063919" longitude="-127.54142" latitude="-105.02527"/>
 <marker id="286818306" label="HouseKeeper" category="100" did="1879093790" parentZoneId="1879063919" longitude="-127.54579" latitude="-105.02558"/>
