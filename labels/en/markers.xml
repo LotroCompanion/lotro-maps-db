@@ -1718,7 +1718,7 @@
 <label key="1879072352" value="Chieftain Shatog"/>
 <label key="1879072353" value="Chieftain Grazthluk"/>
 <label key="1879072354" value="Chieftain Gukhnúrz"/>
-<label key="1879072357" value="Spirit of Vengeance"/>
+<label key="1879072357" value="Tyrant Tharbîl"/>
 <label key="1879072358" value="Tyrant Barashish"/>
 <label key="1879072359" value="Tyrant Gundzor"/>
 <label key="1879072360" value="Tyrant Bûrzgoth"/>
@@ -46484,6 +46484,7 @@
 <label key="1879501584" value="Area Around Banner"/>
 <label key="1879501585" value="Ripe Orange"/>
 <label key="1879501587" value="Banner for Kûr Anzar"/>
+<label key="1879501589" value="Lêkhar"/>
 <label key="1879501590" value="Sassy Cat"/>
 <label key="1879501591" value="Scruffy Cat"/>
 <label key="1879501592" value="Thirsty Beachgoer"/>
@@ -49370,7 +49371,7 @@
 <label key="1879523296" value="Ordâkhai Sorcerer"/>
 <label key="1879523297" value="Hatokáli Skulker"/>
 <label key="1879523298" value="Hatokáli Tracker"/>
-<label key="1879523299" value="Second Age Yoeman"/>
+<label key="1879523299" value="Second Age Yeoman"/>
 <label key="1879523303" value="Ordâkhai Champion"/>
 <label key="1879523305" value="Hatokáli Straggler"/>
 <label key="1879523306" value="Hatokáli Lioness"/>
@@ -49563,18 +49564,15 @@
 <label key="1879524743" value="Nushâba's Whetstone"/>
 <label key="1879524744" value="Cache of Tebíra's Ore"/>
 <label key="1879524745" value="Numûru's Memorial Stone"/>
-<label key="1879524746" value="Stone for Cleaning"/>
 <label key="1879524747" value="Fresh Shoulder Bandages"/>
 <label key="1879524748" value="Hatokáli Ore Deposit"/>
 <label key="1879524749" value="Cord of Wood"/>
 <label key="1879524750" value="Young Switch for Thatching"/>
 <label key="1879524751" value="Numûru's Flower"/>
-<label key="1879524752" value="Armour Oil"/>
 <label key="1879524753" value="Imizíla Gate Key"/>
 <label key="1879524754" value="Sharpening Whetstone"/>
 <label key="1879524755" value="Skin of Water"/>
 <label key="1879524756" value="Drying Fish Rack"/>
-<label key="1879524757" value="Barrel of Fresh Water"/>
 <label key="1879524758" value="Keg of Wine"/>
 <label key="1879524759" value="Numûru's Sword"/>
 <label key="1879524760" value="Pahar Hatokáli Map"/>
@@ -49590,11 +49588,9 @@
 <label key="1879524770" value="Rahâzi"/>
 <label key="1879524771" value="Party-goer"/>
 <label key="1879524772" value="Razâl"/>
-<label key="1879524773" value="Razâl"/>
 <label key="1879524775" value="Party-goer"/>
 <label key="1879524776" value="Numûru"/>
 <label key="1879524777" value="Ishumâni"/>
-<label key="1879524778" value="Mizâdi"/>
 <label key="1879524779" value="Khórpon Bóro"/>
 <label key="1879524780" value="Mizâdi"/>
 <label key="1879524781" value="Rahâzi"/>
@@ -49605,15 +49601,11 @@
 <label key="1879524786" value="Mizâdi"/>
 <label key="1879524787" value="Numûru"/>
 <label key="1879524788" value="Numûru"/>
-<label key="1879524789" value="Numûru"/>
-<label key="1879524790" value="Wounded Subuzûri"/>
 <label key="1879524791" value="Mizâdi"/>
 <label key="1879524792" value="Flagging Subuzûri"/>
 <label key="1879524793" value="Rahâzi"/>
 <label key="1879524794" value="Razâl"/>
-<label key="1879524795" value="Wounded Subuzûri"/>
 <label key="1879524796" value="Numûru"/>
-<label key="1879524797" value="Razâl"/>
 <label key="1879524798" value="Numûru"/>
 <label key="1879524799" value="Razâl"/>
 <label key="1879524800" value="Mizâdi"/>
@@ -49621,10 +49613,8 @@
 <label key="1879524802" value="Rahâzi"/>
 <label key="1879524803" value="Shâgigal Held-silver"/>
 <label key="1879524804" value="Over-eager Party-goer"/>
-<label key="1879524805" value="Numûru"/>
 <label key="1879524806" value="Wounded Subuzûri"/>
 <label key="1879524807" value="Unagâr"/>
-<label key="1879524808" value="Wounded Subuzûri"/>
 <label key="1879524809" value="Over-eager Party-goer"/>
 <label key="1879524810" value="Razâl"/>
 <label key="1879524811" value="Mizâdi"/>
@@ -49644,19 +49634,16 @@
 <label key="1879524830" value="Khardâmu's Chest - Tier 3"/>
 <label key="1879524831" value="Kishâsu's Chest - Solo"/>
 <label key="1879524848" value="Subuzûri Ladder"/>
-<label key="1879524849" value="Area for Numûru's Sword"/>
 <label key="1879524850" value="Hot Tar"/>
 <label key="1879524851" value="Sluice Gate Lock"/>
 <label key="1879524852" value="Ordâkhai Paddock"/>
 <label key="1879524853" value="Ordâkhai Bootprints"/>
 <label key="1879524854" value="Burnt Market Stand"/>
-<label key="1879524855" value="Razâl's Horn"/>
 <label key="1879524856" value="Black Powder"/>
 <label key="1879524857" value="Main Gate Lever"/>
 <label key="1879524858" value="Area for Dance Stage"/>
 <label key="1879524859" value="Subuzûri Siege Weapon"/>
 <label key="1879524860" value="New Market Stand"/>
-<label key="1879524861" value="Suspicious Party Dish"/>
 <label key="1879524862" value="Ordâkhai Lion Cage"/>
 <label key="1879524863" value="Ordâkhai Bootprints"/>
 <label key="1879524864" value="Delicious Party Dish"/>
@@ -49664,8 +49651,6 @@
 <label key="1879524866" value="Intriguing Party Dish"/>
 <label key="1879524867" value="Dented Shield"/>
 <label key="1879524868" value="Area for Wooden Support"/>
-<label key="1879524869" value="Area for Numûru's Armour"/>
-<label key="1879524870" value="Hamât Barricade"/>
 <label key="1879524871" value="Area for Hamât Camp-fire"/>
 <label key="1879524872" value="Area for Hamât Tent"/>
 <label key="1879524873" value="Fragrant Party Dish"/>
@@ -49705,6 +49690,8 @@
 <label key="1879525001" value="TBD Ranged Skeleton"/>
 <label key="1879525003" value="TBD Heavy Skeleton"/>
 <label key="1879525004" value="TBD Ranged Skeleton"/>
+<label key="1879525013" value="Race Pony"/>
+<label key="1879525014" value="Race Horse"/>
 <label key="1879525018" value="TBD Ranged Ordakhai"/>
 <label key="1879525019" value="TBD Healer Ordakhai"/>
 <label key="1879525021" value="TBD Debuff Ordakhai"/>
@@ -49760,8 +49747,14 @@
 <label key="1879525885" value="Mizâdi"/>
 <label key="1879525886" value="Razâl"/>
 <label key="1879525887" value="Numûru"/>
+<label key="1879525910" value="Nârud"/>
 <label key="1879525911" value="Captive Lion"/>
 <label key="1879525912" value="Captive Lioness"/>
 <label key="1879525946" value="Kirí"/>
 <label key="1879525947" value="Kirí"/>
+<label key="1879526047" value="Burst of Speed"/>
+<label key="1879526049" value="Treading Carefully"/>
+<label key="1879526256" value="Sightseer"/>
+<label key="1879526371" value="Ordâkhai Look-out"/>
+<label key="1879526372" value="Volley"/>
 </labels>

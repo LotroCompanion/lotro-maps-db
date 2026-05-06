@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="1385193472" label="Curious Crab" category="70" did="1879503197" parentZoneId="1879501383" longitude="-120.83086" latitude="-3.9934375"/>
+<marker id="1385193473" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-120.68248" latitude="-4.259248"/>
 <marker id="1385197568" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-120.61721" latitude="-3.4495506"/>
 <marker id="1385197569" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-120.67081" latitude="-3.4104395"/>
 <marker id="1385197570" label="Olive Tree" category="73" did="1879501739" parentZoneId="1879501383" longitude="-120.77181" latitude="-3.577832"/>
-<marker id="1385197572" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-120.654366" latitude="-3.5426757"/>
+<marker id="1385197571" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-120.689766" latitude="-3.1225293"/>
+<marker id="1385197573" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-120.654366" latitude="-3.5426757"/>
 <marker id="1385254912" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-120.37553" latitude="-4.451133"/>
 <marker id="1385254913" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-120.22482" latitude="-4.4596972"/>
 <marker id="1385254914" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.64777" latitude="-4.708623"/>
@@ -12,21 +15,22 @@
 <marker id="1385267202" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.63251" latitude="-2.143789"/>
 <marker id="1385267203" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.685074" latitude="-2.0700488"/>
 <marker id="1385320448" label="Healer" category="38" did="1879480335" parentZoneId="1879501383" longitude="-118.8082" latitude="-4.4441013"/>
-<marker id="1385320453" label="Queer Merrymaker" category="70" did="1879502998" parentZoneId="1879501383" longitude="-118.96155" latitude="-4.8736033"/>
-<marker id="1385320455" label="Curious Crab" category="70" did="1879503197" parentZoneId="1879501383" longitude="-118.95824" latitude="-4.9688864"/>
-<marker id="1385320458" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.1448" latitude="-4.8773437"/>
-<marker id="1385320459" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.357445" latitude="-4.814756"/>
-<marker id="1385320463" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.474174" latitude="-4.7898436"/>
-<marker id="1385320464" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-119.11388" latitude="-4.8524704"/>
-<marker id="1385320465" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-119.49574" latitude="-4.838115"/>
-<marker id="1385320466" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.22852" latitude="-4.573125"/>
-<marker id="1385320467" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.18567" latitude="-4.6660056"/>
-<marker id="1385320468" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.44453" latitude="-4.6433005"/>
-<marker id="1385320469" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-119.06041" latitude="-4.5944824"/>
-<marker id="1385320470" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-119.36637" latitude="-4.646377"/>
-<marker id="1385320474" label="Queer Merrymaker" category="70" did="1879501597" parentZoneId="1879501383" longitude="-118.96196" latitude="-4.872226"/>
-<marker id="1385320475" label="Queer Merrymaker" category="70" did="1879503308" parentZoneId="1879501383" longitude="-118.96196" latitude="-4.872226"/>
-<marker id="1385320476" label="Queer Merrymaker" category="70" did="1879502999" parentZoneId="1879501383" longitude="-118.96178" latitude="-4.8736033"/>
+<marker id="1385320452" label="Sightseer" category="71" did="1879526256" parentZoneId="1879501383" longitude="-119.21027" latitude="-4.555615"/>
+<marker id="1385320454" label="Queer Merrymaker" category="70" did="1879502998" parentZoneId="1879501383" longitude="-118.96155" latitude="-4.8736033"/>
+<marker id="1385320456" label="Curious Crab" category="70" did="1879503197" parentZoneId="1879501383" longitude="-118.95824" latitude="-4.9688864"/>
+<marker id="1385320459" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.1448" latitude="-4.8773437"/>
+<marker id="1385320463" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.357445" latitude="-4.814756"/>
+<marker id="1385320464" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-119.474174" latitude="-4.7898436"/>
+<marker id="1385320465" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-119.11388" latitude="-4.8524704"/>
+<marker id="1385320466" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-119.49574" latitude="-4.838115"/>
+<marker id="1385320467" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.22852" latitude="-4.573125"/>
+<marker id="1385320468" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.18567" latitude="-4.6660056"/>
+<marker id="1385320469" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.44453" latitude="-4.6433005"/>
+<marker id="1385320470" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-119.06041" latitude="-4.5944824"/>
+<marker id="1385320471" label="Lemon Tree" category="73" did="1879501732" parentZoneId="1879501383" longitude="-119.36637" latitude="-4.646377"/>
+<marker id="1385320475" label="Queer Merrymaker" category="70" did="1879501597" parentZoneId="1879501383" longitude="-118.96196" latitude="-4.872226"/>
+<marker id="1385320476" label="Queer Merrymaker" category="70" did="1879503308" parentZoneId="1879501383" longitude="-118.96196" latitude="-4.872226"/>
+<marker id="1385320477" label="Queer Merrymaker" category="70" did="1879502999" parentZoneId="1879501383" longitude="-118.96178" latitude="-4.8736033"/>
 <marker id="1385324545" label="Feredis&#10;Midsummer Barter-matron" category="58" did="1879408582" parentZoneId="1879501383" longitude="-118.85621" latitude="-3.8974512"/>
 <marker id="1385324546" label="Hobby Master" category="42" did="1879479057" parentZoneId="1879501383" longitude="-119.090996" latitude="-4.3186717"/>
 <marker id="1385324549" label="Merkhâma" category="70" did="1879501595" parentZoneId="1879501383" longitude="-118.95708" latitude="-3.836826"/>
@@ -61,37 +65,44 @@
 <marker id="1385324578" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-119.10597" latitude="-4.062627"/>
 <marker id="1385324590" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-119.07611" latitude="-4.2220798"/>
 <marker id="1385324595" label="Olive Tree" category="73" did="1879501739" parentZoneId="1879501383" longitude="-119.36039" latitude="-4.3657126"/>
+<marker id="1385328640" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.83854" latitude="-3.081084"/>
 <marker id="1385328641" label="Fresh Herb" category="73" did="1879501730" parentZoneId="1879501383" longitude="-119.322845" latitude="-3.5773828"/>
 <marker id="1385328642" label="Olive Tree" category="73" did="1879501739" parentZoneId="1879501383" longitude="-118.93172" latitude="-3.254629"/>
-<marker id="1385328643" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.83854" latitude="-3.081084"/>
-<marker id="1385328644" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.93406" latitude="-3.0482616"/>
-<marker id="1385328645" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.03795" latitude="-2.9379003"/>
-<marker id="1385328646" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.153725" latitude="-2.949453"/>
-<marker id="1385328647" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.551254" latitude="-2.9337401"/>
-<marker id="1385328650" label="Olive Tree" category="73" did="1879501739" parentZoneId="1879501383" longitude="-119.22726" latitude="-3.3641405"/>
+<marker id="1385328643" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-119.530556" latitude="-3.0195117"/>
+<marker id="1385328645" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.93406" latitude="-3.0482616"/>
+<marker id="1385328646" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.03795" latitude="-2.9379003"/>
+<marker id="1385328647" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.153725" latitude="-2.949453"/>
+<marker id="1385328648" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.551254" latitude="-2.9337401"/>
+<marker id="1385328651" label="Olive Tree" category="73" did="1879501739" parentZoneId="1879501383" longitude="-119.22726" latitude="-3.3641405"/>
 <marker id="1385332736" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.48572" latitude="-2.6346874"/>
 <marker id="1385332738" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.45407" latitude="-2.6545997"/>
 <marker id="1385332739" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-119.466606" latitude="-2.6640234"/>
 <marker id="1385385985" label="A Good Place for a Sand-castle" category="73" did="1879501736" parentZoneId="1879501383" longitude="-118.54538" latitude="-4.7008395"/>
-<marker id="1385385986" label="Unsettled Sightseer" category="70" did="1879503000" parentZoneId="1879501383" longitude="-118.60234" latitude="-4.7508397"/>
-<marker id="1385385987" label="Sassy Cat" category="70" did="1879503241" parentZoneId="1879501383" longitude="-118.743256" latitude="-4.4524217"/>
-<marker id="1385385988" label="Sassy Cat" category="70" did="1879501590" parentZoneId="1879501383" longitude="-118.743256" latitude="-4.4524217"/>
-<marker id="1385385989" label="Unsettled Sightseer" category="70" did="1879501596" parentZoneId="1879501383" longitude="-118.602615" latitude="-4.7508593"/>
-<marker id="1385385990" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-118.48736" latitude="-4.697588"/>
-<marker id="1385385991" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-118.629326" latitude="-4.817207"/>
-<marker id="1385386000" label="Hopeful Suitor" category="70" did="1879501600" parentZoneId="1879501383" longitude="-118.75704" latitude="-4.8683105"/>
+<marker id="1385385986" label="Nârud" category="70" did="1879525910" parentZoneId="1879501383" longitude="-118.73195" latitude="-4.777871"/>
+<marker id="1385385987" label="Unsettled Sightseer" category="70" did="1879503000" parentZoneId="1879501383" longitude="-118.60234" latitude="-4.7508397"/>
+<marker id="1385385988" label="Sassy Cat" category="70" did="1879503241" parentZoneId="1879501383" longitude="-118.743256" latitude="-4.4524217"/>
+<marker id="1385385989" label="Sassy Cat" category="70" did="1879501590" parentZoneId="1879501383" longitude="-118.743256" latitude="-4.4524217"/>
+<marker id="1385385991" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-118.48736" latitude="-4.697588"/>
+<marker id="1385385995" label="Flotsam" category="73" did="1879501738" parentZoneId="1879501383" longitude="-118.629326" latitude="-4.817207"/>
+<marker id="1385386000" label="Unsettled Sightseer" category="70" did="1879501596" parentZoneId="1879501383" longitude="-118.602615" latitude="-4.7508593"/>
+<marker id="1385386002" label="Hopeful Suitor" category="70" did="1879501600" parentZoneId="1879501383" longitude="-118.75704" latitude="-4.8683105"/>
 <marker id="1385390080" label="The Cracked Flagon" category="43" did="1879501836" parentZoneId="1879501383" longitude="-118.709785" latitude="-3.8418748"/>
 <marker id="1385390081" label="Festival Dock-master" category="22" did="1879509032" parentZoneId="1879501383" longitude="-118.69742" latitude="-4.1271286"/>
-<marker id="1385390083" label="Smelly Cat" category="70" did="1879501602" parentZoneId="1879501383" longitude="-118.60201" latitude="-3.8599803"/>
-<marker id="1385390086" label="Door" category="100" did="1879475786" parentZoneId="1879501383" longitude="-118.79803" latitude="-3.8149512"/>
-<marker id="1385390089" label="Sleepy Cat" category="70" did="1879501599" parentZoneId="1879501383" longitude="-118.766914" latitude="-3.8423047"/>
-<marker id="1385390090" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.6159" latitude="-3.9271288"/>
-<marker id="1385390091" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.749565" latitude="-4.335576"/>
-<marker id="1385390092" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.59143" latitude="-3.7715428"/>
-<marker id="1385390093" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.702774" latitude="-4.151943"/>
-<marker id="1385390096" label="Smelly Cat" category="70" did="1879503239" parentZoneId="1879501383" longitude="-118.60201" latitude="-3.8599803"/>
-<marker id="1385390097" label="Sleepy Cat" category="70" did="1879503243" parentZoneId="1879501383" longitude="-118.766914" latitude="-3.8423047"/>
-<marker id="1385390098" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.46361" latitude="-3.8756444"/>
+<marker id="1385390083" label="Lêkhar" category="70" did="1879501589" parentZoneId="1879501383" longitude="-118.62029" latitude="-3.745371"/>
+<marker id="1385390089" label="Door" category="100" did="1879475786" parentZoneId="1879501383" longitude="-118.79803" latitude="-3.8149512"/>
+<marker id="1385390093" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.6159" latitude="-3.9271288"/>
+<marker id="1385390094" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.749565" latitude="-4.335576"/>
+<marker id="1385390095" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.59143" latitude="-3.7715428"/>
+<marker id="1385390096" label="Irksome Seagull" category="70" did="1879501775" parentZoneId="1879501383" longitude="-118.702774" latitude="-4.151943"/>
+<marker id="1385390097" label="Race Horse" category="73" did="1879525014" parentZoneId="1879501383" longitude="-118.60403" latitude="-3.746836"/>
+<marker id="1385390098" label="Race Horse" category="73" did="1879525014" parentZoneId="1879501383" longitude="-118.57482" latitude="-3.7475"/>
+<marker id="1385390099" label="Race Pony" category="73" did="1879525013" parentZoneId="1879501383" longitude="-118.59239" latitude="-3.7467284"/>
+<marker id="1385390100" label="Race Pony" category="73" did="1879525013" parentZoneId="1879501383" longitude="-118.58385" latitude="-3.746787"/>
+<marker id="1385390101" label="Smelly Cat" category="70" did="1879501602" parentZoneId="1879501383" longitude="-118.60201" latitude="-3.8599803"/>
+<marker id="1385390102" label="Sleepy Cat" category="70" did="1879501599" parentZoneId="1879501383" longitude="-118.766914" latitude="-3.8423047"/>
+<marker id="1385390103" label="Smelly Cat" category="70" did="1879503239" parentZoneId="1879501383" longitude="-118.60201" latitude="-3.8599803"/>
+<marker id="1385390104" label="Sleepy Cat" category="70" did="1879503243" parentZoneId="1879501383" longitude="-118.766914" latitude="-3.8423047"/>
+<marker id="1385390105" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.46361" latitude="-3.8756444"/>
 <marker id="1385394177" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.53631" latitude="-3.4558983"/>
 <marker id="1385394178" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.65186" latitude="-3.3503418"/>
 <marker id="1385394179" label="Seashells" category="73" did="1879501727" parentZoneId="1879501383" longitude="-118.75169" latitude="-3.2157323"/>
