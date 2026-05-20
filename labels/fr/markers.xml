@@ -1718,7 +1718,7 @@
 <label key="1879072352" value="Chef Shatog"/>
 <label key="1879072353" value="Chef Grazthluk"/>
 <label key="1879072354" value="Chef Chieftain Gukhnurz"/>
-<label key="1879072357" value="Esprit de vengeance"/>
+<label key="1879072357" value="Tyran Tharbîl"/>
 <label key="1879072358" value="Tyran Barashish"/>
 <label key="1879072359" value="Tyran Gundzor"/>
 <label key="1879072360" value="Tyran Bûrzgoth"/>
@@ -15100,7 +15100,7 @@
 <label key="1879224173" value="Lot de consolation"/>
 <label key="1879224174" value="DNT - Serious Business"/>
 <label key="1879224182" value="Ténèbres"/>
-<label key="1879224183" value="Légère"/>
+<label key="1879224183" value="Lumière"/>
 <label key="1879224184" value="Saeradan"/>
 <label key="1879224185" value="Amlan"/>
 <label key="1879224189" value="Percussionniste du Pays de Dun"/>
@@ -39908,7 +39908,7 @@
 <label key="1879449877" value="Cavalier de Nimbours"/>
 <label key="1879449882" value="Chèvre nerveuse"/>
 <label key="1879449883" value="Endroit où laisser de faux ordres"/>
-<label key="1879449887" value="Progéniture de Gwaelug"/>
+<label key="1879449887" value="Grodris, reine froidine"/>
 <label key="1879449891" value="Hurleur de la lande"/>
 <label key="1879449892" value="Sournois de la lande"/>
 <label key="1879449893" value="Chef de meute de la lande"/>
@@ -46364,13 +46364,13 @@
 <label key="1879501428" value="Numûru"/>
 <label key="1879501429" value="Bârshud II"/>
 <label key="1879501430" value="Subuzûri blessée"/>
-<label key="1879501433" value="Éclaireur de Mizâdi"/>
+<label key="1879501433" value="Éclaireur Mizâdi"/>
 <label key="1879501434" value="Girhâzi"/>
 <label key="1879501435" value="Mizâdi"/>
 <label key="1879501436" value="Rahâzi"/>
-<label key="1879501437" value="Éclaireur de Mizâdi"/>
+<label key="1879501437" value="Éclaireur Mizâdi"/>
 <label key="1879501438" value="Amalibi"/>
-<label key="1879501439" value="Éclaireuse de Mizâdi"/>
+<label key="1879501439" value="Éclaireuse Mizâdi"/>
 <label key="1879501440" value="Mizâdi"/>
 <label key="1879501441" value="Numûru"/>
 <label key="1879501443" value="Zidunâm"/>
@@ -46462,7 +46462,7 @@
 <label key="1879501555" value="Armes abandonnées"/>
 <label key="1879501556" value="Botte de paille"/>
 <label key="1879501557" value="Champ de céréales"/>
-<label key="1879501558" value="Pot de goudron"/>
+<label key="1879501558" value="Pot en goudron"/>
 <label key="1879501560" value="Bouclier Subuzûri"/>
 <label key="1879501561" value="Sac de provisions"/>
 <label key="1879501562" value="Carte de la bataille"/>
@@ -49483,16 +49483,19 @@
 <label key="1879524420" value="Mornecroc"/>
 <label key="1879524421" value="Maître de meute tarkrîp"/>
 <label key="1879524429" value="Autel corrompu"/>
-<label key="1879524468" value="Takâltu le Fourreau"/>
-<label key="1879524470" value="Assermenté de Khardâmu"/>
-<label key="1879524471" value="Kishâsu le Savant"/>
+<label key="1879524468" value="Takâltu the Scabbard"/>
+<label key="1879524469" value="Sudûgul"/>
+<label key="1879524470" value="Khardâmu Blood-sworn"/>
+<label key="1879524471" value="Kishâsu the Knowing"/>
+<label key="1879524472" value="Sudûgul"/>
 <label key="1879524473" value="Ushkudâsh"/>
 <label key="1879524474" value="Ushkudâsh"/>
-<label key="1879524475" value="Kishâsu le Savant"/>
-<label key="1879524477" value="Assermenté de Khardâmu"/>
-<label key="1879524478" value="Takâltu le Fourreau"/>
-<label key="1879524479" value="Takâltu le Fourreau"/>
-<label key="1879524480" value="Takâltu le Fourreau"/>
+<label key="1879524475" value="Kishâsu the Knowing"/>
+<label key="1879524476" value="Sudûgul"/>
+<label key="1879524477" value="Khardâmu Blood-sworn"/>
+<label key="1879524478" value="Takâltu the Scabbard"/>
+<label key="1879524479" value="Takâltu the Scabbard"/>
+<label key="1879524480" value="Takâltu the Scabbard"/>
 <label key="1879524491" value="Matériaux de siège"/>
 <label key="1879524492" value="Tente ordâkhai"/>
 <label key="1879524494" value="Matériaux de siège"/>
@@ -49634,6 +49637,7 @@
 <label key="1879524830" value="Coffre de Khardâmu - Niveau 3"/>
 <label key="1879524831" value="Coffre de Kishâsu - Solo"/>
 <label key="1879524848" value="Échelle des Subuzûri"/>
+<label key="1879524849" value="Emplacement pour l'épée de Numûru"/>
 <label key="1879524850" value="Goudron chaud"/>
 <label key="1879524851" value="Cadenas de porte d'écluse"/>
 <label key="1879524852" value="Enclos ordâkhai"/>
@@ -49651,6 +49655,7 @@
 <label key="1879524866" value="Plat de fête intriguant"/>
 <label key="1879524867" value="Bouclier cabossé"/>
 <label key="1879524868" value="Emplacement pour support en bois"/>
+<label key="1879524869" value="Emplacement pour l'armure de Numûru"/>
 <label key="1879524871" value="Emplacement pour feu de camp hamâti"/>
 <label key="1879524872" value="Emplacement pour tente hamâtie"/>
 <label key="1879524873" value="Plat de fête parfumé"/>
@@ -49660,20 +49665,20 @@
 <label key="1879524877" value="Plat de fête exotique"/>
 <label key="1879524878" value="Empreintes ordâkhai"/>
 <label key="1879524879" value="Emplacement pour bannière"/>
-<label key="1879524887" value="TBD Healer Wight"/>
-<label key="1879524888" value="TBD Heavy Wight"/>
-<label key="1879524889" value="TBD Debuff Darkwater"/>
-<label key="1879524890" value="TBD Ranged Wight"/>
-<label key="1879524891" value="TBD Melee Darkwater"/>
-<label key="1879524892" value="TBD Melee Wight"/>
-<label key="1879524893" value="TBD Debuff Wight"/>
-<label key="1879524895" value="TBD Heavy Wight"/>
-<label key="1879524896" value="TBD Ranged Wight"/>
-<label key="1879524897" value="TBD Debuff Darkwater"/>
-<label key="1879524898" value="TBD Healer Wight"/>
-<label key="1879524899" value="TBD Debuff Wight"/>
-<label key="1879524900" value="TBD Melee Darkwater"/>
-<label key="1879524901" value="TBD Melee Wight"/>
+<label key="1879524887" value="Dompteur du Deuxième Âge"/>
+<label key="1879524888" value="Garde du Deuxième Âge"/>
+<label key="1879524889" value="Esprit vengeur"/>
+<label key="1879524890" value="Archer du Deuxième Âge"/>
+<label key="1879524891" value="Esprit frénétique"/>
+<label key="1879524892" value="Guerrier du Deuxième Âge"/>
+<label key="1879524893" value="Conjureur du Deuxième Âge"/>
+<label key="1879524895" value="Garde du Deuxième Âge"/>
+<label key="1879524896" value="Archer du Deuxième Âge"/>
+<label key="1879524897" value="Esprit vengeur"/>
+<label key="1879524898" value="Dompteur du Deuxième Âge"/>
+<label key="1879524899" value="Conjureur du Deuxième Âge"/>
+<label key="1879524900" value="Esprit frénétique"/>
+<label key="1879524901" value="Guerrier du Deuxième Âge"/>
 <label key="1879524934" value="Cadavre lié"/>
 <label key="1879524935" value="Zâkhabat le Mangemal"/>
 <label key="1879524936" value="GNDN"/>
@@ -49684,22 +49689,22 @@
 <label key="1879524945" value="Tente ordâkhai"/>
 <label key="1879524981" value="Mizâdi"/>
 <label key="1879524982" value="Rahâzi"/>
-<label key="1879524996" value="TBD Heavy Skeleton"/>
-<label key="1879524998" value="TBD Melee Skeleton"/>
-<label key="1879524999" value="TBD Melee Skeleton"/>
-<label key="1879525001" value="TBD Ranged Skeleton"/>
-<label key="1879525003" value="TBD Heavy Skeleton"/>
-<label key="1879525004" value="TBD Ranged Skeleton"/>
+<label key="1879524996" value="Sentinelle du Deuxième Âge"/>
+<label key="1879524998" value="Revenant du Deuxième Âge"/>
+<label key="1879524999" value="Revenant du Deuxième Âge"/>
+<label key="1879525001" value="Éclaireur du Deuxième Âge"/>
+<label key="1879525003" value="Sentinelle du Deuxième Âge"/>
+<label key="1879525004" value="Éclaireur du Deuxième Âge"/>
 <label key="1879525013" value="Cheval de course"/>
 <label key="1879525014" value="Cheval de course"/>
-<label key="1879525018" value="TBD Ranged Ordakhai"/>
-<label key="1879525019" value="TBD Healer Ordakhai"/>
-<label key="1879525021" value="TBD Debuff Ordakhai"/>
-<label key="1879525024" value="TBD Melee Ordakhai"/>
-<label key="1879525027" value="TBD Debuff Ordakhai"/>
-<label key="1879525031" value="TBD Melee Ordakhai"/>
-<label key="1879525032" value="TBD Ranged Ordakhai"/>
-<label key="1879525034" value="TBD Healer Ordakhai"/>
+<label key="1879525018" value="Ordâkhai Bowman"/>
+<label key="1879525019" value="Ordâkhai Herbalist"/>
+<label key="1879525021" value="Ordâkhai Sorcerer"/>
+<label key="1879525024" value="Ordâkhai Warrior"/>
+<label key="1879525027" value="Ordâkhai Sorcerer"/>
+<label key="1879525031" value="Ordâkhai Warrior"/>
+<label key="1879525032" value="Ordâkhai Bowman"/>
+<label key="1879525034" value="Ordâkhai Herbalist"/>
 <label key="1879525040" value="Bassin de Pahar Hatokali"/>
 <label key="1879525079" value="Intendant des chasseurs"/>
 <label key="1879525090" value="Le Boxeur"/>
@@ -49747,14 +49752,21 @@
 <label key="1879525885" value="Mizâdi"/>
 <label key="1879525886" value="Razâl"/>
 <label key="1879525887" value="Numûru"/>
-<label key="1879525910" value="TBD"/>
+<label key="1879525910" value="Nârud"/>
 <label key="1879525911" value="Lion captif"/>
 <label key="1879525912" value="Lionne captive"/>
 <label key="1879525946" value="Kiri"/>
 <label key="1879525947" value="Kiri"/>
 <label key="1879526047" value="Surcroît de vitesse"/>
 <label key="1879526049" value="Avancée prudente"/>
-<label key="1879526256" value="Sightseer"/>
-<label key="1879526371" value="Ordâkhai Look-out"/>
-<label key="1879526372" value="Volley"/>
+<label key="1879526256" value="Touriste"/>
+<label key="1879526305" value="Ritual Statue"/>
+<label key="1879526306" value="Ritual Statue"/>
+<label key="1879526371" value="Guetteur d'Ordâkh"/>
+<label key="1879526372" value="Volée"/>
+<label key="1879526782" value="Emplacement pour pierre commémorative"/>
+<label key="1879526802" value="Kiri"/>
+<label key="1879526825" value="Emplacement pour bannière"/>
+<label key="1879527158" value="DNT - Devour Life"/>
+<label key="1879527176" value="Egg"/>
 </labels>

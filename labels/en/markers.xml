@@ -49484,11 +49484,14 @@
 <label key="1879524421" value="Tarkrîp Pack-master"/>
 <label key="1879524429" value="Corrupt Altar"/>
 <label key="1879524468" value="Takâltu the Scabbard"/>
+<label key="1879524469" value="Sudûgul"/>
 <label key="1879524470" value="Khardâmu Blood-sworn"/>
 <label key="1879524471" value="Kishâsu the Knowing"/>
+<label key="1879524472" value="Sudûgul"/>
 <label key="1879524473" value="Ushkudâsh"/>
 <label key="1879524474" value="Ushkudâsh"/>
 <label key="1879524475" value="Kishâsu the Knowing"/>
+<label key="1879524476" value="Sudûgul"/>
 <label key="1879524477" value="Khardâmu Blood-sworn"/>
 <label key="1879524478" value="Takâltu the Scabbard"/>
 <label key="1879524479" value="Takâltu the Scabbard"/>
@@ -49634,6 +49637,7 @@
 <label key="1879524830" value="Khardâmu's Chest - Tier 3"/>
 <label key="1879524831" value="Kishâsu's Chest - Solo"/>
 <label key="1879524848" value="Subuzûri Ladder"/>
+<label key="1879524849" value="Area for Numûru's Sword"/>
 <label key="1879524850" value="Hot Tar"/>
 <label key="1879524851" value="Sluice Gate Lock"/>
 <label key="1879524852" value="Ordâkhai Paddock"/>
@@ -49651,6 +49655,7 @@
 <label key="1879524866" value="Intriguing Party Dish"/>
 <label key="1879524867" value="Dented Shield"/>
 <label key="1879524868" value="Area for Wooden Support"/>
+<label key="1879524869" value="Area for Numûru's Armour"/>
 <label key="1879524871" value="Area for Hamât Camp-fire"/>
 <label key="1879524872" value="Area for Hamât Tent"/>
 <label key="1879524873" value="Fragrant Party Dish"/>
@@ -49660,20 +49665,20 @@
 <label key="1879524877" value="Exotic Party Dish"/>
 <label key="1879524878" value="Ordâkhai Bootprints"/>
 <label key="1879524879" value="Area for Banner"/>
-<label key="1879524887" value="TBD Healer Wight"/>
-<label key="1879524888" value="TBD Heavy Wight"/>
-<label key="1879524889" value="TBD Debuff Darkwater"/>
-<label key="1879524890" value="TBD Ranged Wight"/>
-<label key="1879524891" value="TBD Melee Darkwater"/>
-<label key="1879524892" value="TBD Melee Wight"/>
-<label key="1879524893" value="TBD Debuff Wight"/>
-<label key="1879524895" value="TBD Heavy Wight"/>
-<label key="1879524896" value="TBD Ranged Wight"/>
-<label key="1879524897" value="TBD Debuff Darkwater"/>
-<label key="1879524898" value="TBD Healer Wight"/>
-<label key="1879524899" value="TBD Debuff Wight"/>
-<label key="1879524900" value="TBD Melee Darkwater"/>
-<label key="1879524901" value="TBD Melee Wight"/>
+<label key="1879524887" value="Second Age Tender"/>
+<label key="1879524888" value="Second Age Guardsman"/>
+<label key="1879524889" value="Vengeful Spirit"/>
+<label key="1879524890" value="Second Age Archer"/>
+<label key="1879524891" value="Frenzied Spirit"/>
+<label key="1879524892" value="Second Age Warrior"/>
+<label key="1879524893" value="Second Age Conjuror"/>
+<label key="1879524895" value="Second Age Guardsman"/>
+<label key="1879524896" value="Second Age Archer"/>
+<label key="1879524897" value="Vengeful Spirit"/>
+<label key="1879524898" value="Second Age Tender"/>
+<label key="1879524899" value="Second Age Conjuror"/>
+<label key="1879524900" value="Frenzied Spirit"/>
+<label key="1879524901" value="Second Age Warrior"/>
 <label key="1879524934" value="Bound Corpse"/>
 <label key="1879524935" value="Zâkhabat, the Malice-eater"/>
 <label key="1879524936" value="GNDN"/>
@@ -49684,22 +49689,22 @@
 <label key="1879524945" value="Ordâkhai Tent"/>
 <label key="1879524981" value="Mizâdi"/>
 <label key="1879524982" value="Rahâzi"/>
-<label key="1879524996" value="TBD Heavy Skeleton"/>
-<label key="1879524998" value="TBD Melee Skeleton"/>
-<label key="1879524999" value="TBD Melee Skeleton"/>
-<label key="1879525001" value="TBD Ranged Skeleton"/>
-<label key="1879525003" value="TBD Heavy Skeleton"/>
-<label key="1879525004" value="TBD Ranged Skeleton"/>
+<label key="1879524996" value="Second Age Warden"/>
+<label key="1879524998" value="Second Age Revenant"/>
+<label key="1879524999" value="Second Age Revenant"/>
+<label key="1879525001" value="Second Age Scout"/>
+<label key="1879525003" value="Second Age Warden"/>
+<label key="1879525004" value="Second Age Scout"/>
 <label key="1879525013" value="Race Pony"/>
 <label key="1879525014" value="Race Horse"/>
-<label key="1879525018" value="TBD Ranged Ordakhai"/>
-<label key="1879525019" value="TBD Healer Ordakhai"/>
-<label key="1879525021" value="TBD Debuff Ordakhai"/>
-<label key="1879525024" value="TBD Melee Ordakhai"/>
-<label key="1879525027" value="TBD Debuff Ordakhai"/>
-<label key="1879525031" value="TBD Melee Ordakhai"/>
-<label key="1879525032" value="TBD Ranged Ordakhai"/>
-<label key="1879525034" value="TBD Healer Ordakhai"/>
+<label key="1879525018" value="Ordâkhai Bowman"/>
+<label key="1879525019" value="Ordâkhai Herbalist"/>
+<label key="1879525021" value="Ordâkhai Sorcerer"/>
+<label key="1879525024" value="Ordâkhai Warrior"/>
+<label key="1879525027" value="Ordâkhai Sorcerer"/>
+<label key="1879525031" value="Ordâkhai Warrior"/>
+<label key="1879525032" value="Ordâkhai Bowman"/>
+<label key="1879525034" value="Ordâkhai Herbalist"/>
 <label key="1879525040" value="Pahar Hatokáli Reflecting Pool"/>
 <label key="1879525079" value="Hunter's Quartermaster"/>
 <label key="1879525090" value="The Boxer"/>
@@ -49755,6 +49760,13 @@
 <label key="1879526047" value="Burst of Speed"/>
 <label key="1879526049" value="Treading Carefully"/>
 <label key="1879526256" value="Sightseer"/>
+<label key="1879526305" value="Ritual Statue"/>
+<label key="1879526306" value="Ritual Statue"/>
 <label key="1879526371" value="Ordâkhai Look-out"/>
 <label key="1879526372" value="Volley"/>
+<label key="1879526782" value="Area for Memorial Stone"/>
+<label key="1879526802" value="Kirí"/>
+<label key="1879526825" value="Area for Banner"/>
+<label key="1879527158" value="DNT - Devour Life"/>
+<label key="1879527176" value="Egg"/>
 </labels>
