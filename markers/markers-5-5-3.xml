@@ -1948,25 +1948,63 @@
 <marker id="1429262515" label="Desert Artifact" category="50" did="1879517168" parentZoneId="1879521058" longitude="-82.02627" latitude="-75.31702"/>
 <marker id="1429262516" label="Backpack" category="72" did="1879517662" parentZoneId="1879521058" longitude="-82.02627" latitude="-75.31702"/>
 <marker id="1429262517" label="Well-preserved Desert Artifact" category="50" did="1879517165" parentZoneId="1879521058" longitude="-82.02627" latitude="-75.31702"/>
-<marker id="1429266432" label="Gate" category="100" did="1879482686" parentZoneId="1879521058" longitude="-82.077705" latitude="-74.525215"/>
-<marker id="1429266433" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879521058" longitude="-82.22754" latitude="-74.31895"/>
-<marker id="1429266434" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879521058" longitude="-82.203224" latitude="-74.31914"/>
-<marker id="1429266435" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879521058" longitude="-82.22715" latitude="-74.325226"/>
-<marker id="1429266436" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879521058" longitude="-82.20225" latitude="-74.312935"/>
-<marker id="1429266437" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879521058" longitude="-82.20425" latitude="-74.32696"/>
-<marker id="1429266438" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879521058" longitude="-82.22615" latitude="-74.31245"/>
-<marker id="1429266439" label="Control Point" category="73" did="1879152429" parentZoneId="1879521058" longitude="-82.429" latitude="-74.4222"/>
-<marker id="1429266440" label="Gate" category="100" did="1879482686" parentZoneId="1879521058" longitude="-82.37291" latitude="-74.361725"/>
-<marker id="1429266441" label="Khardâmu's Chest - Solo" category="72" did="1879524820" parentZoneId="1879521058" longitude="-82.39646" latitude="-74.38899"/>
-<marker id="1429266442" label="Khardâmu's Chest - Tier 3" category="72" did="1879524830" parentZoneId="1879521058" longitude="-82.39691" latitude="-74.38911"/>
-<marker id="1429266443" label="Khardâmu's Chest - Tier 2" category="72" did="1879524829" parentZoneId="1879521058" longitude="-82.397125" latitude="-74.38903"/>
-<marker id="1429266444" label="Khardâmu's Chest - Tier 1" category="72" did="1879524825" parentZoneId="1879521058" longitude="-82.39697" latitude="-74.388954"/>
-<marker id="1429266445" label="Khardâmu Blood-sworn" category="71" did="1879524470" parentZoneId="1879521058" longitude="-82.527145" latitude="-74.43605"/>
-<marker id="1429266446" label="Khardâmu Blood-sworn" category="71" did="1879524477" parentZoneId="1879521058" longitude="-82.526695" latitude="-74.43627"/>
-<marker id="1429270528" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879521058" longitude="-82.12564" latitude="-73.75787"/>
-<marker id="1429270529" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879521058" longitude="-82.101326" latitude="-73.75807"/>
-<marker id="1429270530" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879521058" longitude="-82.12525" latitude="-73.76415"/>
-<marker id="1429270531" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879521058" longitude="-82.10234" latitude="-73.76589"/>
+<marker id="1429266432" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-82.192184" latitude="-74.40295"/>
+<marker id="1429266433" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-82.18445" latitude="-74.39176"/>
+<marker id="1429266434" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-82.168175" latitude="-74.05148"/>
+<marker id="1429266435" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-82.171715" latitude="-74.324234"/>
+<marker id="1429266436" label="Blood-sworn Guard" category="71" did="1879527047" parentZoneId="1879523592" longitude="-82.4283" latitude="-74.31414"/>
+<marker id="1429266437" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.18154" latitude="-74.10873"/>
+<marker id="1429266438" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.19239" latitude="-74.403015"/>
+<marker id="1429266439" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.18389" latitude="-74.39178"/>
+<marker id="1429266440" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.1682" latitude="-74.05175"/>
+<marker id="1429266441" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.172615" latitude="-74.32364"/>
+<marker id="1429266442" label="Blood-sworn Guard" category="71" did="1879527046" parentZoneId="1879523592" longitude="-82.58869" latitude="-74.31225"/>
+<marker id="1429266443" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-82.28703" latitude="-74.363205"/>
+<marker id="1429266444" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-82.10168" latitude="-74.48788"/>
+<marker id="1429266445" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-82.14019" latitude="-74.148186"/>
+<marker id="1429266446" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-82.23994" latitude="-74.435875"/>
+<marker id="1429266447" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-82.3197" latitude="-74.31508"/>
+<marker id="1429266448" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-82.31414" latitude="-74.36007"/>
+<marker id="1429266449" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.28705" latitude="-74.363365"/>
+<marker id="1429266450" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.30146" latitude="-74.31725"/>
+<marker id="1429266451" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.10238" latitude="-74.486984"/>
+<marker id="1429266452" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.14049" latitude="-74.148315"/>
+<marker id="1429266453" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879523592" longitude="-82.239815" latitude="-74.436905"/>
+<marker id="1429266454" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879523592" longitude="-82.31953" latitude="-74.31493"/>
+<marker id="1429266455" label="Blood-sworn Guard" category="71" did="1879527049" parentZoneId="1879523592" longitude="-82.606735" latitude="-74.42851"/>
+<marker id="1429266456" label="Blood-sworn Guard" category="71" did="1879527057" parentZoneId="1879523592" longitude="-82.42473" latitude="-74.43257"/>
+<marker id="1429266457" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.48538" latitude="-74.44163"/>
+<marker id="1429266458" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.48538" latitude="-74.441635"/>
+<marker id="1429266459" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.536095" latitude="-74.4428"/>
+<marker id="1429266460" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.48538" latitude="-74.44147"/>
+<marker id="1429266461" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.41798" latitude="-74.29289"/>
+<marker id="1429266462" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.6006" latitude="-74.30173"/>
+<marker id="1429266463" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.53617" latitude="-74.444534"/>
+<marker id="1429266464" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.536026" latitude="-74.442924"/>
+<marker id="1429266465" label="Imposing Banner" category="71" did="1879527321" parentZoneId="1879523592" longitude="-82.50199" latitude="-74.27851"/>
+<marker id="1429266466" label="Blood-sworn Guard" category="71" did="1879528111" parentZoneId="1879523592" longitude="-82.47014" latitude="-74.428604"/>
+<marker id="1429266467" label="Control Point" category="73" did="1879152429" parentZoneId="1879523592" longitude="-82.429" latitude="-74.4222"/>
+<marker id="1429266468" label="Blood-sworn Guard" category="71" did="1879528114" parentZoneId="1879523592" longitude="-82.55438" latitude="-74.427734"/>
+<marker id="1429266469" label="Imposing Banner" category="71" did="1879528112" parentZoneId="1879523592" longitude="-82.53617" latitude="-74.44362"/>
+<marker id="1429266470" label="Imposing Banner" category="71" did="1879528112" parentZoneId="1879523592" longitude="-82.48508" latitude="-74.4424"/>
+<marker id="1429266471" label="Imposing Banner" category="71" did="1879528112" parentZoneId="1879523592" longitude="-82.60041" latitude="-74.30196"/>
+<marker id="1429266472" label="Imposing Banner" category="71" did="1879528112" parentZoneId="1879523592" longitude="-82.41771" latitude="-74.29299"/>
+<marker id="1429266473" label="Door" category="100" did="1879368135" parentZoneId="1879523592" longitude="-82.37282" latitude="-74.362175"/>
+<marker id="1429266474" label="Door" category="100" did="1879368135" parentZoneId="1879523592" longitude="-82.07703" latitude="-74.52456"/>
+<marker id="1429266475" label="Khardâmu's Chest - Solo" category="72" did="1879524820" parentZoneId="1879523592" longitude="-82.39646" latitude="-74.38899"/>
+<marker id="1429266476" label="Khardâmu's Chest - Tier 3" category="72" did="1879524830" parentZoneId="1879523592" longitude="-82.39691" latitude="-74.38911"/>
+<marker id="1429266477" label="Khardâmu's Chest - Tier 2" category="72" did="1879524829" parentZoneId="1879523592" longitude="-82.397125" latitude="-74.38903"/>
+<marker id="1429266478" label="Khardâmu's Chest - Tier 1" category="72" did="1879524825" parentZoneId="1879523592" longitude="-82.39697" latitude="-74.388954"/>
+<marker id="1429266479" label="Khardâmu Blood-sworn" category="71" did="1879524470" parentZoneId="1879523592" longitude="-82.51205" latitude="-74.44058"/>
+<marker id="1429266480" label="Khardâmu Blood-sworn" category="71" did="1879524477" parentZoneId="1879523592" longitude="-82.51222" latitude="-74.440025"/>
+<marker id="1429270528" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-82.08293" latitude="-73.77111"/>
+<marker id="1429270529" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.082954" latitude="-73.77092"/>
+<marker id="1429270530" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-82.15451" latitude="-73.92787"/>
+<marker id="1429270531" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-82.149284" latitude="-73.79934"/>
+<marker id="1429270532" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-82.09613" latitude="-73.93252"/>
+<marker id="1429270533" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.14906" latitude="-73.79989"/>
+<marker id="1429270534" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-82.10404" latitude="-73.86152"/>
+<marker id="1429270535" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879523592" longitude="-82.09659" latitude="-73.93106"/>
 <marker id="1429311488" label="Hatokáli Lobber" category="71" did="1879523333" parentZoneId="1879521058" longitude="-81.67357" latitude="-78.46579"/>
 <marker id="1429311489" label="Ordâkhai Warrior" category="71" did="1879523341" parentZoneId="1879521058" longitude="-81.67357" latitude="-78.46579"/>
 <marker id="1429311490" label="Inquisitive Hawk" category="71" did="1879523339" parentZoneId="1879521058" longitude="-81.67357" latitude="-78.46579"/>
@@ -3749,71 +3787,111 @@
 <marker id="1429328006" label="Desert Artifact" category="50" did="1879517168" parentZoneId="1879521058" longitude="-81.316666" latitude="-75.26599"/>
 <marker id="1429328007" label="Backpack" category="72" did="1879517662" parentZoneId="1879521058" longitude="-81.316666" latitude="-75.26599"/>
 <marker id="1429328008" label="Well-preserved Desert Artifact" category="50" did="1879517165" parentZoneId="1879521058" longitude="-81.316666" latitude="-75.26599"/>
-<marker id="1429331968" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.45167" latitude="-74.14249"/>
-<marker id="1429331969" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.75608" latitude="-74.54181"/>
-<marker id="1429331970" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.456215" latitude="-74.152565"/>
-<marker id="1429331971" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.748314" latitude="-74.54575"/>
-<marker id="1429331972" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.46398" latitude="-74.14861"/>
-<marker id="1429331973" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.74376" latitude="-74.53568"/>
-<marker id="1429331974" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.44255" latitude="-74.12195"/>
-<marker id="1429331975" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.7542" latitude="-74.53543"/>
-<marker id="1429331976" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.43734" latitude="-74.114044"/>
-<marker id="1429331977" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.90387" latitude="-74.37215"/>
-<marker id="1429331978" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.4343" latitude="-74.12266"/>
-<marker id="1429331979" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.89343" latitude="-74.37239"/>
-<marker id="1429331980" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.41615" latitude="-74.12889"/>
-<marker id="1429331981" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.89798" latitude="-74.38246"/>
-<marker id="1429331982" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.461235" latitude="-74.50395"/>
-<marker id="1429331983" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.40761" latitude="-74.12968"/>
-<marker id="1429331984" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.90575" latitude="-74.37852"/>
-<marker id="1429331985" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.28206" latitude="-74.32941"/>
-<marker id="1429331986" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.884315" latitude="-74.35185"/>
-<marker id="1429331987" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.2906" latitude="-74.32862"/>
-<marker id="1429331988" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.879105" latitude="-74.34394"/>
-<marker id="1429331989" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.308754" latitude="-74.32239"/>
-<marker id="1429331990" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.87607" latitude="-74.35256"/>
-<marker id="1429331991" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.46644" latitude="-74.511856"/>
-<marker id="1429331992" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.31179" latitude="-74.31377"/>
-<marker id="1429331993" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.85791" latitude="-74.358795"/>
-<marker id="1429331994" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.4582" latitude="-74.512566"/>
-<marker id="1429331995" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.317" latitude="-74.32168"/>
-<marker id="1429331996" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.849365" latitude="-74.35958"/>
-<marker id="1429331997" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.44004" latitude="-74.5188"/>
-<marker id="1429331998" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.33843" latitude="-74.34835"/>
-<marker id="1429331999" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.72807" latitude="-74.10958"/>
-<marker id="1429332000" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.431496" latitude="-74.519585"/>
-<marker id="1429332001" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.330666" latitude="-74.35229"/>
-<marker id="1429332002" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.73662" latitude="-74.108795"/>
-<marker id="1429332003" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.48599" latitude="-74.53215"/>
-<marker id="1429332004" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.32612" latitude="-74.34222"/>
-<marker id="1429332005" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.75477" latitude="-74.10256"/>
-<marker id="1429332006" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.47556" latitude="-74.532394"/>
-<marker id="1429332007" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.336555" latitude="-74.34197"/>
-<marker id="1429332008" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.757805" latitude="-74.09394"/>
-<marker id="1429332009" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.4801" latitude="-74.54247"/>
-<marker id="1429332010" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.763016" latitude="-74.10185"/>
-<marker id="1429332011" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.48788" latitude="-74.53853"/>
-<marker id="1429332012" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.78445" latitude="-74.12852"/>
-<marker id="1429332013" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.69971" latitude="-74.52287"/>
-<marker id="1429332014" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.77668" latitude="-74.13246"/>
-<marker id="1429332015" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.70825" latitude="-74.52209"/>
-<marker id="1429332016" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.77213" latitude="-74.12239"/>
-<marker id="1429332017" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.7264" latitude="-74.515854"/>
-<marker id="1429332018" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.78257" latitude="-74.12215"/>
-<marker id="1429332019" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.72944" latitude="-74.50723"/>
-<marker id="1429332020" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.462105" latitude="-74.14224"/>
-<marker id="1429332021" label="Egg" category="71" did="1879527176" parentZoneId="1879521058" longitude="-81.73465" latitude="-74.51514"/>
-<marker id="1429332022" label="Control Point" category="73" did="1879152429" parentZoneId="1879521058" longitude="-81.50332" latitude="-74.118706"/>
-<marker id="1429332023" label="Ushkudâsh's Chest - Tier 1" category="72" did="1879524822" parentZoneId="1879521058" longitude="-81.58637" latitude="-74.56298"/>
-<marker id="1429332024" label="Ushkudâsh's Chest - Tier 3" category="72" did="1879524828" parentZoneId="1879521058" longitude="-81.58676" latitude="-74.56307"/>
-<marker id="1429332025" label="Ushkudâsh's Chest - Solo" category="72" did="1879524827" parentZoneId="1879521058" longitude="-81.58689" latitude="-74.562294"/>
-<marker id="1429332026" label="Portcullis" category="100" did="1879485147" parentZoneId="1879521058" longitude="-81.59478" latitude="-74.02289"/>
-<marker id="1429332027" label="Ushkudâsh's Chest - Tier 2" category="72" did="1879524824" parentZoneId="1879521058" longitude="-81.58647" latitude="-74.56248"/>
-<marker id="1429332028" label="Sudûgul" category="71" did="1879524469" parentZoneId="1879521058" longitude="-81.58873" latitude="-74.428635"/>
-<marker id="1429332029" label="Ushkudâsh" category="71" did="1879524474" parentZoneId="1879521058" longitude="-81.588524" latitude="-74.45387"/>
-<marker id="1429332030" label="Ushkudâsh" category="71" did="1879524473" parentZoneId="1879521058" longitude="-81.61802" latitude="-74.45311"/>
-<marker id="1429332031" label="Sudûgul" category="71" did="1879524472" parentZoneId="1879521058" longitude="-81.61838" latitude="-74.42907"/>
-<marker id="1429336064" label="Portcullis" category="100" did="1879485147" parentZoneId="1879521058" longitude="-81.30489" latitude="-73.651245"/>
+<marker id="1429331968" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.6058" latitude="-74.72951"/>
+<marker id="1429331969" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.9014" latitude="-74.72202"/>
+<marker id="1429331970" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.70617" latitude="-74.72178"/>
+<marker id="1429331971" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.70618" latitude="-74.72173"/>
+<marker id="1429331972" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.60586" latitude="-74.72936"/>
+<marker id="1429331973" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.68468" latitude="-74.75868"/>
+<marker id="1429331974" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.89967" latitude="-74.72192"/>
+<marker id="1429331975" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.85691" latitude="-74.72513"/>
+<marker id="1429331976" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.51305" latitude="-74.72167"/>
+<marker id="1429331977" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.31822" latitude="-74.77911"/>
+<marker id="1429331978" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.25177" latitude="-74.664345"/>
+<marker id="1429331979" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.77445" latitude="-74.77002"/>
+<marker id="1429331980" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-81.20928" latitude="-74.697365"/>
+<marker id="1429331981" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-81.20862" latitude="-74.614075"/>
+<marker id="1429331982" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-81.27455" latitude="-74.73307"/>
+<marker id="1429331983" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.51233" latitude="-74.72113"/>
+<marker id="1429331984" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.31863" latitude="-74.7788"/>
+<marker id="1429331985" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.252" latitude="-74.6645"/>
+<marker id="1429331986" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.93455" latitude="-74.64849"/>
+<marker id="1429331987" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.775154" latitude="-74.768814"/>
+<marker id="1429331988" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.69115" latitude="-74.39684"/>
+<marker id="1429331989" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.71343" latitude="-74.36764"/>
+<marker id="1429331990" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.71832" latitude="-74.302444"/>
+<marker id="1429331991" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.72246" latitude="-74.327934"/>
+<marker id="1429331992" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.71464" latitude="-74.2375"/>
+<marker id="1429331993" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.738594" latitude="-74.2561"/>
+<marker id="1429331994" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.71635" latitude="-74.27185"/>
+<marker id="1429331995" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.48464" latitude="-74.241974"/>
+<marker id="1429331996" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.47784" latitude="-74.27166"/>
+<marker id="1429331997" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.478004" latitude="-74.32733"/>
+<marker id="1429331998" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.476" latitude="-74.29969"/>
+<marker id="1429331999" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.485596" latitude="-74.35898"/>
+<marker id="1429332000" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.504654" latitude="-74.38845"/>
+<marker id="1429332001" label="Egg" category="71" did="1879527178" parentZoneId="1879523592" longitude="-81.46205" latitude="-74.37598"/>
+<marker id="1429332002" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879523592" longitude="-81.20883" latitude="-74.696526"/>
+<marker id="1429332003" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47283" latitude="-74.38992"/>
+<marker id="1429332004" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71612" latitude="-74.36708"/>
+<marker id="1429332005" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47594" latitude="-74.3952"/>
+<marker id="1429332006" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.481094" latitude="-74.24333"/>
+<marker id="1429332007" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.70937" latitude="-74.36642"/>
+<marker id="1429332008" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.49009" latitude="-74.24371"/>
+<marker id="1429332009" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.7375" latitude="-74.36433"/>
+<marker id="1429332010" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.46364" latitude="-74.26611"/>
+<marker id="1429332011" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.73326" latitude="-74.36108"/>
+<marker id="1429332012" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.46026" latitude="-74.26196"/>
+<marker id="1429332013" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.72611" latitude="-74.32453"/>
+<marker id="1429332014" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.73183" latitude="-74.36756"/>
+<marker id="1429332015" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.45771" latitude="-74.26719"/>
+<marker id="1429332016" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71969" latitude="-74.32585"/>
+<marker id="1429332017" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.45354" latitude="-74.284454"/>
+<marker id="1429332018" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.505455" latitude="-74.38557"/>
+<marker id="1429332019" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.44975" latitude="-74.28798"/>
+<marker id="1429332020" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.72438" latitude="-74.33146"/>
+<marker id="1429332021" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.44197" latitude="-74.3187"/>
+<marker id="1429332022" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.742004" latitude="-74.29992"/>
+<marker id="1429332023" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.482666" latitude="-74.27265"/>
+<marker id="1429332024" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.44743" latitude="-74.31709"/>
+<marker id="1429332025" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.7395" latitude="-74.29411"/>
+<marker id="1429332026" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.45162" latitude="-74.34396"/>
+<marker id="1429332027" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.736084" latitude="-74.298225"/>
+<marker id="1429332028" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.508194" latitude="-74.3905"/>
+<marker id="1429332029" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47829" latitude="-74.26934"/>
+<marker id="1429332030" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.45333" latitude="-74.338486"/>
+<marker id="1429332031" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.72053" latitude="-74.30065"/>
+<marker id="1429332032" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.501724" latitude="-74.390396"/>
+<marker id="1429332033" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.4582" latitude="-74.344345"/>
+<marker id="1429332034" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.715164" latitude="-74.30132"/>
+<marker id="1429332035" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.46448" latitude="-74.37332"/>
+<marker id="1429332036" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.480675" latitude="-74.30247"/>
+<marker id="1429332037" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71066" latitude="-74.235245"/>
+<marker id="1429332038" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.45954" latitude="-74.3736"/>
+<marker id="1429332039" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47298" latitude="-74.303024"/>
+<marker id="1429332040" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71676" latitude="-74.23555"/>
+<marker id="1429332041" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.48899" latitude="-74.3547"/>
+<marker id="1429332042" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.73606" latitude="-74.25363"/>
+<marker id="1429332043" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.75696" latitude="-74.27294"/>
+<marker id="1429332044" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47691" latitude="-74.29603"/>
+<marker id="1429332045" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.75163" latitude="-74.273315"/>
+<marker id="1429332046" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.74203" latitude="-74.25555"/>
+<marker id="1429332047" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.49135" latitude="-74.36058"/>
+<marker id="1429332048" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47694" latitude="-74.33029"/>
+<marker id="1429332049" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71784" latitude="-74.27366"/>
+<marker id="1429332050" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.7135" latitude="-74.39516"/>
+<marker id="1429332051" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.47791" latitude="-74.32423"/>
+<marker id="1429332052" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71186" latitude="-74.27462"/>
+<marker id="1429332053" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.71871" latitude="-74.39291"/>
+<marker id="1429332054" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.75469" latitude="-74.32532"/>
+<marker id="1429332055" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.68832" latitude="-74.40057"/>
+<marker id="1429332056" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.713905" latitude="-74.26919"/>
+<marker id="1429332057" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.69084" latitude="-74.393196"/>
+<marker id="1429332058" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.750206" latitude="-74.32712"/>
+<marker id="1429332059" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.48699" latitude="-74.2392"/>
+<marker id="1429332060" label="Egg" category="71" did="1879527176" parentZoneId="1879523592" longitude="-81.69496" latitude="-74.398026"/>
+<marker id="1429332061" label="Control Point" category="73" did="1879152429" parentZoneId="1879523592" longitude="-81.50332" latitude="-74.118706"/>
+<marker id="1429332062" label="Ushkudâsh's Chest - Tier 1" category="72" did="1879524822" parentZoneId="1879523592" longitude="-81.585045" latitude="-74.511024"/>
+<marker id="1429332063" label="Ushkudâsh's Chest - Tier 3" category="72" did="1879524828" parentZoneId="1879523592" longitude="-81.58494" latitude="-74.51096"/>
+<marker id="1429332064" label="Ushkudâsh's Chest - Solo" category="72" did="1879524827" parentZoneId="1879523592" longitude="-81.58412" latitude="-74.5103"/>
+<marker id="1429332065" label="Portcullis" category="100" did="1879485147" parentZoneId="1879523592" longitude="-81.59478" latitude="-74.02289"/>
+<marker id="1429332066" label="Ushkudâsh's Chest - Tier 2" category="72" did="1879524824" parentZoneId="1879523592" longitude="-81.585335" latitude="-74.510826"/>
+<marker id="1429332067" label="Sudûgul" category="71" did="1879524469" parentZoneId="1879523592" longitude="-81.54524" latitude="-74.33251"/>
+<marker id="1429332068" label="Sudûgul" category="71" did="1879524469" parentZoneId="1879523592" longitude="-81.59878" latitude="-74.55519"/>
+<marker id="1429332069" label="Ushkudâsh" category="71" did="1879524474" parentZoneId="1879523592" longitude="-81.59691" latitude="-74.3636"/>
+<marker id="1429332070" label="Ushkudâsh" category="71" did="1879524473" parentZoneId="1879523592" longitude="-81.59636" latitude="-74.363556"/>
+<marker id="1429332071" label="Sudûgul" category="71" did="1879524472" parentZoneId="1879523592" longitude="-81.545044" latitude="-74.33232"/>
+<marker id="1429332072" label="Sudûgul" category="71" did="1879524472" parentZoneId="1879523592" longitude="-81.59908" latitude="-74.55522"/>
 <marker id="1429377024" label="Hatokáli Lobber" category="71" did="1879523333" parentZoneId="1879521058" longitude="-80.817184" latitude="-78.519875"/>
 <marker id="1429377025" label="Ordâkhai Warrior" category="71" did="1879523341" parentZoneId="1879521058" longitude="-80.817184" latitude="-78.519875"/>
 <marker id="1429377026" label="Inquisitive Hawk" category="71" did="1879523339" parentZoneId="1879521058" longitude="-80.817184" latitude="-78.519875"/>
@@ -6314,6 +6392,35 @@
 <marker id="1429393898" label="Bloodstained Hawk" category="71" did="1879523359" parentZoneId="1879521058" longitude="-80.85772" latitude="-75.0481"/>
 <marker id="1429393899" label="Hatokáli Smasher" category="71" did="1879523326" parentZoneId="1879521058" longitude="-80.85772" latitude="-75.0481"/>
 <marker id="1429393900" label="Hill Grouse" category="78" did="1879369240" parentZoneId="1879521058" longitude="-80.85772" latitude="-75.0481"/>
+<marker id="1429397504" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.09968" latitude="-74.41843"/>
+<marker id="1429397505" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.018745" latitude="-74.18683"/>
+<marker id="1429397506" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.03584" latitude="-74.09193"/>
+<marker id="1429397507" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.09991" latitude="-74.419174"/>
+<marker id="1429397508" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.06337" latitude="-74.37519"/>
+<marker id="1429397509" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.01973" latitude="-74.185265"/>
+<marker id="1429397510" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.03578" latitude="-74.09179"/>
+<marker id="1429397511" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-80.98548" latitude="-74.059265"/>
+<marker id="1429397512" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.04216" latitude="-74.02202"/>
+<marker id="1429397513" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.12596" latitude="-74.61479"/>
+<marker id="1429397514" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.05457" latitude="-74.47545"/>
+<marker id="1429397515" label="Second Age Scout" category="71" did="1879525004" parentZoneId="1879523592" longitude="-80.991486" latitude="-74.34736"/>
+<marker id="1429397516" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.12559" latitude="-74.61462"/>
+<marker id="1429397517" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.05539" latitude="-74.47568"/>
+<marker id="1429397518" label="Second Age Scout" category="71" did="1879525001" parentZoneId="1879523592" longitude="-80.99146" latitude="-74.34631"/>
+<marker id="1429397519" label="Shadow of Ushkudâsh" category="71" did="1879527449" parentZoneId="1879523592" longitude="-81.13098" latitude="-74.57638"/>
+<marker id="1429397520" label="Shadow of Ushkudâsh" category="71" did="1879527449" parentZoneId="1879523592" longitude="-81.12405" latitude="-74.42965"/>
+<marker id="1429397521" label="Shadow of Ushkudâsh" category="71" did="1879527449" parentZoneId="1879523592" longitude="-81.1234" latitude="-74.28079"/>
+<marker id="1429397522" label="Shadow of Ushkudâsh" category="71" did="1879527449" parentZoneId="1879523592" longitude="-81.11369" latitude="-74.15093"/>
+<marker id="1429401600" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-80.99584" latitude="-73.947044"/>
+<marker id="1429401601" label="Second Age Revenant" category="71" did="1879524999" parentZoneId="1879523592" longitude="-81.084465" latitude="-73.70271"/>
+<marker id="1429401602" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-80.99536" latitude="-73.94743"/>
+<marker id="1429401603" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.06292" latitude="-73.89071"/>
+<marker id="1429401604" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.014275" latitude="-73.674934"/>
+<marker id="1429401605" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-81.083984" latitude="-73.70275"/>
+<marker id="1429401606" label="Second Age Revenant" category="71" did="1879524998" parentZoneId="1879523592" longitude="-80.96812" latitude="-73.752106"/>
+<marker id="1429401607" label="Second Age Warden" category="71" did="1879524996" parentZoneId="1879523592" longitude="-81.18748" latitude="-73.637955"/>
+<marker id="1429401608" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.19483" latitude="-73.681046"/>
+<marker id="1429401609" label="Second Age Warden" category="71" did="1879525003" parentZoneId="1879523592" longitude="-81.18712" latitude="-73.63857"/>
 <marker id="1429442560" label="Hatokáli Lobber" category="71" did="1879523333" parentZoneId="1879521058" longitude="-80.09124" latitude="-78.349106"/>
 <marker id="1429442561" label="Ordâkhai Warrior" category="71" did="1879523341" parentZoneId="1879521058" longitude="-80.09124" latitude="-78.349106"/>
 <marker id="1429442562" label="Inquisitive Hawk" category="71" did="1879523339" parentZoneId="1879521058" longitude="-80.09124" latitude="-78.349106"/>
