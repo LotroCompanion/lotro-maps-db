@@ -9,7 +9,7 @@
 <marker id="1343733767" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.72475" latitude="-101.46828"/>
 <marker id="1343733768" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.52429" latitude="-101.71587"/>
 <marker id="1343733769" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.7772" latitude="-101.42037"/>
-<marker id="1343733770" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.68742" latitude="-101.33932"/>
+<marker id="1343733770" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.68724" latitude="-101.339264"/>
 <marker id="1343733771" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.51651" latitude="-101.41607"/>
 <marker id="1343733772" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.42244" latitude="-101.6868"/>
 <marker id="1343733773" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.53973" latitude="-101.38695"/>
@@ -32,143 +32,131 @@
 <marker id="1343733790" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.77695" latitude="-101.42044"/>
 <marker id="1343733791" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.52333" latitude="-101.7157"/>
 <marker id="1343733792" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.68706" latitude="-101.3394"/>
-<marker id="1343733793" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.5139" latitude="-101.419586"/>
-<marker id="1343733794" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.4225" latitude="-101.68691"/>
-<marker id="1343733795" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.46043" latitude="-101.42559"/>
-<marker id="1343733796" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-140.45035" latitude="-101.48532"/>
-<marker id="1343733797" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-140.7311" latitude="-101.23075"/>
-<marker id="1343733798" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.4245" latitude="-101.49698"/>
-<marker id="1343733799" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.72227" latitude="-101.30127"/>
-<marker id="1343733800" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.4662" latitude="-101.654175"/>
-<marker id="1343733801" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.51488" latitude="-101.751854"/>
-<marker id="1343733802" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.68141" latitude="-101.248726"/>
-<marker id="1343733803" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.44582" latitude="-101.38041"/>
-<marker id="1343733804" label="Door" category="100" did="1879368137" parentZoneId="1879523592" longitude="-140.58244" latitude="-101.40116"/>
+<marker id="1343733793" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.4225" latitude="-101.68691"/>
+<marker id="1343733794" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.46043" latitude="-101.42559"/>
+<marker id="1343733795" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-140.45035" latitude="-101.48532"/>
+<marker id="1343733796" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-140.7311" latitude="-101.23075"/>
+<marker id="1343733797" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.4245" latitude="-101.49698"/>
+<marker id="1343733798" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.72227" latitude="-101.30127"/>
+<marker id="1343733799" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.4662" latitude="-101.654175"/>
+<marker id="1343733800" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.51488" latitude="-101.751854"/>
+<marker id="1343733801" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.68141" latitude="-101.248726"/>
+<marker id="1343733802" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.44582" latitude="-101.38041"/>
+<marker id="1343733803" label="Door" category="100" did="1879368137" parentZoneId="1879523592" longitude="-140.58244" latitude="-101.40116"/>
 <marker id="1343737856" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.68773" latitude="-101.12038"/>
-<marker id="1343737857" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.45317" latitude="-100.708786"/>
-<marker id="1343737858" label="Lever" category="100" did="1879207572" parentZoneId="1879523592" longitude="-140.53171" latitude="-100.546455"/>
-<marker id="1343737859" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.6151" latitude="-101.15647"/>
-<marker id="1343737860" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.84511" latitude="-101.13044"/>
-<marker id="1343737861" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.79117" latitude="-101.14848"/>
-<marker id="1343737862" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.85002" latitude="-101.15168"/>
-<marker id="1343737863" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.45473" latitude="-100.869194"/>
-<marker id="1343737864" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.44055" latitude="-101.067055"/>
-<marker id="1343737865" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.82414" latitude="-101.14757"/>
-<marker id="1343737866" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.53505" latitude="-101.14281"/>
-<marker id="1343737867" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.4219" latitude="-100.85692"/>
-<marker id="1343737868" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.79463" latitude="-101.133736"/>
-<marker id="1343737869" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.42088" latitude="-100.679344"/>
-<marker id="1343737870" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.42455" latitude="-100.629425"/>
-<marker id="1343737871" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.40953" latitude="-100.84121"/>
-<marker id="1343737872" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.41498" latitude="-100.735054"/>
-<marker id="1343737873" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.5046" latitude="-100.74906"/>
-<marker id="1343737874" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.43207" latitude="-100.54824"/>
-<marker id="1343737875" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.51024" latitude="-100.71387"/>
-<marker id="1343737876" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.41103" latitude="-101.04625"/>
-<marker id="1343737877" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.45227" latitude="-100.60806"/>
-<marker id="1343737878" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.56822" latitude="-101.14254"/>
-<marker id="1343737879" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.46072" latitude="-101.06262"/>
-<marker id="1343737880" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.46056" latitude="-100.83489"/>
-<marker id="1343737881" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.67058" latitude="-101.13192"/>
-<marker id="1343737882" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.61497" latitude="-101.156494"/>
-<marker id="1343737883" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.68085" latitude="-101.15358"/>
-<marker id="1343737884" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.84904" latitude="-101.15088"/>
-<marker id="1343737885" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.82387" latitude="-101.14781"/>
-<marker id="1343737886" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.845" latitude="-101.13053"/>
-<marker id="1343737887" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.45454" latitude="-100.8701"/>
-<marker id="1343737888" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.44037" latitude="-101.067215"/>
-<marker id="1343737889" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.79015" latitude="-101.14816"/>
-<marker id="1343737890" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.41896" latitude="-100.67904"/>
-<marker id="1343737891" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.42339" latitude="-100.62678"/>
-<marker id="1343737892" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.40936" latitude="-100.840866"/>
-<marker id="1343737893" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.50409" latitude="-100.74896"/>
-<marker id="1343737894" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.43259" latitude="-100.54876"/>
-<marker id="1343737895" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.51018" latitude="-100.71404"/>
-<marker id="1343737896" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.79506" latitude="-101.13314"/>
-<marker id="1343737897" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-140.53465" latitude="-101.14254"/>
-<marker id="1343737898" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.68683" latitude="-101.11977"/>
-<marker id="1343737899" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.45253" latitude="-100.70802"/>
-<marker id="1343737900" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.46048" latitude="-100.83475"/>
-<marker id="1343737901" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.6704" latitude="-101.13164"/>
-<marker id="1343737902" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.46077" latitude="-101.06341"/>
-<marker id="1343737903" label="Door" category="100" did="1879368137" parentZoneId="1879523592" longitude="-140.49149" latitude="-101.13945"/>
+<marker id="1343737857" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.6151" latitude="-101.15647"/>
+<marker id="1343737858" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.84511" latitude="-101.13044"/>
+<marker id="1343737859" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.79117" latitude="-101.14848"/>
+<marker id="1343737860" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.85002" latitude="-101.15168"/>
+<marker id="1343737861" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.44055" latitude="-101.067055"/>
+<marker id="1343737862" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.82414" latitude="-101.14757"/>
+<marker id="1343737863" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.53505" latitude="-101.14281"/>
+<marker id="1343737864" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.4219" latitude="-100.85692"/>
+<marker id="1343737865" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.79463" latitude="-101.133736"/>
+<marker id="1343737866" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.42455" latitude="-100.629425"/>
+<marker id="1343737867" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.40953" latitude="-100.84121"/>
+<marker id="1343737868" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.41498" latitude="-100.735054"/>
+<marker id="1343737869" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.5046" latitude="-100.74906"/>
+<marker id="1343737870" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.43207" latitude="-100.54824"/>
+<marker id="1343737871" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.51024" latitude="-100.71387"/>
+<marker id="1343737872" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.41103" latitude="-101.04625"/>
+<marker id="1343737873" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.45227" latitude="-100.60806"/>
+<marker id="1343737874" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-140.56822" latitude="-101.14254"/>
+<marker id="1343737875" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.46072" latitude="-101.06262"/>
+<marker id="1343737876" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.46056" latitude="-100.83489"/>
+<marker id="1343737877" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.67058" latitude="-101.13192"/>
+<marker id="1343737878" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.61497" latitude="-101.156494"/>
+<marker id="1343737879" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.68085" latitude="-101.15358"/>
+<marker id="1343737880" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.84904" latitude="-101.15088"/>
+<marker id="1343737881" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.82387" latitude="-101.14781"/>
+<marker id="1343737882" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.845" latitude="-101.13053"/>
+<marker id="1343737883" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.45454" latitude="-100.8701"/>
+<marker id="1343737884" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.44037" latitude="-101.067215"/>
+<marker id="1343737885" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.79015" latitude="-101.14816"/>
+<marker id="1343737886" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.42339" latitude="-100.62678"/>
+<marker id="1343737887" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.40936" latitude="-100.840866"/>
+<marker id="1343737888" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.50409" latitude="-100.74896"/>
+<marker id="1343737889" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.43259" latitude="-100.54876"/>
+<marker id="1343737890" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.51018" latitude="-100.71404"/>
+<marker id="1343737891" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.79506" latitude="-101.13314"/>
+<marker id="1343737892" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-140.53465" latitude="-101.14254"/>
+<marker id="1343737893" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.68683" latitude="-101.11977"/>
+<marker id="1343737894" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.46048" latitude="-100.83475"/>
+<marker id="1343737895" label="Vengeful Spirit" category="71" did="1879524897" parentZoneId="1879523592" longitude="-140.6704" latitude="-101.13164"/>
+<marker id="1343737896" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.46077" latitude="-101.06341"/>
+<marker id="1343737897" label="Lever" category="100" did="1879207572" parentZoneId="1879523592" longitude="-140.53171" latitude="-100.546455"/>
+<marker id="1343737898" label="Door" category="100" did="1879368137" parentZoneId="1879523592" longitude="-140.49149" latitude="-101.13945"/>
 <marker id="1343799296" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.78537" latitude="-101.216286"/>
 <marker id="1343799297" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.7848" latitude="-101.214355"/>
-<marker id="1343799298" label="Takâltu the Weaponmaster" category="71" did="1879524480" parentZoneId="1879523592" longitude="-139.73647" latitude="-101.77801"/>
-<marker id="1343799299" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.0646" latitude="-101.29243"/>
-<marker id="1343799300" label="Lever" category="100" did="1879207572" parentZoneId="1879523592" longitude="-140.13219" latitude="-101.40274"/>
-<marker id="1343799301" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.05217" latitude="-101.22974"/>
-<marker id="1343799302" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.34235" latitude="-101.371544"/>
-<marker id="1343799303" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.88826" latitude="-101.71453"/>
-<marker id="1343799304" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.3508" latitude="-101.420975"/>
-<marker id="1343799305" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-139.95828" latitude="-101.76043"/>
-<marker id="1343799306" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0559" latitude="-101.66156"/>
-<marker id="1343799307" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.05725" latitude="-101.32604"/>
-<marker id="1343799308" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.04636" latitude="-101.394806"/>
-<marker id="1343799309" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.01338" latitude="-101.31895"/>
-<marker id="1343799310" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.03879" latitude="-101.76954"/>
-<marker id="1343799311" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-139.82988" latitude="-101.74095"/>
-<marker id="1343799312" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.05241" latitude="-101.23027"/>
-<marker id="1343799313" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.34193" latitude="-101.37148"/>
-<marker id="1343799314" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.88754" latitude="-101.71394"/>
-<marker id="1343799315" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.32088" latitude="-101.39624"/>
-<marker id="1343799316" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.05595" latitude="-101.661316"/>
-<marker id="1343799317" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.01343" latitude="-101.31868"/>
-<marker id="1343799318" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.03899" latitude="-101.76957"/>
-<marker id="1343799319" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-139.83003" latitude="-101.7408"/>
-<marker id="1343799320" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-140.35072" latitude="-101.421364"/>
-<marker id="1343799321" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-139.95831" latitude="-101.76016"/>
-<marker id="1343799322" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.06421" latitude="-101.29363"/>
+<marker id="1343799298" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.0646" latitude="-101.29243"/>
+<marker id="1343799299" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.05217" latitude="-101.22974"/>
+<marker id="1343799300" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.34235" latitude="-101.371544"/>
+<marker id="1343799301" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.88826" latitude="-101.71453"/>
+<marker id="1343799302" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-140.3508" latitude="-101.420975"/>
+<marker id="1343799303" label="Second Age Conjuror" category="71" did="1879524893" parentZoneId="1879523592" longitude="-139.95828" latitude="-101.76043"/>
+<marker id="1343799304" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0559" latitude="-101.66156"/>
+<marker id="1343799305" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.05725" latitude="-101.32604"/>
+<marker id="1343799306" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.04636" latitude="-101.394806"/>
+<marker id="1343799307" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.01338" latitude="-101.31895"/>
+<marker id="1343799308" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.03879" latitude="-101.76954"/>
+<marker id="1343799309" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-139.82988" latitude="-101.74095"/>
+<marker id="1343799310" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.05241" latitude="-101.23027"/>
+<marker id="1343799311" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.34193" latitude="-101.37148"/>
+<marker id="1343799312" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.88754" latitude="-101.71394"/>
+<marker id="1343799313" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.32088" latitude="-101.39624"/>
+<marker id="1343799314" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.01343" latitude="-101.31868"/>
+<marker id="1343799315" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.03899" latitude="-101.76957"/>
+<marker id="1343799316" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-139.83003" latitude="-101.7408"/>
+<marker id="1343799317" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-140.35072" latitude="-101.421364"/>
+<marker id="1343799318" label="Second Age Conjuror" category="71" did="1879524899" parentZoneId="1879523592" longitude="-139.95831" latitude="-101.76016"/>
+<marker id="1343799319" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.06421" latitude="-101.29363"/>
+<marker id="1343799320" label="Takâltu the Weaponmaster" category="71" did="1879524478" parentZoneId="1879523592" longitude="-139.73634" latitude="-101.777794"/>
+<marker id="1343799321" label="Takâltu the Weaponmaster" category="71" did="1879524480" parentZoneId="1879523592" longitude="-139.73627" latitude="-101.77801"/>
+<marker id="1343799322" label="Lever" category="100" did="1879207572" parentZoneId="1879523592" longitude="-140.13219" latitude="-101.40274"/>
 <marker id="1343799323" label="Door" category="100" did="1879368137" parentZoneId="1879523592" longitude="-139.77417" latitude="-101.45132"/>
-<marker id="1343799324" label="Takâltu the Weaponmaster" category="71" did="1879524478" parentZoneId="1879523592" longitude="-139.73634" latitude="-101.777794"/>
 <marker id="1343803392" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.12558" latitude="-101.13619"/>
 <marker id="1343803393" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-139.76408" latitude="-101.14371"/>
 <marker id="1343803394" label="Second Age Tender" category="71" did="1879524887" parentZoneId="1879523592" longitude="-140.32594" latitude="-101.161674"/>
-<marker id="1343803395" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.15678" latitude="-101.126564"/>
-<marker id="1343803396" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.98712" latitude="-101.12535"/>
-<marker id="1343803397" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.86397" latitude="-101.1572"/>
-<marker id="1343803398" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-140.36559" latitude="-101.15451"/>
-<marker id="1343803399" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0686" latitude="-100.840515"/>
-<marker id="1343803400" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.34454" latitude="-101.10343"/>
-<marker id="1343803401" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0657" latitude="-101.16009"/>
-<marker id="1343803402" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-139.79146" latitude="-101.16718"/>
-<marker id="1343803403" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.17819" latitude="-101.164024"/>
-<marker id="1343803404" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.05338" latitude="-101.10472"/>
-<marker id="1343803405" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-139.90126" latitude="-101.15176"/>
-<marker id="1343803406" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.03943" latitude="-101.09243"/>
-<marker id="1343803407" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.15672" latitude="-101.12625"/>
-<marker id="1343803408" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.9873" latitude="-101.12625"/>
-<marker id="1343803409" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.86415" latitude="-101.157326"/>
-<marker id="1343803410" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.93083" latitude="-101.12654"/>
-<marker id="1343803411" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.36494" latitude="-101.15519"/>
-<marker id="1343803412" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.06818" latitude="-100.840836"/>
-<marker id="1343803413" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.06575" latitude="-101.16001"/>
-<marker id="1343803414" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.34497" latitude="-101.10364"/>
-<marker id="1343803415" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-139.79115" latitude="-101.16699"/>
-<marker id="1343803416" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.32555" latitude="-101.16191"/>
-<marker id="1343803417" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.12537" latitude="-101.13592"/>
-<marker id="1343803418" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-139.76384" latitude="-101.144196"/>
-<marker id="1343803419" label="Ritual Statue" category="71" did="1879526306" parentZoneId="1879523592" longitude="-140.34843" latitude="-100.93992"/>
-<marker id="1343803420" label="Ritual Statue" category="71" did="1879526306" parentZoneId="1879523592" longitude="-140.12405" latitude="-100.936134"/>
-<marker id="1343803421" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.33725" latitude="-100.83466"/>
-<marker id="1343803422" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.34267" latitude="-101.0406"/>
-<marker id="1343803423" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.13847" latitude="-100.82864"/>
-<marker id="1343803424" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.12901" latitude="-101.04283"/>
-<marker id="1343803425" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.17801" latitude="-101.163795"/>
-<marker id="1343803426" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.05307" latitude="-101.103806"/>
-<marker id="1343803427" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-139.90121" latitude="-101.15109"/>
-<marker id="1343803428" label="Control Point" category="73" did="1879152429" parentZoneId="1879523592" longitude="-140.29523" latitude="-100.82691"/>
-<marker id="1343803429" label="Kishâsu's Chest - Tier 2" category="72" did="1879524823" parentZoneId="1879523592" longitude="-140.291" latitude="-100.82161"/>
-<marker id="1343803430" label="Kishâsu's Chest - Tier 1" category="72" did="1879524821" parentZoneId="1879523592" longitude="-140.29652" latitude="-100.82412"/>
-<marker id="1343803431" label="Kishâsu's Chest - Solo" category="72" did="1879524831" parentZoneId="1879523592" longitude="-140.30072" latitude="-100.82705"/>
-<marker id="1343803432" label="Kishâsu's Chest - Tier 3" category="72" did="1879524826" parentZoneId="1879523592" longitude="-140.28464" latitude="-100.81656"/>
-<marker id="1343803433" label="Portcullis" category="100" did="1879481689" parentZoneId="1879523592" longitude="-140.1965" latitude="-100.78551"/>
-<marker id="1343803434" label="Portcullis" category="100" did="1879481689" parentZoneId="1879523592" longitude="-140.27927" latitude="-100.78563"/>
-<marker id="1343803435" label="Kishâsu the Knowing" category="71" did="1879524471" parentZoneId="1879523592" longitude="-140.23268" latitude="-100.868324"/>
-<marker id="1343803436" label="Takâltu the Weaponmaster" category="71" did="1879524468" parentZoneId="1879523592" longitude="-140.20326" latitude="-101.04972"/>
-<marker id="1343803437" label="Takâltu the Weaponmaster" category="71" did="1879524479" parentZoneId="1879523592" longitude="-140.2747" latitude="-101.0471"/>
-<marker id="1343803438" label="Sudûgul" category="71" did="1879524476" parentZoneId="1879523592" longitude="-140.21707" latitude="-100.87434"/>
-<marker id="1343803439" label="Kishâsu the Knowing" category="71" did="1879524475" parentZoneId="1879523592" longitude="-140.23311" latitude="-100.86828"/>
+<marker id="1343803395" label="Second Age Guardsman" category="71" did="1879524895" parentZoneId="1879523592" longitude="-139.86397" latitude="-101.1572"/>
+<marker id="1343803396" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0686" latitude="-100.840515"/>
+<marker id="1343803397" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.34454" latitude="-101.10343"/>
+<marker id="1343803398" label="Second Age Warrior" category="71" did="1879524892" parentZoneId="1879523592" longitude="-140.0657" latitude="-101.16009"/>
+<marker id="1343803399" label="Frenzied Spirit" category="71" did="1879524891" parentZoneId="1879523592" longitude="-139.79146" latitude="-101.16718"/>
+<marker id="1343803400" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.17819" latitude="-101.164024"/>
+<marker id="1343803401" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-140.05338" latitude="-101.10472"/>
+<marker id="1343803402" label="Second Age Archer" category="71" did="1879524890" parentZoneId="1879523592" longitude="-139.90126" latitude="-101.15176"/>
+<marker id="1343803403" label="Vengeful Spirit" category="71" did="1879524889" parentZoneId="1879523592" longitude="-140.03943" latitude="-101.09243"/>
+<marker id="1343803404" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-140.15672" latitude="-101.12625"/>
+<marker id="1343803405" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.9873" latitude="-101.12625"/>
+<marker id="1343803406" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.86415" latitude="-101.157326"/>
+<marker id="1343803407" label="Second Age Guardsman" category="71" did="1879524888" parentZoneId="1879523592" longitude="-139.93083" latitude="-101.12654"/>
+<marker id="1343803408" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.06818" latitude="-100.840836"/>
+<marker id="1343803409" label="Second Age Warrior" category="71" did="1879524901" parentZoneId="1879523592" longitude="-140.34497" latitude="-101.10364"/>
+<marker id="1343803410" label="Frenzied Spirit" category="71" did="1879524900" parentZoneId="1879523592" longitude="-139.79115" latitude="-101.16699"/>
+<marker id="1343803411" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.32555" latitude="-101.16191"/>
+<marker id="1343803412" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-140.12537" latitude="-101.13592"/>
+<marker id="1343803413" label="Second Age Tender" category="71" did="1879524898" parentZoneId="1879523592" longitude="-139.76384" latitude="-101.144196"/>
+<marker id="1343803414" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.17801" latitude="-101.163795"/>
+<marker id="1343803415" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-140.05307" latitude="-101.103806"/>
+<marker id="1343803416" label="Second Age Archer" category="71" did="1879524896" parentZoneId="1879523592" longitude="-139.90121" latitude="-101.15109"/>
+<marker id="1343803417" label="Control Point" category="73" did="1879152429" parentZoneId="1879523592" longitude="-140.29523" latitude="-100.82691"/>
+<marker id="1343803418" label="Portcullis" category="100" did="1879481689" parentZoneId="1879523592" longitude="-140.1965" latitude="-100.78551"/>
+<marker id="1343803419" label="Portcullis" category="100" did="1879481689" parentZoneId="1879523592" longitude="-140.27927" latitude="-100.78563"/>
+<marker id="1343803420" label="Kishâsu the Knowing" category="71" did="1879524471" parentZoneId="1879523592" longitude="-140.23254" latitude="-100.868324"/>
+<marker id="1343803421" label="Takâltu the Weaponmaster" category="71" did="1879524468" parentZoneId="1879523592" longitude="-140.20326" latitude="-101.04972"/>
+<marker id="1343803422" label="Takâltu the Weaponmaster" category="71" did="1879524479" parentZoneId="1879523592" longitude="-140.2747" latitude="-101.0471"/>
+<marker id="1343803423" label="Sudûgul" category="71" did="1879524476" parentZoneId="1879523592" longitude="-140.21707" latitude="-100.87434"/>
+<marker id="1343803424" label="Kishâsu the Knowing" category="71" did="1879524475" parentZoneId="1879523592" longitude="-140.23302" latitude="-100.86828"/>
+<marker id="1343803425" label="Ritual Statue" category="71" did="1879526306" parentZoneId="1879523592" longitude="-140.34843" latitude="-100.93992"/>
+<marker id="1343803426" label="Ritual Statue" category="71" did="1879526306" parentZoneId="1879523592" longitude="-140.12405" latitude="-100.936134"/>
+<marker id="1343803427" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.33725" latitude="-100.83466"/>
+<marker id="1343803428" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.34267" latitude="-101.0406"/>
+<marker id="1343803429" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.13847" latitude="-100.82864"/>
+<marker id="1343803430" label="Ritual Statue" category="71" did="1879526305" parentZoneId="1879523592" longitude="-140.12901" latitude="-101.04283"/>
+<marker id="1343803431" label="Kishâsu's Chest - Tier 2" category="72" did="1879524823" parentZoneId="1879523592" longitude="-140.23769" latitude="-100.8369"/>
+<marker id="1343803432" label="Kishâsu's Chest - Tier 1" category="72" did="1879524821" parentZoneId="1879523592" longitude="-140.23796" latitude="-100.8375"/>
+<marker id="1343803433" label="Kishâsu's Chest - Solo" category="72" did="1879524831" parentZoneId="1879523592" longitude="-140.23796" latitude="-100.8375"/>
+<marker id="1343803434" label="Kishâsu's Chest - Tier 3" category="72" did="1879524826" parentZoneId="1879523592" longitude="-140.23735" latitude="-100.83599"/>
 <marker id="1343811584" label="Portcullis" category="100" did="1879481689" parentZoneId="1879523592" longitude="-140.18457" latitude="-99.03026"/>
 <marker id="1343811585" label="Ordâkhai Sorcerer" category="71" did="1879525021" parentZoneId="1879523592" longitude="-140.00893" latitude="-99.16432"/>
 <marker id="1343811586" label="Ordâkhai Sorcerer" category="71" did="1879525021" parentZoneId="1879523592" longitude="-140.11539" latitude="-98.9562"/>
