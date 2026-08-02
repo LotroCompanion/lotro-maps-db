@@ -964,10 +964,10 @@
 <marker id="988377098" label="Morgul Captain" category="71" did="1879324147" parentZoneId="1879324341" longitude="-11.195048" latitude="61.16377"/>
 <marker id="988381184" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879324341" longitude="-11.150996" latitude="61.57584"/>
 <marker id="988381185" label="Gate" category="100" did="1879077831" parentZoneId="1879324341" longitude="-11.173124" latitude="61.337967"/>
-<marker id="988381186" label="Small Chest" category="72" did="1879324588" parentZoneId="1879324341" longitude="-11.139716" latitude="61.898182"/>
+<marker id="988381186" label="Thrug's Chest" category="72" did="1879324588" parentZoneId="1879324341" longitude="-11.139716" latitude="61.898182"/>
 <marker id="988381187" label="Control Point" category="73" did="1879152429" parentZoneId="1879324341" longitude="-11.138711" latitude="61.89584"/>
 <marker id="988381188" label="Lever" category="73" did="1879151535" parentZoneId="1879324341" longitude="-11.149843" latitude="61.33592"/>
-<marker id="988381189" label="Small Chest" category="72" did="1879324587" parentZoneId="1879324341" longitude="-11.139716" latitude="61.898182"/>
+<marker id="988381189" label="Thrug's Chest" category="72" did="1879324587" parentZoneId="1879324341" longitude="-11.139716" latitude="61.898182"/>
 <marker id="988381190" label="Morgul Raider" category="71" did="1879324148" parentZoneId="1879324341" longitude="-11.169091" latitude="61.790955"/>
 <marker id="988381191" label="Morgul Raider" category="71" did="1879324148" parentZoneId="1879324341" longitude="-11.284902" latitude="61.843456"/>
 <marker id="988381192" label="Morgul Raider" category="71" did="1879324148" parentZoneId="1879324341" longitude="-11.156767" latitude="61.7999"/>
@@ -1110,19 +1110,19 @@
 <marker id="988520456" label="Door" category="100" did="1879227953" parentZoneId="1879324341" longitude="-9.434677" latitude="63.403435"/>
 <marker id="988520457" label="Hall of the Osgiliath-stone" category="74" did="1879324614" parentZoneId="1879324341" longitude="-9.299209" latitude="63.263317"/>
 <marker id="988520458" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879324341" longitude="-9.410371" latitude="63.37924"/>
-<marker id="988520459" label="Small Fancy Chest" category="72" did="1879324655" parentZoneId="1879324341" longitude="-9.388076" latitude="63.388084"/>
+<marker id="988520459" label="The Black Blade's Chest" category="72" did="1879324655" parentZoneId="1879324341" longitude="-9.388076" latitude="63.388084"/>
 <marker id="988520460" label="Achardor" category="71" did="1879324521" parentZoneId="1879324341" longitude="-9.297276" latitude="63.315292"/>
 <marker id="988520461" label="Mazog" category="71" did="1879324522" parentZoneId="1879324341" longitude="-9.39163" latitude="63.3159"/>
 <marker id="988520462" label="Gorothúl" category="71" did="1879324523" parentZoneId="1879324341" longitude="-9.344287" latitude="63.211796"/>
 <marker id="988520463" label="The Black Blade of Lebennin" category="71" did="1879324151" parentZoneId="1879324341" longitude="-9.409648" latitude="63.136288"/>
-<marker id="988520464" label="Small Fancy Chest" category="72" did="1879324657" parentZoneId="1879324341" longitude="-9.387285" latitude="63.387596"/>
-<marker id="988520465" label="Fancy Gold Chest" category="72" did="1879324659" parentZoneId="1879324341" longitude="-9.408418" latitude="63.380703"/>
+<marker id="988520464" label="The Black Blade's Chest" category="72" did="1879324657" parentZoneId="1879324341" longitude="-9.387285" latitude="63.387596"/>
+<marker id="988520465" label="Grand Celestial Chest" category="72" did="1879324659" parentZoneId="1879324341" longitude="-9.408418" latitude="63.380703"/>
 <marker id="988520466" label="Fell Beast" category="71" did="1879324158" parentZoneId="1879324341" longitude="-9.277597" latitude="63.272224"/>
 <marker id="988520467" label="Norhún" category="70" did="1879323647" parentZoneId="1879324341" longitude="-9.46582" latitude="63.397675"/>
 <marker id="988573696" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879324341" longitude="-8.658008" latitude="60.933437"/>
 <marker id="988573697" label="Gate" category="100" did="1879077831" parentZoneId="1879324341" longitude="-8.849971" latitude="61.14787"/>
 <marker id="988573698" label="Mysterious Figure" category="70" did="1879323941" parentZoneId="1879324341" longitude="-8.516309" latitude="60.997185"/>
-<marker id="988573699" label="Small Chest" category="72" did="1879324588" parentZoneId="1879324341" longitude="-8.768935" latitude="61.070526"/>
+<marker id="988573699" label="Thrug's Chest" category="72" did="1879324588" parentZoneId="1879324341" longitude="-8.768935" latitude="61.070526"/>
 <marker id="988573700" label="Control Point" category="73" did="1879152429" parentZoneId="1879324341" longitude="-8.76876" latitude="60.994648"/>
 <marker id="988573701" label="Haradrim Archer" category="71" did="1879324145" parentZoneId="1879324341" longitude="-8.525849" latitude="60.812927"/>
 <marker id="988573702" label="Haradrim Archer" category="71" did="1879324145" parentZoneId="1879324341" longitude="-8.731074" latitude="60.904198"/>
@@ -1171,8 +1171,8 @@
 <marker id="988577810" label="Haradrim Archer" category="71" did="1879324187" parentZoneId="1879324341" longitude="-9.015234" latitude="61.74371"/>
 <marker id="988577811" label="Haradrim Archer" category="71" did="1879324187" parentZoneId="1879324341" longitude="-9.033759" latitude="61.714237"/>
 <marker id="988577812" label="Control Point" category="73" did="1879152429" parentZoneId="1879324341" longitude="-8.793125" latitude="61.840233"/>
-<marker id="988577813" label="Small Chest" category="72" did="1879324653" parentZoneId="1879324341" longitude="-8.788369" latitude="61.812225"/>
-<marker id="988577814" label="Small Chest" category="72" did="1879324654" parentZoneId="1879324341" longitude="-8.780849" latitude="61.8123"/>
+<marker id="988577813" label="Upâl-keng's Chest" category="72" did="1879324653" parentZoneId="1879324341" longitude="-8.788369" latitude="61.812225"/>
+<marker id="988577814" label="Upâl-keng's Chest" category="72" did="1879324654" parentZoneId="1879324341" longitude="-8.780849" latitude="61.8123"/>
 <marker id="988577815" label="Upâl-keng" category="71" did="1879324153" parentZoneId="1879324341" longitude="-8.858935" latitude="61.766758"/>
 <marker id="988581888" label="Morgul Corrupter" category="71" did="1879324176" parentZoneId="1879324341" longitude="-8.57707" latitude="62.635056"/>
 <marker id="988581889" label="Morgul Black-arrow" category="71" did="1879324177" parentZoneId="1879324341" longitude="-8.596797" latitude="62.34912"/>
@@ -1312,7 +1312,7 @@
 <marker id="988721158" label="Easterling Devoted" category="71" did="1879324170" parentZoneId="1879324341" longitude="-7.5915036" latitude="63.965233"/>
 <marker id="988721159" label="Easterling Devoted" category="71" did="1879324170" parentZoneId="1879324341" longitude="-7.584043" latitude="63.97453"/>
 <marker id="988721160" label="Control Point" category="73" did="1879152429" parentZoneId="1879324341" longitude="-7.4750586" latitude="63.830467"/>
-<marker id="988721161" label="Small Chest" category="72" did="1879324652" parentZoneId="1879324341" longitude="-7.5017285" latitude="63.82494"/>
-<marker id="988721162" label="Small Chest" category="72" did="1879324658" parentZoneId="1879324341" longitude="-7.4780564" latitude="63.804764"/>
+<marker id="988721161" label="Lord of Pinions' Chest" category="72" did="1879324652" parentZoneId="1879324341" longitude="-7.5017285" latitude="63.82494"/>
+<marker id="988721162" label="Lord of Pinions' Chest" category="72" did="1879324658" parentZoneId="1879324341" longitude="-7.4780564" latitude="63.804764"/>
 <marker id="988721164" label="Rook" category="71" did="1879324152" parentZoneId="1879324341" longitude="-7.47623" latitude="63.830605"/>
 </markers>

@@ -2345,11 +2345,11 @@
 <max longitude="55.87667" latitude="-66.26666"/>
 </map>
 <map id="1879092130" name="The Delving of Frór" imageId="1091404227">
-<geo factor="300.0">
-<point longitude="50.61" latitude="-64.64666"/>
+<geo factor="600.0">
+<point longitude="51.30166" latitude="-65.14666"/>
 </geo>
-<min longitude="50.61" latitude="-68.64666"/>
-<max longitude="55.943333" latitude="-64.64666"/>
+<min longitude="51.30166" latitude="-68.14666"/>
+<max longitude="55.30166" latitude="-65.14666"/>
 </map>
 <map id="1879092131" name="Haudh Iarchith" imageId="1091387179">
 <geo factor="300.00003">
@@ -10666,5 +10666,33 @@
 </geo>
 <min longitude="-143.61111" latitude="73.69167"/>
 <max longitude="-141.38889" latitude="75.35834"/>
+</map>
+<map id="1879526844" name="Tower of the Skárashakh" imageId="1093137395">
+<geo factor="400.0">
+<point longitude="52.129997" latitude="73.765"/>
+</geo>
+<min longitude="52.129997" latitude="70.765"/>
+<max longitude="56.129997" latitude="73.765"/>
+</map>
+<map id="1879526846" name="The Brood-pits" imageId="1093137394">
+<geo factor="299.99997">
+<point longitude="52.43666" latitude="71.89"/>
+</geo>
+<min longitude="52.43666" latitude="67.89"/>
+<max longitude="57.769997" latitude="71.89"/>
+</map>
+<map id="1879526847" name="Halls of the Gaurhoth" imageId="1093137396">
+<geo factor="400.0">
+<point longitude="51.899998" latitude="76.4975"/>
+</geo>
+<min longitude="51.899998" latitude="74.9975"/>
+<max longitude="53.899998" latitude="76.4975"/>
+</map>
+<map id="1879529631" name="TBD Secret Cave" imageId="1093150785">
+<geo factor="600.0">
+<point longitude="52.45834" latitude="68.325"/>
+</geo>
+<min longitude="52.45834" latitude="67.325"/>
+<max longitude="53.79167" latitude="68.325"/>
 </map>
 </maps>

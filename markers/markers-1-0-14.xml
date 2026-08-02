@@ -364,7 +364,7 @@
 <marker id="283197442" label="Private Encounter Quest Bestower" category="73" did="1879224903" parentZoneId="1879190615" longitude="-146.31725" latitude="57.208633"/>
 <marker id="283197443" label="Door" category="100" did="1879063859" parentZoneId="1879190615" longitude="-145.4518" latitude="56.752167"/>
 <marker id="283197444" label="Door" category="100" did="1879063859" parentZoneId="1879190615" longitude="-145.95676" latitude="57.09453"/>
-<marker id="283197446" label="Wooden Chest" category="72" did="1879190141" parentZoneId="1879190615" longitude="-146.37206" latitude="57.202343"/>
+<marker id="283197446" label="Sambrog's Chest" category="72" did="1879190141" parentZoneId="1879190615" longitude="-146.37206" latitude="57.202343"/>
 <marker id="283197447" label="Skull Door" category="100" did="1879083556" parentZoneId="1879190615" longitude="-146.3845" latitude="57.203514"/>
 <marker id="283197448" label="Skull Door" category="100" did="1879083556" parentZoneId="1879190615" longitude="-144.45897" latitude="56.76289"/>
 <marker id="283197449" label="Skull Door" category="100" did="1879083556" parentZoneId="1879190615" longitude="-144.42096" latitude="56.90408"/>
@@ -431,7 +431,7 @@
 <marker id="283197546" label="Brazier" category="73" did="1879190351" parentZoneId="1879190615" longitude="-146.19106" latitude="57.15705"/>
 <marker id="283197547" label="Brazier" category="73" did="1879190351" parentZoneId="1879190615" longitude="-146.19118" latitude="57.16049"/>
 <marker id="283197548" label="Sambrog" category="71" did="1879078616" parentZoneId="1879190615" longitude="-146.34367" latitude="57.202244"/>
-<marker id="283197549" label="Fancy Gold Chest" category="72" did="1879260784" parentZoneId="1879190615" longitude="-146.37146" latitude="57.2183"/>
+<marker id="283197549" label="Sambrog's Hidden Chest" category="72" did="1879260784" parentZoneId="1879190615" longitude="-146.37146" latitude="57.2183"/>
 <marker id="283197579" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190615" longitude="-145.72446" latitude="56.90746"/>
 <marker id="283197580" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190615" longitude="-146.2598" latitude="57.268475"/>
 <marker id="283197581" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190615" longitude="-146.19093" latitude="57.262344"/>
@@ -545,8 +545,8 @@
 <marker id="283205706" label="Brazier" category="73" did="1879190351" parentZoneId="1879190614" longitude="-144.89555" latitude="59.347656"/>
 <marker id="283205707" label="Brazier" category="73" did="1879190351" parentZoneId="1879190614" longitude="-144.88783" latitude="59.307636"/>
 <marker id="283205708" label="Thadúr the Ravager" category="71" did="1879078619" parentZoneId="1879190614" longitude="-144.90903" latitude="59.331856"/>
-<marker id="283205709" label="Fancy Gold Chest" category="72" did="1879260783" parentZoneId="1879190614" longitude="-144.92203" latitude="59.36908"/>
-<marker id="283205717" label="Wooden Chest" category="72" did="1879190140" parentZoneId="1879190614" longitude="-144.90935" latitude="59.36949"/>
+<marker id="283205709" label="Thadúr's Hidden Chest" category="72" did="1879260783" parentZoneId="1879190614" longitude="-144.92203" latitude="59.36908"/>
+<marker id="283205717" label="Thadúr's Chest" category="72" did="1879190140" parentZoneId="1879190614" longitude="-144.90935" latitude="59.36949"/>
 <marker id="283205718" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190614" longitude="-144.67894" latitude="58.596912"/>
 <marker id="283205719" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190614" longitude="-144.68944" latitude="58.599567"/>
 <marker id="283205720" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190614" longitude="-144.71329" latitude="59.17326"/>
@@ -612,7 +612,7 @@
 <marker id="283213939" label="Grim Tomb-wight" category="71" did="1879083585" parentZoneId="1879190613" longitude="-145.41635" latitude="59.493435"/>
 <marker id="283213940" label="Gaerdring" category="71" did="1879078618" parentZoneId="1879190613" longitude="-145.481" latitude="59.431854"/>
 <marker id="283213941" label="Barrow-wight Caller" category="71" did="1879192040" parentZoneId="1879190613" longitude="-144.68802" latitude="59.14199"/>
-<marker id="283213942" label="Fancy Gold Chest" category="72" did="1879260785" parentZoneId="1879190613" longitude="-145.48212" latitude="59.41789"/>
+<marker id="283213942" label="Gaerdring &amp; Gaerthel's Hidden Chest" category="72" did="1879260785" parentZoneId="1879190613" longitude="-145.48212" latitude="59.41789"/>
 <marker id="283213943" label="Giant Barrow-crawler" category="71" did="1879190138" parentZoneId="1879190613" longitude="-144.69508" latitude="59.129314"/>
 <marker id="283213944" label="Giant Barrow-crawler" category="71" did="1879190138" parentZoneId="1879190613" longitude="-144.67172" latitude="59.130486"/>
 <marker id="283213945" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190613" longitude="-144.62704" latitude="59.159294"/>
@@ -632,8 +632,8 @@
 <marker id="283213959" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190613" longitude="-144.7018" latitude="59.114685"/>
 <marker id="283213960" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190613" longitude="-145.15733" latitude="59.43318"/>
 <marker id="283213961" label="Bloated Barrow-crawler" category="71" did="1879190137" parentZoneId="1879190613" longitude="-145.13518" latitude="59.47996"/>
-<marker id="283213962" label="Wooden Chest" category="72" did="1879190142" parentZoneId="1879190613" longitude="-144.68669" latitude="59.112812"/>
-<marker id="283213963" label="Wooden Chest" category="72" did="1879190143" parentZoneId="1879190613" longitude="-145.48071" latitude="59.439785"/>
+<marker id="283213962" label="Barrow-wight Caller's Chest" category="72" did="1879190142" parentZoneId="1879190613" longitude="-144.68669" latitude="59.112812"/>
+<marker id="283213963" label="Gaerdring &amp; Gaerthel's Chest" category="72" did="1879190143" parentZoneId="1879190613" longitude="-145.48071" latitude="59.439785"/>
 <marker id="283213964" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190613" longitude="-145.14241" latitude="59.51791"/>
 <marker id="283213965" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190613" longitude="-145.28622" latitude="59.592186"/>
 <marker id="283213966" label="Ancient Chalice" category="73" did="1879061506" parentZoneId="1879190613" longitude="-145.2206" latitude="59.739178"/>

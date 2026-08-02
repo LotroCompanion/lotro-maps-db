@@ -135,15 +135,12 @@
 <marker id="1072488462" label="Fuiros" category="70" did="1879329336" parentZoneId="1879328495" longitude="54.83045" latitude="65.75162"/>
 <marker id="1072488463" label="Gelwen" category="70" did="1879329337" parentZoneId="1879328495" longitude="54.72537" latitude="65.80203"/>
 <marker id="1072488464" label="Dothnir" category="70" did="1879329338" parentZoneId="1879328495" longitude="54.83908" latitude="65.74895"/>
-<marker id="1072603139" label="Study" category="45" did="1879314747" parentZoneId="1879329823" longitude="56.25611" latitude="62.77908"/>
-<marker id="1072603140" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.307285" latitude="62.777344"/>
-<marker id="1072603145" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.493202" latitude="62.823086"/>
-<marker id="1072603168" label="Master of Crafting Guilds" category="42" did="1879330153" parentZoneId="1879329823" longitude="56.384567" latitude="62.870487"/>
-<marker id="1072603170" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879329823" longitude="56.29658" latitude="62.870274"/>
-<marker id="1072603171" label="Mailbox" category="34" did="1879314516" parentZoneId="1879329823" longitude="56.380722" latitude="62.75027"/>
-<marker id="1072603172" label="Mailbox" category="34" did="1879314516" parentZoneId="1879329823" longitude="56.41961" latitude="62.75027"/>
-<marker id="1072603173" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.54539" latitude="62.77699"/>
-<marker id="1072603174" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.548203" latitude="62.819958"/>
+<marker id="1072603136" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.307285" latitude="62.777344"/>
+<marker id="1072603141" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.493202" latitude="62.823086"/>
+<marker id="1072603168" label="Mailbox" category="34" did="1879314516" parentZoneId="1879329823" longitude="56.41961" latitude="62.75027"/>
+<marker id="1072603169" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.54539" latitude="62.77699"/>
+<marker id="1072603170" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.548203" latitude="62.819958"/>
+<marker id="1072603174" label="Study" category="45" did="1879314747" parentZoneId="1879329823" longitude="56.25611" latitude="62.77908"/>
 <marker id="1072603175" label="Oven" category="45" did="1879190929" parentZoneId="1879329823" longitude="56.500313" latitude="62.92662"/>
 <marker id="1072603176" label="Oven" category="45" did="1879190929" parentZoneId="1879329823" longitude="56.300312" latitude="62.92662"/>
 <marker id="1072603177" label="Workbench" category="45" did="1879314748" parentZoneId="1879329823" longitude="56.49334" latitude="62.77824"/>
@@ -153,6 +150,9 @@
 <marker id="1072603181" label="Study" category="45" did="1879314747" parentZoneId="1879329823" longitude="56.255623" latitude="62.82205"/>
 <marker id="1072603182" label="Supplier" category="38" did="1879326958" parentZoneId="1879329823" longitude="56.344257" latitude="62.832165"/>
 <marker id="1072603183" label="Master of Apprentices" category="42" did="1879330156" parentZoneId="1879329823" longitude="56.426407" latitude="62.86156"/>
+<marker id="1072603184" label="Master of Crafting Guilds" category="42" did="1879330153" parentZoneId="1879329823" longitude="56.384567" latitude="62.870487"/>
+<marker id="1072603185" label="Mailbox" category="34" did="1879314516" parentZoneId="1879329823" longitude="56.380722" latitude="62.75027"/>
+<marker id="1072603187" label="Vault-keeper" category="40" did="1879313229" parentZoneId="1879329823" longitude="56.29658" latitude="62.870274"/>
 <marker id="1072603188" label="Legendary Recipes&#10;Metalsmith's Guild" category="33" did="1879313716" parentZoneId="1879329823" longitude="56.502167" latitude="62.708904"/>
 <marker id="1072603189" label="Guild Leader&#10;Cook's Guild" category="58" did="1879313717" parentZoneId="1879329823" longitude="56.37023" latitude="62.924725"/>
 <marker id="1072603190" label="Guild Leader&#10;Weaponsmith's Guild" category="58" did="1879313718" parentZoneId="1879329823" longitude="56.270897" latitude="62.6875"/>
