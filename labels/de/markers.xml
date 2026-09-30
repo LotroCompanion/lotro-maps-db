@@ -46191,10 +46191,10 @@
 <label key="1879499849" value="Tarkrîp-Mörder"/>
 <label key="1879499850" value="Brutaler Tarkrîp"/>
 <label key="1879499851" value="Tarkrîp-Eliteschläger"/>
-<label key="1879499875" value="Wächter-Tauschhändlerin"/>
+<label key="1879499875" value="Wächter-Tauschhändler"/>
 <label key="1879499876" value="\qDer Tempel von Utug-bûr\q-Quartiermeister"/>
 <label key="1879499877" value="Tauschhändler für Waffenmeister"/>
-<label key="1879499878" value="Tauschhändler für Hauptleute"/>
+<label key="1879499878" value="Ausbilderin für Hauptleute"/>
 <label key="1879499879" value="Beorninger-Tauschhändler"/>
 <label key="1879499880" value="Schurken-Tauschhändler"/>
 <label key="1879499881" value="Kundigen-Tauschhändlerin"/>
@@ -47102,8 +47102,6 @@
 <label key="1879504109" value="Schmiedemeisterin"/>
 <label key="1879504111" value="Hobby-Meister"/>
 <label key="1879504112" value="Musikant"/>
-<label key="1879506112" value="Antlitz Gil-galads"/>
-<label key="1879506113" value="Antlitz Saurons"/>
 <label key="1879506169" value="Der Reiffall"/>
 <label key="1879506294" value="Temámir-Stimme"/>
 <label key="1879506295" value="Rahâzi"/>
@@ -49153,7 +49151,7 @@
 <label key="1879521769" value="Hebel"/>
 <label key="1879521787" value="Narzissentage-Banner"/>
 <label key="1879521802" value="Eingepacktes Lamm"/>
-<label key="1879521821" value="Tauschhändler für Hauptleute"/>
+<label key="1879521821" value="Ausbilderin für Hauptleute"/>
 <label key="1879521826" value="Jäger-Tauschhändler"/>
 <label key="1879521827" value="Iwein 'das Mal' Weißdorn"/>
 <label key="1879521833" value="Seefahrerausbilder"/>
@@ -49169,7 +49167,7 @@
 <label key="1879521865" value="Barden-Tauschhändlerin"/>
 <label key="1879521868" value="Tauschhändlerin für Hüter"/>
 <label key="1879521869" value="Mûr-Ghala-Quartiermeister"/>
-<label key="1879521873" value="Wächter-Tauschhändlerin"/>
+<label key="1879521873" value="Wächter-Tauschhändler"/>
 <label key="1879522022" value="Eine gute Stelle für ein Banner"/>
 <label key="1879522273" value="GNDN"/>
 <label key="1879522291" value="Aufmüpfiger Jugendlicher"/>
@@ -49946,16 +49944,22 @@
 <label key="1879527780" value="Dagoras"/>
 <label key="1879527781" value="Orthonn"/>
 <label key="1879527782" value="Thrymm Rotbart"/>
+<label key="1879527783" value="Orthonn"/>
 <label key="1879527784" value="Thrymm Rotbart"/>
 <label key="1879527785" value="Harthalín"/>
+<label key="1879527786" value="Thrymm Rotbart"/>
 <label key="1879527787" value="Thrymm Rotbart"/>
 <label key="1879527788" value="Thrymm Rotbart"/>
+<label key="1879527789" value="Dagoras"/>
 <label key="1879527790" value="Orthonn"/>
+<label key="1879527791" value="Dagoras"/>
 <label key="1879527792" value="Orthonn"/>
 <label key="1879527793" value="Orthonn"/>
 <label key="1879527794" value="Dagoras"/>
+<label key="1879527795" value="Dagoras"/>
 <label key="1879527828" value="DNT Teleport 8.Storm Three to Four"/>
 <label key="1879527829" value="DNT Teleport 8.Storm One to Two"/>
+<label key="1879527832" value="Unbeaufsichtigtes Ross"/>
 <label key="1879527833" value="DNT Teleport 8.Storm Two to Three"/>
 <label key="1879528015" value="GNDN"/>
 <label key="1879528016" value="GNDN"/>
@@ -49976,130 +49980,380 @@
 <label key="1879528721" value="Amelia"/>
 <label key="1879528939" value="Nuzêrus Echo"/>
 <label key="1879529027" value="TBD Guard 5"/>
+<label key="1879529028" value="TBD High Elf"/>
+<label key="1879529029" value="TBD Stout-Axe"/>
+<label key="1879529030" value="TBD Horse"/>
+<label key="1879529031" value="TBD GoR"/>
+<label key="1879529032" value="Celonor"/>
+<label key="1879529033" value="Bhôd-buri-Mêj"/>
+<label key="1879529034" value="TBD Horse"/>
 <label key="1879529035" value="TBD Gatherer"/>
 <label key="1879529036" value="Meldir"/>
 <label key="1879529037" value="TBD Guard 5"/>
+<label key="1879529038" value="TBD Horse"/>
+<label key="1879529039" value="Bhôd-buri-Mêj"/>
+<label key="1879529040" value="TBD Horse"/>
+<label key="1879529041" value="TBD High Elf"/>
+<label key="1879529042" value="TBD Horse"/>
 <label key="1879529043" value="TBD Hunter"/>
 <label key="1879529044" value="TBD GoR"/>
+<label key="1879529045" value="TBD High Elf"/>
+<label key="1879529046" value="TBD Stout-Axe"/>
+<label key="1879529047" value="TBD Stout-Axe"/>
+<label key="1879529048" value="TBD Sculptor"/>
 <label key="1879529049" value="TBD Storyteller"/>
 <label key="1879529050" value="Meldir"/>
+<label key="1879529051" value="Celonor"/>
 <label key="1879529052" value="TBD Cook"/>
+<label key="1879529053" value="TBD Carver"/>
+<label key="1879529054" value="TBD High Elf"/>
 <label key="1879529055" value="TBD Guard 7"/>
 <label key="1879529056" value="TBD Stout-Axe"/>
+<label key="1879529057" value="Bhôd-buri-Mêj"/>
 <label key="1879529058" value="TBD Guard 3"/>
+<label key="1879529059" value="TBD Stout-Axe"/>
 <label key="1879529060" value="TBD Gatherer"/>
+<label key="1879529061" value="TBD RoR"/>
+<label key="1879529062" value="Bhôd-buri-Mêj"/>
 <label key="1879529063" value="TBD RoR"/>
 <label key="1879529064" value="TBD RoR"/>
+<label key="1879529065" value="TBD RoR"/>
+<label key="1879529066" value="Mêj-dhug-Mêj"/>
+<label key="1879529067" value="TBD Guard 1"/>
 <label key="1879529068" value="TBD GoR"/>
+<label key="1879529069" value="TBD High Elf"/>
 <label key="1879529070" value="TBD Guard 4"/>
 <label key="1879529071" value="TBD Guard 6"/>
 <label key="1879529072" value="TBD Toolmaker"/>
+<label key="1879529073" value="Meldir"/>
+<label key="1879529074" value="TBD Guard 2"/>
 <label key="1879529075" value="TBD Fisher"/>
+<label key="1879529076" value="Meldir"/>
 <label key="1879529077" value="TBD Guard 5"/>
-<label key="1879529100" value="Fragment von Mordiriths Krone"/>
-<label key="1879529108" value="Gabe der Carrock"/>
+<label key="1879529137" value="TBD High Elf"/>
 <label key="1879529138" value="TBD Stout Axe"/>
 <label key="1879529139" value="Bhôd-buri-Mêj"/>
 <label key="1879529140" value="Kriegerin der Hellen Schar"/>
 <label key="1879529141" value="Glorfindel"/>
 <label key="1879529142" value="TBD High Elf"/>
+<label key="1879529143" value="TBD RoR"/>
 <label key="1879529144" value="TBD RoR"/>
 <label key="1879529145" value="Celeborn"/>
+<label key="1879529146" value="TBD GoR"/>
+<label key="1879529147" value="Bhôd-buri-Mêj"/>
 <label key="1879529148" value="TBD GoR"/>
+<label key="1879529149" value="TBD Stout Axe"/>
 <label key="1879529150" value="TBD GoR"/>
+<label key="1879529151" value="TBD High Elf"/>
 <label key="1879529152" value="TBD GoR"/>
 <label key="1879529153" value="Bhôd-buri-Mêj"/>
 <label key="1879529154" value="Krieger der Hellen Schar"/>
-<label key="1879529213" value="Antlitz Saurons"/>
-<label key="1879529214" value="Antlitz Saurons"/>
-<label key="1879529217" value="Antlitz Gil-galads"/>
-<label key="1879529220" value="Antlitz Gil-galads"/>
 <label key="1879529225" value="Getrocknetes Harz"/>
 <label key="1879529226" value="Vergiftete Pfeile"/>
+<label key="1879529227" value="Schnitzstein"/>
+<label key="1879529228" value="Trockene Zweige"/>
+<label key="1879529229" value="Düsterglasscherben"/>
+<label key="1879529230" value="Zurückgelassenes Bündel"/>
 <label key="1879529231" value="Vergiftete Speere"/>
 <label key="1879529232" value="Karotte"/>
 <label key="1879529233" value="Fingerhut"/>
 <label key="1879529234" value="Tierknochen"/>
+<label key="1879529235" value="Beeren"/>
+<label key="1879529236" value="Pinienzapfen"/>
+<label key="1879529237" value="Honigwaben"/>
 <label key="1879529238" value="TBD's Lost Necklace"/>
 <label key="1879529239" value="Grünzeug"/>
 <label key="1879529240" value="Fels"/>
 <label key="1879529241" value="Düsterglas"/>
 <label key="1879529257" value="Trockener Holzstapel"/>
 <label key="1879529258" value="Púkel-Mensch"/>
+<label key="1879529259" value="Kultistenaktivitäten"/>
+<label key="1879529260" value="Wassereimer"/>
 <label key="1879529261" value="Gebüsch"/>
 <label key="1879529262" value="Púkel-Mensch"/>
+<label key="1879529265" value="Karotten"/>
+<label key="1879529266" value="Ein guter Platz für Steine"/>
 <label key="1879529267" value="Bienenstock"/>
 <label key="1879529274" value="TBD Ormyng Part"/>
+<label key="1879529275" value="Holz zum Schnitzen"/>
 <label key="1879529276" value="Rote Farbe"/>
+<label key="1879529277" value="TBD's Summoning Horn"/>
 <label key="1879529278" value="Bienenwachs"/>
 <label key="1879529279" value="Wolfspelz"/>
+<label key="1879529280" value="Geschnitzter Löffel"/>
+<label key="1879529281" value="Dornschleicherfleisch"/>
+<label key="1879529282" value="TBD's Summoning Horn"/>
 <label key="1879529286" value="DNT - Player relic Capture"/>
 <label key="1879529287" value="DNT - Monster relic Capture"/>
+<label key="1879529494" value="Lederfetzen"/>
 <label key="1879529569" value="DNT - Monster Artifact Smite"/>
 <label key="1879529571" value="DNT - Monster relic Smite"/>
+<label key="1879529679" value="Fels"/>
 <label key="1879529681" value="Erträglicher Fisch"/>
 <label key="1879529683" value="Wasserkraut"/>
 <label key="1879529729" value="Beschädigter Baum"/>
 <label key="1879529735" value="Waldtroll-Rinden"/>
 <label key="1879529744" value="Celonors verlorener Federkiel"/>
-<label key="1879533332" value="Dagoras"/>
-<label key="1879533333" value="Thrymm Rotbart"/>
-<label key="1879533334" value="Orthonn"/>
-<label key="1879533335" value="Dagoras"/>
-<label key="1879533336" value="Unbeaufsichtigtes Ross"/>
-<label key="1879533337" value="Dagoras"/>
-<label key="1879533344" value="TBD High Elf"/>
-<label key="1879533345" value="Bhôd-buri-Mêj"/>
-<label key="1879533351" value="TBD High Elf"/>
-<label key="1879533352" value="Bhôd-buri-Mêj"/>
-<label key="1879533355" value="Kultistenaktivitäten"/>
-<label key="1879533359" value="Lederfetzen"/>
-<label key="1879533365" value="Bhôd-buri-Mêj"/>
-<label key="1879533366" value="TBD High Elf"/>
-<label key="1879533368" value="Meldir"/>
-<label key="1879533370" value="Mêj-dhug-Mêj"/>
-<label key="1879533379" value="Bhôd-buri-Mêj"/>
-<label key="1879533381" value="TBD High Elf"/>
-<label key="1879533382" value="Pinienzapfen"/>
-<label key="1879533383" value="Beeren"/>
-<label key="1879533386" value="Trockene Zweige"/>
-<label key="1879533392" value="TBD Stout-Axe"/>
-<label key="1879533393" value="TBD Guard 1"/>
-<label key="1879533395" value="Zurückgelassenes Bündel"/>
-<label key="1879533397" value="TBD Guard 2"/>
-<label key="1879533398" value="Fels"/>
-<label key="1879533399" value="Celonor"/>
-<label key="1879533400" value="TBD RoR"/>
-<label key="1879533401" value="TBD Stout-Axe"/>
-<label key="1879533407" value="TBD Stout-Axe"/>
-<label key="1879533408" value="Meldir"/>
-<label key="1879533409" value="Celonor"/>
-<label key="1879533414" value="Wassereimer"/>
-<label key="1879533420" value="TBD Carver"/>
-<label key="1879533421" value="Holz zum Schnitzen"/>
-<label key="1879533422" value="Honigwaben"/>
-<label key="1879533423" value="Geschnitzter Löffel"/>
-<label key="1879533456" value="TBD Sculptor"/>
-<label key="1879533457" value="Schnitzstein"/>
-<label key="1879533458" value="Düsterglasscherben"/>
-<label key="1879533459" value="Ein guter Platz für Steine"/>
-<label key="1879533468" value="TBD Stout-Axe"/>
-<label key="1879533469" value="TBD RoR"/>
-<label key="1879533470" value="TBD GoR"/>
-<label key="1879533471" value="TBD Horse"/>
-<label key="1879533472" value="TBD Horse"/>
-<label key="1879533473" value="TBD Horse"/>
-<label key="1879533474" value="TBD Horse"/>
-<label key="1879533475" value="Karotten"/>
-<label key="1879533477" value="Bhôd-buri-Mêj"/>
-<label key="1879533478" value="TBD GoR"/>
-<label key="1879533479" value="TBD RoR"/>
-<label key="1879533480" value="TBD High Elf"/>
-<label key="1879533481" value="TBD Stout Axe"/>
-<label key="1879533493" value="TBD High Elf"/>
-<label key="1879533499" value="TBD Horse"/>
-<label key="1879533502" value="TBD High Elf"/>
-<label key="1879533503" value="TBD's Summoning Horn"/>
-<label key="1879533504" value="Dornschleicherfleisch"/>
-<label key="1879533505" value="TBD's Summoning Horn"/>
+<label key="1879530755" value="Vogelfeder"/>
+<label key="1879530756" value="Vorratsfass"/>
+<label key="1879530757" value="Rezept"/>
+<label key="1879530758" value="Beerenstrauch"/>
+<label key="1879530760" value="Vielversprechende Stelle"/>
+<label key="1879530763" value="Nuss"/>
+<label key="1879530764" value="Snítha Krafthau"/>
+<label key="1879530765" value="Blume"/>
+<label key="1879530766" value="Erde"/>
+<label key="1879530767" value="Schachtel"/>
+<label key="1879530768" value="Bienenstock"/>
+<label key="1879530770" value="Tagebuch"/>
+<label key="1879530771" value="Honig"/>
+<label key="1879530772" value="Astrith"/>
+<label key="1879530773" value="Gisti Metweis"/>
+<label key="1879530775" value="Nicht gegossene Pflanzen"/>
+<label key="1879530776" value="Blume"/>
+<label key="1879530778" value="Duindir"/>
+<label key="1879530779" value="Reisender"/>
+<label key="1879530780" value="Nahrungsmittel"/>
+<label key="1879530782" value="Holz"/>
+<label key="1879530783" value="Melur"/>
+<label key="1879530784" value="Eier"/>
+<label key="1879530785" value="Lorndur"/>
+<label key="1879530787" value="Stingóst"/>
+<label key="1879530789" value="Mullen Heidezehen"/>
+<label key="1879530790" value="Schindkröte"/>
+<label key="1879530791" value="Apfel"/>
+<label key="1879530792" value="Emmathrons Skizzenbuch"/>
+<label key="1879530793" value="Verletzter Vogel"/>
+<label key="1879530794" value="Heming Findehand"/>
+<label key="1879530795" value="Snítha Krafthau"/>
+<label key="1879530796" value="Nahrungsmittel"/>
+<label key="1879530797" value="Krämerin"/>
+<label key="1879530798" value="Holzfäller"/>
+<label key="1879530799" value="Hügelgrabstelle"/>
+<label key="1879530800" value="Omelettes"/>
+<label key="1879530801" value="Himbeerstelle"/>
+<label key="1879530802" value="Gisti Metweis"/>
+<label key="1879530803" value="Renien"/>
+<label key="1879530804" value="Vielversprechende Stelle"/>
+<label key="1879530805" value="Stelle, um Vögel zu füttern"/>
+<label key="1879530806" value="Katze"/>
+<label key="1879530807" value="Blume"/>
+<label key="1879530809" value="Wassereimer"/>
+<label key="1879530810" value="Neugierige Verwandte"/>
+<label key="1879530811" value="Nachrichten"/>
+<label key="1879530812" value="Gefallener Baum"/>
+<label key="1879530813" value="Verhungernder Bär"/>
+<label key="1879530815" value="Duindir"/>
+<label key="1879530816" value="Bär"/>
+<label key="1879530818" value="Lorndur"/>
+<label key="1879530819" value="Reisender"/>
+<label key="1879530820" value="Seltsamer Mann"/>
+<label key="1879530821" value="Snítha Krafthau"/>
+<label key="1879530822" value="Schindkröte"/>
+<label key="1879530823" value="Wirtin"/>
+<label key="1879530824" value="Fleck"/>
+<label key="1879530825" value="Entfleuchte Seite"/>
+<label key="1879530827" value="Melur"/>
+<label key="1879530828" value="Melur"/>
+<label key="1879530829" value="Ideale Stelle für Befehl"/>
+<label key="1879530830" value="Blumenstelle"/>
+<label key="1879530831" value="Fischer"/>
+<label key="1879530832" value="Spitzmaus"/>
+<label key="1879530833" value="Astrith"/>
+<label key="1879530835" value="Renien"/>
+<label key="1879530836" value="Nahrungsmittel"/>
+<label key="1879530838" value="Aslaug"/>
+<label key="1879530839" value="Schlafsack"/>
+<label key="1879530840" value="Omelettes"/>
+<label key="1879530841" value="Neugieriger Verwandter"/>
+<label key="1879530842" value="Zwerg"/>
+<label key="1879530843" value="Gast"/>
+<label key="1879530844" value="Bär"/>
+<label key="1879530845" value="Gisti Metweis"/>
+<label key="1879530846" value="Rikháwi"/>
+<label key="1879530848" value="Spielzeugpferd"/>
+<label key="1879530849" value="Barmann"/>
+<label key="1879530850" value="Krude Zeichnungen"/>
+<label key="1879530851" value="Lorndur"/>
+<label key="1879530852" value="Waid"/>
+<label key="1879530853" value="Taraston"/>
+<label key="1879530854" value="Nest"/>
+<label key="1879530855" value="Pilze"/>
+<label key="1879530856" value="Trockener Zweig"/>
+<label key="1879530857" value="Lästige Möwe"/>
+<label key="1879530858" value="Duindir"/>
+<label key="1879530859" value="Stadtbewohner"/>
+<label key="1879530860" value="Unkraut"/>
+<label key="1879530861" value="Geeignetes Holz"/>
+<label key="1879530862" value="Aslaug"/>
+<label key="1879530863" value="Stadtausrufer"/>
+<label key="1879530864" value="Kiefernzapfen"/>
+<label key="1879530865" value="Wildkräuter"/>
+<label key="1879530866" value="Verletzte Katze"/>
+<label key="1879530867" value="Renien"/>
+<label key="1879530869" value="Katze"/>
+<label key="1879530870" value="Mörser und Stößel"/>
+<label key="1879530871" value="Gast"/>
+<label key="1879530872" value="Stein"/>
+<label key="1879530873" value="Taraston"/>
+<label key="1879530874" value="Vielversprechende Stelle"/>
+<label key="1879530875" value="Vogel"/>
+<label key="1879530882" value="Holzfäller"/>
+<label key="1879531488" value="Antlitz Gil-galads"/>
+<label key="1879531489" value="Antlitz Saurons"/>
+<label key="1879531491" value="Krötenzungen-Bier"/>
+<label key="1879531492" value="Gründrachenodem-Bier"/>
+<label key="1879531494" value="Schwarzhain Dunkel"/>
+<label key="1879531495" value="Fass mit Schwertern"/>
+<label key="1879531496" value="Zwergischer Runenstein"/>
+<label key="1879531497" value="Fass mit Speeren"/>
+<label key="1879531499" value="Weidenwinder Alt"/>
+<label key="1879531510" value="Artifact Event Manager Box"/>
+<label key="1879531516" value="Verdächtiger Haufen"/>
+<label key="1879531521" value="Bohnen"/>
+<label key="1879531526" value="Weintrauben"/>
+<label key="1879531533" value="Honigwaben"/>
+<label key="1879531535" value="Weinfass"/>
+<label key="1879531536" value="Pfeifenkrautpflanzen"/>
+<label key="1879531541" value="Eiserne Fesseln"/>
+<label key="1879531542" value="Zurückgelassener Brief"/>
+<label key="1879531543" value="Toter Gefangener"/>
+<label key="1879531544" value="Unrat"/>
+<label key="1879531547" value="Toter Gefangener"/>
+<label key="1879531549" value="Toter Gefangener"/>
+<label key="1879531551" value="Kiste mit Vorräten"/>
+<label key="1879531561" value="Gemeinschaftsbrett"/>
+<label key="1879531638" value="Relic Event Manager Box"/>
+<label key="1879531799" value="Haldo Rauschebach"/>
+<label key="1879531800" value="Brútha die Eigensinnige"/>
+<label key="1879531801" value="Haldo Rauschebach"/>
+<label key="1879531802" value="Brútha die Eigensinnige"/>
+<label key="1879531803" value="Emmathron"/>
+<label key="1879531805" value="Haldo Rauschebach"/>
+<label key="1879531806" value="Emmathron"/>
+<label key="1879531807" value="Brútha die Eigensinnige"/>
+<label key="1879531808" value="Emmathron"/>
+<label key="1879531809" value="Emmathron"/>
+<label key="1879531810" value="Brútha die Eigensinnige"/>
+<label key="1879531811" value="Golwen"/>
+<label key="1879531812" value="Haldo Rauschebach"/>
+<label key="1879531814" value="Emmathron"/>
+<label key="1879531816" value="Golwen"/>
+<label key="1879531817" value="Golwen"/>
+<label key="1879531818" value="Haldo Rauschebach"/>
+<label key="1879531819" value="Golwen"/>
+<label key="1879531820" value="Golwen"/>
+<label key="1879531821" value="Brútha die Eigensinnige"/>
+<label key="1879531822" value="Golwen"/>
+<label key="1879531823" value="Emmathron"/>
+<label key="1879531824" value="Brútha die Eigensinnige"/>
+<label key="1879531825" value="Golwen"/>
+<label key="1879531827" value="Golwen"/>
+<label key="1879531828" value="Emmathron"/>
+<label key="1879531829" value="Brútha die Eigensinnige"/>
+<label key="1879531830" value="Haldo Rauschebach"/>
+<label key="1879531831" value="Haldo Rauschebach"/>
+<label key="1879531832" value="Brútha die Eigensinnige"/>
+<label key="1879531833" value="Haldo Rauschebach"/>
+<label key="1879531834" value="Emmathron"/>
+<label key="1879531835" value="Golwen"/>
+<label key="1879531836" value="Haldo Rauschebach"/>
+<label key="1879531837" value="Brútha die Eigensinnige"/>
+<label key="1879531838" value="Emmathron"/>
+<label key="1879531839" value="Brútha die Eigensinnige"/>
+<label key="1879531868" value="Angmarim-Adlerauge"/>
+<label key="1879531869" value="Schreckliches Wintermammut"/>
+<label key="1879531870" value="Blaufelsen-Wächter"/>
+<label key="1879531871" value="Verwesender Grabunhold"/>
+<label key="1879531872" value="Dunländer-Fährtensucher"/>
+<label key="1879531873" value="Blaufelsen-Saboteur"/>
+<label key="1879531874" value="Grimmhand-Fallensteller"/>
+<label key="1879531875" value="Gramfuß-Durchbohrer"/>
+<label key="1879531876" value="Wintermammut"/>
+<label key="1879531877" value="Draig-lûth-Wache"/>
+<label key="1879531878" value="Gramfuß-Anführer"/>
+<label key="1879531879" value="Klingenschnabel-Verwüster"/>
+<label key="1879531880" value="Großes Wintermammut"/>
+<label key="1879531881" value="Verfluchter Grabunhold"/>
+<label key="1879531882" value="Dunländer-Hauptmann"/>
+<label key="1879531883" value="Iorvinas-Saboteur"/>
+<label key="1879531884" value="Angmarim-Hauptmann"/>
+<label key="1879531885" value="Rasender Braunbär"/>
+<label key="1879531886" value="Tollwütiger Braunbär"/>
+<label key="1879531887" value="Iorvinas-Krieger"/>
+<label key="1879531888" value="Draig-lûth-Lagerwachposten"/>
+<label key="1879531889" value="Gramfuß-Wächter"/>
+<label key="1879531890" value="Klingenschnabel-Höhlengräber"/>
+<label key="1879531891" value="Angmarim-Ritualist"/>
+<label key="1879531892" value="Faulender Grabunhold"/>
+<label key="1879531893" value="Klingenschnabel-Ältester"/>
+<label key="1879531894" value="Blaufelsen-Plünderer"/>
+<label key="1879531895" value="Blaufelsen-Spürer"/>
+<label key="1879531896" value="Iorvinas-Kundschafter"/>
+<label key="1879531897" value="Draig-lûth-Kekermeister"/>
+<label key="1879531898" value="Grimmhand-Fährtensucher"/>
+<label key="1879531899" value="Dunländer-Schläger"/>
+<label key="1879531900" value="Angmarim-Netzruferin"/>
+<label key="1879531901" value="Grimmhand-Jäger"/>
+<label key="1879532144" value="DNT"/>
+<label key="1879532216" value="Spitzmaushöhle"/>
+<label key="1879532217" value="Banner der Weißen Hand"/>
+<label key="1879532318" value="Lorndur"/>
+<label key="1879532319" value="Möwe"/>
+<label key="1879532320" value="Renien"/>
+<label key="1879532321" value="Duindir"/>
+<label key="1879532541" value="GNDN"/>
+<label key="1879532542" value="GNDN"/>
+<label key="1879532698" value="Ideale Stelle für Befehl"/>
+<label key="1879532703" value="Vielversprechende Stelle"/>
+<label key="1879532706" value="Tür"/>
+<label key="1879532707" value="Mörser und Stößel"/>
+<label key="1879532711" value="Eine gute Stelle für eine Zeichnung"/>
+<label key="1879532745" value="Geschenkgeberin"/>
+<label key="1879532746" value="Geschenkgeberin"/>
+<label key="1879532747" value="Geschenkgeber"/>
+<label key="1879532748" value="Geschenkgeber"/>
+<label key="1879532792" value="Haldo Rauschebach"/>
+<label key="1879532793" value="Golwen"/>
+<label key="1879532794" value="Emmathron"/>
+<label key="1879532795" value="Haldo Rauschebach"/>
+<label key="1879532796" value="Brútha die Eigensinnige"/>
+<label key="1879532797" value="Haldos Gesicht"/>
+<label key="1879532799" value="Angelplatz"/>
+<label key="1879533026" value="GNDN"/>
+<label key="1879533027" value="GNDN"/>
+<label key="1879533028" value="GNDN"/>
+<label key="1879533145" value="GNDN"/>
+<label key="1879533146" value="GNDN"/>
+<label key="1879533147" value="GNDN"/>
+<label key="1879533149" value="GNDN"/>
+<label key="1879533150" value="GNDN"/>
+<label key="1879533151" value="GNDN"/>
+<label key="1879533152" value="GNDN"/>
+<label key="1879533153" value="GNDN"/>
+<label key="1879533154" value="GNDN"/>
+<label key="1879533155" value="GNDN"/>
+<label key="1879533156" value="GNDN"/>
+<label key="1879533157" value="GNDN"/>
+<label key="1879533158" value="GNDN"/>
+<label key="1879533159" value="GNDN"/>
+<label key="1879533160" value="GNDN"/>
+<label key="1879533161" value="GNDN"/>
+<label key="1879533167" value="GNDN"/>
+<label key="1879533816" value="GNDN"/>
+<label key="1879533824" value="Stadtbewohnerin"/>
+<label key="1879533825" value="Stadtbewohner"/>
+<label key="1879533909" value="Stadtbewohner"/>
+<label key="1879533910" value="Stadtbewohnerin"/>
+<label key="1879533911" value="Fischreiher"/>
+<label key="1879533912" value="Frosch"/>
+<label key="1879533913" value="Biber"/>
+<label key="1879534010" value="GNDN"/>
+<label key="1879534449" value="GNDN"/>
+<label key="1879535144" value="DNT"/>
+<label key="1879535216" value="Ratte"/>
+<label key="1879535219" value="Biene"/>
+<label key="1879535246" value="GNDN"/>
+<label key="1879535584" value="Golwen"/>
+<label key="1879535976" value="DNT"/>
 </labels>

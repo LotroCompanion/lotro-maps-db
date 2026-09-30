@@ -10695,4 +10695,32 @@
 <min longitude="52.45834" latitude="67.325"/>
 <max longitude="53.79167" latitude="68.325"/>
 </map>
+<map id="1879531001" name="Melur's Cottage" imageId="1093155218">
+<geo factor="600.0">
+<point longitude="-51.466667" latitude="-51.1"/>
+</geo>
+<min longitude="-51.466667" latitude="-52.1"/>
+<max longitude="-50.133335" latitude="-51.1"/>
+</map>
+<map id="1879531061" name="Haldo's Smial" imageId="1093155269">
+<geo factor="600.0">
+<point longitude="-144.95833" latitude="60.06334"/>
+</geo>
+<min longitude="-144.95833" latitude="59.06334"/>
+<max longitude="-143.625" latitude="60.06334"/>
+</map>
+<map id="1879531062" name="Aslaug's Home" imageId="1093155317">
+<geo factor="600.0">
+<point longitude="-28.26667" latitude="17.69833"/>
+</geo>
+<min longitude="-28.26667" latitude="16.69833"/>
+<max longitude="-26.933336" latitude="17.69833"/>
+</map>
+<map id="1879531063" name="Belowdecks" imageId="1093155336">
+<geo factor="600.00006">
+<point longitude="-143.455" latitude="68.07334"/>
+</geo>
+<min longitude="-143.455" latitude="67.07334"/>
+<max longitude="-142.12167" latitude="68.07334"/>
+</map>
 </maps>

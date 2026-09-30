@@ -1964,19 +1964,22 @@
 <marker id="1161605712" label="Heavy Sea-side Black Ash Branches" category="50" did="1879478318" parentZoneId="1879456563" longitude="-73.142944" latitude="-77.12219"/>
 <marker id="1161605713" label="Sea-side Black Ash Branches" category="50" did="1879478317" parentZoneId="1879456563" longitude="-73.142944" latitude="-77.12219"/>
 <marker id="1161609216" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.838165" latitude="-75.73161"/>
-<marker id="1161613316" label="Bard of Gondor" category="54" did="1879313190" parentZoneId="1879456562" longitude="-72.7398" latitude="-75.15963"/>
-<marker id="1161613317" label="Stable-master" category="23" did="1879470687" parentZoneId="1879456562" longitude="-72.486565" latitude="-75.45138"/>
+<marker id="1161613316" label="Stable-master" category="23" did="1879470687" parentZoneId="1879456562" longitude="-72.486565" latitude="-75.45138"/>
+<marker id="1161613318" label="Golwen" category="70" did="1879532793" parentZoneId="1879456562" longitude="-72.49155" latitude="-75.4782"/>
 <marker id="1161613319" label="King's Gondor Quartermaster&#10;The Renewal of Gondor Rewards" category="61" did="1879465583" parentZoneId="1879456562" longitude="-72.48531" latitude="-75.42848"/>
-<marker id="1161613328" label="Mellien" category="70" did="1879465784" parentZoneId="1879456562" longitude="-72.486374" latitude="-75.43605"/>
-<marker id="1161613329" label="Mug of Spilled Ale" category="73" did="1879465821" parentZoneId="1879456562" longitude="-73.031456" latitude="-74.91936"/>
-<marker id="1161613330" label="Yârlag" category="71" did="1879466349" parentZoneId="1879456562" longitude="-73.003136" latitude="-74.942406"/>
-<marker id="1161613331" label="Harper's Court Bard" category="70" did="1879465788" parentZoneId="1879456562" longitude="-72.93703" latitude="-75.11649"/>
-<marker id="1161613332" label="Harper's Court Bard" category="70" did="1879465786" parentZoneId="1879456562" longitude="-73.060036" latitude="-75.185036"/>
-<marker id="1161613333" label="Harper's Court Bard" category="70" did="1879465792" parentZoneId="1879456562" longitude="-72.83181" latitude="-75.04756"/>
-<marker id="1161613334" label="Harper's Court Bard" category="70" did="1879465797" parentZoneId="1879456562" longitude="-72.97351" latitude="-75.05898"/>
-<marker id="1161613335" label="Harper's Court Bard" category="70" did="1879465802" parentZoneId="1879456562" longitude="-72.8566" latitude="-75.23952"/>
-<marker id="1161613336" label="Fingaer" category="70" did="1879465785" parentZoneId="1879456562" longitude="-72.99684" latitude="-75.038895"/>
-<marker id="1161613337" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.76563" latitude="-75.16795"/>
+<marker id="1161613328" label="Bard of Gondor" category="54" did="1879313190" parentZoneId="1879456562" longitude="-72.7398" latitude="-75.15963"/>
+<marker id="1161613331" label="Mellien" category="70" did="1879465784" parentZoneId="1879456562" longitude="-72.486374" latitude="-75.43605"/>
+<marker id="1161613332" label="Mug of Spilled Ale" category="73" did="1879465821" parentZoneId="1879456562" longitude="-73.031456" latitude="-74.91936"/>
+<marker id="1161613333" label="Yârlag" category="71" did="1879466349" parentZoneId="1879456562" longitude="-73.003136" latitude="-74.942406"/>
+<marker id="1161613334" label="Harper's Court Bard" category="70" did="1879465788" parentZoneId="1879456562" longitude="-72.93703" latitude="-75.11649"/>
+<marker id="1161613335" label="Harper's Court Bard" category="70" did="1879465786" parentZoneId="1879456562" longitude="-73.060036" latitude="-75.185036"/>
+<marker id="1161613336" label="Harper's Court Bard" category="70" did="1879465792" parentZoneId="1879456562" longitude="-72.83181" latitude="-75.04756"/>
+<marker id="1161613337" label="Harper's Court Bard" category="70" did="1879465797" parentZoneId="1879456562" longitude="-72.97351" latitude="-75.05898"/>
+<marker id="1161613338" label="Harper's Court Bard" category="70" did="1879465802" parentZoneId="1879456562" longitude="-72.8566" latitude="-75.23952"/>
+<marker id="1161613339" label="Fingaer" category="70" did="1879465785" parentZoneId="1879456562" longitude="-72.99684" latitude="-75.038895"/>
+<marker id="1161613340" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.76563" latitude="-75.16795"/>
+<marker id="1161613341" label="Duindir" category="70" did="1879530815" parentZoneId="1879456562" longitude="-72.41436" latitude="-75.31299"/>
+<marker id="1161613342" label="Renien" category="70" did="1879530867" parentZoneId="1879456562" longitude="-72.576065" latitude="-75.35054"/>
 <marker id="1161617408" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.777466" latitude="-74.58081"/>
 <marker id="1161658370" label="Artifact Chest" category="50" did="1879474055" parentZoneId="1879456563" longitude="-72.18384" latitude="-79.097084"/>
 <marker id="1161658371" label="Heavy Artifact Chest" category="50" did="1879474051" parentZoneId="1879456563" longitude="-72.18384" latitude="-79.097084"/>
@@ -3299,13 +3302,23 @@
 <marker id="1161670972" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879456563" longitude="-72.256645" latitude="-76.54378"/>
 <marker id="1161674752" label="Tavern Keep" category="38" did="1879313174" parentZoneId="1879456562" longitude="-71.80134" latitude="-75.89148"/>
 <marker id="1161674755" label="Rossaran" category="70" did="1879460476" parentZoneId="1879456562" longitude="-72.11772" latitude="-76.10681"/>
-<marker id="1161674756" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.04165" latitude="-75.77049"/>
-<marker id="1161678854" label="Tasks" category="27" did="1879475223" parentZoneId="1879456562" longitude="-72.32092" latitude="-75.20473"/>
-<marker id="1161678855" label="Milestone" category="55" did="1879313700" parentZoneId="1879456562" longitude="-72.14425" latitude="-75.35916"/>
-<marker id="1161678856" label="Mailbox" category="34" did="1879313699" parentZoneId="1879456562" longitude="-72.10302" latitude="-75.29472"/>
-<marker id="1161678859" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879456562" longitude="-72.31725" latitude="-75.5179"/>
-<marker id="1161678860" label="Beriaudur" category="70" did="1879460952" parentZoneId="1879456562" longitude="-71.75192" latitude="-75.38695"/>
-<marker id="1161678861" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.97295" latitude="-74.97567"/>
+<marker id="1161674757" label="Tavern Patron" category="70" did="1879530871" parentZoneId="1879456562" longitude="-71.65191" latitude="-75.91644"/>
+<marker id="1161674759" label="Renien" category="70" did="1879530835" parentZoneId="1879456562" longitude="-71.67194" latitude="-75.916016"/>
+<marker id="1161674760" label="Lorndur" category="70" did="1879530818" parentZoneId="1879456562" longitude="-71.66458" latitude="-75.915695"/>
+<marker id="1161674762" label="Tavern Patron" category="70" did="1879530843" parentZoneId="1879456562" longitude="-71.64773" latitude="-75.91644"/>
+<marker id="1161674763" label="Duindir" category="70" did="1879530778" parentZoneId="1879456562" longitude="-71.668175" latitude="-75.91482"/>
+<marker id="1161674764" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-72.04165" latitude="-75.77049"/>
+<marker id="1161674765" label="Golwen" category="70" did="1879531820" parentZoneId="1879456562" longitude="-71.66218" latitude="-75.91063"/>
+<marker id="1161674766" label="Bartender" category="70" did="1879530823" parentZoneId="1879456562" longitude="-71.65668" latitude="-75.91644"/>
+<marker id="1161674768" label="Taraston" category="70" did="1879530853" parentZoneId="1879456562" longitude="-71.66042" latitude="-75.91644"/>
+<marker id="1161678852" label="Milestone" category="55" did="1879313700" parentZoneId="1879456562" longitude="-72.14425" latitude="-75.35916"/>
+<marker id="1161678856" label="Tasks" category="27" did="1879475223" parentZoneId="1879456562" longitude="-72.32092" latitude="-75.20473"/>
+<marker id="1161678857" label="Mailbox" category="34" did="1879313699" parentZoneId="1879456562" longitude="-72.10302" latitude="-75.29472"/>
+<marker id="1161678858" label="Lorndur" category="70" did="1879530851" parentZoneId="1879456562" longitude="-72.250435" latitude="-75.34148"/>
+<marker id="1161678859" label="Golwen" category="70" did="1879531811" parentZoneId="1879456562" longitude="-72.140945" latitude="-75.42264"/>
+<marker id="1161678861" label="Wenda Cranesbill" category="70" did="1879409387" parentZoneId="1879456562" longitude="-72.31725" latitude="-75.5179"/>
+<marker id="1161678862" label="Beriaudur" category="70" did="1879460952" parentZoneId="1879456562" longitude="-71.75192" latitude="-75.38695"/>
+<marker id="1161678863" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.97295" latitude="-74.97567"/>
 <marker id="1161678909" label="Task Collection Box" category="70" did="1879498717" parentZoneId="1879456562" longitude="-72.32594" latitude="-75.20504"/>
 <marker id="1161682944" label="King's Gondor West Reflecting Pool" category="52" did="1879476725" parentZoneId="1879456562" longitude="-72.08583" latitude="-74.03852"/>
 <marker id="1161682946" label="Door" category="100" did="1879227952" parentZoneId="1879456562" longitude="-72.246574" latitude="-74.41195"/>
@@ -4616,35 +4629,49 @@
 <marker id="1161744390" label="Expert Scholar" category="33" did="1879313212" parentZoneId="1879456562" longitude="-71.56042" latitude="-75.40055"/>
 <marker id="1161744391" label="Forge-master" category="29" did="1879313230" parentZoneId="1879456562" longitude="-71.10686" latitude="-74.96996"/>
 <marker id="1161744392" label="Dol Amroth" category="43" did="1879466352" parentZoneId="1879456562" longitude="-71.353065" latitude="-74.81836"/>
-<marker id="1161748490" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.173416" latitude="-74.418144"/>
-<marker id="1161748491" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.21229" latitude="-74.444786"/>
-<marker id="1161748492" label="Forge" category="45" did="1879314749" parentZoneId="1879456562" longitude="-71.3278" latitude="-74.263664"/>
-<marker id="1161748500" label="Hunter Trainer" category="42" did="1879405364" parentZoneId="1879456562" longitude="-71.04794" latitude="-74.037766"/>
-<marker id="1161748503" label="Supplier" category="38" did="1879461255" parentZoneId="1879456562" longitude="-71.27604" latitude="-74.32307"/>
-<marker id="1161748504" label="Healer" category="38" did="1879461258" parentZoneId="1879456562" longitude="-71.43153" latitude="-74.70641"/>
-<marker id="1161748505" label="Provisioner" category="38" did="1879461259" parentZoneId="1879456562" longitude="-71.432724" latitude="-74.78308"/>
-<marker id="1161748506" label="Door" category="100" did="1879227953" parentZoneId="1879456562" longitude="-71.11455" latitude="-74.60261"/>
-<marker id="1161748507" label="Workbench" category="45" did="1879314748" parentZoneId="1879456562" longitude="-71.37739" latitude="-74.33759"/>
-<marker id="1161748508" label="Forge" category="45" did="1879314749" parentZoneId="1879456562" longitude="-71.37139" latitude="-74.263664"/>
-<marker id="1161748509" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.204414" latitude="-74.3823"/>
-<marker id="1161748510" label="Training-dummy" category="71" did="1879475537" parentZoneId="1879456562" longitude="-71.15315" latitude="-74.17133"/>
-<marker id="1161748511" label="Expert Cook" category="33" did="1879313175" parentZoneId="1879456562" longitude="-71.251755" latitude="-74.41662"/>
-<marker id="1161748512" label="Expert Jeweller" category="33" did="1879313182" parentZoneId="1879456562" longitude="-71.34796" latitude="-74.410614"/>
-<marker id="1161748513" label="Warden Trainer" category="42" did="1879313177" parentZoneId="1879456562" longitude="-71.06975" latitude="-74.02671"/>
-<marker id="1161748514" label="Expert Tailor" category="33" did="1879313205" parentZoneId="1879456562" longitude="-71.4213" latitude="-74.31528"/>
-<marker id="1161748515" label="Champion Trainer" category="42" did="1879313207" parentZoneId="1879456562" longitude="-71.16236" latitude="-74.16775"/>
-<marker id="1161748516" label="Expert Weaponcrafter" category="33" did="1879313202" parentZoneId="1879456562" longitude="-71.41797" latitude="-74.291"/>
-<marker id="1161748517" label="Guardian Trainer" category="42" did="1879313208" parentZoneId="1879456562" longitude="-71.17501" latitude="-74.122925"/>
-<marker id="1161748518" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879456562" longitude="-71.12529" latitude="-74.13683"/>
-<marker id="1161748519" label="Expert Woodworker" category="33" did="1879313222" parentZoneId="1879456562" longitude="-71.165596" latitude="-74.37183"/>
-<marker id="1161748520" label="Barber" category="60" did="1879313223" parentZoneId="1879456562" longitude="-71.36232" latitude="-74.628296"/>
-<marker id="1161748521" label="Expert Metalsmith" category="33" did="1879313227" parentZoneId="1879456562" longitude="-71.26848" latitude="-74.25792"/>
-<marker id="1161748526" label="Tholion" category="70" did="1879460946" parentZoneId="1879456562" longitude="-71.221695" latitude="-74.605064"/>
-<marker id="1161748528" label="Lindor" category="70" did="1879460949" parentZoneId="1879456562" longitude="-71.15597" latitude="-74.28751"/>
-<marker id="1161748529" label="Londring" category="70" did="1879465790" parentZoneId="1879456562" longitude="-71.34415" latitude="-74.29625"/>
-<marker id="1161748533" label="Nella" category="70" did="1879466173" parentZoneId="1879456562" longitude="-71.21189" latitude="-74.21117"/>
-<marker id="1161748534" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.42547" latitude="-74.35921"/>
-<marker id="1161748535" label="Abartârik" category="70" did="1879466175" parentZoneId="1879456562" longitude="-71.163795" latitude="-74.17947"/>
+<marker id="1161748501" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.42547" latitude="-74.35921"/>
+<marker id="1161748502" label="Door" category="100" did="1879227953" parentZoneId="1879456562" longitude="-71.11455" latitude="-74.60261"/>
+<marker id="1161748503" label="Hunter Trainer" category="42" did="1879405364" parentZoneId="1879456562" longitude="-71.04794" latitude="-74.037766"/>
+<marker id="1161748504" label="Abartârik" category="70" did="1879466175" parentZoneId="1879456562" longitude="-71.163795" latitude="-74.17947"/>
+<marker id="1161748505" label="Nella" category="70" did="1879466173" parentZoneId="1879456562" longitude="-71.21189" latitude="-74.21117"/>
+<marker id="1161748506" label="Londring" category="70" did="1879465790" parentZoneId="1879456562" longitude="-71.34415" latitude="-74.29625"/>
+<marker id="1161748507" label="Lindor" category="70" did="1879460949" parentZoneId="1879456562" longitude="-71.15597" latitude="-74.28751"/>
+<marker id="1161748508" label="Tholion" category="70" did="1879460946" parentZoneId="1879456562" longitude="-71.221695" latitude="-74.605064"/>
+<marker id="1161748509" label="Supplier" category="38" did="1879461255" parentZoneId="1879456562" longitude="-71.27604" latitude="-74.32307"/>
+<marker id="1161748510" label="Healer" category="38" did="1879461258" parentZoneId="1879456562" longitude="-71.43153" latitude="-74.70641"/>
+<marker id="1161748511" label="Provisioner" category="38" did="1879461259" parentZoneId="1879456562" longitude="-71.432724" latitude="-74.78308"/>
+<marker id="1161748512" label="Workbench" category="45" did="1879314748" parentZoneId="1879456562" longitude="-71.37739" latitude="-74.33759"/>
+<marker id="1161748513" label="Forge" category="45" did="1879314749" parentZoneId="1879456562" longitude="-71.37139" latitude="-74.263664"/>
+<marker id="1161748514" label="Forge" category="45" did="1879314749" parentZoneId="1879456562" longitude="-71.3278" latitude="-74.263664"/>
+<marker id="1161748515" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.204414" latitude="-74.3823"/>
+<marker id="1161748516" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.173416" latitude="-74.418144"/>
+<marker id="1161748517" label="Oven" category="45" did="1879314750" parentZoneId="1879456562" longitude="-71.21229" latitude="-74.444786"/>
+<marker id="1161748518" label="Training-dummy" category="71" did="1879475537" parentZoneId="1879456562" longitude="-71.15315" latitude="-74.17133"/>
+<marker id="1161748519" label="Training-dummy" category="71" did="1879475537" parentZoneId="1879456562" longitude="-71.15272" latitude="-74.11626"/>
+<marker id="1161748520" label="Training-dummy" category="71" did="1879475537" parentZoneId="1879456562" longitude="-71.15259" latitude="-74.14327"/>
+<marker id="1161748521" label="Training-dummy" category="71" did="1879475537" parentZoneId="1879456562" longitude="-71.15341" latitude="-74.08819"/>
+<marker id="1161748522" label="Expert Cook" category="33" did="1879313175" parentZoneId="1879456562" longitude="-71.251755" latitude="-74.41662"/>
+<marker id="1161748523" label="Expert Jeweller" category="33" did="1879313182" parentZoneId="1879456562" longitude="-71.34796" latitude="-74.410614"/>
+<marker id="1161748524" label="Warden Trainer" category="42" did="1879313177" parentZoneId="1879456562" longitude="-71.06975" latitude="-74.02671"/>
+<marker id="1161748525" label="Expert Tailor" category="33" did="1879313205" parentZoneId="1879456562" longitude="-71.4213" latitude="-74.31528"/>
+<marker id="1161748526" label="Champion Trainer" category="42" did="1879313207" parentZoneId="1879456562" longitude="-71.16236" latitude="-74.16775"/>
+<marker id="1161748527" label="Expert Weaponcrafter" category="33" did="1879313202" parentZoneId="1879456562" longitude="-71.41797" latitude="-74.291"/>
+<marker id="1161748528" label="Guardian Trainer" category="42" did="1879313208" parentZoneId="1879456562" longitude="-71.17501" latitude="-74.122925"/>
+<marker id="1161748529" label="Captain Trainer" category="42" did="1879313211" parentZoneId="1879456562" longitude="-71.12529" latitude="-74.13683"/>
+<marker id="1161748530" label="Expert Woodworker" category="33" did="1879313222" parentZoneId="1879456562" longitude="-71.165596" latitude="-74.37183"/>
+<marker id="1161748531" label="Barber" category="60" did="1879313223" parentZoneId="1879456562" longitude="-71.36232" latitude="-74.628296"/>
+<marker id="1161748532" label="Expert Metalsmith" category="33" did="1879313227" parentZoneId="1879456562" longitude="-71.26848" latitude="-74.25792"/>
+<marker id="1161748533" label="Eggs" category="73" did="1879530784" parentZoneId="1879456562" longitude="-71.19169" latitude="-74.385376"/>
+<marker id="1161748534" label="Grocer" category="70" did="1879530797" parentZoneId="1879456562" longitude="-71.452675" latitude="-74.77317"/>
+<marker id="1161748535" label="Golwen" category="70" did="1879531819" parentZoneId="1879456562" longitude="-71.36304" latitude="-74.56891"/>
+<marker id="1161748536" label="Omelettes" category="73" did="1879530800" parentZoneId="1879456562" longitude="-71.19343" latitude="-74.38258"/>
+<marker id="1161748537" label="Omelettes" category="73" did="1879530840" parentZoneId="1879456562" longitude="-71.195045" latitude="-74.3854"/>
+<marker id="1161748538" label="Nest" category="73" did="1879530854" parentZoneId="1879456562" longitude="-70.9049" latitude="-74.12552"/>
+<marker id="1161748539" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.80918" latitude="-74.20029"/>
+<marker id="1161748540" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.86462" latitude="-74.161"/>
+<marker id="1161748541" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.90093" latitude="-74.13565"/>
+<marker id="1161748542" label="Golwen" category="70" did="1879531816" parentZoneId="1879456562" longitude="-70.879654" latitude="-74.20036"/>
+<marker id="1161748543" label="Seagull" category="70" did="1879532319" parentZoneId="1879456562" longitude="-70.90549" latitude="-74.124855"/>
 <marker id="1161752577" label="Door" category="100" did="1879227953" parentZoneId="1879456562" longitude="-71.01986" latitude="-73.254944"/>
 <marker id="1161752578" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-71.11029" latitude="-73.575386"/>
 <marker id="1161752579" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-70.996124" latitude="-73.22588"/>
@@ -6346,11 +6373,24 @@
 <marker id="1161805909" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879456562" longitude="-70.73461" latitude="-76.27779"/>
 <marker id="1161805910" label="Deer" category="78" did="1879080635" parentZoneId="1879456562" longitude="-70.73461" latitude="-76.27779"/>
 <marker id="1161805911" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879456562" longitude="-70.73461" latitude="-76.27779"/>
-<marker id="1161809924" label="Beorning Trainer" category="42" did="1879320036" parentZoneId="1879456562" longitude="-70.148575" latitude="-74.872765"/>
-<marker id="1161809925" label="Brawler Trainer" category="42" did="1879410370" parentZoneId="1879456562" longitude="-70.13413" latitude="-74.87075"/>
+<marker id="1161809924" label="Beorning Trainer" category="42" did="1879320036" parentZoneId="1879456562" longitude="-70.148575" latitude="-74.898605"/>
+<marker id="1161809925" label="Brawler Trainer" category="42" did="1879410370" parentZoneId="1879456562" longitude="-70.13413" latitude="-74.89658"/>
 <marker id="1161809926" label="Hobby Master" category="42" did="1879313178" parentZoneId="1879456562" longitude="-70.23657" latitude="-75.04095"/>
 <marker id="1161809928" label="Anírwen" category="70" did="1879466571" parentZoneId="1879456562" longitude="-70.26845" latitude="-75.069626"/>
 <marker id="1161809929" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-70.47225" latitude="-74.88757"/>
-<marker id="1161814019" label="Jajax" category="70" did="1879460934" parentZoneId="1879456562" longitude="-70.62996" latitude="-74.41914"/>
-<marker id="1161814020" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-70.63305" latitude="-74.35921"/>
+<marker id="1161814028" label="Bee" category="70" did="1879535219" parentZoneId="1879456562" longitude="-70.61033" latitude="-74.631195"/>
+<marker id="1161814029" label="Rat" category="70" did="1879535216" parentZoneId="1879456562" longitude="-70.790565" latitude="-74.684235"/>
+<marker id="1161814030" label="Seagull" category="70" did="1879532319" parentZoneId="1879456562" longitude="-70.65735" latitude="-74.63383"/>
+<marker id="1161814032" label="Jajax" category="70" did="1879460934" parentZoneId="1879456562" longitude="-70.62996" latitude="-74.41914"/>
+<marker id="1161814033" label="Dol Amroth" category="74" did="1879466352" parentZoneId="1879456562" longitude="-70.63305" latitude="-74.35921"/>
+<marker id="1161814036" label="Promising Spot" category="73" did="1879530804" parentZoneId="1879456562" longitude="-70.74047" latitude="-74.533264"/>
+<marker id="1161814037" label="Promising Spot" category="73" did="1879530804" parentZoneId="1879456562" longitude="-70.61026" latitude="-74.629776"/>
+<marker id="1161814038" label="Promising Spot" category="73" did="1879530804" parentZoneId="1879456562" longitude="-70.79063" latitude="-74.684906"/>
+<marker id="1161814039" label="Promising Spot" category="73" did="1879530804" parentZoneId="1879456562" longitude="-70.702065" latitude="-74.63588"/>
+<marker id="1161814041" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.6634" latitude="-74.56788"/>
+<marker id="1161814042" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.65679" latitude="-74.50734"/>
+<marker id="1161814043" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.67343" latitude="-74.40948"/>
+<marker id="1161814044" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.677536" latitude="-74.33182"/>
+<marker id="1161814045" label="Bird Feather" category="73" did="1879530755" parentZoneId="1879456562" longitude="-70.73389" latitude="-74.26551"/>
+<marker id="1161814046" label="Golwen" category="70" did="1879531816" parentZoneId="1879456562" longitude="-70.76799" latitude="-74.57699"/>
 </markers>

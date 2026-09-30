@@ -4725,37 +4725,40 @@
 <marker id="439504927" label="Nâkhmau Goblin" category="71" did="1879209852" parentZoneId="1879192020" longitude="-17.08831" latitude="-81.3067"/>
 <marker id="439504928" label="Dun Calf" category="71" did="1879208669" parentZoneId="1879192020" longitude="-17.08831" latitude="-81.3067"/>
 <marker id="439504929" label="Nâkhmau Warg" category="71" did="1879209853" parentZoneId="1879192020" longitude="-17.08831" latitude="-81.3067"/>
-<marker id="439508994" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879218506" longitude="-16.629639" latitude="-80.57802"/>
-<marker id="439508995" label="Ariene" category="70" did="1879214917" parentZoneId="1879218506" longitude="-16.44617" latitude="-80.51271"/>
-<marker id="439508996" label="Townsperson" category="70" did="1879078803" parentZoneId="1879218506" longitude="-16.698828" latitude="-80.92698"/>
-<marker id="439508997" label="Townsperson" category="70" did="1879078807" parentZoneId="1879218506" longitude="-16.651405" latitude="-80.93954"/>
-<marker id="439508998" label="Townsperson" category="70" did="1879078807" parentZoneId="1879218506" longitude="-16.696894" latitude="-80.95687"/>
-<marker id="439508999" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.66877" latitude="-80.91269"/>
-<marker id="439509000" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.69253" latitude="-80.90574"/>
-<marker id="439509001" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.680712" latitude="-80.94264"/>
-<marker id="439509002" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.915976" latitude="-80.77919"/>
-<marker id="439509003" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.886522" latitude="-80.73322"/>
-<marker id="439509004" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.970215" latitude="-80.680336"/>
-<marker id="439509005" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.95325" latitude="-80.6865"/>
-<marker id="439509006" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-17.00462" latitude="-80.7333"/>
-<marker id="439509007" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.984482" latitude="-80.68764"/>
-<marker id="439509024" label="Anwen" category="70" did="1879207980" parentZoneId="1879218506" longitude="-16.71458" latitude="-80.73054"/>
-<marker id="439509025" label="Overseer" category="70" did="1879215973" parentZoneId="1879218506" longitude="-16.93495" latitude="-80.72545"/>
-<marker id="439509026" label="Overseer" category="70" did="1879215967" parentZoneId="1879218506" longitude="-16.701698" latitude="-80.88312"/>
-<marker id="439509027" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.991035" latitude="-80.72346"/>
-<marker id="439509028" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.953281" latitude="-80.67565"/>
-<marker id="439509029" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.96588" latitude="-80.78839"/>
-<marker id="439509040" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-17.003437" latitude="-80.87278"/>
-<marker id="439509041" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.96999" latitude="-81.02985"/>
-<marker id="439509042" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.667656" latitude="-80.59219"/>
-<marker id="439509043" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.624481" latitude="-80.534"/>
-<marker id="439509044" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.662607" latitude="-80.88402"/>
-<marker id="439509045" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.806318" latitude="-80.97456"/>
-<marker id="439509046" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.994003" latitude="-80.887215"/>
-<marker id="439509047" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.911806" latitude="-80.76939"/>
-<marker id="439509048" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.635195" latitude="-80.89947"/>
-<marker id="439509049" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.9017" latitude="-80.711494"/>
-<marker id="439509050" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-17.195194" latitude="-80.8214"/>
+<marker id="439508995" label="Camp Site Fire" category="57" did="1879089870" parentZoneId="1879218506" longitude="-16.629639" latitude="-80.57802"/>
+<marker id="439508996" label="Ariene" category="70" did="1879214917" parentZoneId="1879218506" longitude="-16.44617" latitude="-80.51271"/>
+<marker id="439508997" label="Townsperson" category="70" did="1879078803" parentZoneId="1879218506" longitude="-16.698828" latitude="-80.92698"/>
+<marker id="439508998" label="Townsperson" category="70" did="1879078807" parentZoneId="1879218506" longitude="-16.651405" latitude="-80.93954"/>
+<marker id="439508999" label="Townsperson" category="70" did="1879078807" parentZoneId="1879218506" longitude="-16.696894" latitude="-80.95687"/>
+<marker id="439509000" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.66877" latitude="-80.91269"/>
+<marker id="439509001" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.69253" latitude="-80.90574"/>
+<marker id="439509002" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.680712" latitude="-80.94264"/>
+<marker id="439509003" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.915976" latitude="-80.77919"/>
+<marker id="439509004" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.886522" latitude="-80.73322"/>
+<marker id="439509005" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.970215" latitude="-80.680336"/>
+<marker id="439509006" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.95325" latitude="-80.6865"/>
+<marker id="439509007" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-17.00462" latitude="-80.7333"/>
+<marker id="439509008" label="Townsperson" category="70" did="1879079005" parentZoneId="1879218506" longitude="-16.984482" latitude="-80.68764"/>
+<marker id="439509025" label="Anwen" category="70" did="1879207980" parentZoneId="1879218506" longitude="-16.71458" latitude="-80.73054"/>
+<marker id="439509026" label="Overseer" category="70" did="1879215973" parentZoneId="1879218506" longitude="-16.93495" latitude="-80.72545"/>
+<marker id="439509027" label="Overseer" category="70" did="1879215967" parentZoneId="1879218506" longitude="-16.701698" latitude="-80.88312"/>
+<marker id="439509028" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.991035" latitude="-80.72346"/>
+<marker id="439509029" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.953281" latitude="-80.67565"/>
+<marker id="439509040" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.96588" latitude="-80.78839"/>
+<marker id="439509041" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-17.003437" latitude="-80.87278"/>
+<marker id="439509042" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.96999" latitude="-81.02985"/>
+<marker id="439509043" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.667656" latitude="-80.59219"/>
+<marker id="439509044" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.624481" latitude="-80.534"/>
+<marker id="439509045" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.662607" latitude="-80.88402"/>
+<marker id="439509046" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.806318" latitude="-80.97456"/>
+<marker id="439509047" label="Missing Nails" category="73" did="1879216051" parentZoneId="1879218506" longitude="-16.994003" latitude="-80.887215"/>
+<marker id="439509048" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.911806" latitude="-80.76939"/>
+<marker id="439509049" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.635195" latitude="-80.89947"/>
+<marker id="439509050" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.9017" latitude="-80.711494"/>
+<marker id="439509051" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-17.195194" latitude="-80.8214"/>
+<marker id="439509052" label="Barrel of Spears" category="73" did="1879531497" parentZoneId="1879218506" longitude="-16.915361" latitude="-80.70695"/>
+<marker id="439509053" label="Barrel of Spears" category="73" did="1879531497" parentZoneId="1879218506" longitude="-16.91036" latitude="-80.71041"/>
+<marker id="439509054" label="Barrel of Spears" category="73" did="1879531497" parentZoneId="1879218506" longitude="-16.90203" latitude="-80.7167"/>
 <marker id="439513088" label="Barber" category="60" did="1879206574" parentZoneId="1879218506" longitude="-17.073076" latitude="-80.03094"/>
 <marker id="439513089" label="Bard of Dunland" category="54" did="1879206577" parentZoneId="1879218506" longitude="-17.111952" latitude="-80.3052"/>
 <marker id="439513091" label="Forge-master" category="29" did="1879206582" parentZoneId="1879218506" longitude="-16.810225" latitude="-80.103745"/>
@@ -7591,29 +7594,32 @@
 <marker id="439574529" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.264101" latitude="-80.57134"/>
 <marker id="439574530" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-16.218672" latitude="-80.54367"/>
 <marker id="439574531" label="Overseer" category="70" did="1879215968" parentZoneId="1879218506" longitude="-16.241064" latitude="-80.515594"/>
-<marker id="439578626" label="Workbench" category="45" did="1879063072" parentZoneId="1879218506" longitude="-16.204004" latitude="-79.70613"/>
-<marker id="439578627" label="Expert Farmhand" category="33" did="1879222580" parentZoneId="1879218506" longitude="-16.187548" latitude="-79.71509"/>
-<marker id="439578628" label="Pile of Wood" category="73" did="1879208079" parentZoneId="1879218506" longitude="-15.810752" latitude="-80.37509"/>
-<marker id="439578629" label="Pile of Wood" category="73" did="1879208079" parentZoneId="1879218506" longitude="-15.786728" latitude="-80.021515"/>
-<marker id="439578630" label="Dai" category="71" did="1879208102" parentZoneId="1879218506" longitude="-15.692656" latitude="-79.99775"/>
-<marker id="439578631" label="Idwal" category="71" did="1879208104" parentZoneId="1879218506" longitude="-15.75455" latitude="-80.21744"/>
-<marker id="439578632" label="Resident of Galtrev" category="70" did="1879208540" parentZoneId="1879218506" longitude="-15.824062" latitude="-80.38266"/>
-<marker id="439578633" label="Resident of Galtrev" category="70" did="1879208540" parentZoneId="1879218506" longitude="-15.795107" latitude="-80.03347"/>
-<marker id="439578640" label="Ruthless Tom" category="70" did="1879215976" parentZoneId="1879218506" longitude="-16.389442" latitude="-79.690056"/>
-<marker id="439578641" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-15.607949" latitude="-79.967674"/>
-<marker id="439578642" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-15.703936" latitude="-80.11919"/>
-<marker id="439578643" label="White Hand Grunt" category="71" did="1879219907" parentZoneId="1879218506" longitude="-15.760293" latitude="-80.35287"/>
-<marker id="439578644" label="White Hand Torch-bearer" category="71" did="1879219911" parentZoneId="1879218506" longitude="-15.758018" latitude="-80.33624"/>
-<marker id="439578645" label="White Hand Torch-bearer" category="71" did="1879219911" parentZoneId="1879218506" longitude="-15.765595" latitude="-80.336075"/>
-<marker id="439578646" label="White Hand Enforcer" category="71" did="1879219908" parentZoneId="1879218506" longitude="-15.758447" latitude="-80.32617"/>
-<marker id="439578647" label="White Hand Enforcer" category="71" did="1879219908" parentZoneId="1879218506" longitude="-15.749443" latitude="-80.345985"/>
-<marker id="439578648" label="White Hand Warrior" category="71" did="1879219903" parentZoneId="1879218506" longitude="-15.751963" latitude="-80.326996"/>
-<marker id="439578650" label="Owena" category="70" did="1879215972" parentZoneId="1879218506" longitude="-15.617158" latitude="-80.00517"/>
-<marker id="439578656" label="Bingo Boffin" category="70" did="1879329423" parentZoneId="1879218506" longitude="-16.230293" latitude="-80.246704"/>
-<marker id="439578658" label="Haley Meadowsweet" category="70" did="1879330293" parentZoneId="1879218506" longitude="-16.265781" latitude="-80.2481"/>
-<marker id="439578659" label="Man" category="70" did="1879329440" parentZoneId="1879218506" longitude="-16.23117" latitude="-80.25425"/>
-<marker id="439578661" label="Man" category="70" did="1879330291" parentZoneId="1879218506" longitude="-16.226221" latitude="-80.24005"/>
-<marker id="439578662" label="Hûdh" category="70" did="1879342089" parentZoneId="1879218506" longitude="-16.36921" latitude="-80.10215"/>
+<marker id="439578625" label="Expert Farmhand" category="33" did="1879222580" parentZoneId="1879218506" longitude="-16.187548" latitude="-79.71509"/>
+<marker id="439578627" label="Workbench" category="45" did="1879063072" parentZoneId="1879218506" longitude="-16.204004" latitude="-79.70613"/>
+<marker id="439578629" label="Pile of Wood" category="73" did="1879208079" parentZoneId="1879218506" longitude="-15.810752" latitude="-80.37509"/>
+<marker id="439578630" label="Pile of Wood" category="73" did="1879208079" parentZoneId="1879218506" longitude="-15.786728" latitude="-80.021515"/>
+<marker id="439578631" label="Dai" category="71" did="1879208102" parentZoneId="1879218506" longitude="-15.692656" latitude="-79.99775"/>
+<marker id="439578632" label="Idwal" category="71" did="1879208104" parentZoneId="1879218506" longitude="-15.75455" latitude="-80.21744"/>
+<marker id="439578633" label="Resident of Galtrev" category="70" did="1879208540" parentZoneId="1879218506" longitude="-15.824062" latitude="-80.38266"/>
+<marker id="439578634" label="Resident of Galtrev" category="70" did="1879208540" parentZoneId="1879218506" longitude="-15.795107" latitude="-80.03347"/>
+<marker id="439578640" label="Owena" category="70" did="1879215972" parentZoneId="1879218506" longitude="-15.617158" latitude="-80.00517"/>
+<marker id="439578641" label="Ruthless Tom" category="70" did="1879215976" parentZoneId="1879218506" longitude="-16.389442" latitude="-79.690056"/>
+<marker id="439578642" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-15.607949" latitude="-79.967674"/>
+<marker id="439578643" label="Isengard Shipment" category="73" did="1879216061" parentZoneId="1879218506" longitude="-15.703936" latitude="-80.11919"/>
+<marker id="439578644" label="White Hand Grunt" category="71" did="1879219907" parentZoneId="1879218506" longitude="-15.760293" latitude="-80.35287"/>
+<marker id="439578645" label="White Hand Torch-bearer" category="71" did="1879219911" parentZoneId="1879218506" longitude="-15.758018" latitude="-80.33624"/>
+<marker id="439578646" label="White Hand Torch-bearer" category="71" did="1879219911" parentZoneId="1879218506" longitude="-15.765595" latitude="-80.336075"/>
+<marker id="439578647" label="White Hand Enforcer" category="71" did="1879219908" parentZoneId="1879218506" longitude="-15.758447" latitude="-80.32617"/>
+<marker id="439578648" label="White Hand Enforcer" category="71" did="1879219908" parentZoneId="1879218506" longitude="-15.749443" latitude="-80.345985"/>
+<marker id="439578649" label="White Hand Warrior" category="71" did="1879219903" parentZoneId="1879218506" longitude="-15.751963" latitude="-80.326996"/>
+<marker id="439578656" label="Man" category="70" did="1879329440" parentZoneId="1879218506" longitude="-16.23117" latitude="-80.25425"/>
+<marker id="439578657" label="Bingo Boffin" category="70" did="1879329423" parentZoneId="1879218506" longitude="-16.230293" latitude="-80.246704"/>
+<marker id="439578659" label="Haley Meadowsweet" category="70" did="1879330293" parentZoneId="1879218506" longitude="-16.265781" latitude="-80.2481"/>
+<marker id="439578662" label="Man" category="70" did="1879330291" parentZoneId="1879218506" longitude="-16.226221" latitude="-80.24005"/>
+<marker id="439578663" label="Hûdh" category="70" did="1879342089" parentZoneId="1879218506" longitude="-16.36921" latitude="-80.10215"/>
+<marker id="439578664" label="Barrel of Swords" category="73" did="1879531495" parentZoneId="1879218506" longitude="-16.371494" latitude="-80.03184"/>
+<marker id="439578665" label="Barrel of Swords" category="73" did="1879531495" parentZoneId="1879218506" longitude="-16.37213" latitude="-80.0257"/>
+<marker id="439578666" label="Barrel of Swords" category="73" did="1879531495" parentZoneId="1879218506" longitude="-16.351103" latitude="-80.01336"/>
 <marker id="439582720" label="The Galtrev Lumber-camp" category="43" did="1879214633" parentZoneId="1879218506" longitude="-15.738925" latitude="-78.93474"/>
 <marker id="439582721" label="Stack of Wood" category="73" did="1879216250" parentZoneId="1879218506" longitude="-15.934746" latitude="-78.95182"/>
 <marker id="439582722" label="Dunlending Archer" category="71" did="1879213225" parentZoneId="1879218506" longitude="-16.06168" latitude="-79.06318"/>

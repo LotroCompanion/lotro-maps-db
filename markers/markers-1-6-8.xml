@@ -921,22 +921,48 @@
 <marker id="377708544" label="Haudh Eldacar" category="43" did="1879088948" parentZoneId="1879086547" longitude="-66.80967" latitude="-17.162977"/>
 <marker id="377708545" label="Haudh Elendil" category="43" did="1879088946" parentZoneId="1879086547" longitude="-66.96729" latitude="-16.671064"/>
 <marker id="377708547" label="Haudh Eldacar" category="43" did="1879088948" parentZoneId="1879205399" longitude="-67.57101" latitude="-17.436523"/>
-<marker id="377708548" label="Angmarim Commander" category="71" did="1879205488" parentZoneId="1879205399" longitude="-67.60874" latitude="-17.060839"/>
-<marker id="377708549" label="Door" category="100" did="1879093406" parentZoneId="1879205399" longitude="-67.283806" latitude="-17.539072"/>
-<marker id="377708550" label="Door" category="100" did="1879093406" parentZoneId="1879086547" longitude="-66.81802" latitude="-17.153114"/>
-<marker id="377708551" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.639046" latitude="-17.117636"/>
-<marker id="377708552" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.50333" latitude="-17.539404"/>
-<marker id="377708553" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.669815" latitude="-17.350214"/>
-<marker id="377708554" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.56777" latitude="-17.493164"/>
-<marker id="377708555" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.576416" latitude="-17.122402"/>
-<marker id="377708556" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.609505" latitude="-17.606571"/>
-<marker id="377708557" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.54902" latitude="-17.35499"/>
-<marker id="377708558" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.60861" latitude="-17.332266"/>
-<marker id="377708559" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.60785" latitude="-17.686659"/>
-<marker id="377708560" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.67117" latitude="-17.535028"/>
-<marker id="377708564" label="Mordrambor's Servant" category="71" did="1879092674" parentZoneId="1879086547" longitude="-66.95328" latitude="-16.698711"/>
-<marker id="377708565" label="Mordrambor's Servant" category="71" did="1879092674" parentZoneId="1879086547" longitude="-66.94494" latitude="-16.690292"/>
-<marker id="377708566" label="Mordrambor" category="71" did="1879090975" parentZoneId="1879086547" longitude="-66.943726" latitude="-16.700674"/>
+<marker id="377708548" label="Scout" category="70" did="1879450333" parentZoneId="1879205399" longitude="-67.30018" latitude="-17.539639"/>
+<marker id="377708549" label="Door" category="100" did="1879093406" parentZoneId="1879086547" longitude="-66.81802" latitude="-17.153114"/>
+<marker id="377708553" label="Angmarim Commander" category="71" did="1879205488" parentZoneId="1879205399" longitude="-67.60874" latitude="-17.060839"/>
+<marker id="377708554" label="Door" category="100" did="1879093406" parentZoneId="1879205399" longitude="-67.283806" latitude="-17.539072"/>
+<marker id="377708555" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.639046" latitude="-17.117636"/>
+<marker id="377708556" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.50333" latitude="-17.539404"/>
+<marker id="377708557" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.669815" latitude="-17.350214"/>
+<marker id="377708558" label="Angmarim Expeditionary" category="71" did="1879086720" parentZoneId="1879205399" longitude="-67.56777" latitude="-17.493164"/>
+<marker id="377708559" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.576416" latitude="-17.122402"/>
+<marker id="377708560" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.609505" latitude="-17.606571"/>
+<marker id="377708561" label="Dead-eye Angmarim" category="71" did="1879086721" parentZoneId="1879205399" longitude="-67.54902" latitude="-17.35499"/>
+<marker id="377708562" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.60861" latitude="-17.332266"/>
+<marker id="377708563" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.60785" latitude="-17.686659"/>
+<marker id="377708564" label="Angmarim Hymn-chanter" category="71" did="1879086722" parentZoneId="1879205399" longitude="-67.67117" latitude="-17.535028"/>
+<marker id="377708565" label="Mordrambor's Servant" category="71" did="1879092674" parentZoneId="1879086547" longitude="-66.95328" latitude="-16.698711"/>
+<marker id="377708566" label="Mordrambor's Servant" category="71" did="1879092674" parentZoneId="1879086547" longitude="-66.94494" latitude="-16.690292"/>
+<marker id="377708567" label="Mordrambor" category="71" did="1879090975" parentZoneId="1879086547" longitude="-66.943726" latitude="-16.700674"/>
+<marker id="377708568" label="Angmarim Ritualist" category="71" did="1879531891" parentZoneId="1879205399" longitude="-67.66364" latitude="-17.542997"/>
+<marker id="377708569" label="Angmarim Ritualist" category="71" did="1879531891" parentZoneId="1879205399" longitude="-67.61376" latitude="-17.17668"/>
+<marker id="377708570" label="Angmarim Ritualist" category="71" did="1879531891" parentZoneId="1879205399" longitude="-67.60772" latitude="-17.059063"/>
+<marker id="377708571" label="Angmarim Ritualist" category="71" did="1879531891" parentZoneId="1879205399" longitude="-67.59964" latitude="-17.674774"/>
+<marker id="377708572" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.54414" latitude="-17.578613"/>
+<marker id="377708573" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.54208" latitude="-17.636797"/>
+<marker id="377708574" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.67832" latitude="-17.631796"/>
+<marker id="377708575" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.65392" latitude="-17.407803"/>
+<marker id="377708576" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.56844" latitude="-17.399452"/>
+<marker id="377708577" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.56344" latitude="-17.124794"/>
+<marker id="377708578" label="Crate of Supplies" category="73" did="1879531551" parentZoneId="1879205399" longitude="-67.65757" latitude="-17.12787"/>
+<marker id="377708579" label="Angmarim Sharp-eye" category="71" did="1879531868" parentZoneId="1879205399" longitude="-67.520744" latitude="-17.505108"/>
+<marker id="377708580" label="Angmarim Sharp-eye" category="71" did="1879531868" parentZoneId="1879205399" longitude="-67.519455" latitude="-17.56621"/>
+<marker id="377708581" label="Angmarim Sharp-eye" category="71" did="1879531868" parentZoneId="1879205399" longitude="-67.56722" latitude="-17.354628"/>
+<marker id="377708582" label="Angmarim Sharp-eye" category="71" did="1879531868" parentZoneId="1879205399" longitude="-67.63091" latitude="-17.646288"/>
+<marker id="377708583" label="Angmarim Sharp-eye" category="71" did="1879531868" parentZoneId="1879205399" longitude="-67.58391" latitude="-17.645693"/>
+<marker id="377708584" label="Angmarim Captain" category="71" did="1879531884" parentZoneId="1879205399" longitude="-67.65777" latitude="-17.547646"/>
+<marker id="377708585" label="Angmarim Captain" category="71" did="1879531884" parentZoneId="1879205399" longitude="-67.657135" latitude="-17.52791"/>
+<marker id="377708586" label="Angmarim Captain" category="71" did="1879531884" parentZoneId="1879205399" longitude="-67.65454" latitude="-17.354473"/>
+<marker id="377708587" label="Angmarim Captain" category="71" did="1879531884" parentZoneId="1879205399" longitude="-67.627365" latitude="-17.110224"/>
+<marker id="377708588" label="Angmarim Captain" category="71" did="1879531884" parentZoneId="1879205399" longitude="-67.58886" latitude="-17.114033"/>
+<marker id="377708589" label="Angmarim Web-caller" category="71" did="1879531900" parentZoneId="1879205399" longitude="-67.669815" latitude="-17.530186"/>
+<marker id="377708590" label="Angmarim Web-caller" category="71" did="1879531900" parentZoneId="1879205399" longitude="-67.60079" latitude="-17.17668"/>
+<marker id="377708591" label="Angmarim Web-caller" category="71" did="1879531900" parentZoneId="1879205399" longitude="-67.60772" latitude="-17.08456"/>
+<marker id="377708592" label="Angmarim Web-caller" category="71" did="1879531900" parentZoneId="1879205399" longitude="-67.61833" latitude="-17.67294"/>
 <marker id="377729024" label="Inurawen&#10;Captain Trainer" category="42" did="1879089168" parentZoneId="1879086553" longitude="-67.18569" latitude="-12.703565"/>
 <marker id="377729025" label="Uirod&#10;Champion Trainer" category="42" did="1879089169" parentZoneId="1879086553" longitude="-67.19816" latitude="-12.71664"/>
 <marker id="377729026" label="Tirnedhruith&#10;Guardian Trainer" category="42" did="1879089170" parentZoneId="1879086553" longitude="-67.305466" latitude="-12.707753"/>

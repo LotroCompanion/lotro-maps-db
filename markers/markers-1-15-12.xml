@@ -28,38 +28,71 @@
 <marker id="533200956" label="Mannequin" category="70" did="1879238647" parentZoneId="1879184279" longitude="52.21451" latitude="29.164238"/>
 <marker id="533200958" label="Worn Anvil" category="73" did="1879186614" parentZoneId="1879184279" longitude="52.301853" latitude="29.152372"/>
 <marker id="533200960" label="Raiglud" category="70" did="1879342079" parentZoneId="1879184279" longitude="52.138165" latitude="29.040146"/>
-<marker id="533209091" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.065643" latitude="30.716122"/>
-<marker id="533209092" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.323044" latitude="30.964268"/>
-<marker id="533209093" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.46621" latitude="30.51873"/>
-<marker id="533209094" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.266113" latitude="31.154287"/>
-<marker id="533209095" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.367012" latitude="30.309902"/>
-<marker id="533209117" label="Laodegan's Pack-leader" category="71" did="1879191094" parentZoneId="1879184283" longitude="51.640213" latitude="30.646074"/>
-<marker id="533209118" label="Laodegan's Pack-wolf" category="71" did="1879191095" parentZoneId="1879184283" longitude="51.54461" latitude="30.59582"/>
-<marker id="533209119" label="Laodegan's Pack-wolf" category="71" did="1879191095" parentZoneId="1879184283" longitude="51.543613" latitude="30.713749"/>
-<marker id="533209216" label="Draig-lûth Jailor" category="71" did="1879185992" parentZoneId="1879184283" longitude="51.289997" latitude="30.992216"/>
-<marker id="533209217" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.2374" latitude="30.718369"/>
-<marker id="533209218" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.026173" latitude="30.732822"/>
-<marker id="533209219" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.121895" latitude="30.732958"/>
-<marker id="533209220" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.353786" latitude="30.975409"/>
-<marker id="533209221" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.328846" latitude="30.354893"/>
-<marker id="533209222" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.021133" latitude="30.716122"/>
-<marker id="533209223" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.34906" latitude="30.368242"/>
-<marker id="533209224" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.360664" latitude="30.436152"/>
-<marker id="533209225" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.55318" latitude="31.149931"/>
-<marker id="533209226" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.56076" latitude="30.526503"/>
-<marker id="533209227" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.532402" latitude="30.988808"/>
-<marker id="533209228" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.378925" latitude="31.139404"/>
-<marker id="533209229" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.233963" latitude="31.134619"/>
-<marker id="533209230" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.143787" latitude="31.035545"/>
-<marker id="533209231" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.095528" latitude="31.019384"/>
-<marker id="533209232" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.114216" latitude="30.88412"/>
-<marker id="533209233" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.533554" latitude="30.648212"/>
-<marker id="533209234" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.569355" latitude="31.063007"/>
-<marker id="533209235" label="Draig-lûth Jailor" category="71" did="1879185992" parentZoneId="1879184283" longitude="51.339005" latitude="31.018223"/>
-<marker id="533209240" label="Grif" category="70" did="1879182653" parentZoneId="1879184283" longitude="51.30363" latitude="30.356981"/>
-<marker id="533209241" label="Delwen" category="70" did="1879182654" parentZoneId="1879184283" longitude="51.019394" latitude="30.693748"/>
-<marker id="533209242" label="Cedivor" category="70" did="1879182655" parentZoneId="1879184283" longitude="51.36789" latitude="30.939325"/>
-<marker id="533209243" label="Laodegan" category="71" did="1879191040" parentZoneId="1879184283" longitude="51.641716" latitude="30.652617"/>
+<marker id="533209091" label="Scout" category="70" did="1879450333" parentZoneId="1879184283" longitude="51.65619" latitude="30.64583"/>
+<marker id="533209092" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.065643" latitude="30.716122"/>
+<marker id="533209093" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.323044" latitude="30.964268"/>
+<marker id="533209094" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.46621" latitude="30.51873"/>
+<marker id="533209095" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.266113" latitude="31.154287"/>
+<marker id="533209096" label="Door" category="100" did="1879079217" parentZoneId="1879184283" longitude="51.367012" latitude="30.309902"/>
+<marker id="533209118" label="Laodegan's Pack-leader" category="71" did="1879191094" parentZoneId="1879184283" longitude="51.640213" latitude="30.646074"/>
+<marker id="533209119" label="Laodegan's Pack-wolf" category="71" did="1879191095" parentZoneId="1879184283" longitude="51.54461" latitude="30.59582"/>
+<marker id="533209120" label="Laodegan's Pack-wolf" category="71" did="1879191095" parentZoneId="1879184283" longitude="51.543613" latitude="30.713749"/>
+<marker id="533209124" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.522324" latitude="30.97495"/>
+<marker id="533209125" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.55959" latitude="30.991425"/>
+<marker id="533209126" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.241013" latitude="30.413671"/>
+<marker id="533209127" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.246014" latitude="30.41867"/>
+<marker id="533209128" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.09742" latitude="31.062235"/>
+<marker id="533209129" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.12209" latitude="31.070147"/>
+<marker id="533209130" label="Draig-lûth Guard" category="71" did="1879531877" parentZoneId="1879184283" longitude="51.1233" latitude="30.870878"/>
+<marker id="533209131" label="Dunlending Captain" category="71" did="1879531882" parentZoneId="1879184283" longitude="51.10289" latitude="31.079472"/>
+<marker id="533209152" label="Draig-lûth Gaoler" category="71" did="1879531897" parentZoneId="1879184283" longitude="51.54535" latitude="30.75668"/>
+<marker id="533209153" label="Draig-lûth Gaoler" category="71" did="1879531897" parentZoneId="1879184283" longitude="51.553535" latitude="30.786865"/>
+<marker id="533209154" label="Draig-lûth Gaoler" category="71" did="1879531897" parentZoneId="1879184283" longitude="51.05549" latitude="30.734219"/>
+<marker id="533209155" label="Draig-lûth Gaoler" category="71" did="1879531897" parentZoneId="1879184283" longitude="51.109764" latitude="30.886816"/>
+<marker id="533209156" label="Draig-lûth Gaoler" category="71" did="1879531897" parentZoneId="1879184283" longitude="51.265896" latitude="31.134012"/>
+<marker id="533209216" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.021133" latitude="30.716122"/>
+<marker id="533209217" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.34906" latitude="30.368242"/>
+<marker id="533209218" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.360664" latitude="30.436152"/>
+<marker id="533209219" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.55318" latitude="31.149931"/>
+<marker id="533209220" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.56076" latitude="30.526503"/>
+<marker id="533209221" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.532402" latitude="30.988808"/>
+<marker id="533209222" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.378925" latitude="31.139404"/>
+<marker id="533209223" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.233963" latitude="31.134619"/>
+<marker id="533209224" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.143787" latitude="31.035545"/>
+<marker id="533209225" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.095528" latitude="31.019384"/>
+<marker id="533209226" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.114216" latitude="30.88412"/>
+<marker id="533209227" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.533554" latitude="30.648212"/>
+<marker id="533209228" label="Draig-lûth Jailor" category="71" did="1879185990" parentZoneId="1879184283" longitude="51.569355" latitude="31.063007"/>
+<marker id="533209229" label="Draig-lûth Jailor" category="71" did="1879185992" parentZoneId="1879184283" longitude="51.339005" latitude="31.018223"/>
+<marker id="533209230" label="Draig-lûth Jailor" category="71" did="1879185992" parentZoneId="1879184283" longitude="51.289997" latitude="30.992216"/>
+<marker id="533209231" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.2374" latitude="30.718369"/>
+<marker id="533209232" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.026173" latitude="30.732822"/>
+<marker id="533209233" label="Draig-lûth Jailor" category="71" did="1879185991" parentZoneId="1879184283" longitude="51.121895" latitude="30.732958"/>
+<marker id="533209234" label="Grif" category="70" did="1879182653" parentZoneId="1879184283" longitude="51.30363" latitude="30.356981"/>
+<marker id="533209235" label="Delwen" category="70" did="1879182654" parentZoneId="1879184283" longitude="51.019394" latitude="30.693748"/>
+<marker id="533209236" label="Cedivor" category="70" did="1879182655" parentZoneId="1879184283" longitude="51.36789" latitude="30.939325"/>
+<marker id="533209254" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.353786" latitude="30.975409"/>
+<marker id="533209255" label="Cell-door" category="73" did="1879186048" parentZoneId="1879184283" longitude="51.328846" latitude="30.354893"/>
+<marker id="533209277" label="Laodegan" category="71" did="1879191040" parentZoneId="1879184283" longitude="51.641716" latitude="30.652617"/>
+<marker id="533209278" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.46336" latitude="30.521894"/>
+<marker id="533209279" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.430565" latitude="30.518085"/>
+<marker id="533209280" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.025078" latitude="30.723974"/>
+<marker id="533209281" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.03008" latitude="30.748495"/>
+<marker id="533209282" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.06617" latitude="30.749716"/>
+<marker id="533209283" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.06957" latitude="30.719442"/>
+<marker id="533209284" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.226307" latitude="31.14998"/>
+<marker id="533209285" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.231308" latitude="31.122402"/>
+<marker id="533209286" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.262985" latitude="31.122578"/>
+<marker id="533209287" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.267986" latitude="31.14958"/>
+<marker id="533209288" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.33371" latitude="30.311415"/>
+<marker id="533209289" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.36076" latitude="30.316416"/>
+<marker id="533209290" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.362343" latitude="30.356903"/>
+<marker id="533209291" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.337517" latitude="30.35581"/>
+<marker id="533209292" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.431953" latitude="30.553349"/>
+<marker id="533209293" label="Iron Manacles" category="73" did="1879531541" parentZoneId="1879184283" longitude="51.46242" latitude="30.55835"/>
+<marker id="533209294" label="Prisoner Corpse" category="73" did="1879531549" parentZoneId="1879184283" longitude="51.023064" latitude="30.73745"/>
+<marker id="533209295" label="Prisoner Corpse" category="73" did="1879531547" parentZoneId="1879184283" longitude="51.44615" latitude="30.56373"/>
+<marker id="533209296" label="Prisoner Corpse" category="73" did="1879531543" parentZoneId="1879184283" longitude="51.218945" latitude="31.13712"/>
 <marker id="533217280" label="Braigiar" category="70" did="1879182535" parentZoneId="1879063919" longitude="51.506874" latitude="32.016533"/>
 <marker id="533217281" label="Avanen" category="70" did="1879182537" parentZoneId="1879063919" longitude="51.599804" latitude="31.939629"/>
 <marker id="533225472" label="Halbarad" category="70" did="1879181404" parentZoneId="1879181985" longitude="52.171932" latitude="34.79625"/>

@@ -167,58 +167,96 @@
 <marker id="521826333" label="Door" category="100" did="1879139137" parentZoneId="1879162981" longitude="52.793728" latitude="-105.666405"/>
 <marker id="521826334" label="Glorious Beer" category="73" did="1879161459" parentZoneId="1879162981" longitude="52.781307" latitude="-105.93902"/>
 <marker id="521826335" label="Glorious Beer" category="73" did="1879161459" parentZoneId="1879162981" longitude="52.880722" latitude="-105.942535"/>
-<marker id="521834498" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="53.050488" latitude="-104.668"/>
-<marker id="521834499" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.81244" latitude="-104.524765"/>
-<marker id="521834500" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.682537" latitude="-104.71101"/>
-<marker id="521834501" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.886562" latitude="-104.3395"/>
-<marker id="521834502" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.731327" latitude="-104.345505"/>
-<marker id="521834503" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.904648" latitude="-104.69434"/>
-<marker id="521834504" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.740078" latitude="-104.68935"/>
-<marker id="521834505" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.804276" latitude="-104.56224"/>
-<marker id="521834506" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.851307" latitude="-104.564316"/>
-<marker id="521834507" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.88988" latitude="-104.61747"/>
-<marker id="521834508" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.76789" latitude="-104.62361"/>
-<marker id="521834509" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.73152" latitude="-104.35812"/>
-<marker id="521834510" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.60584" latitude="-104.70421"/>
-<marker id="521834511" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.783123" latitude="-104.38829"/>
-<marker id="521834512" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.210644" latitude="-104.63931"/>
-<marker id="521834513" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.600174" latitude="-104.38149"/>
-<marker id="521834514" label="Logi" category="70" did="1879161691" parentZoneId="1879157469" longitude="53.299255" latitude="-104.08212"/>
-<marker id="521834515" label="Henir" category="70" did="1879161692" parentZoneId="1879157469" longitude="53.19375" latitude="-103.9496"/>
-<marker id="521834516" label="Gnâshrakh" category="71" did="1879162777" parentZoneId="1879157469" longitude="53.297264" latitude="-104.57287"/>
-<marker id="521834517" label="Angàr Irongut" category="71" did="1879162776" parentZoneId="1879157469" longitude="53.139786" latitude="-104.66147"/>
-<marker id="521834518" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="53.4574" latitude="-103.95965"/>
-<marker id="521834519" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="53.837246" latitude="-104.677635"/>
-<marker id="521834520" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="52.684063" latitude="-104.42723"/>
-<marker id="521834521" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.759647" latitude="-104.559814"/>
-<marker id="521834522" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.628925" latitude="-104.41922"/>
-<marker id="521834523" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.79828" latitude="-104.41707"/>
-<marker id="521834524" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.59342" latitude="-104.641685"/>
-<marker id="521834525" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.20986" latitude="-104.68417"/>
-<marker id="521834526" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.668983" latitude="-104.56379"/>
-<marker id="521834527" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.724922" latitude="-104.66972"/>
-<marker id="521834531" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.246952" latitude="-104.6075"/>
-<marker id="521834536" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.65662" latitude="-104.56161"/>
-<marker id="521834541" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.333534" latitude="-104.58916"/>
-<marker id="521834542" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.7649" latitude="-104.39793"/>
-<marker id="521834543" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.657616" latitude="-104.39754"/>
-<marker id="521834549" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="53.050606" latitude="-104.644745"/>
-<marker id="521834552" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.871075" latitude="-104.533134"/>
-<marker id="521834555" label="Shornbeard Warrior" category="71" did="1879077288" parentZoneId="1879157469" longitude="52.886562" latitude="-104.3395"/>
-<marker id="521834557" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.74781" latitude="-104.35111"/>
-<marker id="521834574" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.184082" latitude="-104.69399"/>
-<marker id="521834575" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.329784" latitude="-104.694824"/>
-<marker id="521834576" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.252167" latitude="-104.555916"/>
-<marker id="521834577" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.075195" latitude="-104.63501"/>
-<marker id="521834578" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.724766" latitude="-104.7047"/>
-<marker id="521834579" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.92865" latitude="-104.55941"/>
-<marker id="521834580" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.681854" latitude="-104.655426"/>
-<marker id="521834581" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.16291" latitude="-104.33444"/>
-<marker id="521834582" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.233555" latitude="-104.20318"/>
-<marker id="521834583" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.25047" latitude="-103.942245"/>
-<marker id="521834584" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.343143" latitude="-104.08862"/>
-<marker id="521834585" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.581795" latitude="-104.71097"/>
-<marker id="521834586" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.683044" latitude="-104.37242"/>
+<marker id="521834496" label="Logi" category="70" did="1879161691" parentZoneId="1879157469" longitude="53.299255" latitude="-104.08212"/>
+<marker id="521834497" label="Henir" category="70" did="1879161692" parentZoneId="1879157469" longitude="53.19375" latitude="-103.9496"/>
+<marker id="521834498" label="Scout" category="70" did="1879450333" parentZoneId="1879157469" longitude="52.697636" latitude="-104.430504"/>
+<marker id="521834499" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="53.4574" latitude="-103.95965"/>
+<marker id="521834500" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="53.837246" latitude="-104.677635"/>
+<marker id="521834501" label="Door" category="100" did="1879085721" parentZoneId="1879157469" longitude="52.684063" latitude="-104.42723"/>
+<marker id="521834502" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="53.050488" latitude="-104.668"/>
+<marker id="521834503" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.81244" latitude="-104.524765"/>
+<marker id="521834504" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.871075" latitude="-104.533134"/>
+<marker id="521834505" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.682537" latitude="-104.71101"/>
+<marker id="521834506" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.886562" latitude="-104.3395"/>
+<marker id="521834507" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.731327" latitude="-104.345505"/>
+<marker id="521834508" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.74781" latitude="-104.35111"/>
+<marker id="521834509" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.904648" latitude="-104.69434"/>
+<marker id="521834510" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="52.740078" latitude="-104.68935"/>
+<marker id="521834511" label="Shornbeard Outlaw" category="71" did="1879077287" parentZoneId="1879157469" longitude="53.050606" latitude="-104.644745"/>
+<marker id="521834512" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.246952" latitude="-104.6075"/>
+<marker id="521834513" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.804276" latitude="-104.56224"/>
+<marker id="521834514" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.851307" latitude="-104.564316"/>
+<marker id="521834515" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.82912" latitude="-104.58231"/>
+<marker id="521834516" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.88988" latitude="-104.61747"/>
+<marker id="521834517" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.76789" latitude="-104.62361"/>
+<marker id="521834518" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.925682" latitude="-104.493126"/>
+<marker id="521834519" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.880154" latitude="-104.45187"/>
+<marker id="521834520" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.77951" latitude="-104.47741"/>
+<marker id="521834521" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.73152" latitude="-104.35812"/>
+<marker id="521834522" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.913242" latitude="-104.694756"/>
+<marker id="521834523" label="Shornbeard Fighter" category="71" did="1879079713" parentZoneId="1879157469" longitude="52.748672" latitude="-104.68975"/>
+<marker id="521834524" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.60584" latitude="-104.70421"/>
+<marker id="521834525" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.631462" latitude="-104.600945"/>
+<marker id="521834526" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.783123" latitude="-104.38829"/>
+<marker id="521834527" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.59451" latitude="-104.67767"/>
+<marker id="521834528" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.210644" latitude="-104.63931"/>
+<marker id="521834529" label="Tarkrîp Berserker" category="71" did="1879079744" parentZoneId="1879157469" longitude="53.600174" latitude="-104.38149"/>
+<marker id="521834532" label="Gnâshrakh" category="71" did="1879162777" parentZoneId="1879157469" longitude="53.297264" latitude="-104.57287"/>
+<marker id="521834533" label="Angàr Irongut" category="71" did="1879162776" parentZoneId="1879157469" longitude="53.139786" latitude="-104.66147"/>
+<marker id="521834534" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.759647" latitude="-104.559814"/>
+<marker id="521834535" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.628925" latitude="-104.41922"/>
+<marker id="521834536" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.79828" latitude="-104.41707"/>
+<marker id="521834537" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.59342" latitude="-104.641685"/>
+<marker id="521834538" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.20986" latitude="-104.68417"/>
+<marker id="521834539" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.668983" latitude="-104.56379"/>
+<marker id="521834540" label="Angered Tarkrîp" category="71" did="1879051336" parentZoneId="1879157469" longitude="53.65662" latitude="-104.56161"/>
+<marker id="521834541" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.724922" latitude="-104.66972"/>
+<marker id="521834542" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.333534" latitude="-104.58916"/>
+<marker id="521834543" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.7649" latitude="-104.39793"/>
+<marker id="521834544" label="Dreadful Tarkrîp" category="71" did="1879051337" parentZoneId="1879157469" longitude="53.657616" latitude="-104.39754"/>
+<marker id="521834545" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.276405" latitude="-104.61488"/>
+<marker id="521834546" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.70873" latitude="-104.672455"/>
+<marker id="521834547" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.65945" latitude="-104.55885"/>
+<marker id="521834548" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.761307" latitude="-104.55986"/>
+<marker id="521834549" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.707733" latitude="-104.41368"/>
+<marker id="521834550" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.786522" latitude="-104.42429"/>
+<marker id="521834551" label="Iorvinas Warrior" category="71" did="1879531887" parentZoneId="1879157469" longitude="53.63119" latitude="-104.41134"/>
+<marker id="521834553" label="Iorvinas Defiler" category="71" did="1879531883" parentZoneId="1879157469" longitude="53.278652" latitude="-104.637245"/>
+<marker id="521834554" label="Iorvinas Defiler" category="71" did="1879531883" parentZoneId="1879157469" longitude="53.701756" latitude="-104.660645"/>
+<marker id="521834555" label="Iorvinas Defiler" category="71" did="1879531883" parentZoneId="1879157469" longitude="53.72289" latitude="-104.41843"/>
+<marker id="521834556" label="Iorvinas Defiler" category="71" did="1879531883" parentZoneId="1879157469" longitude="53.807888" latitude="-104.426865"/>
+<marker id="521834557" label="Iorvinas Defiler" category="71" did="1879531883" parentZoneId="1879157469" longitude="53.643456" latitude="-104.39607"/>
+<marker id="521834558" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="52.93529" latitude="-104.38527"/>
+<marker id="521834559" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="52.93166" latitude="-104.55696"/>
+<marker id="521834560" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="53.096443" latitude="-104.67093"/>
+<marker id="521834561" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="53.207188" latitude="-104.37651"/>
+<marker id="521834562" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="53.583103" latitude="-104.39004"/>
+<marker id="521834563" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="53.670856" latitude="-104.60645"/>
+<marker id="521834564" label="Dwarf Rune-stone" category="73" did="1879531496" parentZoneId="1879157469" longitude="53.75281" latitude="-104.60573"/>
+<marker id="521834565" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.09742" latitude="-104.65752"/>
+<marker id="521834566" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.188614" latitude="-104.640564"/>
+<marker id="521834567" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.34295" latitude="-104.65699"/>
+<marker id="521834568" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.33246" latitude="-104.59902"/>
+<marker id="521834569" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.695213" latitude="-104.42833"/>
+<marker id="521834570" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.72156" latitude="-104.42805"/>
+<marker id="521834571" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.837322" latitude="-104.51919"/>
+<marker id="521834572" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.60826" latitude="-104.39799"/>
+<marker id="521834573" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.620075" latitude="-104.3756"/>
+<marker id="521834574" label="Iorvinas Scout" category="71" did="1879531896" parentZoneId="1879157469" longitude="53.027832" latitude="-104.356186"/>
+<marker id="521834607" label="Shornbeard Warrior" category="71" did="1879077288" parentZoneId="1879157469" longitude="52.886562" latitude="-104.3395"/>
+<marker id="521834622" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.184082" latitude="-104.69399"/>
+<marker id="521834623" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.329784" latitude="-104.694824"/>
+<marker id="521834624" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.252167" latitude="-104.555916"/>
+<marker id="521834625" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.075195" latitude="-104.63501"/>
+<marker id="521834626" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.724766" latitude="-104.7047"/>
+<marker id="521834627" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.92865" latitude="-104.55941"/>
+<marker id="521834628" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="52.681854" latitude="-104.655426"/>
+<marker id="521834629" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.16291" latitude="-104.33444"/>
+<marker id="521834630" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.233555" latitude="-104.20318"/>
+<marker id="521834631" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.25047" latitude="-103.942245"/>
+<marker id="521834632" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.343143" latitude="-104.08862"/>
+<marker id="521834633" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.581795" latitude="-104.71097"/>
+<marker id="521834634" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879157469" longitude="53.683044" latitude="-104.37242"/>
 <marker id="521842688" label="Gapi&#10;Ale Association Kindred Trader" category="58" did="1879183138" parentZoneId="1879184999" longitude="53.19994" latitude="-102.74388"/>
 <marker id="521842689" label="Watcher" category="70" did="1879077016" parentZoneId="1879184999" longitude="53.19445" latitude="-102.82035"/>
 <marker id="521842690" label="Townsperson" category="70" did="1879077690" parentZoneId="1879184999" longitude="53.181522" latitude="-102.86458"/>

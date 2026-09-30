@@ -1,315 +1,336 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="283181056" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.0179" latitude="54.277695"/>
-<marker id="283181057" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.2154" latitude="54.48107"/>
-<marker id="283181058" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.49121" latitude="54.324802"/>
-<marker id="283181059" label="Door" category="100" did="1879063859" parentZoneId="1879191807" longitude="-146.6868" latitude="54.173164"/>
-<marker id="283181060" label="Barrow-candle" category="71" did="1879091539" parentZoneId="1879191807" longitude="-146.98987" latitude="54.219196"/>
-<marker id="283181061" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
-<marker id="283181062" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
-<marker id="283181063" label="Umnen" category="71" did="1879091542" parentZoneId="1879191807" longitude="-147.44499" latitude="54.228516"/>
-<marker id="283181064" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
-<marker id="283181065" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
-<marker id="283181066" label="Watchers' Workshop" category="73" did="1879092864" parentZoneId="1879191807" longitude="-147.12816" latitude="54.08922"/>
-<marker id="283181067" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.06706" latitude="54.163925"/>
-<marker id="283181068" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.06706" latitude="54.163925"/>
-<marker id="283181069" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.24783" latitude="54.40201"/>
-<marker id="283181070" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.43973" latitude="54.222614"/>
-<marker id="283181071" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-146.98978" latitude="54.138554"/>
-<marker id="283181072" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.12677" latitude="54.08488"/>
-<marker id="283181086" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181087" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181088" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181089" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181090" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181091" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181092" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
-<marker id="283181093" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181094" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181095" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181096" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181097" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181098" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181099" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
-<marker id="283181100" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181101" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181102" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181103" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181104" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181105" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181106" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
-<marker id="283181107" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181108" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181109" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181110" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181111" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181112" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181113" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
-<marker id="283181114" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181115" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181116" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181117" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181118" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181119" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181120" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
-<marker id="283181121" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181122" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181123" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181124" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181125" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181126" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181127" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
-<marker id="283181128" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181129" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181130" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181131" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181132" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181133" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181134" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
-<marker id="283181135" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181136" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181137" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181138" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181139" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181140" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181141" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
-<marker id="283181142" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.38483" latitude="54.12623"/>
-<marker id="283181143" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.38483" latitude="54.12623"/>
-<marker id="283181144" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.38943" latitude="54.17816"/>
-<marker id="283181145" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.38943" latitude="54.17816"/>
-<marker id="283181146" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.45366" latitude="54.279743"/>
-<marker id="283181147" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.45366" latitude="54.279743"/>
-<marker id="283181148" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.48488" latitude="54.25871"/>
-<marker id="283181149" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.48488" latitude="54.25871"/>
-<marker id="283181150" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.5431" latitude="54.21205"/>
-<marker id="283181151" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.5431" latitude="54.21205"/>
-<marker id="283181152" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.41771" latitude="54.207226"/>
-<marker id="283181153" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.41771" latitude="54.207226"/>
-<marker id="283181154" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.55466" latitude="54.333416"/>
-<marker id="283181155" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.55466" latitude="54.333416"/>
-<marker id="283181156" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.49501" latitude="54.28072"/>
-<marker id="283181157" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.49501" latitude="54.28072"/>
-<marker id="283181158" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181159" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181160" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181161" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181162" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181163" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181164" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
-<marker id="283181165" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181166" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181167" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181168" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181169" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181170" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181171" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
-<marker id="283181172" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181173" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181174" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181175" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181176" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181177" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181178" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
-<marker id="283181179" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181180" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181181" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181182" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181183" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181184" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181185" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
-<marker id="283181186" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181187" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181188" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181189" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181190" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181191" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181192" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
-<marker id="283181193" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181194" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181195" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181196" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181197" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181198" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181199" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
-<marker id="283181200" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181201" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181202" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181203" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181204" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181205" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181206" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
-<marker id="283181207" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181208" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181209" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181210" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181211" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181212" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181213" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
-<marker id="283181214" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181215" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181216" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181217" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181218" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181219" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181220" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
-<marker id="283181221" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181222" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181223" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181224" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181225" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181226" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181227" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
-<marker id="283181228" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181229" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181230" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181231" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181232" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181233" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181234" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
-<marker id="283181235" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181236" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181237" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181238" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181239" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181240" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181241" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
-<marker id="283181242" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181243" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181244" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181245" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181246" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181247" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181248" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
-<marker id="283181249" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181250" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181251" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181252" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181253" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181254" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181255" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
-<marker id="283181256" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181257" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181258" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181259" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181260" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181261" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181262" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
-<marker id="283181263" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181264" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181265" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181266" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181267" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181268" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181269" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
-<marker id="283181270" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.03258" latitude="54.242477"/>
-<marker id="283181271" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.03258" latitude="54.242477"/>
-<marker id="283181272" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.1016" latitude="54.12631"/>
-<marker id="283181273" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.1016" latitude="54.12631"/>
-<marker id="283181274" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.19514" latitude="54.18123"/>
-<marker id="283181275" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.19514" latitude="54.18123"/>
-<marker id="283181276" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18358" latitude="54.11041"/>
-<marker id="283181277" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18358" latitude="54.11041"/>
-<marker id="283181278" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.11923" latitude="54.039433"/>
-<marker id="283181279" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.11923" latitude="54.039433"/>
-<marker id="283181280" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.17256" latitude="54.02744"/>
-<marker id="283181281" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.17256" latitude="54.02744"/>
-<marker id="283181282" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18765" latitude="54.348026"/>
-<marker id="283181283" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18765" latitude="54.348026"/>
-<marker id="283181284" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181285" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181286" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181287" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181288" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181289" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181290" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
-<marker id="283181291" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181292" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181293" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181294" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181295" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181296" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181297" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
-<marker id="283181298" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181299" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181300" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181301" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181302" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181303" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181304" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
-<marker id="283181305" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181306" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181307" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181308" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181309" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181310" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181311" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
-<marker id="283181312" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181313" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181314" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181315" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181316" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181317" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181318" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
-<marker id="283181319" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181320" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181321" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181322" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181323" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181324" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181325" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
-<marker id="283181326" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181327" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181328" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181329" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181330" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181331" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181332" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
-<marker id="283181333" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18654" latitude="54.485233"/>
-<marker id="283181334" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18654" latitude="54.485233"/>
-<marker id="283181335" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.1128" latitude="54.425877"/>
-<marker id="283181336" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.1128" latitude="54.425877"/>
-<marker id="283181337" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.13623" latitude="54.402927"/>
-<marker id="283181338" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.13623" latitude="54.402927"/>
-<marker id="283181339" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.32018" latitude="54.40414"/>
-<marker id="283181340" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.32018" latitude="54.40414"/>
-<marker id="283181341" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181342" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181343" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181344" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181345" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181346" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181347" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
-<marker id="283181348" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181349" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181350" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181351" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181352" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181353" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181354" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
-<marker id="283181355" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-146.93417" latitude="54.21078"/>
-<marker id="283181356" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-146.93417" latitude="54.21078"/>
-<marker id="283181357" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-146.86693" latitude="54.123943"/>
-<marker id="283181358" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-146.86693" latitude="54.123943"/>
-<marker id="283181359" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181360" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181361" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181362" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181363" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181364" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181365" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
-<marker id="283181366" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181367" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181368" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181369" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181370" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181371" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181372" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
-<marker id="283181373" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181374" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181375" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181376" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181377" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181378" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
-<marker id="283181379" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181056" label="Scout" category="70" did="1879450333" parentZoneId="1879191807" longitude="-146.69101" latitude="54.09857"/>
+<marker id="283181057" label="Door" category="100" did="1879063859" parentZoneId="1879191807" longitude="-146.6868" latitude="54.173164"/>
+<marker id="283181059" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.06706" latitude="54.163925"/>
+<marker id="283181060" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.06706" latitude="54.163925"/>
+<marker id="283181068" label="Barrow-candle" category="71" did="1879091539" parentZoneId="1879191807" longitude="-146.98987" latitude="54.219196"/>
+<marker id="283181069" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
+<marker id="283181070" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
+<marker id="283181071" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
+<marker id="283181072" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.01402" latitude="54.155136"/>
+<marker id="283181073" label="Watchers' Workshop" category="73" did="1879092864" parentZoneId="1879191807" longitude="-147.12816" latitude="54.08922"/>
+<marker id="283181074" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-147.19554" latitude="54.07783"/>
+<marker id="283181075" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-147.54984" latitude="54.32107"/>
+<marker id="283181076" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-147.48479" latitude="54.315624"/>
+<marker id="283181077" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-147.48483" latitude="54.298084"/>
+<marker id="283181078" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-146.8512" latitude="54.153046"/>
+<marker id="283181079" label="Rotting Barrow-wight" category="71" did="1879531892" parentZoneId="1879191807" longitude="-147.14104" latitude="54.071327"/>
+<marker id="283181080" label="Decaying Barrow-wight" category="71" did="1879531871" parentZoneId="1879191807" longitude="-147.56238" latitude="54.30502"/>
+<marker id="283181081" label="Decaying Barrow-wight" category="71" did="1879531871" parentZoneId="1879191807" longitude="-146.98932" latitude="54.202576"/>
+<marker id="283181082" label="Decaying Barrow-wight" category="71" did="1879531871" parentZoneId="1879191807" longitude="-146.98433" latitude="54.15486"/>
+<marker id="283181083" label="Decaying Barrow-wight" category="71" did="1879531871" parentZoneId="1879191807" longitude="-147.15656" latitude="54.071327"/>
+<marker id="283181087" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.29959" latitude="54.052284"/>
+<marker id="283181088" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.28296" latitude="54.052185"/>
+<marker id="283181089" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.05144" latitude="54.462383"/>
+<marker id="283181090" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.05144" latitude="54.446445"/>
+<marker id="283181091" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.54594" latitude="54.296368"/>
+<marker id="283181092" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.06319" latitude="53.96"/>
+<marker id="283181093" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.05818" latitude="53.965"/>
+<marker id="283181094" label="Cursed Barrow-wight" category="71" did="1879531881" parentZoneId="1879191807" longitude="-147.1501" latitude="54.05998"/>
+<marker id="283181095" label="Umnen" category="71" did="1879091542" parentZoneId="1879191807" longitude="-147.44499" latitude="54.228516"/>
+<marker id="283181096" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.49121" latitude="54.324802"/>
+<marker id="283181097" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.0179" latitude="54.277695"/>
+<marker id="283181098" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191807" longitude="-147.2154" latitude="54.48107"/>
+<marker id="283181100" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.24783" latitude="54.40201"/>
+<marker id="283181101" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.43973" latitude="54.222614"/>
+<marker id="283181102" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-146.98978" latitude="54.138554"/>
+<marker id="283181103" label="Remembrance" category="73" did="1879342658" parentZoneId="1879191807" longitude="-147.12677" latitude="54.08488"/>
+<marker id="283181104" label="Conspicuous Mound" category="73" did="1879531516" parentZoneId="1879191807" longitude="-147.1197" latitude="54.066875"/>
+<marker id="283181105" label="Conspicuous Mound" category="73" did="1879531516" parentZoneId="1879191807" longitude="-147.51834" latitude="54.344707"/>
+<marker id="283181106" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181107" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181108" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181109" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181110" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181111" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181112" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.53282" latitude="54.22994"/>
+<marker id="283181113" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181114" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181115" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181116" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181117" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181118" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181119" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.51729" latitude="54.242126"/>
+<marker id="283181120" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181121" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181122" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181123" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181124" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181125" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181126" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.44513" latitude="54.132206"/>
+<marker id="283181127" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181128" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181129" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181130" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181131" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181132" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181133" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.44896" latitude="54.150135"/>
+<marker id="283181134" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181135" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181136" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181137" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181138" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181139" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181140" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.47594" latitude="54.24039"/>
+<marker id="283181141" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181142" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181143" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181144" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181145" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181146" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181147" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.56375" latitude="54.30537"/>
+<marker id="283181148" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181149" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181150" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181151" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181152" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181153" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181154" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.5085" latitude="54.316563"/>
+<marker id="283181155" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181156" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181157" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181158" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181159" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181160" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181161" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.46391" latitude="54.24537"/>
+<marker id="283181162" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.38483" latitude="54.12623"/>
+<marker id="283181163" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.38483" latitude="54.12623"/>
+<marker id="283181164" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.38943" latitude="54.17816"/>
+<marker id="283181165" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.38943" latitude="54.17816"/>
+<marker id="283181166" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.45366" latitude="54.279743"/>
+<marker id="283181167" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.45366" latitude="54.279743"/>
+<marker id="283181168" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.48488" latitude="54.25871"/>
+<marker id="283181169" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.48488" latitude="54.25871"/>
+<marker id="283181170" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.5431" latitude="54.21205"/>
+<marker id="283181171" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.5431" latitude="54.21205"/>
+<marker id="283181172" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.41771" latitude="54.207226"/>
+<marker id="283181173" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.41771" latitude="54.207226"/>
+<marker id="283181174" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.55466" latitude="54.333416"/>
+<marker id="283181175" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.55466" latitude="54.333416"/>
+<marker id="283181176" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.49501" latitude="54.28072"/>
+<marker id="283181177" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.49501" latitude="54.28072"/>
+<marker id="283181178" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181179" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181180" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181181" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181182" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181183" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181184" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.02982" latitude="54.17734"/>
+<marker id="283181185" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181186" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181187" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181188" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181189" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181190" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181191" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.01918" latitude="54.18824"/>
+<marker id="283181192" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181193" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181194" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181195" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181196" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181197" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181198" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.95525" latitude="54.205135"/>
+<marker id="283181199" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181200" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181201" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181202" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181203" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181204" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181205" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.18053" latitude="54.148983"/>
+<marker id="283181206" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181207" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181208" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181209" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181210" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181211" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181212" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.98578" latitude="54.203045"/>
+<marker id="283181213" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181214" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181215" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181216" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181217" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181218" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181219" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.27754" latitude="54.370605"/>
+<marker id="283181220" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181221" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181222" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181223" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181224" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181225" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181226" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.28384" latitude="54.34162"/>
+<marker id="283181227" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181228" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181229" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181230" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181231" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181232" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181233" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.30072" latitude="54.3424"/>
+<marker id="283181234" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181235" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181236" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181237" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181238" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181239" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181240" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.19687" latitude="54.16248"/>
+<marker id="283181241" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181242" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181243" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181244" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181245" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181246" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181247" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.19641" latitude="54.144333"/>
+<marker id="283181248" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181249" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181250" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181251" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181252" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181253" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181254" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.0584" latitude="53.998318"/>
+<marker id="283181255" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181256" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181257" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181258" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181259" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181260" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181261" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.07452" latitude="54.000977"/>
+<marker id="283181262" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181263" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181264" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181265" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181266" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181267" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181268" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.30035" latitude="54.04287"/>
+<marker id="283181269" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181270" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181271" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181272" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181273" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181274" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181275" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.28229" latitude="54.046932"/>
+<marker id="283181276" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181277" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181278" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181279" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181280" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181281" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181282" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.2882" latitude="54.116444"/>
+<marker id="283181283" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181284" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181285" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181286" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181287" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181288" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181289" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.21317" latitude="54.07834"/>
+<marker id="283181290" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.03258" latitude="54.242477"/>
+<marker id="283181291" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.03258" latitude="54.242477"/>
+<marker id="283181292" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.1016" latitude="54.12631"/>
+<marker id="283181293" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.1016" latitude="54.12631"/>
+<marker id="283181294" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.19514" latitude="54.18123"/>
+<marker id="283181295" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.19514" latitude="54.18123"/>
+<marker id="283181296" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18358" latitude="54.11041"/>
+<marker id="283181297" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18358" latitude="54.11041"/>
+<marker id="283181298" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.11923" latitude="54.039433"/>
+<marker id="283181299" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.11923" latitude="54.039433"/>
+<marker id="283181300" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.17256" latitude="54.02744"/>
+<marker id="283181301" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.17256" latitude="54.02744"/>
+<marker id="283181302" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18765" latitude="54.348026"/>
+<marker id="283181303" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18765" latitude="54.348026"/>
+<marker id="283181304" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181305" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181306" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181307" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181308" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181309" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181310" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.25407" latitude="54.455643"/>
+<marker id="283181311" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181312" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181313" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181314" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181315" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181316" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181317" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.27968" latitude="54.427654"/>
+<marker id="283181318" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181319" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181320" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181321" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181322" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181323" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181324" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.20364" latitude="54.37662"/>
+<marker id="283181325" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181326" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181327" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181328" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181329" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181330" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181331" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.22502" latitude="54.37699"/>
+<marker id="283181332" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181333" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181334" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181335" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181336" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181337" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181338" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.1584" latitude="54.385605"/>
+<marker id="283181339" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181340" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181341" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181342" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181343" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181344" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181345" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.05585" latitude="54.446133"/>
+<marker id="283181346" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181347" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181348" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181349" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181350" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181351" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181352" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-147.05714" latitude="54.46242"/>
+<marker id="283181353" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.18654" latitude="54.485233"/>
+<marker id="283181354" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.18654" latitude="54.485233"/>
+<marker id="283181355" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.1128" latitude="54.425877"/>
+<marker id="283181356" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.1128" latitude="54.425877"/>
+<marker id="283181357" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.13623" latitude="54.402927"/>
+<marker id="283181358" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.13623" latitude="54.402927"/>
+<marker id="283181359" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-147.32018" latitude="54.40414"/>
+<marker id="283181360" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-147.32018" latitude="54.40414"/>
+<marker id="283181361" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181362" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181363" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181364" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181365" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181366" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181367" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.83951" latitude="54.151386"/>
+<marker id="283181368" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181369" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181370" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181371" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181372" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181373" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181374" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.93848" latitude="54.185623"/>
+<marker id="283181375" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-146.93417" latitude="54.21078"/>
+<marker id="283181376" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-146.93417" latitude="54.21078"/>
+<marker id="283181377" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879191807" longitude="-146.86693" latitude="54.123943"/>
+<marker id="283181378" label="Antique Vase" category="50" did="1879079515" parentZoneId="1879191807" longitude="-146.86693" latitude="54.123943"/>
+<marker id="283181379" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181380" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181381" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181382" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181383" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181384" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181385" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.69978" latitude="54.06238"/>
+<marker id="283181386" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181387" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181388" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181389" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181390" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181391" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181392" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.66904" latitude="54.06158"/>
+<marker id="283181393" label="Writhing Barrow-crawler" category="71" did="1879091540" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181394" label="Putrid Darkwater" category="71" did="1879091541" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181395" label="Rotting Barrow-wight" category="71" did="1879092295" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181396" label="Creeping Hand" category="71" did="1879091543" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181397" label="Kergrim Barrow-prowler" category="71" did="1879092663" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181398" label="Barrow-spider" category="71" did="1879091546" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
+<marker id="283181399" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191807" longitude="-146.66179" latitude="53.98611"/>
 <marker id="283189248" label="Ancient Pillar" category="73" did="1879161026" parentZoneId="1879191804" longitude="-145.82463" latitude="56.593906"/>
 <marker id="283189249" label="Door" category="100" did="1879063859" parentZoneId="1879191804" longitude="-145.53188" latitude="56.52365"/>
 <marker id="283189250" label="Decaying Barrow-wight" category="71" did="1879091549" parentZoneId="1879191804" longitude="-145.74791" latitude="56.510723"/>
@@ -1396,6 +1417,19 @@
 <marker id="283238749" label="Ice Hatchling" category="71" did="1879188852" parentZoneId="1879189789" longitude="-149.31572" latitude="66.48972"/>
 <marker id="283238750" label="Ice Hatchling" category="71" did="1879188852" parentZoneId="1879189789" longitude="-149.33482" latitude="66.479546"/>
 <marker id="283238752" label="Ice Hatchling" category="71" did="1879188852" parentZoneId="1879189789" longitude="-149.3262" latitude="66.45055"/>
+<marker id="283336704" label="Box" category="70" did="1879530767" parentZoneId="1879531061" longitude="-144.27347" latitude="59.533825"/>
+<marker id="283336705" label="Recipe" category="70" did="1879530757" parentZoneId="1879531061" longitude="-144.27249" latitude="59.533924"/>
+<marker id="283336706" label="Notes" category="70" did="1879530811" parentZoneId="1879531061" longitude="-144.2735" latitude="59.530487"/>
+<marker id="283336707" label="Journal" category="70" did="1879530770" parentZoneId="1879531061" longitude="-144.27298" latitude="59.53211"/>
+<marker id="283336708" label="Haldo Rushbank" category="70" did="1879531833" parentZoneId="1879531061" longitude="-144.32921" latitude="59.569782"/>
+<marker id="283336709" label="Haldo Rushbank" category="70" did="1879531799" parentZoneId="1879531061" longitude="-144.29805" latitude="59.604393"/>
+<marker id="283336712" label="Door" category="100" did="1879063411" parentZoneId="1879531061" longitude="-144.36252" latitude="59.569393"/>
+<marker id="283336713" label="Gisti Mead-wise" category="70" did="1879530773" parentZoneId="1879531061" longitude="-144.32076" latitude="59.577675"/>
+<marker id="283336721" label="Door" category="100" did="1879088542" parentZoneId="1879531061" longitude="-144.26143" latitude="59.54195"/>
+<marker id="283336726" label="Mortar and Pestle" category="73" did="1879530870" parentZoneId="1879531061" longitude="-144.29405" latitude="59.599922"/>
+<marker id="283336736" label="Mortar and Pestle" category="73" did="1879532707" parentZoneId="1879531061" longitude="-144.31847" latitude="59.582832"/>
+<marker id="283336738" label="Haldo's Dish" category="70" did="1879532797" parentZoneId="1879531061" longitude="-144.3222" latitude="59.575176"/>
+<marker id="283336739" label="Haldo Rushbank" category="70" did="1879531805" parentZoneId="1879531061" longitude="-144.31978" latitude="59.574352"/>
 <marker id="283344898" label="Wooden Chest" category="72" did="1879138349" parentZoneId="1879520695" longitude="-143.8037" latitude="61.206345"/>
 <marker id="283344899" label="Wooden Chest" category="72" did="1879138349" parentZoneId="1879520695" longitude="-143.92178" latitude="61.328552"/>
 <marker id="283344900" label="Wooden Chest" category="72" did="1879138349" parentZoneId="1879520695" longitude="-143.76831" latitude="61.44781"/>
