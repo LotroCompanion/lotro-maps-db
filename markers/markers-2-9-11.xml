@@ -13101,6 +13101,7 @@
 <marker id="699727885" label="Lake-town Guard" category="70" did="1879363448" parentZoneId="1879362296" longitude="-27.180029" latitude="17.002138"/>
 <marker id="699727886" label="Water-skin" category="73" did="1879368244" parentZoneId="1879362296" longitude="-26.909637" latitude="17.166845"/>
 <marker id="699727887" label="Water-skin" category="73" did="1879368244" parentZoneId="1879362296" longitude="-26.932177" latitude="17.01122"/>
+<marker id="699727888" label="Skerri" category="70" did="1879363629" parentZoneId="1879362296" longitude="-27.26497" latitude="17.121319"/>
 <marker id="699727889" label="Stafhild" category="70" did="1879363643" parentZoneId="1879362296" longitude="-27.246113" latitude="17.111338"/>
 <marker id="699727890" label="Soggy Page" category="73" did="1879365864" parentZoneId="1879362296" longitude="-27.010185" latitude="17.16374"/>
 <marker id="699727891" label="Lake-town woman" category="70" did="1879366767" parentZoneId="1879362296" longitude="-27.174051" latitude="16.95455"/>
@@ -13127,24 +13128,24 @@
 <marker id="699727921" label="Brútha the Wayward" category="70" did="1879531802" parentZoneId="1879362296" longitude="-27.075975" latitude="17.158545"/>
 <marker id="699727922" label="Townsperson" category="70" did="1879533825" parentZoneId="1879362296" longitude="-26.857792" latitude="17.117138"/>
 <marker id="699727923" label="Townsperson" category="70" did="1879533824" parentZoneId="1879362296" longitude="-26.911797" latitude="17.08128"/>
-<marker id="699727924" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.260576" latitude="17.167246"/>
-<marker id="699727925" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.086073" latitude="16.930664"/>
-<marker id="699727926" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.014208" latitude="16.93747"/>
-<marker id="699727927" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.159199" latitude="16.971718"/>
-<marker id="699727928" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.1908" latitude="17.166103"/>
-<marker id="699727929" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.097597" latitude="17.189306"/>
-<marker id="699727930" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.01703" latitude="17.1158"/>
-<marker id="699727931" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.017538" latitude="17.108906"/>
-<marker id="699727932" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.023018" latitude="17.111094"/>
-<marker id="699727933" label="Lake-town" category="41" did="1879362347" parentZoneId="1879362296" longitude="-27.56497" latitude="17.13958"/>
-<marker id="699727934" label="Lake-town" category="74" did="1879362347" parentZoneId="1879362296" longitude="-27.045546" latitude="16.957285"/>
-<marker id="699727935" label="Skerri" category="70" did="1879363629" parentZoneId="1879362296" longitude="-27.26497" latitude="17.121319"/>
-<marker id="699727943" label="Suspicious Character" category="70" did="1879363640" parentZoneId="1879362296" longitude="-26.906006" latitude="17.124033"/>
-<marker id="699727944" label="Suspicious Character" category="70" did="1879363640" parentZoneId="1879362296" longitude="-26.898779" latitude="17.12455"/>
-<marker id="699727946" label="Suspicious Character" category="70" did="1879363644" parentZoneId="1879362296" longitude="-27.325233" latitude="17.065565"/>
-<marker id="699727947" label="Suspicious Character" category="70" did="1879363644" parentZoneId="1879362296" longitude="-27.33084" latitude="17.062216"/>
-<marker id="699727949" label="Suspicious Character" category="70" did="1879363622" parentZoneId="1879362296" longitude="-27.070312" latitude="17.01546"/>
-<marker id="699727950" label="Suspicious Character" category="70" did="1879363622" parentZoneId="1879362296" longitude="-27.06415" latitude="17.015703"/>
+<marker id="699727924" label="Brútha the Wayward" category="70" did="1879531821" parentZoneId="1879362296" longitude="-26.842402" latitude="17.091572"/>
+<marker id="699727925" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.260576" latitude="17.167246"/>
+<marker id="699727926" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.086073" latitude="16.930664"/>
+<marker id="699727927" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.014208" latitude="16.93747"/>
+<marker id="699727928" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.159199" latitude="16.971718"/>
+<marker id="699727929" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.1908" latitude="17.166103"/>
+<marker id="699727930" label="Ideal Notice Location" category="73" did="1879363294" parentZoneId="1879362296" longitude="-27.097597" latitude="17.189306"/>
+<marker id="699727931" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.01703" latitude="17.1158"/>
+<marker id="699727932" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.017538" latitude="17.108906"/>
+<marker id="699727933" label="Man of Lake-town" category="70" did="1879363041" parentZoneId="1879362296" longitude="-27.023018" latitude="17.111094"/>
+<marker id="699727934" label="Lake-town" category="41" did="1879362347" parentZoneId="1879362296" longitude="-27.56497" latitude="17.13958"/>
+<marker id="699727935" label="Lake-town" category="74" did="1879362347" parentZoneId="1879362296" longitude="-27.045546" latitude="16.957285"/>
+<marker id="699727944" label="Suspicious Character" category="70" did="1879363640" parentZoneId="1879362296" longitude="-26.906006" latitude="17.124033"/>
+<marker id="699727945" label="Suspicious Character" category="70" did="1879363640" parentZoneId="1879362296" longitude="-26.898779" latitude="17.12455"/>
+<marker id="699727947" label="Suspicious Character" category="70" did="1879363644" parentZoneId="1879362296" longitude="-27.325233" latitude="17.065565"/>
+<marker id="699727948" label="Suspicious Character" category="70" did="1879363644" parentZoneId="1879362296" longitude="-27.33084" latitude="17.062216"/>
+<marker id="699727950" label="Suspicious Character" category="70" did="1879363622" parentZoneId="1879362296" longitude="-27.070312" latitude="17.01546"/>
+<marker id="699727951" label="Suspicious Character" category="70" did="1879363622" parentZoneId="1879362296" longitude="-27.06415" latitude="17.015703"/>
 <marker id="699731978" label="Eigár" category="70" did="1879365448" parentZoneId="1879362296" longitude="-26.953808" latitude="17.24749"/>
 <marker id="699731979" label="Mervárth" category="70" did="1879524612" parentZoneId="1879362296" longitude="-26.8233" latitude="17.313505"/>
 <marker id="699731981" label="Murder Weapon" category="73" did="1879363295" parentZoneId="1879362296" longitude="-27.182186" latitude="17.283554"/>
