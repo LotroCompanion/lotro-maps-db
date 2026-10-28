@@ -47073,6 +47073,7 @@
 <label key="1879504077" value="Approvisionneuse"/>
 <label key="1879504078" value="Guérisseur"/>
 <label key="1879504079" value="Barbier Nain"/>
+<label key="1879504080" value="Barbier"/>
 <label key="1879504081" value="Approvisionneur"/>
 <label key="1879504082" value="Fournisseur"/>
 <label key="1879504083" value="Fournisseur"/>
@@ -47094,6 +47095,7 @@
 <label key="1879504100" value="Commissaire-priseur"/>
 <label key="1879504103" value="Maître des loisirs"/>
 <label key="1879504106" value="Maître des forges"/>
+<label key="1879504107" value="Barde"/>
 <label key="1879504108" value="Maître des apprentis"/>
 <label key="1879504109" value="Maîtresse des forges"/>
 <label key="1879504111" value="Maître des loisirs"/>
@@ -49696,9 +49698,26 @@
 <label key="1879526371" value="Guetteur d'Ordâkh"/>
 <label key="1879526372" value="Volée"/>
 <label key="1879526389" value="DNT - Gaergoth Ettendeep Forge"/>
+<label key="1879526400" value="Ghôl-buri-Prân"/>
 <label key="1879526410" value="Kâl-maka-Hôi"/>
+<label key="1879526411" value="Ghôl-buri-Prân"/>
+<label key="1879526417" value="Harthalín"/>
+<label key="1879526431" value="Kâl-maka-Hôi"/>
+<label key="1879526435" value="Mûlazar Étoile-noire"/>
+<label key="1879526436" value="Thrymm Barberouge"/>
 <label key="1879526440" value="Orthonn"/>
+<label key="1879526444" value="Kâl-maka-Hôi"/>
+<label key="1879526450" value="Orthonn"/>
+<label key="1879526454" value="Harthalín"/>
+<label key="1879526464" value="Orthonn"/>
+<label key="1879526470" value="Harthalín"/>
+<label key="1879526473" value="Thrymm Barberouge"/>
+<label key="1879526480" value="Prêkh-weni-Pâsh"/>
+<label key="1879526489" value="Ghôl-buri-Prân"/>
+<label key="1879526493" value="Ghôl-buri-Prân"/>
 <label key="1879526495" value="Prêkh-weni-Pâsh"/>
+<label key="1879526497" value="Prêkh-weni-Pâsh"/>
+<label key="1879526505" value="Orthonn"/>
 <label key="1879526663" value="Selta"/>
 <label key="1879526669" value="Boithad"/>
 <label key="1879526782" value="Emplacement pour pierre commémorative"/>
@@ -49716,6 +49735,11 @@
 <label key="1879527336" value="Présence mortelle"/>
 <label key="1879527377" value="Ombres tordues"/>
 <label key="1879527449" value="Ombre de Ushkudâsh["/>
+<label key="1879527543" value="Guérisseuse"/>
+<label key="1879527545" value="Approvisionneuse"/>
+<label key="1879527556" value="Guérisseur"/>
+<label key="1879527559" value="Approvisionneur"/>
+<label key="1879527572" value="Fournisseur"/>
 <label key="1879527769" value="Chute"/>
 <label key="1879527770" value="Chute"/>
 <label key="1879527778" value="Orthonn"/>
@@ -49740,6 +49764,73 @@
 <label key="1879527829" value="DNT Teleport 8.Storm One to Two"/>
 <label key="1879527832" value="Monture seule"/>
 <label key="1879527833" value="DNT Teleport 8.Storm Two to Three"/>
+<label key="1879527896" value="Mal Rakhurz"/>
+<label key="1879527897" value="Ost Morthil"/>
+<label key="1879527898" value="Varbmokh"/>
+<label key="1879527899" value="Obalang"/>
+<label key="1879527900" value="Grothfulg, le Repaire des cendres"/>
+<label key="1879527902" value="Ijin Khaban"/>
+<label key="1879527903" value="Ukhroz"/>
+<label key="1879527904" value="Gol Jilvi, le Bassin de la sorcière"/>
+<label key="1879527905" value="Throkhala"/>
+<label key="1879527906" value="Shaikorth"/>
+<label key="1879527907" value="Zhur Kutir"/>
+<label key="1879527908" value="Arashukh"/>
+<label key="1879527909" value="Gayadali"/>
+<label key="1879527910" value="Urotar"/>
+<label key="1879527911" value="Cebir Ruith"/>
+<label key="1879527912" value="Echad Vothui"/>
+<label key="1879527913" value="Fen Mithram"/>
+<label key="1879527914" value="Rhuvendir"/>
+<label key="1879527915" value="Koi-mêdh-twar"/>
+<label key="1879527916" value="Gorgarmog, la Fosse calme"/>
+<label key="1879527917" value="Dal Shoshog"/>
+<label key="1879527918" value="Imrad Angos"/>
+<label key="1879527919" value="Bughronk"/>
+<label key="1879527920" value="Min-rangenel"/>
+<label key="1879527921" value="Dhol Têg"/>
+<label key="1879527922" value="Ata-gabar"/>
+<label key="1879527923" value="Azajur"/>
+<label key="1879527924" value="Gaerhabar"/>
+<label key="1879527925" value="Khaborda"/>
+<label key="1879527926" value="Hishtmog"/>
+<label key="1879527927" value="Ornadhol"/>
+<label key="1879527928" value="Khos Ujir"/>
+<label key="1879527929" value="Zar Keshat"/>
+<label key="1879527930" value="Gur Farmak"/>
+<label key="1879527931" value="Shirungir"/>
+<label key="1879527932" value="Kûs Chela"/>
+<label key="1879527933" value="Dorngol"/>
+<label key="1879527934" value="Tojar-khol, le vallon des rongeurs"/>
+<label key="1879527935" value="Chutes de Thorlam"/>
+<label key="1879527936" value="Kuj-ketik"/>
+<label key="1879527937" value="Bulakh Jekar"/>
+<label key="1879527938" value="Shim Kut"/>
+<label key="1879527939" value="Kol Sakla"/>
+<label key="1879527940" value="Shol Jang"/>
+<label key="1879527941" value="Ghalotur"/>
+<label key="1879527942" value="Badarghona"/>
+<label key="1879527943" value="Zhug-bozu"/>
+<label key="1879527944" value="Naethion"/>
+<label key="1879527945" value="Gaerador"/>
+<label key="1879527946" value="Ancothrond, le fort des crocs"/>
+<label key="1879527947" value="Bôk Jekir"/>
+<label key="1879527948" value="Jaz Tapar"/>
+<label key="1879527949" value="Khel Wêro"/>
+<label key="1879527950" value="Shumthor, le Noble Temple"/>
+<label key="1879527951" value="Kojudar"/>
+<label key="1879527952" value="Targava"/>
+<label key="1879527953" value="Jalaghiz"/>
+<label key="1879527954" value="Shalmashrak"/>
+<label key="1879527955" value="Bâr Guruthos"/>
+<label key="1879527956" value="Bukh-batak"/>
+<label key="1879527957" value="Sutun Baka"/>
+<label key="1879527958" value="Azgol"/>
+<label key="1879527959" value="Jorbalukh"/>
+<label key="1879527960" value="Khushim"/>
+<label key="1879527965" value="Panneau d'affichage de tâches du clan Khemozêl"/>
+<label key="1879527979" value="Tableau des tâches des Têtikirs"/>
+<label key="1879527987" value="Panneau d'affichage de tâches des éclaireurs de Draugardh"/>
 <label key="1879528015" value="GNDN"/>
 <label key="1879528016" value="GNDN"/>
 <label key="1879528047" value="DNT - Dispel"/>
@@ -49749,6 +49840,9 @@
 <label key="1879528179" value="Pluie d'ombres"/>
 <label key="1879528221" value="Ulfred"/>
 <label key="1879528226" value="Ellond"/>
+<label key="1879528339" value="Sêkh-buri-Wêp"/>
+<label key="1879528341" value="Glenniel"/>
+<label key="1879528342" value="Niyoz"/>
 <label key="1879528396" value="Marchand ambulant"/>
 <label key="1879528397" value="Maître des forges"/>
 <label key="1879528421" value="Le Gardien des morts"/>
@@ -49828,8 +49922,17 @@
 <label key="1879529154" value="Guerrier de la Compagnie claire"/>
 <label key="1879529286" value="DNT - Player relic Capture"/>
 <label key="1879529287" value="DNT - Monster relic Capture"/>
+<label key="1879529401" value="Thurindol"/>
+<label key="1879529437" value="Thurindol"/>
+<label key="1879529465" value="Balthlun"/>
+<label key="1879529466" value="Daerhabar"/>
+<label key="1879529565" value="Lug Stargush"/>
+<label key="1879529566" value="Tour de Khadar-bal"/>
+<label key="1879529567" value="Lugashuk"/>
 <label key="1879529569" value="DNT - Monster Artifact Smite"/>
 <label key="1879529571" value="DNT - Monster relic Smite"/>
+<label key="1879530040" value="Gorndir"/>
+<label key="1879530141" value="Saj-khorum"/>
 <label key="1879530462" value="GNDN"/>
 <label key="1879530471" value="Celeborn"/>
 <label key="1879530472" value="Gil-galad"/>
@@ -49962,6 +50065,27 @@
 <label key="1879530874" value="Endroit prometteur"/>
 <label key="1879530875" value="Oiseau"/>
 <label key="1879530882" value="Bûcheron"/>
+<label key="1879531231" value="Habitant pris au piège"/>
+<label key="1879531254" value="Elugor"/>
+<label key="1879531268" value="Elugor"/>
+<label key="1879531280" value="Toghan"/>
+<label key="1879531335" value="Têtikir blessé"/>
+<label key="1879531336" value="Chasseur têtikir"/>
+<label key="1879531337" value="Têtikir blessé"/>
+<label key="1879531339" value="Éclaireur têtikir"/>
+<label key="1879531340" value="Têtikir blessé"/>
+<label key="1879531341" value="Chasseur têtikir"/>
+<label key="1879531342" value="Têtikir blessé"/>
+<label key="1879531343" value="Têtikir blessé"/>
+<label key="1879531344" value="Chasseur têtikir"/>
+<label key="1879531346" value="Chasseur têtikir"/>
+<label key="1879531347" value="Chasseur têtikir"/>
+<label key="1879531348" value="Chasseur têtikir"/>
+<label key="1879531349" value="Têtikir blessé"/>
+<label key="1879531351" value="Chasseur têtikir"/>
+<label key="1879531352" value="Chasseur têtikir"/>
+<label key="1879531412" value="Haereldir"/>
+<label key="1879531420" value="Celonor"/>
 <label key="1879531488" value="Visage de Gil-galad"/>
 <label key="1879531489" value="Visage de Sauron"/>
 <label key="1879531491" value="Pinte de Langue de Grenouille"/>
@@ -50074,6 +50198,12 @@
 <label key="1879532706" value="Porte"/>
 <label key="1879532707" value="Mortier et pilon"/>
 <label key="1879532711" value="Endroit idéal pour accrocher un dessin"/>
+<label key="1879532719" value="Achgar"/>
+<label key="1879532720" value="Tûm Loegol"/>
+<label key="1879532721" value="Talaf Mastui"/>
+<label key="1879532722" value="Fulugram"/>
+<label key="1879532734" value="Wynflad"/>
+<label key="1879532735" value="Celonor"/>
 <label key="1879532745" value="Créatrice de cadeau"/>
 <label key="1879532746" value="Créatrice de cadeau"/>
 <label key="1879532747" value="Créateur de cadeau"/>
@@ -50104,22 +50234,33 @@
 <label key="1879533160" value="GNDN"/>
 <label key="1879533161" value="GNDN"/>
 <label key="1879533167" value="GNDN"/>
+<label key="1879533186" value="Ghashkodar"/>
 <label key="1879533546" value="Karazgar"/>
+<label key="1879533547" value="Narchraw"/>
 <label key="1879533551" value="Urudanî la Vierge de pierre"/>
+<label key="1879533553" value="Sectatrice mourante"/>
 <label key="1879533554" value="Mûlazar Étoile-noire"/>
 <label key="1879533557" value="Ugrukhôr"/>
 <label key="1879533558" value="Nûlbanath"/>
+<label key="1879533566" value="Ghôl-buri-Prân"/>
 <label key="1879533571" value="Harthalín"/>
 <label key="1879533572" value="Dagoras"/>
 <label key="1879533583" value="Sauron l'Imposteur"/>
 <label key="1879533584" value="Rûkhor"/>
 <label key="1879533586" value="Prêkh-weni-Pâsh"/>
+<label key="1879533587" value="Mûlazar Étoile-noire"/>
 <label key="1879533589" value="Thrymm Barberouge"/>
 <label key="1879533591" value="Kâl-maka-Hôi"/>
 <label key="1879533592" value="Orthonn"/>
 <label key="1879533594" value="Mothgorod"/>
 <label key="1879533599" value="Gaurhoth de Draugardh"/>
+<label key="1879533601" value="Thrymm Barberouge"/>
 <label key="1879533602" value="Dulgabêth"/>
+<label key="1879533613" value="Harthalín"/>
+<label key="1879533614" value="Prêkh-weni-Pâsh"/>
+<label key="1879533615" value="Orthonn"/>
+<label key="1879533616" value="Kâl-maka-Hôi"/>
+<label key="1879533617" value="Orthonn"/>
 <label key="1879533816" value="GNDN"/>
 <label key="1879533824" value="Citadine"/>
 <label key="1879533825" value="Citadin"/>
@@ -50128,10 +50269,26 @@
 <label key="1879533911" value="Héron"/>
 <label key="1879533912" value="Grenouille"/>
 <label key="1879533913" value="Castor"/>
+<label key="1879533959" value="Elugor"/>
 <label key="1879534010" value="GNDN"/>
 <label key="1879534181" value="Mût"/>
 <label key="1879534368" value="DNT Teleport 8.YourTurn One to Two"/>
 <label key="1879534449" value="GNDN"/>
+<label key="1879534577" value="Maître des apprentis"/>
+<label key="1879534578" value="Approvisionneuse"/>
+<label key="1879534581" value="Approvisionneur"/>
+<label key="1879534583" value="Maître des forges"/>
+<label key="1879534585" value="Maître des loisirs"/>
+<label key="1879534586" value="Guérisseuse"/>
+<label key="1879534589" value="Gardienne des coffres"/>
+<label key="1879534595" value="Guérisseuse"/>
+<label key="1879534598" value="Fournisseuse"/>
+<label key="1879534602" value="Fournisseur"/>
+<label key="1879534603" value="Fournisseuse"/>
+<label key="1879534609" value="Approvisionneur"/>
+<label key="1879534610" value="Approvisionneuse"/>
+<label key="1879534611" value="Guérisseur"/>
+<label key="1879534617" value="Fournisseur"/>
 <label key="1879534618" value="Archer du Mordor"/>
 <label key="1879534619" value="Guerrier de l'Ordre de l'Œil"/>
 <label key="1879534620" value="Ritualiste de l'Ordre de l'Œil"/>
@@ -50150,13 +50307,36 @@
 <label key="1879534633" value="Championne de l'Ordre de l’Œil"/>
 <label key="1879534634" value="Guerrier de l'Ordre de l'Œil"/>
 <label key="1879534635" value="Championne de l'Ordre de l’Œil"/>
+<label key="1879534678" value="Maîtresse des écuries"/>
+<label key="1879534679" value="Maître des écuries"/>
+<label key="1879534680" value="Maître des écuries"/>
+<label key="1879534681" value="Maîtresse des écuries"/>
+<label key="1879534682" value="Maître des écuries"/>
+<label key="1879534683" value="Maître des écuries"/>
+<label key="1879534684" value="Maîtresse des écuries"/>
+<label key="1879534685" value="Maître des écuries"/>
+<label key="1879534686" value="Maître des écuries"/>
+<label key="1879534687" value="Maîtresse des écuries"/>
+<label key="1879534688" value="Maîtresse des écuries"/>
+<label key="1879535026" value="Éclaireur de Draugardh"/>
 <label key="1879535144" value="DNT"/>
+<label key="1879535166" value="Maîtresse des écuries"/>
 <label key="1879535216" value="Rat"/>
 <label key="1879535219" value="Abeille"/>
 <label key="1879535246" value="GNDN"/>
+<label key="1879535255" value="Menuisièr khemozêl"/>
+<label key="1879535268" value="Tailleur têtikir"/>
+<label key="1879535300" value="Ferronnier têtikir"/>
+<label key="1879535314" value="Cuisinière khemozêl"/>
+<label key="1879535325" value="Fabricante d'armes têtikir"/>
+<label key="1879535333" value="Bijoutière khemozêl"/>
+<label key="1879535378" value="Érudite des éclaireurs"/>
 <label key="1879535584" value="Golwen"/>
 <label key="1879535603" value="Vendeur de décorations de Draugardh"/>
+<label key="1879535604" value="Fournisseuse d'ustensiles pour maison"/>
+<label key="1879535605" value="Fournisseur d'ustensiles pour maison"/>
 <label key="1879535976" value="DNT"/>
+<label key="1879536303" value="Tasila"/>
 <label key="1879536402" value="Guerrier du Mordor"/>
 <label key="1879536403" value="Bragolluth"/>
 <label key="1879536404" value="Gorthorog destructeur"/>
@@ -50166,6 +50346,9 @@
 <label key="1879536701" value="Melur"/>
 <label key="1879536786" value="GNDN"/>
 <label key="1879537162" value="Col de Mithram"/>
+<label key="1879537182" value="Bassin de réminiscence de Nan Ogol"/>
+<label key="1879537183" value="Bassin de réminiscence de Parth Rhavas"/>
+<label key="1879537184" value="Bassin de réminiscence d'Heledhris"/>
 <label key="1879537278" value="DNT - Cone Test 1"/>
 <label key="1879537280" value="DNT - Cone Test 2"/>
 <label key="1879537281" value="DNT - Cone Test 3"/>
@@ -50173,4 +50356,5 @@
 <label key="1879537284" value="DNT - Cone Test 5"/>
 <label key="1879537489" value="GNDN"/>
 <label key="1879537490" value="GNDN"/>
+<label key="1879537957" value="Fournisseuse"/>
 </labels>
