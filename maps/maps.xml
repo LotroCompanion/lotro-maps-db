@@ -1588,6 +1588,41 @@
 <min longitude="-143.625" latitude="-102.8"/>
 <max longitude="-137.225" latitude="-98.0"/>
 </map>
+<map id="268455271" name="Draugardh" imageId="1093158235">
+<geo factor="18.75">
+<point longitude="-108.399994" latitude="-27.013329"/>
+</geo>
+<min longitude="-108.399994" latitude="-67.97333"/>
+<max longitude="-53.78666" latitude="-27.013329"/>
+</map>
+<map id="268455274" name="Heledhris" imageId="1093159307">
+<geo factor="32.1875">
+<point longitude="-108.399994" latitude="-39.739803"/>
+</geo>
+<min longitude="-108.399994" latitude="-63.6"/>
+<max longitude="-76.5864" latitude="-39.739803"/>
+</map>
+<map id="268455278" name="Parth Rhavas" imageId="1093159997">
+<geo factor="44.0625">
+<point longitude="-78.799995" latitude="-43.770214"/>
+</geo>
+<min longitude="-78.799995" latitude="-61.2"/>
+<max longitude="-55.56028" latitude="-43.770214"/>
+</map>
+<map id="268455280" name="Nan Ogol" imageId="1093159996">
+<geo factor="28.437502">
+<point longitude="-100.4" latitude="-28.31209"/>
+</geo>
+<min longitude="-100.4" latitude="-55.31868"/>
+<max longitude="-64.39121" latitude="-28.31209"/>
+</map>
+<map id="268455287" name="" imageId="1093160132">
+<geo factor="191.875">
+<point longitude="-72.29837" latitude="-41.99739"/>
+</geo>
+<min longitude="-72.29837" latitude="-45.999996"/>
+<max longitude="-66.96156" latitude="-41.99739"/>
+</map>
 <map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
 <geo factor="600.00006">
 <point longitude="-75.865" latitude="-33.77333"/>
@@ -7286,13 +7321,6 @@
 <min longitude="40.851326" latitude="59.474667"/>
 <max longitude="41.38466" latitude="59.87467"/>
 </map>
-<map id="1879338362" name="Deluxe Premium House" imageId="1092242325">
-<geo factor="1500.0">
-<point longitude="40.851326" latitude="56.674667"/>
-</geo>
-<min longitude="40.851326" latitude="56.274666"/>
-<max longitude="41.38466" latitude="56.674667"/>
-</map>
 <map id="1879339005" name="Homestead Provisions" imageId="1092368527">
 <geo factor="300.00003">
 <point longitude="-64.62667" latitude="-92.33333"/>
@@ -10317,7 +10345,7 @@
 <min longitude="-144.76833" latitude="70.19334"/>
 <max longitude="-143.435" latitude="71.19334"/>
 </map>
-<map id="1879501772" name="Within The Gaol" imageId="1093003723">
+<map id="1879501772" name="Within The Jail" imageId="1093003723">
 <geo factor="600.0">
 <point longitude="-145.73332" latitude="70.2"/>
 </geo>
@@ -10611,13 +10639,6 @@
 <min longitude="51.42" latitude="45.49666"/>
 <max longitude="56.75333" latitude="49.49666"/>
 </map>
-<map id="1879520516" name="Ekal-nêbi" imageId="1093064376">
-<geo factor="300.0">
-<point longitude="51.42" latitude="49.49666"/>
-</geo>
-<min longitude="51.42" latitude="45.49666"/>
-<max longitude="56.75333" latitude="49.49666"/>
-</map>
 <map id="1879520695" name="Boulder-fall Den" imageId="1093065641">
 <geo factor="599.99994">
 <point longitude="-144.46832" latitude="61.699997"/>
@@ -10668,32 +10689,67 @@
 <max longitude="-141.38889" latitude="75.35834"/>
 </map>
 <map id="1879526844" name="Tower of the Skárashakh" imageId="1093137395">
-<geo factor="400.0">
-<point longitude="52.129997" latitude="73.765"/>
+<geo factor="533.3334">
+<point longitude="52.704998" latitude="73.390625"/>
 </geo>
-<min longitude="52.129997" latitude="70.765"/>
-<max longitude="56.129997" latitude="73.765"/>
+<min longitude="52.704998" latitude="71.140625"/>
+<max longitude="55.704998" latitude="73.390625"/>
 </map>
 <map id="1879526846" name="The Brood-pits" imageId="1093137394">
-<geo factor="299.99997">
-<point longitude="52.43666" latitude="71.89"/>
+<geo factor="600.00006">
+<point longitude="53.77166" latitude="70.89"/>
 </geo>
-<min longitude="52.43666" latitude="67.89"/>
-<max longitude="57.769997" latitude="71.89"/>
+<min longitude="53.77166" latitude="68.89"/>
+<max longitude="56.438328" latitude="70.89"/>
 </map>
 <map id="1879526847" name="Halls of the Gaurhoth" imageId="1093137396">
-<geo factor="400.0">
-<point longitude="51.899998" latitude="76.4975"/>
+<geo factor="800.0">
+<point longitude="51.899998" latitude="76.49875"/>
 </geo>
-<min longitude="51.899998" latitude="74.9975"/>
-<max longitude="53.899998" latitude="76.4975"/>
+<min longitude="51.899998" latitude="74.99875"/>
+<max longitude="53.899998" latitude="76.49875"/>
 </map>
-<map id="1879529631" name="TBD Secret Cave" imageId="1093150785">
+<map id="1879529631" name="Mur Rámtor" imageId="1093150785">
 <geo factor="600.0">
 <point longitude="52.45834" latitude="68.325"/>
 </geo>
 <min longitude="52.45834" latitude="67.325"/>
 <max longitude="53.79167" latitude="68.325"/>
+</map>
+<map id="1879530039" name="Cebir Ruith" imageId="1093152687">
+<geo factor="600.0">
+<point longitude="52.94334" latitude="76.75"/>
+</geo>
+<min longitude="52.94334" latitude="74.75"/>
+<max longitude="55.61001" latitude="76.75"/>
+</map>
+<map id="1879530461" name="Falch Lhoss, Deep Beneath Guruthos" imageId="1093153928">
+<geo factor="600.0">
+<point longitude="53.614998" latitude="75.75"/>
+</geo>
+<min longitude="53.614998" latitude="73.75"/>
+<max longitude="56.281666" latitude="75.75"/>
+</map>
+<map id="1879530970" name="Naethion" imageId="1093155183">
+<geo factor="480.00003">
+<point longitude="53.25209" latitude="74.10834"/>
+</geo>
+<min longitude="53.25209" latitude="71.60834"/>
+<max longitude="56.585423" latitude="74.10834"/>
+</map>
+<map id="1879530971" name="Naethion" imageId="1093155184">
+<geo factor="480.00003">
+<point longitude="53.25209" latitude="74.10834"/>
+</geo>
+<min longitude="53.25209" latitude="71.60834"/>
+<max longitude="56.585423" latitude="74.10834"/>
+</map>
+<map id="1879530972" name="Naethion" imageId="1093155185">
+<geo factor="480.00003">
+<point longitude="53.25209" latitude="74.10834"/>
+</geo>
+<min longitude="53.25209" latitude="71.60834"/>
+<max longitude="56.585423" latitude="74.10834"/>
 </map>
 <map id="1879531001" name="Melur's Cottage" imageId="1093155218">
 <geo factor="600.0">
@@ -10701,6 +10757,13 @@
 </geo>
 <min longitude="-51.466667" latitude="-52.1"/>
 <max longitude="-50.133335" latitude="-51.1"/>
+</map>
+<map id="1879531003" name="Temple to the Unadorned" imageId="1093155259">
+<geo factor="600.0">
+<point longitude="54.059998" latitude="71.299995"/>
+</geo>
+<min longitude="54.059998" latitude="70.299995"/>
+<max longitude="55.39333" latitude="71.299995"/>
 </map>
 <map id="1879531061" name="Haldo's Smial" imageId="1093155269">
 <geo factor="600.0">
@@ -10722,5 +10785,110 @@
 </geo>
 <min longitude="-143.455" latitude="67.07334"/>
 <max longitude="-142.12167" latitude="68.07334"/>
+</map>
+<map id="1879531554" name="Sutun Baka: Braigaul's Den" imageId="1093157970">
+<geo factor="300.00003">
+<point longitude="53.99666" latitude="72.11666"/>
+</geo>
+<min longitude="53.99666" latitude="70.11666"/>
+<max longitude="56.663326" latitude="72.11666"/>
+</map>
+<map id="1879531555" name="Caves of Olimbor" imageId="1093175357">
+<geo factor="600.00006">
+<point longitude="51.78666" latitude="58.965"/>
+</geo>
+<min longitude="51.78666" latitude="56.965"/>
+<max longitude="54.453327" latitude="58.965"/>
+</map>
+<map id="1879531556" name="Barrow of Ata-gabar" imageId="1093175358">
+<geo factor="600.00006">
+<point longitude="51.86834" latitude="60.73834"/>
+</geo>
+<min longitude="51.86834" latitude="58.73834"/>
+<max longitude="54.535007" latitude="60.73834"/>
+</map>
+<map id="1879531557" name="Rhuvendír" imageId="1093175356">
+<geo factor="600.0">
+<point longitude="52.34166" latitude="57.52"/>
+</geo>
+<min longitude="52.34166" latitude="55.52"/>
+<max longitude="55.008327" latitude="57.52"/>
+</map>
+<map id="1879532012" name="Gaerador" imageId="1093157382">
+<geo factor="600.0">
+<point longitude="53.46666" latitude="71.174995"/>
+</geo>
+<min longitude="53.46666" latitude="69.174995"/>
+<max longitude="56.133327" latitude="71.174995"/>
+</map>
+<map id="1879532845" name="Hishtmog" imageId="1093159571">
+<geo factor="600.0">
+<point longitude="51.866657" latitude="64.625"/>
+</geo>
+<min longitude="51.866657" latitude="62.625"/>
+<max longitude="54.533325" latitude="64.625"/>
+</map>
+<map id="1879532920" name="Gaerhabar" imageId="1093159986">
+<geo factor="600.0">
+<point longitude="53.46666" latitude="64.69834"/>
+</geo>
+<min longitude="53.46666" latitude="62.69834"/>
+<max longitude="56.133327" latitude="64.69834"/>
+</map>
+<map id="1879534013" name="Kaur-hajátu, Cellars of the Black Thorn" imageId="1093169718">
+<geo factor="600.0">
+<point longitude="52.449997" latitude="62.39166"/>
+</geo>
+<min longitude="52.449997" latitude="60.39166"/>
+<max longitude="55.116665" latitude="62.39166"/>
+</map>
+<map id="1879536307" name="Balthlún" imageId="1093175281">
+<geo factor="600.0">
+<point longitude="53.51666" latitude="68.89"/>
+</geo>
+<min longitude="53.51666" latitude="65.89"/>
+<max longitude="57.51666" latitude="68.89"/>
+</map>
+<map id="1879536358" name="Barad-dûr" imageId="1093175291">
+<geo factor="600.00006">
+<point longitude="51.866657" latitude="67.45"/>
+</geo>
+<min longitude="51.866657" latitude="65.45"/>
+<max longitude="54.533325" latitude="67.45"/>
+</map>
+<map id="1879536501" name="Minas Elendúr, S.A. 1697" imageId="1093177182">
+<geo factor="800.0">
+<point longitude="53.67125" latitude="42.1375"/>
+</geo>
+<min longitude="53.67125" latitude="40.6375"/>
+<max longitude="55.67125" latitude="42.1375"/>
+</map>
+<map id="1879536836" name="Bâr Guruthos" imageId="1093179594">
+<geo factor="800.0">
+<point longitude="52.754997" latitude="63.414997"/>
+</geo>
+<min longitude="52.754997" latitude="61.914997"/>
+<max longitude="54.754997" latitude="63.414997"/>
+</map>
+<map id="1879537054" name="Ost Morthil" imageId="1093179602">
+<geo factor="600.0">
+<point longitude="53.46666" latitude="65.69834"/>
+</geo>
+<min longitude="53.46666" latitude="63.69834"/>
+<max longitude="56.133327" latitude="65.69834"/>
+</map>
+<map id="1879537111" name="Ost Morthil" imageId="1093179622">
+<geo factor="599.99994">
+<point longitude="53.31834" latitude="67.15"/>
+</geo>
+<min longitude="53.31834" latitude="65.15"/>
+<max longitude="55.98501" latitude="67.15"/>
+</map>
+<map id="1879537112" name="Ost Morthil" imageId="1093182732">
+<geo factor="600.0">
+<point longitude="53.36834" latitude="68.825"/>
+</geo>
+<min longitude="53.36834" latitude="66.825"/>
+<max longitude="56.035007" latitude="68.825"/>
 </map>
 </maps>

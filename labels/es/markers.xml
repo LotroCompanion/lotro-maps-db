@@ -26301,6 +26301,7 @@
 <label key="1879340141" value="Regalos de Rhûn"/>
 <label key="1879340466" value="DNT - Protects players from falling injuries, but not death"/>
 <label key="1879340480" value="Calor abrasador"/>
+<label key="1879340502" value="DNT - Drama Lie Down"/>
 <label key="1879340545" value="Piso resbaladizo"/>
 <label key="1879340565" value="Combate montado permitido"/>
 <label key="1879340840" value="Ereblen"/>
@@ -46385,7 +46386,6 @@
 <label key="1879501471" value="Mizâdi"/>
 <label key="1879501472" value="Galpêsh"/>
 <label key="1879501473" value="Numûru"/>
-<label key="1879501474" value="Mizâdi"/>
 <label key="1879501475" value="Prisionera de Kûr Anzar"/>
 <label key="1879501476" value="Usanâb"/>
 <label key="1879501477" value="Zilêndu"/>
@@ -46394,7 +46394,6 @@
 <label key="1879501480" value="Mizâdi"/>
 <label key="1879501481" value="Mizâdi"/>
 <label key="1879501482" value="Mâkhbur"/>
-<label key="1879501483" value="Mizâdi"/>
 <label key="1879501486" value="Khisónto"/>
 <label key="1879501487" value="Guardia de Ekhamât"/>
 <label key="1879501488" value="Soldier of Ekhamât"/>
@@ -46438,7 +46437,6 @@
 <label key="1879501545" value="Vendas frescas"/>
 <label key="1879501546" value="Área para estandarte"/>
 <label key="1879501547" value="Área para la Flor de Eshtali"/>
-<label key="1879501548" value="Túnel Ekhamâti"/>
 <label key="1879501549" value="Mapa de batalla"/>
 <label key="1879501550" value="Rubble Pile"/>
 <label key="1879501551" value="Área para estandarte"/>
@@ -46454,7 +46452,6 @@
 <label key="1879501564" value="Raciones para la guerra"/>
 <label key="1879501567" value="Tienda de campaña"/>
 <label key="1879501568" value="Efectos de Eshtali"/>
-<label key="1879501569" value="Subuzûri"/>
 <label key="1879501570" value="Pista"/>
 <label key="1879501571" value="Efectos de Eshtali"/>
 <label key="1879501573" value="Efectos de Eshtali"/>
@@ -46465,7 +46462,6 @@
 <label key="1879501579" value="Efectos de Eshtali"/>
 <label key="1879501580" value="Estandarte extraño"/>
 <label key="1879501582" value="Estandarte de Mizâdi"/>
-<label key="1879501583" value="Mesa de campamento"/>
 <label key="1879501584" value="Área alrededor del estandarte"/>
 <label key="1879501585" value="Naranja madura"/>
 <label key="1879501587" value="Estandarte para Kûr Anzar"/>
@@ -47414,15 +47410,11 @@
 <label key="1879509039" value="Recompensa: Nâralarg"/>
 <label key="1879509040" value="Recompensa: Shahâk"/>
 <label key="1879509122" value="Libro misterioso"/>
-<label key="1879509123" value="Escritos pohâni"/>
-<label key="1879509124" value="Espada ceremonial hamâti"/>
 <label key="1879509127" value="Crónicas de los Tarsâri, Vol. I"/>
-<label key="1879509128" value="Madera de ucorno"/>
 <label key="1879509129" value="Crónicas de los Tarsâri, Vol. IV"/>
 <label key="1879509130" value="Crónicas de los Tarsâri, Vol. II"/>
 <label key="1879509131" value="Espada zajâni"/>
 <label key="1879509132" value="Cuenco de comida"/>
-<label key="1879509133" value="Decreto de Sarâgh"/>
 <label key="1879509134" value="Pista de Baradûm"/>
 <label key="1879509135" value="Eneldo fresco"/>
 <label key="1879509136" value="Los viajes de Kábuzar, Vol I"/>
@@ -47430,15 +47422,11 @@
 <label key="1879509140" value="Pista de Baradûm"/>
 <label key="1879509141" value="Ramo de flores pohâni"/>
 <label key="1879509143" value="Reliquia antigua"/>
-<label key="1879509144" value="Pergamino"/>
 <label key="1879509145" value="Madera para trampas"/>
-<label key="1879509148" value="Pluma"/>
 <label key="1879509149" value="Manantial de hierbas"/>
-<label key="1879509150" value="Reliquia de Zâmaklar"/>
 <label key="1879509151" value="Trozo de tela"/>
 <label key="1879509154" value="¿Tesoro?"/>
 <label key="1879509155" value="Diario extraño"/>
-<label key="1879509156" value="Tesoro de Zâwakhar"/>
 <label key="1879509157" value="Naranja para Merbâna"/>
 <label key="1879509158" value="Una historia de Zajâna"/>
 <label key="1879509160" value="Garbanzos kighâni"/>
@@ -47450,35 +47438,18 @@
 <label key="1879509167" value="Página de diario"/>
 <label key="1879509168" value="Cardo azul"/>
 <label key="1879509169" value="Golpe"/>
-<label key="1879509241" value="Jaula de serval"/>
 <label key="1879509242" value="Área para pólvora negra"/>
-<label key="1879509243" value="Área para el cuenco de agua"/>
-<label key="1879509244" value="Jaula de caracales"/>
-<label key="1879509245" value="Área de pistas"/>
-<label key="1879509246" value="Hierbas para la cosecha"/>
-<label key="1879509247" value="Área de pistas"/>
-<label key="1879509248" value="Reina de las abejas amistosa"/>
-<label key="1879509249" value="Área de pistas"/>
 <label key="1879509250" value="Hoguera"/>
-<label key="1879509251" value="Puerta de la empalizada"/>
 <label key="1879509252" value="Catapulta de trasgo"/>
-<label key="1879509253" value="Área de pistas"/>
 <label key="1879509254" value="Caldero de trasgo"/>
 <label key="1879509255" value="Libro"/>
-<label key="1879509256" value="Área de pistas"/>
-<label key="1879509257" value="Área de pistas"/>
-<label key="1879509258" value="Área de pistas"/>
 <label key="1879509259" value="Área para la espada de regalo"/>
 <label key="1879509260" value="Depósito de miel"/>
 <label key="1879509261" value="Queso para entregar"/>
 <label key="1879509262" value="Cubo de agua fresca"/>
-<label key="1879509263" value="Pruebas de Rokhâran"/>
 <label key="1879509264" value="Trozo de telaraña"/>
-<label key="1879509265" value="Área de pistas"/>
 <label key="1879509266" value="Arbolito afectado"/>
 <label key="1879509267" value="Monumento a Mashâr-azon"/>
-<label key="1879509268" value="Pista"/>
-<label key="1879509269" value="Pista"/>
 <label key="1879509270" value="Área para el tazón de comida"/>
 <label key="1879509271" value="Área para plantar"/>
 <label key="1879509272" value="Área para hierba cortada"/>
@@ -47487,15 +47458,10 @@
 <label key="1879509275" value="Tumba cubierta de musgo"/>
 <label key="1879509276" value="Área para el agua"/>
 <label key="1879509277" value="Parcela de hierba fresca"/>
-<label key="1879509278" value="Pista"/>
-<label key="1879509280" value="Prueba de Azagâya"/>
 <label key="1879509281" value="Caldero para estofado"/>
-<label key="1879509282" value="Libro en llamas"/>
-<label key="1879509283" value="Puerta de la empalizada"/>
 <label key="1879509284" value="Ingredientes del estofado"/>
 <label key="1879509285" value="Área para la flor"/>
 <label key="1879509286" value="Estofado de Numûru"/>
-<label key="1879509287" value="Escondite del tesoro de Azagâya"/>
 <label key="1879509288" value="Puerta de la jaula"/>
 <label key="1879509289" value="Tumba desordenada"/>
 <label key="1879509290" value="Área para regar"/>
@@ -49398,7 +49364,6 @@
 <label key="1879524004" value="Gildor Inglorion"/>
 <label key="1879524005" value="Cwendreda"/>
 <label key="1879524006" value="Mincham"/>
-<label key="1879524007" value="DNT Runaway Children"/>
 <label key="1879524008" value="Caja de seguridad abollada"/>
 <label key="1879524011" value="Ídolo nocivo"/>
 <label key="1879524109" value="Tarsâri Shrouded One"/>
@@ -49557,7 +49522,6 @@
 <label key="1879524764" value="Razâl"/>
 <label key="1879524765" value="Gishu"/>
 <label key="1879524766" value="Mizâdi"/>
-<label key="1879524767" value="Razâl"/>
 <label key="1879524768" value="Mizâdi"/>
 <label key="1879524769" value="Kutímu"/>
 <label key="1879524770" value="Rahâzi"/>
@@ -49570,29 +49534,18 @@
 <label key="1879524780" value="Mizâdi"/>
 <label key="1879524781" value="Rahâzi"/>
 <label key="1879524782" value="Mizâdi"/>
-<label key="1879524783" value="Subuzûri agotado"/>
 <label key="1879524784" value="Mizâdi"/>
 <label key="1879524785" value="Razâl"/>
-<label key="1879524786" value="Mizâdi"/>
 <label key="1879524787" value="Numûru"/>
-<label key="1879524788" value="Numûru"/>
-<label key="1879524791" value="Mizâdi"/>
 <label key="1879524792" value="Subuzûri agotada"/>
-<label key="1879524793" value="Rahâzi"/>
-<label key="1879524794" value="Razâl"/>
-<label key="1879524796" value="Numûru"/>
 <label key="1879524798" value="Numûru"/>
 <label key="1879524799" value="Razâl"/>
-<label key="1879524800" value="Mizâdi"/>
 <label key="1879524801" value="Razâl"/>
-<label key="1879524802" value="Rahâzi"/>
 <label key="1879524803" value="Shâgigal Platero"/>
 <label key="1879524804" value="Fiestero un poco demasiado entusiasta"/>
 <label key="1879524806" value="Subuzûri herida"/>
 <label key="1879524807" value="Unagâr"/>
 <label key="1879524809" value="Fiestera un poco demasiado entusiasta"/>
-<label key="1879524810" value="Razâl"/>
-<label key="1879524811" value="Mizâdi"/>
 <label key="1879524812" value="Zâgsha"/>
 <label key="1879524813" value="Tebíra"/>
 <label key="1879524814" value="Nushâba"/>
@@ -49611,12 +49564,10 @@
 <label key="1879524848" value="Escalera Subuzûri"/>
 <label key="1879524849" value="Área para la espada de Numûru"/>
 <label key="1879524850" value="Alquitrán caliente"/>
-<label key="1879524851" value="Cerradura de la compuerta"/>
 <label key="1879524852" value="Corral de Ordâkhai"/>
 <label key="1879524853" value="Huellas de botas de los Ordâkhai"/>
 <label key="1879524854" value="Puesto de mercado quemado"/>
 <label key="1879524856" value="Pólvora negra"/>
-<label key="1879524857" value="Palanca de la puerta principal"/>
 <label key="1879524858" value="Área para el escenario de baile"/>
 <label key="1879524859" value="Arma de asedio Subuzûri"/>
 <label key="1879524860" value="Nuevo puesto de mercado"/>
@@ -49745,181 +49696,9 @@
 <label key="1879526371" value="Espía de Ordâkhai"/>
 <label key="1879526372" value="Descarga"/>
 <label key="1879526389" value="DNT - Gaergoth Ettendeep Forge"/>
-<label key="1879526390" value="Vermâkha"/>
-<label key="1879526391" value="Thrymm Barba Roja"/>
-<label key="1879526392" value="Prêkh-weni-Pâsh"/>
-<label key="1879526393" value="Thrymm Barba Roja"/>
-<label key="1879526394" value="Harthalín"/>
-<label key="1879526395" value="Orthonn"/>
-<label key="1879526396" value="Kâl-maka-Hôi"/>
-<label key="1879526397" value="Orthonn"/>
-<label key="1879526398" value="Khálya"/>
-<label key="1879526399" value="Prêkh-weni-Pâsh"/>
-<label key="1879526400" value="Ghôl-buri-Prân"/>
-<label key="1879526401" value="Harthalín"/>
-<label key="1879526402" value="Orthonn"/>
-<label key="1879526403" value="Orthonn"/>
-<label key="1879526404" value="Orthonn"/>
-<label key="1879526405" value="Harthalín"/>
-<label key="1879526406" value="Orthonn"/>
-<label key="1879526407" value="Thrymm Barba Roja"/>
-<label key="1879526408" value="Residente de Kol Sákla"/>
-<label key="1879526409" value="Kâl-maka-Hôi"/>
 <label key="1879526410" value="Kâl-maka-Hôi"/>
-<label key="1879526411" value="Ghôl-buri-Prân"/>
-<label key="1879526412" value="Kâl-maka-Hôi"/>
-<label key="1879526413" value="Khálya"/>
-<label key="1879526414" value="Harthalín"/>
-<label key="1879526415" value="Orthonn"/>
-<label key="1879526416" value="Harthalín"/>
-<label key="1879526417" value="Harthalín"/>
-<label key="1879526418" value="Harthalín"/>
-<label key="1879526419" value="Kâl-maka-Hôi"/>
-<label key="1879526420" value="Residente de Kol Sákla"/>
-<label key="1879526421" value="Kâl-maka-Hôi"/>
-<label key="1879526422" value="Centinela de Khel Wêro"/>
-<label key="1879526423" value="Prêkh-weni-Pâsh"/>
-<label key="1879526424" value="Orthonn"/>
-<label key="1879526425" value="Orthonn"/>
-<label key="1879526426" value="Thrymm Barba Roja"/>
-<label key="1879526427" value="Thrymm Barba Roja"/>
-<label key="1879526428" value="Thrymm Barba Roja"/>
-<label key="1879526429" value="Kâl-maka-Hôi"/>
-<label key="1879526430" value="Harthalín"/>
-<label key="1879526431" value="Kâl-maka-Hôi"/>
-<label key="1879526432" value="Orthonn"/>
-<label key="1879526433" value="Kâl-maka-Hôi"/>
-<label key="1879526434" value="Thrymm Barba Roja"/>
-<label key="1879526435" value="Mûlazar Estrella-oscura"/>
-<label key="1879526436" value="Thrymm Barba Roja"/>
-<label key="1879526437" value="Harthalín"/>
-<label key="1879526438" value="Orthonn"/>
-<label key="1879526439" value="Orthonn"/>
 <label key="1879526440" value="Orthonn"/>
-<label key="1879526441" value="Núrzalat"/>
-<label key="1879526442" value="Harthalín"/>
-<label key="1879526443" value="Uno Que Recuerda"/>
-<label key="1879526444" value="Kâl-maka-Hôi"/>
-<label key="1879526445" value="Tarásh"/>
-<label key="1879526446" value="Kâl-maka-Hôi"/>
-<label key="1879526447" value="Ghôl-buri-Prân"/>
-<label key="1879526448" value="Kâl-maka-Hôi"/>
-<label key="1879526449" value="Stôr-weni-Kûl"/>
-<label key="1879526450" value="Orthonn"/>
-<label key="1879526451" value="Prêkh-weni-Pâsh"/>
-<label key="1879526452" value="Maurán"/>
-<label key="1879526453" value="Maurán"/>
-<label key="1879526454" value="Harthalín"/>
-<label key="1879526455" value="Khálya"/>
-<label key="1879526456" value="Maurán"/>
-<label key="1879526457" value="Orthonn"/>
-<label key="1879526458" value="Vermâkha"/>
-<label key="1879526459" value="Kâl-maka-Hôi"/>
-<label key="1879526460" value="Prêkh-weni-Pâsh"/>
-<label key="1879526461" value="Prêkh-weni-Pâsh"/>
-<label key="1879526462" value="Orthonn"/>
-<label key="1879526463" value="Orthonn"/>
-<label key="1879526464" value="Orthonn"/>
-<label key="1879526465" value="Prêkh-weni-Pâsh"/>
-<label key="1879526466" value="Ghôl-buri-Prân"/>
-<label key="1879526467" value="Thrymm Barba Roja"/>
-<label key="1879526468" value="Pharídi"/>
-<label key="1879526469" value="Harthalín"/>
-<label key="1879526470" value="Harthalín"/>
-<label key="1879526471" value="Thrymm Barba Roja"/>
-<label key="1879526472" value="Kâl-maka-Hôi"/>
-<label key="1879526473" value="Thrymm Barba Roja"/>
-<label key="1879526474" value="Kâl-maka-Hôi"/>
-<label key="1879526475" value="Prêkh-weni-Pâsh"/>
-<label key="1879526476" value="Orthonn"/>
-<label key="1879526477" value="Khálya"/>
-<label key="1879526478" value="Pharídi"/>
-<label key="1879526479" value="Thrymm Barba Roja"/>
-<label key="1879526480" value="Prêkh-weni-Pâsh"/>
-<label key="1879526481" value="Kâl-maka-Hôi"/>
-<label key="1879526482" value="Harthalín"/>
-<label key="1879526483" value="Thrymm Barba Roja"/>
-<label key="1879526484" value="Orthonn"/>
-<label key="1879526485" value="Kâl-maka-Hôi"/>
-<label key="1879526486" value="Prêkh-weni-Pâsh"/>
-<label key="1879526487" value="Pharídi"/>
-<label key="1879526488" value="Harthalín"/>
-<label key="1879526489" value="Ghôl-buri-Prân"/>
-<label key="1879526490" value="Prêkh-weni-Pâsh"/>
-<label key="1879526491" value="Harthalín"/>
-<label key="1879526492" value="Orthonn"/>
-<label key="1879526493" value="Ghôl-buri-Prân"/>
-<label key="1879526494" value="Khálya"/>
 <label key="1879526495" value="Prêkh-weni-Pâsh"/>
-<label key="1879526496" value="Orthonn"/>
-<label key="1879526497" value="Prêkh-weni-Pâsh"/>
-<label key="1879526498" value="Prêkh-weni-Pâsh"/>
-<label key="1879526499" value="Orthonn"/>
-<label key="1879526500" value="Harthalín"/>
-<label key="1879526501" value="Prêkh-weni-Pâsh"/>
-<label key="1879526502" value="Thrymm Barba Roja"/>
-<label key="1879526503" value="Prêkh-weni-Pâsh"/>
-<label key="1879526504" value="Thrymm Barba Roja"/>
-<label key="1879526505" value="Orthonn"/>
-<label key="1879526506" value="Orthonn"/>
-<label key="1879526507" value="Harthalín"/>
-<label key="1879526508" value="Harthalín"/>
-<label key="1879526509" value="Harthalín"/>
-<label key="1879526510" value="Orthonn"/>
-<label key="1879526511" value="Kâl-maka-Hôi"/>
-<label key="1879526512" value="Kâl-maka-Hôi"/>
-<label key="1879526513" value="Khálya"/>
-<label key="1879526514" value="Thrymm Barba Roja"/>
-<label key="1879526515" value="Ghôl-buri-Prân"/>
-<label key="1879526516" value="Orthonn"/>
-<label key="1879526546" value="Talla de Madera"/>
-<label key="1879526547" value="El Gaurhoth"/>
-<label key="1879526548" value="Guardia asesinado"/>
-<label key="1879526549" value="Cultista Caído"/>
-<label key="1879526550" value="Huellas Evidentes"/>
-<label key="1879526551" value="Ghôl-buri-Prân"/>
-<label key="1879526552" value="Rastros sutiles"/>
-<label key="1879526553" value="Manchas de sangre"/>
-<label key="1879526554" value="Vieja Fogata"/>
-<label key="1879526555" value="El Draugrim"/>
-<label key="1879526556" value="Grieta de Magma"/>
-<label key="1879526557" value="El Khashkhilar"/>
-<label key="1879526558" value="Montículo de tierra"/>
-<label key="1879526559" value="Montículo de tierra"/>
-<label key="1879526560" value="Huellas Evidentes"/>
-<label key="1879526561" value="Têtikir Caído"/>
-<label key="1879526562" value="Montículo de tierra"/>
-<label key="1879526563" value="Ghôl-buri-Prân"/>
-<label key="1879526564" value="Talla de Madera"/>
-<label key="1879526565" value="Huellas Evidentes"/>
-<label key="1879526566" value="Rastros sutiles"/>
-<label key="1879526567" value="Talla de Madera"/>
-<label key="1879526568" value="Huellas Evidentes"/>
-<label key="1879526601" value="Copos de Dread-sheen"/>
-<label key="1879526602" value="Cerphen"/>
-<label key="1879526603" value="Carne de Lagarto"/>
-<label key="1879526604" value="TBD HILL-BEAST NAILS"/>
-<label key="1879526605" value="Ramas para Encender"/>
-<label key="1879526606" value="TBD PYGMY DRAKE WINGS"/>
-<label key="1879526607" value="Variedades de Baratijas"/>
-<label key="1879526608" value="Sarchlúth"/>
-<label key="1879526609" value="TBD UKHRASH PIECES"/>
-<label key="1879526610" value="Arma de Sûhalar Desechada"/>
-<label key="1879526611" value="Murciélago de Heledhris"/>
-<label key="1879526612" value="Bolsa Llenada"/>
-<label key="1879526613" value="Torque de Hombre Lobo"/>
-<label key="1879526614" value="Flor de Ghagalaf"/>
-<label key="1879526615" value="Lanza de Ghôl-buri-Prân"/>
-<label key="1879526616" value="Agua para Mûlazar"/>
-<label key="1879526617" value="Carne de Craban"/>
-<label key="1879526618" value="Cuadril de Goltur"/>
-<label key="1879526619" value="TBD ANKYLODON MEAT"/>
-<label key="1879526620" value="Bistec de Goltur"/>
-<label key="1879526621" value="Lygaith"/>
-<label key="1879526622" value="Bolsa de Polvo y Delothlín"/>
-<label key="1879526623" value="TBD THERAPSID CLAWS"/>
-<label key="1879526624" value="Piel de Salamandra"/>
-<label key="1879526625" value="Racimo de Armas de Sûhalar"/>
 <label key="1879526663" value="Selta"/>
 <label key="1879526669" value="Boithad"/>
 <label key="1879526782" value="Área para Piedra Conmemorativa"/>
@@ -50029,7 +49808,6 @@
 <label key="1879529074" value="TBD Guard 2"/>
 <label key="1879529075" value="TBD Fisher"/>
 <label key="1879529076" value="Meldir"/>
-<label key="1879529077" value="TBD Guard 5"/>
 <label key="1879529137" value="TBD High Elf"/>
 <label key="1879529138" value="TBD Stout Axe"/>
 <label key="1879529139" value="Bhôd-buri-Mêj"/>
@@ -50048,52 +49826,37 @@
 <label key="1879529152" value="TBD GoR"/>
 <label key="1879529153" value="Bhôd-buri-Mêj"/>
 <label key="1879529154" value="Guerrero de la Compañía Clara"/>
-<label key="1879529225" value="Savía seca"/>
-<label key="1879529226" value="Flechas Envenenadas"/>
-<label key="1879529227" value="Roca para tallar"/>
-<label key="1879529228" value="Ramas secas"/>
-<label key="1879529229" value="Trozos de vidrio de penumbra"/>
-<label key="1879529230" value="Mochila abandonada"/>
-<label key="1879529231" value="Lanzas envenenadas"/>
-<label key="1879529232" value="Zanahoria"/>
-<label key="1879529233" value="Dedalera"/>
-<label key="1879529234" value="Huesos de animal"/>
-<label key="1879529235" value="Bayas"/>
-<label key="1879529236" value="Piña"/>
-<label key="1879529237" value="Panal de miel"/>
-<label key="1879529238" value="TBD's Lost Necklace"/>
-<label key="1879529239" value="Verduras de hoja"/>
-<label key="1879529240" value="Roca"/>
-<label key="1879529241" value="Vidrio de penumbra"/>
-<label key="1879529257" value="Pila de madera seca"/>
-<label key="1879529258" value="Hombre Púkel"/>
-<label key="1879529259" value="Actividades de cultista"/>
-<label key="1879529260" value="Cubo de agua"/>
-<label key="1879529261" value="Cepillo"/>
-<label key="1879529262" value="Hombre Púkel"/>
-<label key="1879529265" value="Zanahorias"/>
-<label key="1879529266" value="Un buen lugar para rocas"/>
-<label key="1879529267" value="Colmena"/>
-<label key="1879529274" value="TBD Ormyng Part"/>
-<label key="1879529275" value="Madera para tallar"/>
-<label key="1879529276" value="Pintura roja"/>
-<label key="1879529277" value="TBD's Summoning Horn"/>
-<label key="1879529278" value="Cera de abejas"/>
-<label key="1879529279" value="Piel de lobo"/>
-<label key="1879529280" value="Cuchara Tallada"/>
-<label key="1879529281" value="Carne de Espinoso Escurridizo"/>
-<label key="1879529282" value="TBD's Summoning Horn"/>
 <label key="1879529286" value="DNT - Player relic Capture"/>
 <label key="1879529287" value="DNT - Monster relic Capture"/>
-<label key="1879529494" value="Retazo de Cuero"/>
 <label key="1879529569" value="DNT - Monster Artifact Smite"/>
 <label key="1879529571" value="DNT - Monster relic Smite"/>
-<label key="1879529679" value="Roca"/>
-<label key="1879529681" value="Pescado Tolerable"/>
-<label key="1879529683" value="Hierba Acuática"/>
-<label key="1879529729" value="Árbol Dañado"/>
-<label key="1879529735" value="Corteza de Troll Silvano"/>
-<label key="1879529744" value="Pluma Perdida de Celonor"/>
+<label key="1879530462" value="GNDN"/>
+<label key="1879530471" value="Celeborn"/>
+<label key="1879530472" value="Gil-galad"/>
+<label key="1879530473" value="Glorfindel"/>
+<label key="1879530474" value="Lendelen"/>
+<label key="1879530475" value="Glánnothrim Warrior"/>
+<label key="1879530476" value="Harthalín"/>
+<label key="1879530477" value="Elrond"/>
+<label key="1879530478" value="Anárion"/>
+<label key="1879530479" value="Harthalín"/>
+<label key="1879530480" value="Glánnothrim Warrior"/>
+<label key="1879530481" value="Glorfindel"/>
+<label key="1879530482" value="Slain Captive"/>
+<label key="1879530483" value="Slain Captive"/>
+<label key="1879530486" value="DNT Teleport 8.Morlang One to Two"/>
+<label key="1879530487" value="Orc Warrior"/>
+<label key="1879530488" value="Morlang"/>
+<label key="1879530489" value="Shadow-warg"/>
+<label key="1879530490" value="Lendelen"/>
+<label key="1879530712" value="Untakh-tet's Eye"/>
+<label key="1879530713" value="Iurhaeg's Fang"/>
+<label key="1879530714" value="Kirshosh's Tusk"/>
+<label key="1879530715" value="Ezhalgh's Claw"/>
+<label key="1879530726" value="Mind broken Draugrim"/>
+<label key="1879530727" value="Mind-broken Draugrim"/>
+<label key="1879530728" value="Tortured Draugrim"/>
+<label key="1879530729" value="Tortured Draugrim"/>
 <label key="1879530755" value="Pluma de ave"/>
 <label key="1879530756" value="Barril de suministros"/>
 <label key="1879530757" value="Receta"/>
@@ -50295,6 +50058,7 @@
 <label key="1879531899" value="Dunlending Scrapper"/>
 <label key="1879531900" value="Invocadora de arañas angmarim"/>
 <label key="1879531901" value="Cazador Duramano"/>
+<label key="1879532098" value="DNT - test hotspot"/>
 <label key="1879532144" value="DNT"/>
 <label key="1879532216" value="Madriguera de musaraña"/>
 <label key="1879532217" value="Estandarte de la Mano Blanca"/>
@@ -50302,6 +50066,7 @@
 <label key="1879532319" value="Seagull"/>
 <label key="1879532320" value="Renien"/>
 <label key="1879532321" value="Duindir"/>
+<label key="1879532484" value="Survival Instincts"/>
 <label key="1879532541" value="GNDN"/>
 <label key="1879532542" value="GNDN"/>
 <label key="1879532698" value="Lugar ideal para el aviso"/>
@@ -50326,7 +50091,6 @@
 <label key="1879533145" value="GNDN"/>
 <label key="1879533146" value="GNDN"/>
 <label key="1879533147" value="GNDN"/>
-<label key="1879533149" value="GNDN"/>
 <label key="1879533150" value="GNDN"/>
 <label key="1879533151" value="GNDN"/>
 <label key="1879533152" value="GNDN"/>
@@ -50340,6 +50104,22 @@
 <label key="1879533160" value="GNDN"/>
 <label key="1879533161" value="GNDN"/>
 <label key="1879533167" value="GNDN"/>
+<label key="1879533546" value="Karazgar"/>
+<label key="1879533551" value="Urudanî Stonemaiden"/>
+<label key="1879533554" value="Mûlazar Dark-star"/>
+<label key="1879533557" value="Ugrukhôr"/>
+<label key="1879533558" value="Nûlbanath"/>
+<label key="1879533571" value="Harthalín"/>
+<label key="1879533572" value="Dagoras"/>
+<label key="1879533583" value="Sauron the Deceiver"/>
+<label key="1879533584" value="Rûkhor"/>
+<label key="1879533586" value="Prêkh-weni-Pâsh"/>
+<label key="1879533589" value="Thrymm Red-beard"/>
+<label key="1879533591" value="Kâl-maka-Hôi"/>
+<label key="1879533592" value="Orthonn"/>
+<label key="1879533594" value="Mothgorod"/>
+<label key="1879533599" value="Gaurhoth of Draugardh"/>
+<label key="1879533602" value="Dulgabêth"/>
 <label key="1879533816" value="GNDN"/>
 <label key="1879533824" value="Habitante local"/>
 <label key="1879533825" value="Habitante local"/>
@@ -50349,11 +50129,48 @@
 <label key="1879533912" value="Rana"/>
 <label key="1879533913" value="Castor"/>
 <label key="1879534010" value="GNDN"/>
+<label key="1879534181" value="Mût"/>
+<label key="1879534368" value="DNT Teleport 8.YourTurn One to Two"/>
 <label key="1879534449" value="GNDN"/>
+<label key="1879534618" value="Mordor Archer"/>
+<label key="1879534619" value="Order of the Eye Warrior"/>
+<label key="1879534620" value="Order of the Eye Ritualist"/>
+<label key="1879534621" value="Order of the Eye Ritualist"/>
+<label key="1879534622" value="Mordor Archer"/>
+<label key="1879534623" value="Order of the Eye Duelist"/>
+<label key="1879534624" value="Mordor Defiler"/>
+<label key="1879534625" value="Mordor Slasher"/>
+<label key="1879534626" value="Cursed Spirit"/>
+<label key="1879534627" value="Mordor Slaughterer"/>
+<label key="1879534628" value="Order of the Eye Duelist"/>
+<label key="1879534629" value="Mordor Defiler"/>
+<label key="1879534630" value="Cursed Spirit"/>
+<label key="1879534631" value="Mordor Slaughterer"/>
+<label key="1879534632" value="Mordor Slasher"/>
+<label key="1879534633" value="Order of the Eye Sorceress"/>
+<label key="1879534634" value="Order of the Eye Warrior"/>
+<label key="1879534635" value="Order of the Eye Sorceress"/>
 <label key="1879535144" value="DNT"/>
 <label key="1879535216" value="Rata"/>
 <label key="1879535219" value="Abeja"/>
 <label key="1879535246" value="GNDN"/>
 <label key="1879535584" value="Golwen"/>
+<label key="1879535603" value="Draugardh Decoration Vendor"/>
 <label key="1879535976" value="DNT"/>
+<label key="1879536402" value="Mordor Warrior"/>
+<label key="1879536403" value="Bragollúth"/>
+<label key="1879536404" value="Gorthorog Destroyer"/>
+<label key="1879536405" value="Mordor Death-seer"/>
+<label key="1879536406" value="Gorthorog Ruiner"/>
+<label key="1879536407" value="Mordor Black-arrow"/>
+<label key="1879536701" value="Melur"/>
+<label key="1879536786" value="GNDN"/>
+<label key="1879537162" value="Mithram Pass"/>
+<label key="1879537278" value="DNT - Cone Test 1"/>
+<label key="1879537280" value="DNT - Cone Test 2"/>
+<label key="1879537281" value="DNT - Cone Test 3"/>
+<label key="1879537282" value="DNT - Cone Test 4"/>
+<label key="1879537284" value="DNT - Cone Test 5"/>
+<label key="1879537489" value="GNDN"/>
+<label key="1879537490" value="GNDN"/>
 </labels>

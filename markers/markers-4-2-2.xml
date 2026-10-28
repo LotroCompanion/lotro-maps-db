@@ -3468,328 +3468,356 @@
 <marker id="1109663823" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.22473" latitude="-96.584656"/>
 <marker id="1109663824" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.22473" latitude="-96.584656"/>
 <marker id="1109663825" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.22473" latitude="-96.584656"/>
-<marker id="1109667840" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.401634" latitude="-95.90491"/>
-<marker id="1109667841" label="Mordor Wight-captain" category="71" did="1879391585" parentZoneId="1879391946" longitude="-117.529594" latitude="-96.008934"/>
-<marker id="1109667842" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.579124" latitude="-95.9375"/>
-<marker id="1109667843" label="Mordor Wight" category="71" did="1879391586" parentZoneId="1879391946" longitude="-117.47988" latitude="-95.8671"/>
-<marker id="1109667844" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
-<marker id="1109667845" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
-<marker id="1109667846" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
-<marker id="1109667847" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
-<marker id="1109667848" label="Stark-white Page" category="73" did="1879395569" parentZoneId="1879391946" longitude="-117.431885" latitude="-96.101265"/>
-<marker id="1109667849" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667850" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667851" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667852" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667853" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667854" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667855" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
-<marker id="1109667856" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
-<marker id="1109667857" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
-<marker id="1109667858" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
-<marker id="1109667859" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
-<marker id="1109667861" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.33484" latitude="-96.18084"/>
-<marker id="1109667862" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.673065" latitude="-95.67615"/>
-<marker id="1109667863" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.86092" latitude="-95.678505"/>
-<marker id="1109667865" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
-<marker id="1109667866" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
-<marker id="1109667867" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
-<marker id="1109667868" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
-<marker id="1109667869" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
-<marker id="1109667870" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
-<marker id="1109667871" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
-<marker id="1109667872" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
-<marker id="1109667873" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
-<marker id="1109667874" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
-<marker id="1109667875" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
-<marker id="1109667876" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
-<marker id="1109667877" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
-<marker id="1109667878" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
-<marker id="1109667879" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
-<marker id="1109667880" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
-<marker id="1109667881" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
-<marker id="1109667882" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
-<marker id="1109667883" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
-<marker id="1109667884" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
-<marker id="1109667885" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
-<marker id="1109667886" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
-<marker id="1109667887" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
-<marker id="1109667888" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
-<marker id="1109667889" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
-<marker id="1109667890" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
-<marker id="1109667891" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
-<marker id="1109667892" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
-<marker id="1109667893" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
-<marker id="1109667894" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
-<marker id="1109667895" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
-<marker id="1109667896" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
-<marker id="1109667897" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
-<marker id="1109667898" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
-<marker id="1109667899" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
-<marker id="1109667900" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
-<marker id="1109667901" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
-<marker id="1109667902" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
-<marker id="1109667903" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
-<marker id="1109667904" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
-<marker id="1109667905" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
-<marker id="1109667906" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
-<marker id="1109667907" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
-<marker id="1109667908" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
-<marker id="1109667909" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
-<marker id="1109667910" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
-<marker id="1109667911" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
-<marker id="1109667912" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
-<marker id="1109667913" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
-<marker id="1109667914" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
-<marker id="1109667915" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
-<marker id="1109667916" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
-<marker id="1109667917" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667918" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667919" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667920" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667921" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667922" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667923" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667924" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667925" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667926" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667927" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667928" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667929" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667930" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667931" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667932" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667933" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667934" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667935" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
-<marker id="1109667936" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667937" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667938" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667939" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667940" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667941" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667942" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667943" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667944" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667945" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667946" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667947" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667948" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667949" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667950" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667951" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667952" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667953" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667954" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
-<marker id="1109667955" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667956" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667957" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667958" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667959" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667960" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667961" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667962" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667963" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667964" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667965" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667966" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667967" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667968" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667969" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667970" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667971" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667972" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667973" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
-<marker id="1109667974" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667975" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667976" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667977" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667978" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667979" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667980" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667981" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667982" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667983" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667984" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667985" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667986" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667987" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667988" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667989" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667990" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667991" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667992" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
-<marker id="1109667993" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667994" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667995" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667996" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667997" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667998" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109667999" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668000" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668001" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668002" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668003" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668004" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668005" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668006" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668007" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668008" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668009" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668010" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668011" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
-<marker id="1109668012" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668013" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668014" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668015" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668016" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668017" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668018" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668019" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668020" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668021" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668022" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668023" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668024" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668025" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668026" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668027" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668028" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668029" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668030" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
-<marker id="1109668031" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668032" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668033" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668034" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668035" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668036" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668037" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668038" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668039" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668040" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668041" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668042" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668043" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668044" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668045" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668046" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668047" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668048" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668049" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
-<marker id="1109668050" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668051" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668052" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668053" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668054" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668055" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668056" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668057" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668058" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668059" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668060" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668061" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668062" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668063" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668064" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668065" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668066" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668067" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668068" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
-<marker id="1109668069" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668070" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668071" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668072" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668073" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668074" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668075" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668076" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668077" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668078" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668079" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668080" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668081" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668082" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668083" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668084" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668085" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668086" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668087" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
-<marker id="1109668088" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668089" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668090" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668091" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668092" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668093" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668094" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668095" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668096" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668097" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668098" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668099" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668100" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668101" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668102" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668103" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668104" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668105" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668106" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
-<marker id="1109668107" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668108" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668109" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668110" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668111" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668112" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668113" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668114" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668115" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668116" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668117" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668118" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668119" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668120" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668121" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668122" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668123" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668124" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668125" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
-<marker id="1109668126" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668127" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668128" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668129" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668130" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668131" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668132" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668133" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668134" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668135" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668136" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668137" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668138" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668139" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668140" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668141" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668142" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668143" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668144" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
-<marker id="1109668145" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668146" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668147" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668148" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668149" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668150" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668151" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668152" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668153" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668154" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668155" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668156" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668157" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668158" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668159" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668160" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668161" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668162" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
-<marker id="1109668163" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109667840" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
+<marker id="1109667841" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
+<marker id="1109667842" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
+<marker id="1109667843" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.58507" latitude="-96.05418"/>
+<marker id="1109667845" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667846" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667847" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667848" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667849" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667850" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667851" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.57161" latitude="-96.05365"/>
+<marker id="1109667852" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.362526" latitude="-95.76734"/>
+<marker id="1109667853" label="Mordor Wight-captain" category="71" did="1879391585" parentZoneId="1879391946" longitude="-117.529594" latitude="-96.008934"/>
+<marker id="1109667854" label="Mordor Wight-captain" category="71" did="1879391585" parentZoneId="1879391946" longitude="-117.24006" latitude="-96.02284"/>
+<marker id="1109667855" label="Mordor Wight-captain" category="71" did="1879391585" parentZoneId="1879391946" longitude="-117.59191" latitude="-95.75915"/>
+<marker id="1109667860" label="Mordor Wight" category="71" did="1879391586" parentZoneId="1879391946" longitude="-117.44687" latitude="-95.799805"/>
+<marker id="1109667861" label="Mordor Wight" category="71" did="1879391586" parentZoneId="1879391946" longitude="-117.399925" latitude="-96.0942"/>
+<marker id="1109667862" label="Mordor Wight" category="71" did="1879391586" parentZoneId="1879391946" longitude="-117.77735" latitude="-95.72172"/>
+<marker id="1109667863" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
+<marker id="1109667864" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
+<marker id="1109667865" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
+<marker id="1109667866" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.559" latitude="-96.05797"/>
+<marker id="1109667867" label="Harthalín" category="70" did="1879530476" parentZoneId="1879391946" longitude="-117.51078" latitude="-95.88537"/>
+<marker id="1109667868" label="Harthalín" category="70" did="1879530476" parentZoneId="1879391946" longitude="-117.67397" latitude="-95.82823"/>
+<marker id="1109667869" label="Glánnothrim Warrior" category="70" did="1879530475" parentZoneId="1879391946" longitude="-117.72594" latitude="-95.73682"/>
+<marker id="1109667870" label="Glorfindel" category="70" did="1879530473" parentZoneId="1879391946" longitude="-117.67048" latitude="-95.7334"/>
+<marker id="1109667871" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.58336" latitude="-95.75486"/>
+<marker id="1109667872" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.592155" latitude="-95.7511"/>
+<marker id="1109667873" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.65123" latitude="-95.84167"/>
+<marker id="1109667874" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.6616" latitude="-95.76357"/>
+<marker id="1109667875" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.64323" latitude="-95.748886"/>
+<marker id="1109667876" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.69937" latitude="-95.76735"/>
+<marker id="1109667877" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.65776" latitude="-95.79286"/>
+<marker id="1109667878" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.64964" latitude="-95.782295"/>
+<marker id="1109667879" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.61227" latitude="-95.85494"/>
+<marker id="1109667880" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.583275" latitude="-95.85021"/>
+<marker id="1109667881" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.61693" latitude="-95.832634"/>
+<marker id="1109667882" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.57111" latitude="-95.86964"/>
+<marker id="1109667883" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.576385" latitude="-95.875496"/>
+<marker id="1109667884" label="Orc Warrior" category="71" did="1879530487" parentZoneId="1879391946" longitude="-117.584854" latitude="-95.88395"/>
+<marker id="1109667885" label="Slain Captive" category="73" did="1879530483" parentZoneId="1879391946" longitude="-117.51681" latitude="-95.87486"/>
+<marker id="1109667886" label="Slain Captive" category="73" did="1879530482" parentZoneId="1879391946" longitude="-117.48666" latitude="-95.891716"/>
+<marker id="1109667887" label="Glánnothrim Warrior" category="70" did="1879530480" parentZoneId="1879391946" longitude="-117.598526" latitude="-95.77958"/>
+<marker id="1109667888" label="Lendelen" category="71" did="1879530490" parentZoneId="1879391946" longitude="-117.738144" latitude="-95.68455"/>
+<marker id="1109667889" label="Shadow-warg" category="71" did="1879530489" parentZoneId="1879391946" longitude="-117.5444" latitude="-95.917274"/>
+<marker id="1109667890" label="Morlang" category="71" did="1879530488" parentZoneId="1879391946" longitude="-117.349785" latitude="-95.88253"/>
+<marker id="1109667891" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.579124" latitude="-95.9375"/>
+<marker id="1109667892" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.33484" latitude="-96.18084"/>
+<marker id="1109667893" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.673065" latitude="-95.67615"/>
+<marker id="1109667894" label="Rotting Banner-wight" category="71" did="1879391584" parentZoneId="1879391946" longitude="-117.86092" latitude="-95.678505"/>
+<marker id="1109667895" label="Stark-white Page" category="73" did="1879395569" parentZoneId="1879391946" longitude="-117.431885" latitude="-96.101265"/>
+<marker id="1109667898" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
+<marker id="1109667899" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
+<marker id="1109667900" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
+<marker id="1109667901" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.882675" latitude="-95.799416"/>
+<marker id="1109667902" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
+<marker id="1109667903" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
+<marker id="1109667904" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
+<marker id="1109667905" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.21939" latitude="-96.36411"/>
+<marker id="1109667906" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
+<marker id="1109667907" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
+<marker id="1109667908" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
+<marker id="1109667909" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.63697" latitude="-96.26184"/>
+<marker id="1109667910" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
+<marker id="1109667911" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
+<marker id="1109667912" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
+<marker id="1109667913" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.39049" latitude="-95.71627"/>
+<marker id="1109667914" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
+<marker id="1109667915" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
+<marker id="1109667916" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
+<marker id="1109667917" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.21822" latitude="-95.7938"/>
+<marker id="1109667918" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
+<marker id="1109667919" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
+<marker id="1109667920" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
+<marker id="1109667921" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.43032" latitude="-96.33781"/>
+<marker id="1109667922" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
+<marker id="1109667923" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
+<marker id="1109667924" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
+<marker id="1109667925" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.95295" latitude="-96.06241"/>
+<marker id="1109667926" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
+<marker id="1109667927" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
+<marker id="1109667928" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
+<marker id="1109667929" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.218796" latitude="-95.914276"/>
+<marker id="1109667930" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
+<marker id="1109667931" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
+<marker id="1109667932" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
+<marker id="1109667933" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.50246" latitude="-95.68454"/>
+<marker id="1109667934" label="Heavy Mordor Snag Branches" category="50" did="1879396357" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
+<marker id="1109667935" label="Mordor Snag Branches" category="50" did="1879396358" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
+<marker id="1109667936" label="Ithil Skarn Deposit" category="50" did="1879396369" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
+<marker id="1109667937" label="Rich Ithil Skarn Deposit" category="50" did="1879396370" parentZoneId="1879391946" longitude="-117.67791" latitude="-96.10796"/>
+<marker id="1109667938" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
+<marker id="1109667939" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
+<marker id="1109667940" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
+<marker id="1109667941" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.433495" latitude="-96.16966"/>
+<marker id="1109667942" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
+<marker id="1109667943" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
+<marker id="1109667944" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
+<marker id="1109667945" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.917496" latitude="-96.04844"/>
+<marker id="1109667946" label="Gorgoroth Wormling" category="78" did="1879354678" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
+<marker id="1109667947" label="Ebon Serpent" category="78" did="1879354674" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
+<marker id="1109667948" label="Gorgoroth Crawler" category="78" did="1879354675" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
+<marker id="1109667949" label="Plateau Mole-rat" category="78" did="1879354686" parentZoneId="1879391946" longitude="-117.43849" latitude="-95.755"/>
+<marker id="1109667950" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667951" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667952" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667953" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667954" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667955" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667956" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667957" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667958" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667959" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667960" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667961" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667962" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667963" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667964" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667965" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667966" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667967" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667968" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.84648" latitude="-95.83231"/>
+<marker id="1109667969" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667970" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667971" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667972" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667973" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667974" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667975" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667976" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667977" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667978" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667979" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667980" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667981" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667982" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667983" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667984" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667985" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667986" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667987" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.73013" latitude="-95.98875"/>
+<marker id="1109667988" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667989" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667990" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667991" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667992" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667993" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667994" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667995" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667996" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667997" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667998" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109667999" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668000" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668001" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668002" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668003" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668004" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668005" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668006" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.60021" latitude="-96.32343"/>
+<marker id="1109668007" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668008" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668009" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668010" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668011" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668012" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668013" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668014" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668015" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668016" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668017" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668018" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668019" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668020" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668021" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668022" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668023" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668024" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668025" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.87222" latitude="-96.153755"/>
+<marker id="1109668026" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668027" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668028" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668029" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668030" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668031" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668032" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668033" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668034" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668035" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668036" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668037" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668038" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668039" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668040" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668041" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668042" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668043" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668044" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.303696" latitude="-95.870834"/>
+<marker id="1109668045" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668046" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668047" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668048" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668049" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668050" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668051" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668052" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668053" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668054" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668055" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668056" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668057" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668058" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668059" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668060" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668061" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668062" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668063" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.262566" latitude="-95.62096"/>
+<marker id="1109668064" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668065" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668066" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668067" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668068" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668069" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668070" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668071" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668072" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668073" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668074" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668075" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668076" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668077" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668078" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668079" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668080" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668081" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668082" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.41066" latitude="-96.28484"/>
+<marker id="1109668083" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668084" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668085" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668086" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668087" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668088" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668089" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668090" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668091" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668092" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668093" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668094" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668095" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668096" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668097" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668098" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668099" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668100" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668101" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.94207" latitude="-96.02728"/>
+<marker id="1109668102" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668103" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668104" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668105" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668106" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668107" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668108" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668109" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668110" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668111" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668112" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668113" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668114" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668115" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668116" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668117" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668118" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668119" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668120" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.48826" latitude="-95.68174"/>
+<marker id="1109668121" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668122" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668123" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668124" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668125" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668126" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668127" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668128" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668129" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668130" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668131" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668132" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668133" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668134" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668135" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668136" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668137" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668138" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668139" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.60577" latitude="-96.11605"/>
+<marker id="1109668140" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668141" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668142" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668143" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668144" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668145" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668146" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668147" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668148" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668149" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668150" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668151" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668152" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668153" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668154" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668155" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668156" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668157" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668158" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.30882" latitude="-96.28148"/>
+<marker id="1109668159" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668160" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668161" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668162" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668163" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668164" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668165" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668166" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668167" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668168" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668169" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668170" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668171" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668172" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668173" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668174" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668175" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668176" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668177" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.927185" latitude="-95.7444"/>
+<marker id="1109668178" label="Mordor Hill-breaker" category="71" did="1879391493" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668179" label="Mordor Wight" category="71" did="1879391588" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668180" label="Scavenging Craban" category="71" did="1879391559" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668181" label="Mordor Plateau-avanc" category="71" did="1879391494" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668182" label="Mordor Archer" category="71" did="1879391491" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668183" label="Sûlok" category="71" did="1879391554" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668184" label="Mordor Deep-claw" category="71" did="1879391565" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668185" label="Mordor Plains-crawler" category="71" did="1879391500" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668186" label="Mordor Hill-heaver" category="71" did="1879391503" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668187" label="Fell Spirit" category="71" did="1879391498" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668188" label="Scavenging Craban" category="71" did="1879391509" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668189" label="Mordor Plains-crawler" category="71" did="1879391478" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668190" label="Mordor Hill-breaker" category="71" did="1879391505" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668191" label="Mordor Hill-heaver" category="71" did="1879391504" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668192" label="Mordor Warg" category="71" did="1879391539" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668193" label="Mordor Stone-claw" category="71" did="1879391517" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668194" label="Mordor Stone-claw" category="71" did="1879391487" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668195" label="Wandering Gloom" category="71" did="1879391550" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
+<marker id="1109668196" label="Sûlok" category="71" did="1879391547" parentZoneId="1879391946" longitude="-117.5906" latitude="-95.61047"/>
 <marker id="1109671936" label="Fell Spirit" category="71" did="1879391479" parentZoneId="1879391946" longitude="-117.823425" latitude="-95.13229"/>
 <marker id="1109671937" label="Mordor Wight-captain" category="71" did="1879391585" parentZoneId="1879391946" longitude="-117.78893" latitude="-95.51734"/>
 <marker id="1109671938" label="Mangath" category="71" did="1879391628" parentZoneId="1879391946" longitude="-117.45913" latitude="-94.91477"/>

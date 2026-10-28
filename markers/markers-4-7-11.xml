@@ -12,7 +12,7 @@
 <marker id="1202749442" label="Pesky Weeds" category="73" did="1879408370" parentZoneId="1879407601" longitude="-56.988194" latitude="23.317762"/>
 <marker id="1202753536" label="Forge" category="45" did="1879314749" parentZoneId="1879407601" longitude="-56.646698" latitude="24.262245"/>
 <marker id="1202753537" label="Steward Egalmoth&#10;Son of Egalreth&#10;2698 - 2743" category="73" did="1879328552" parentZoneId="1879407601" longitude="-57.13334" latitude="23.716318"/>
-<marker id="1202753538" label="City Gaol" category="73" did="1879329614" parentZoneId="1879407601" longitude="-56.600906" latitude="24.135117"/>
+<marker id="1202753538" label="City Jail" category="73" did="1879329614" parentZoneId="1879407601" longitude="-56.600906" latitude="24.135117"/>
 <marker id="1202753540" label="Unwatered Plants" category="73" did="1879408369" parentZoneId="1879407601" longitude="-57.158955" latitude="23.804434"/>
 <marker id="1202753541" label="Pesky Weeds" category="73" did="1879408370" parentZoneId="1879407601" longitude="-56.961697" latitude="23.628036"/>
 <marker id="1202753542" label="Pesky Weeds" category="73" did="1879408370" parentZoneId="1879407601" longitude="-57.067234" latitude="23.683641"/>
@@ -211,20 +211,23 @@
 <marker id="1203007506" label="Barthalion" category="70" did="1879408430" parentZoneId="1879407601" longitude="-53.724197" latitude="22.10283"/>
 <marker id="1203007507" label="Midsummer Reveller" category="70" did="1879408446" parentZoneId="1879407601" longitude="-53.674454" latitude="22.424063"/>
 <marker id="1203007508" label="Ikhajât" category="70" did="1879501593" parentZoneId="1879407601" longitude="-53.691425" latitude="22.428339"/>
-<marker id="1203007509" label="Glindor" category="70" did="1879459022" parentZoneId="1879407601" longitude="-53.676006" latitude="22.44454"/>
-<marker id="1203007510" label="Horse" category="48" did="1879063325" parentZoneId="1879407601" longitude="-53.679382" latitude="22.372637"/>
-<marker id="1203007511" label="Midsummer Reveller" category="70" did="1879408702" parentZoneId="1879407601" longitude="-53.5429" latitude="22.43498"/>
-<marker id="1203007514" label="City Stables" category="73" did="1879328754" parentZoneId="1879407601" longitude="-53.68824" latitude="22.360537"/>
-<marker id="1203007515" label="Hall of Errands" category="73" did="1879329599" parentZoneId="1879407601" longitude="-53.525127" latitude="22.7737"/>
-<marker id="1203007516" label="Keep of the Keys" category="73" did="1879329619" parentZoneId="1879407601" longitude="-53.5624" latitude="22.102217"/>
-<marker id="1203007517" label="High King Elendil&#10;Son of Amandil&#10;SA 3320 - 3441" category="73" did="1879328581" parentZoneId="1879407601" longitude="-53.742126" latitude="22.450624"/>
-<marker id="1203007518" label="King Isildur&#10;Son of Elendil&#10;SA3341 - TA 2" category="73" did="1879328577" parentZoneId="1879407601" longitude="-53.746376" latitude="22.348925"/>
-<marker id="1203007519" label="King Anárion&#10;Son of Elendil&#10;SA 3320 - 3440" category="73" did="1879328523" parentZoneId="1879407601" longitude="-53.742126" latitude="22.463408"/>
-<marker id="1203007520" label="Steward Húrin I&#10;Son of Belegorn&#10;2204 - 2244" category="73" did="1879328558" parentZoneId="1879407601" longitude="-53.73325" latitude="22.702637"/>
+<marker id="1203007509" label="Glindor" category="70" did="1879459022" parentZoneId="1879407601" longitude="-53.676006" latitude="22.436073"/>
+<marker id="1203007513" label="Horse" category="48" did="1879063325" parentZoneId="1879407601" longitude="-53.679382" latitude="22.372637"/>
+<marker id="1203007514" label="Midsummer Reveller" category="70" did="1879408702" parentZoneId="1879407601" longitude="-53.5429" latitude="22.43498"/>
+<marker id="1203007517" label="City Stables" category="73" did="1879328754" parentZoneId="1879407601" longitude="-53.68824" latitude="22.360537"/>
+<marker id="1203007518" label="Hall of Errands" category="73" did="1879329599" parentZoneId="1879407601" longitude="-53.525127" latitude="22.7737"/>
+<marker id="1203007519" label="Keep of the Keys" category="73" did="1879329619" parentZoneId="1879407601" longitude="-53.5624" latitude="22.102217"/>
+<marker id="1203007520" label="High King Elendil&#10;Son of Amandil&#10;SA 3320 - 3441" category="73" did="1879328581" parentZoneId="1879407601" longitude="-53.742126" latitude="22.450624"/>
+<marker id="1203007521" label="King Isildur&#10;Son of Elendil&#10;SA3341 - TA 2" category="73" did="1879328577" parentZoneId="1879407601" longitude="-53.746376" latitude="22.348925"/>
+<marker id="1203007522" label="King Anárion&#10;Son of Elendil&#10;SA 3320 - 3440" category="73" did="1879328523" parentZoneId="1879407601" longitude="-53.742126" latitude="22.463408"/>
+<marker id="1203007523" label="Steward Húrin I&#10;Son of Belegorn&#10;2204 - 2244" category="73" did="1879328558" parentZoneId="1879407601" longitude="-53.73325" latitude="22.702637"/>
 <marker id="1203007524" label="Faeleth" category="70" did="1879406607" parentZoneId="1879407601" longitude="-53.665817" latitude="22.367285"/>
-<marker id="1203007527" label="Húrin the Tall" category="70" did="1879407035" parentZoneId="1879407601" longitude="-53.60284" latitude="22.38579"/>
-<marker id="1203007528" label="War Effort Recruiter" category="70" did="1879412297" parentZoneId="1879407601" longitude="-53.668877" latitude="22.514687"/>
-<marker id="1203007529" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879407601" longitude="-53.665848" latitude="22.522207"/>
+<marker id="1203007530" label="Húrin the Tall" category="70" did="1879407035" parentZoneId="1879407601" longitude="-53.60284" latitude="22.38579"/>
+<marker id="1203007531" label="War Effort Recruiter" category="70" did="1879412297" parentZoneId="1879407601" longitude="-53.668877" latitude="22.514687"/>
+<marker id="1203007532" label="Mission Recruiter&#10;War Effort Stable-master" category="23" did="1879410941" parentZoneId="1879407601" longitude="-53.665848" latitude="22.522207"/>
+<marker id="1203007533" label="Prêkh-weni-Pâsh" category="70" did="1879526495" parentZoneId="1879407601" longitude="-53.620613" latitude="22.413105"/>
+<marker id="1203007534" label="Kâl-maka-Hôi" category="70" did="1879526410" parentZoneId="1879407601" longitude="-53.617283" latitude="22.419912"/>
+<marker id="1203007536" label="Orthonn" category="70" did="1879526440" parentZoneId="1879407601" longitude="-53.674217" latitude="22.449823"/>
 <marker id="1203073025" label="Elrond" category="70" did="1879407042" parentZoneId="1879407601" longitude="-52.818905" latitude="22.47583"/>
 <marker id="1203073026" label="Elladan" category="70" did="1879407052" parentZoneId="1879407601" longitude="-52.854755" latitude="22.459414"/>
 <marker id="1203073027" label="Erestor" category="70" did="1879407051" parentZoneId="1879407601" longitude="-52.842617" latitude="22.465136"/>

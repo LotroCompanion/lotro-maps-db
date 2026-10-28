@@ -1941,8 +1941,8 @@
 <marker id="659619861" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
 <marker id="659619862" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
 <marker id="659619863" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
-<marker id="659619864" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
-<marker id="659619866" label="Fox" category="78" did="1879078196" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
+<marker id="659619864" label="Fox" category="78" did="1879078196" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
+<marker id="659619865" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231079" longitude="-56.19368" latitude="-59.98483"/>
 <marker id="659619874" label="Horse" category="78" did="1879255968" parentZoneId="1879231079" longitude="-56.19997" latitude="-59.72167"/>
 <marker id="659619875" label="Fox" category="78" did="1879078196" parentZoneId="1879231079" longitude="-56.19997" latitude="-59.72167"/>
 <marker id="659619876" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231079" longitude="-56.19997" latitude="-59.72167"/>
@@ -5665,20 +5665,20 @@
 <marker id="659742741" label="Fox" category="78" did="1879078196" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742742" label="Rabbit" category="78" did="1879079062" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742743" label="Heavy Oak Branches" category="50" did="1879239127" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
+<marker id="659742744" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
+<marker id="659742745" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
 <marker id="659742746" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
 <marker id="659742747" label="Tater" category="77" did="1879061257" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742748" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742749" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742750" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
-<marker id="659742751" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742753" label="Rohirrim" category="70" did="1879222535" parentZoneId="1879231078" longitude="-55.2162" latitude="-48.75722"/>
 <marker id="659742755" label="White-hand Corruptor" category="71" did="1879251062" parentZoneId="1879231078" longitude="-55.20446" latitude="-48.875156"/>
 <marker id="659742756" label="White-hand Flanker" category="71" did="1879251061" parentZoneId="1879231078" longitude="-55.20446" latitude="-48.875156"/>
 <marker id="659742768" label="Horse" category="78" did="1879255968" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
-<marker id="659742771" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
-<marker id="659742773" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
-<marker id="659742784" label="Riddermark Skarn Deposit" category="50" did="1879239161" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
-<marker id="659742785" label="Oak Branches" category="50" did="1879239165" parentZoneId="1879231078" longitude="-55.09165" latitude="-48.620068"/>
+<marker id="659742778" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
+<marker id="659742784" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
+<marker id="659742785" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231078" longitude="-55.142666" latitude="-48.597054"/>
 <marker id="659742786" label="Ofrith" category="70" did="1879241872" parentZoneId="1879231078" longitude="-55.32161" latitude="-48.70721"/>
 <marker id="659742787" label="Caravan Merchant" category="70" did="1879241875" parentZoneId="1879231078" longitude="-55.372528" latitude="-48.679703"/>
 <marker id="659742788" label="Caravan Merchant" category="70" did="1879241905" parentZoneId="1879231078" longitude="-55.264736" latitude="-48.533558"/>
@@ -6061,8 +6061,8 @@
 <marker id="659783701" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
 <marker id="659783702" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
 <marker id="659783703" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
-<marker id="659783705" label="Rabbit" category="78" did="1879079062" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
-<marker id="659783707" label="Fox" category="78" did="1879078196" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
+<marker id="659783704" label="Rabbit" category="78" did="1879079062" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
+<marker id="659783705" label="Fox" category="78" did="1879078196" parentZoneId="1879231078" longitude="-54.465652" latitude="-53.653675"/>
 <marker id="659783715" label="Curious Láthbear" category="71" did="1879241432" parentZoneId="1879231078" longitude="-54.17748" latitude="-53.79217"/>
 <marker id="659783716" label="Curious Láthbear" category="71" did="1879241432" parentZoneId="1879231078" longitude="-54.158318" latitude="-53.538803"/>
 <marker id="659783718" label="Curious Láthbear" category="71" did="1879241432" parentZoneId="1879231078" longitude="-54.05032" latitude="-53.74512"/>
@@ -6488,7 +6488,7 @@
 <marker id="659800086" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231078" longitude="-54.306416" latitude="-50.31681"/>
 <marker id="659800087" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231078" longitude="-54.306416" latitude="-50.31681"/>
 <marker id="659800088" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231078" longitude="-54.306416" latitude="-50.31681"/>
-<marker id="659800090" label="Rabbit" category="78" did="1879079062" parentZoneId="1879231078" longitude="-54.306416" latitude="-50.31681"/>
+<marker id="659800089" label="Rabbit" category="78" did="1879079062" parentZoneId="1879231078" longitude="-54.306416" latitude="-50.31681"/>
 <marker id="659800100" label="Greyhide Plains-stalker" category="71" did="1879241345" parentZoneId="1879231078" longitude="-54.145" latitude="-50.755344"/>
 <marker id="659800102" label="Greyhide Scavenger" category="71" did="1879241344" parentZoneId="1879231078" longitude="-54.137733" latitude="-50.75054"/>
 <marker id="659800103" label="Greyhide Scavenger" category="71" did="1879241344" parentZoneId="1879231078" longitude="-54.114334" latitude="-50.557217"/>
@@ -8319,7 +8319,7 @@
 <marker id="659984406" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-52.06791" latitude="-52.706215"/>
 <marker id="659984407" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-52.06791" latitude="-52.706215"/>
 <marker id="659984408" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-52.06791" latitude="-52.706215"/>
-<marker id="659984412" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-52.06791" latitude="-52.706215"/>
+<marker id="659984409" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-52.06791" latitude="-52.706215"/>
 <marker id="659984419" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-51.62579" latitude="-52.772655"/>
 <marker id="659984420" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-51.62579" latitude="-52.772655"/>
 <marker id="659984421" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-51.62579" latitude="-52.772655"/>
@@ -10182,10 +10182,10 @@
 <marker id="660074501" label="Spare Provisions" category="73" did="1879242192" parentZoneId="1879231078" longitude="-51.36534" latitude="-47.65142"/>
 <marker id="660074502" label="Spare Provisions" category="73" did="1879242192" parentZoneId="1879231078" longitude="-51.42241" latitude="-47.732445"/>
 <marker id="660074503" label="Spare Provisions" category="73" did="1879242192" parentZoneId="1879231078" longitude="-51.447773" latitude="-47.664486"/>
-<marker id="660078612" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
-<marker id="660078613" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
-<marker id="660078614" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
-<marker id="660078615" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
+<marker id="660078612" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
+<marker id="660078613" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
+<marker id="660078614" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
+<marker id="660078615" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
 <marker id="660078616" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
 <marker id="660078617" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
 <marker id="660078618" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-50.671307" latitude="-60.129158"/>
@@ -10402,7 +10402,7 @@
 <marker id="660086794" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.29034" latitude="-58.3689"/>
 <marker id="660086795" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.29034" latitude="-58.3689"/>
 <marker id="660086796" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-50.29034" latitude="-58.3689"/>
-<marker id="660086804" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
+<marker id="660086806" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086807" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086808" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086809" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
@@ -10410,8 +10410,8 @@
 <marker id="660086811" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086812" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086813" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
-<marker id="660086814" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
-<marker id="660086815" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
+<marker id="660086814" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
+<marker id="660086815" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.322166" latitude="-58.580833"/>
 <marker id="660086824" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.362175" latitude="-58.471043"/>
 <marker id="660086825" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.362175" latitude="-58.471043"/>
 <marker id="660086826" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.362175" latitude="-58.471043"/>
@@ -10640,10 +10640,10 @@
 <marker id="660090886" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-50.355175" latitude="-57.606724"/>
 <marker id="660090902" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
 <marker id="660090903" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
-<marker id="660090904" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
-<marker id="660090905" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
-<marker id="660090906" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
-<marker id="660090907" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
+<marker id="660090904" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
+<marker id="660090905" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
+<marker id="660090906" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
+<marker id="660090907" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
 <marker id="660090908" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
 <marker id="660090909" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
 <marker id="660090910" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-50.358406" latitude="-57.588726"/>
@@ -10794,16 +10794,16 @@
 <marker id="660094985" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.333416" latitude="-56.838158"/>
 <marker id="660094986" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-50.333416" latitude="-56.838158"/>
 <marker id="660094987" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-50.333416" latitude="-56.838158"/>
-<marker id="660094995" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
+<marker id="660094998" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660094999" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095000" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095001" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095002" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095003" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095004" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
-<marker id="660095005" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
-<marker id="660095006" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
-<marker id="660095007" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
+<marker id="660095005" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
+<marker id="660095006" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
+<marker id="660095007" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.348816" latitude="-56.815292"/>
 <marker id="660095015" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.16231" latitude="-56.858772"/>
 <marker id="660095016" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.16231" latitude="-56.858772"/>
 <marker id="660095017" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.16231" latitude="-56.858772"/>
@@ -10976,10 +10976,10 @@
 <marker id="660099096" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
 <marker id="660099097" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
 <marker id="660099098" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
-<marker id="660099099" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
-<marker id="660099100" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
-<marker id="660099101" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
-<marker id="660099102" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
+<marker id="660099099" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
+<marker id="660099100" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
+<marker id="660099101" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
+<marker id="660099102" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
 <marker id="660099103" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.383514" latitude="-55.959343"/>
 <marker id="660099109" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.487507" latitude="-56.17008"/>
 <marker id="660099110" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.487507" latitude="-56.17008"/>
@@ -11145,16 +11145,16 @@
 <marker id="660103177" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.417706" latitude="-55.15784"/>
 <marker id="660103178" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-50.417706" latitude="-55.15784"/>
 <marker id="660103179" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-50.417706" latitude="-55.15784"/>
-<marker id="660103187" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
+<marker id="660103190" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103191" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103192" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103193" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103194" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103195" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103196" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
-<marker id="660103197" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
-<marker id="660103198" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
-<marker id="660103199" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
+<marker id="660103197" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
+<marker id="660103198" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
+<marker id="660103199" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.296795" latitude="-55.20556"/>
 <marker id="660103207" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.47116" latitude="-55.21844"/>
 <marker id="660103208" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.47116" latitude="-55.21844"/>
 <marker id="660103209" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.47116" latitude="-55.21844"/>
@@ -11492,10 +11492,10 @@
 <marker id="660107286" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
 <marker id="660107287" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
 <marker id="660107288" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
-<marker id="660107289" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
-<marker id="660107290" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
-<marker id="660107291" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
-<marker id="660107292" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
+<marker id="660107289" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
+<marker id="660107290" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
+<marker id="660107291" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
+<marker id="660107292" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
 <marker id="660107293" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
 <marker id="660107294" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
 <marker id="660107295" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-50.276688" latitude="-54.522343"/>
@@ -11804,7 +11804,7 @@
 <marker id="660111370" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.61504" latitude="-53.586624"/>
 <marker id="660111371" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-50.61504" latitude="-53.586624"/>
 <marker id="660111372" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-50.61504" latitude="-53.586624"/>
-<marker id="660111380" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
+<marker id="660111382" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111383" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111384" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111385" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
@@ -11812,8 +11812,8 @@
 <marker id="660111387" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111388" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111389" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
-<marker id="660111390" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
-<marker id="660111391" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
+<marker id="660111390" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
+<marker id="660111391" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.602715" latitude="-53.577366"/>
 <marker id="660111401" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.702274" latitude="-53.928326"/>
 <marker id="660111402" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.702274" latitude="-53.928326"/>
 <marker id="660111403" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.702274" latitude="-53.928326"/>
@@ -11960,10 +11960,10 @@
 <marker id="660115481" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
 <marker id="660115482" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
 <marker id="660115483" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
-<marker id="660115484" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
-<marker id="660115485" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
-<marker id="660115486" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
-<marker id="660115487" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
+<marker id="660115484" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
+<marker id="660115485" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
+<marker id="660115486" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
+<marker id="660115487" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-50.289734" latitude="-52.846985"/>
 <marker id="660115500" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-50.734802" latitude="-53.002617"/>
 <marker id="660115501" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-50.734802" latitude="-53.002617"/>
 <marker id="660115502" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-50.734802" latitude="-53.002617"/>
@@ -12529,10 +12529,10 @@
 <marker id="660144134" label="Rich Riddermark Skarn Deposit" category="50" did="1879239175" parentZoneId="1879231075" longitude="-49.59075" latitude="-60.17835"/>
 <marker id="660144150" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
 <marker id="660144151" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
-<marker id="660144152" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
-<marker id="660144153" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
-<marker id="660144154" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
-<marker id="660144155" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
+<marker id="660144152" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
+<marker id="660144153" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
+<marker id="660144154" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
+<marker id="660144155" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
 <marker id="660144156" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
 <marker id="660144157" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
 <marker id="660144158" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.5833" latitude="-59.988083"/>
@@ -12759,10 +12759,10 @@
 <marker id="660148247" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
 <marker id="660148248" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
 <marker id="660148249" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
-<marker id="660148250" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
-<marker id="660148251" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
-<marker id="660148252" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
-<marker id="660148253" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
+<marker id="660148250" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
+<marker id="660148251" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
+<marker id="660148252" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
+<marker id="660148253" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
 <marker id="660148254" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
 <marker id="660148255" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.72156" latitude="-59.0649"/>
 <marker id="660148260" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-49.22632" latitude="-59.30325"/>
@@ -13081,10 +13081,10 @@
 <marker id="660152326" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-49.70697" latitude="-58.370804"/>
 <marker id="660152342" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
 <marker id="660152343" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
-<marker id="660152344" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
-<marker id="660152345" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
-<marker id="660152346" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
-<marker id="660152347" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
+<marker id="660152344" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
+<marker id="660152345" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
+<marker id="660152346" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
+<marker id="660152347" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
 <marker id="660152348" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
 <marker id="660152349" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
 <marker id="660152350" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.650993" latitude="-58.369286"/>
@@ -14098,16 +14098,16 @@
 <marker id="660164617" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-49.648964" latitude="-55.903522"/>
 <marker id="660164618" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-49.648964" latitude="-55.903522"/>
 <marker id="660164619" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-49.648964" latitude="-55.903522"/>
-<marker id="660164627" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
+<marker id="660164630" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164631" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164632" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164633" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164634" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164635" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164636" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
-<marker id="660164637" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
-<marker id="660164638" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
-<marker id="660164639" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
+<marker id="660164637" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
+<marker id="660164638" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
+<marker id="660164639" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.708008" latitude="-56.029495"/>
 <marker id="660164647" label="Uruk-hai Brawler" category="71" did="1879249230" parentZoneId="1879231075" longitude="-49.478077" latitude="-56.22193"/>
 <marker id="660164648" label="Uruk-hai Brawler" category="71" did="1879249230" parentZoneId="1879231075" longitude="-49.54416" latitude="-56.3488"/>
 <marker id="660164649" label="Uruk-hai Brute" category="71" did="1879249229" parentZoneId="1879231075" longitude="-49.46123" latitude="-56.227276"/>
@@ -14474,10 +14474,10 @@
 <marker id="660168728" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
 <marker id="660168729" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
 <marker id="660168730" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
-<marker id="660168731" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
-<marker id="660168732" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
-<marker id="660168733" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
-<marker id="660168734" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
+<marker id="660168731" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
+<marker id="660168732" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
+<marker id="660168733" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
+<marker id="660168734" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
 <marker id="660168735" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.75551" latitude="-55.38889"/>
 <marker id="660168741" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-49.47417" latitude="-55.498257"/>
 <marker id="660168742" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-49.47417" latitude="-55.498257"/>
@@ -14759,16 +14759,16 @@
 <marker id="660172809" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-49.660213" latitude="-54.387405"/>
 <marker id="660172810" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-49.660213" latitude="-54.387405"/>
 <marker id="660172811" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-49.660213" latitude="-54.387405"/>
-<marker id="660172819" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
+<marker id="660172822" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172823" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172824" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172825" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172826" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172827" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172828" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
-<marker id="660172829" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
-<marker id="660172830" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
-<marker id="660172831" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
+<marker id="660172829" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
+<marker id="660172830" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
+<marker id="660172831" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.757706" latitude="-54.47032"/>
 <marker id="660172839" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-49.30325" latitude="-54.600815"/>
 <marker id="660172840" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-49.30325" latitude="-54.600815"/>
 <marker id="660172841" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-49.30325" latitude="-54.600815"/>
@@ -15117,10 +15117,10 @@
 <marker id="660185110" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
 <marker id="660185111" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
 <marker id="660185112" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
-<marker id="660185113" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
-<marker id="660185114" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
-<marker id="660185115" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
-<marker id="660185116" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
+<marker id="660185113" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
+<marker id="660185114" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
+<marker id="660185115" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
+<marker id="660185116" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
 <marker id="660185117" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
 <marker id="660185118" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
 <marker id="660185119" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.692802" latitude="-51.955135"/>
@@ -15296,16 +15296,16 @@
 <marker id="660189193" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-49.64052" latitude="-51.201103"/>
 <marker id="660189194" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-49.64052" latitude="-51.201103"/>
 <marker id="660189195" label="Swert-hound" category="71" did="1879240116" parentZoneId="1879231075" longitude="-49.64052" latitude="-51.201103"/>
-<marker id="660189203" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
+<marker id="660189206" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189207" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189208" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189209" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189210" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189211" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189212" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
-<marker id="660189213" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
-<marker id="660189214" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
-<marker id="660189215" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
+<marker id="660189213" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
+<marker id="660189214" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
+<marker id="660189215" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.568035" latitude="-51.200882"/>
 <marker id="660189223" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-49.973415" latitude="-51.46929"/>
 <marker id="660189224" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-49.973415" latitude="-51.46929"/>
 <marker id="660189225" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-49.973415" latitude="-51.46929"/>
@@ -15567,10 +15567,10 @@
 <marker id="660193302" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
 <marker id="660193303" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
 <marker id="660193304" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
-<marker id="660193305" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
-<marker id="660193306" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
-<marker id="660193307" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
-<marker id="660193308" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
+<marker id="660193305" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
+<marker id="660193306" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
+<marker id="660193307" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
+<marker id="660193308" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
 <marker id="660193309" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
 <marker id="660193310" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
 <marker id="660193311" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-49.522705" latitude="-50.311916"/>
@@ -15827,10 +15827,10 @@
 <marker id="660209686" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
 <marker id="660209687" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
 <marker id="660209688" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
-<marker id="660209689" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
-<marker id="660209690" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
-<marker id="660209691" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
-<marker id="660209692" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
+<marker id="660209689" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
+<marker id="660209690" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
+<marker id="660209691" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
+<marker id="660209692" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
 <marker id="660209693" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
 <marker id="660209694" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
 <marker id="660209695" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-48.89295" latitude="-59.92374"/>
@@ -16095,10 +16095,10 @@
 <marker id="660213785" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
 <marker id="660213786" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
 <marker id="660213787" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
-<marker id="660213788" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
-<marker id="660213789" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
-<marker id="660213790" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
-<marker id="660213791" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
+<marker id="660213788" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
+<marker id="660213789" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
+<marker id="660213790" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
+<marker id="660213791" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.94607" latitude="-59.177597"/>
 <marker id="660213798" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-48.577686" latitude="-58.96673"/>
 <marker id="660213799" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-48.577686" latitude="-58.96673"/>
 <marker id="660213800" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-48.577686" latitude="-58.96673"/>
@@ -16419,10 +16419,10 @@
 <marker id="660217881" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
 <marker id="660217882" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
 <marker id="660217883" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
-<marker id="660217884" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
-<marker id="660217885" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
-<marker id="660217886" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
-<marker id="660217887" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
+<marker id="660217884" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
+<marker id="660217885" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
+<marker id="660217886" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
+<marker id="660217887" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.757088" latitude="-58.31871"/>
 <marker id="660217894" label="Thoughts of Galadriel" category="70" did="1879249171" parentZoneId="1879231075" longitude="-48.800545" latitude="-58.191555"/>
 <marker id="660217895" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-48.934834" latitude="-58.59014"/>
 <marker id="660217896" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-48.934834" latitude="-58.59014"/>
@@ -16719,8 +16719,8 @@
 <marker id="660221962" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-48.827988" latitude="-57.636562"/>
 <marker id="660221963" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-48.827988" latitude="-57.636562"/>
 <marker id="660221964" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-48.827988" latitude="-57.636562"/>
+<marker id="660221971" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221972" label="Remembrance" category="73" did="1879343366" parentZoneId="1879231075" longitude="-48.5529" latitude="-57.685116"/>
-<marker id="660221973" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221975" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221976" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221977" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
@@ -16729,7 +16729,7 @@
 <marker id="660221980" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221981" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660221982" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
-<marker id="660221983" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
+<marker id="660221983" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.916462" latitude="-57.50552"/>
 <marker id="660222000" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-48.55495" latitude="-57.845547"/>
 <marker id="660222001" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-48.55495" latitude="-57.845547"/>
 <marker id="660222002" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-48.55495" latitude="-57.845547"/>
@@ -17031,10 +17031,10 @@
 <marker id="660238360" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
 <marker id="660238361" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
 <marker id="660238362" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
-<marker id="660238363" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
-<marker id="660238364" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
-<marker id="660238365" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
-<marker id="660238366" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
+<marker id="660238363" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
+<marker id="660238364" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
+<marker id="660238365" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
+<marker id="660238366" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
 <marker id="660238367" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-49.138798" latitude="-54.392723"/>
 <marker id="660238375" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-49.13495" latitude="-54.66097"/>
 <marker id="660238376" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-49.13495" latitude="-54.66097"/>
@@ -17987,10 +17987,10 @@
 <marker id="660275223" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
 <marker id="660275224" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
 <marker id="660275225" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
-<marker id="660275226" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
-<marker id="660275227" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
-<marker id="660275228" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
-<marker id="660275229" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
+<marker id="660275226" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
+<marker id="660275227" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
+<marker id="660275228" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
+<marker id="660275229" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
 <marker id="660275230" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
 <marker id="660275231" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-48.17078" latitude="-59.932278"/>
 <marker id="660275236" label="Thoughts of Bilbo" category="70" did="1879249188" parentZoneId="1879231075" longitude="-47.61297" latitude="-60.07302"/>
@@ -18312,16 +18312,16 @@
 <marker id="660279305" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-48.120594" latitude="-59.12405"/>
 <marker id="660279306" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-48.120594" latitude="-59.12405"/>
 <marker id="660279307" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-48.120594" latitude="-59.12405"/>
-<marker id="660279315" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
+<marker id="660279318" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279319" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279320" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279321" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279322" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279323" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279324" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
-<marker id="660279325" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
-<marker id="660279326" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
-<marker id="660279327" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
+<marker id="660279325" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
+<marker id="660279326" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
+<marker id="660279327" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-48.203094" latitude="-59.051235"/>
 <marker id="660279335" label="Thoughts of Bilbo" category="70" did="1879249188" parentZoneId="1879231075" longitude="-48.18611" latitude="-59.510403"/>
 <marker id="660279336" label="Thoughts of Gandalf" category="70" did="1879249173" parentZoneId="1879231075" longitude="-48.19913" latitude="-59.220657"/>
 <marker id="660279341" label="Uruk Archer" category="71" did="1879240099" parentZoneId="1879231075" longitude="-47.685196" latitude="-59.053207"/>
@@ -18625,7 +18625,7 @@
 <marker id="660283429" label="Remembrance" category="73" did="1879343366" parentZoneId="1879231075" longitude="-47.95712" latitude="-58.238995"/>
 <marker id="660283430" label="Remembrance" category="73" did="1879343366" parentZoneId="1879231075" longitude="-48.26579" latitude="-58.01455"/>
 <marker id="660283431" label="Discarded Pack" category="70" did="1879247377" parentZoneId="1879231075" longitude="-47.902626" latitude="-58.73692"/>
-<marker id="660283442" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.130642" latitude="-58.31622"/>
+<marker id="660283443" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-48.130642" latitude="-58.31622"/>
 <marker id="660283451" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-48.130642" latitude="-58.31622"/>
 <marker id="660283454" label="Boromir" category="70" did="1879249190" parentZoneId="1879231075" longitude="-47.782948" latitude="-58.783237"/>
 <marker id="660283466" label="Thoughts of Elrond" category="70" did="1879249201" parentZoneId="1879231075" longitude="-48.082607" latitude="-58.41534"/>
@@ -19568,16 +19568,16 @@
 <marker id="660340745" label="Mordor Orc-skirmisher" category="71" did="1879240096" parentZoneId="1879231075" longitude="-47.281757" latitude="-60.050095"/>
 <marker id="660340746" label="Uruk Warrior" category="71" did="1879240102" parentZoneId="1879231075" longitude="-47.281757" latitude="-60.050095"/>
 <marker id="660340747" label="Uruk Archer" category="71" did="1879240100" parentZoneId="1879231075" longitude="-47.281757" latitude="-60.050095"/>
-<marker id="660340755" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
+<marker id="660340758" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340759" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340760" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340761" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340762" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340763" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340764" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
-<marker id="660340765" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
-<marker id="660340766" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
-<marker id="660340767" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
+<marker id="660340765" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
+<marker id="660340766" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
+<marker id="660340767" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.354336" latitude="-59.940964"/>
 <marker id="660340775" label="Thoughts of Elrond" category="70" did="1879249201" parentZoneId="1879231075" longitude="-47.158974" latitude="-60.217766"/>
 <marker id="660340780" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-46.94927" latitude="-59.736233"/>
 <marker id="660340781" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-46.94927" latitude="-59.736233"/>
@@ -20075,10 +20075,10 @@
 <marker id="660389910" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
 <marker id="660389911" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
 <marker id="660389912" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
-<marker id="660389913" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
-<marker id="660389914" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
-<marker id="660389915" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
-<marker id="660389916" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
+<marker id="660389913" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
+<marker id="660389914" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
+<marker id="660389915" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
+<marker id="660389916" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
 <marker id="660389917" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
 <marker id="660389918" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
 <marker id="660389919" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-47.51661" latitude="-50.362396"/>
@@ -20313,10 +20313,10 @@
 <marker id="660398102" label="Bunch of Strawberries" category="77" did="1879061415" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
 <marker id="660398103" label="Bunch of Raspberries" category="77" did="1879061417" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
 <marker id="660398104" label="Bunch of Blackberries" category="77" did="1879061418" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
-<marker id="660398105" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
-<marker id="660398106" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
-<marker id="660398107" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
-<marker id="660398108" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
+<marker id="660398105" label="Fox" category="78" did="1879078196" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
+<marker id="660398106" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
+<marker id="660398107" label="Deer" category="78" did="1879080635" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
+<marker id="660398108" label="Tater" category="77" did="1879061257" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
 <marker id="660398109" label="Bunch of Blueberries" category="77" did="1879061342" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
 <marker id="660398110" label="Squirrel" category="78" did="1879078796" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>
 <marker id="660398111" label="Drop of Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879231075" longitude="-47.388153" latitude="-48.68379"/>

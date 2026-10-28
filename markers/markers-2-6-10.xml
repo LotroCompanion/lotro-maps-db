@@ -635,8 +635,8 @@
 <marker id="648507398" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-64.040886" latitude="9.450712"/>
 <marker id="648507399" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-63.921677" latitude="9.728613"/>
 <marker id="648507404" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-63.921677" latitude="9.728613"/>
+<marker id="648507405" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-63.921677" latitude="9.728613"/>
 <marker id="648507406" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-63.921677" latitude="9.728613"/>
-<marker id="648507407" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-63.921677" latitude="9.728613"/>
 <marker id="648507411" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-63.65038" latitude="9.2797365"/>
 <marker id="648507412" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-63.65038" latitude="9.2797365"/>
 <marker id="648507413" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-63.65038" latitude="9.2797365"/>
@@ -2732,10 +2732,10 @@
 <marker id="648806403" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.713474" latitude="3.9419627"/>
 <marker id="648806404" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.713474" latitude="3.9419627"/>
 <marker id="648806405" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.713474" latitude="3.9419627"/>
-<marker id="648806410" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
-<marker id="648806411" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
 <marker id="648806412" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
 <marker id="648806413" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
+<marker id="648806414" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
+<marker id="648806415" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.75332" latitude="3.859873"/>
 <marker id="648806418" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-59.6634" latitude="4.1724415"/>
 <marker id="648806419" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-59.6634" latitude="4.1724415"/>
 <marker id="648806420" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.6634" latitude="4.1724415"/>
@@ -2902,10 +2902,10 @@
 <marker id="648814595" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.79873" latitude="5.6863084"/>
 <marker id="648814596" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.79873" latitude="5.6863084"/>
 <marker id="648814597" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.79873" latitude="5.6863084"/>
-<marker id="648814602" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
-<marker id="648814603" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
 <marker id="648814604" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
 <marker id="648814605" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
+<marker id="648814606" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
+<marker id="648814607" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.675156" latitude="5.7208395"/>
 <marker id="648814610" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-59.635036" latitude="5.380469"/>
 <marker id="648814611" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-59.635036" latitude="5.380469"/>
 <marker id="648814612" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.635036" latitude="5.380469"/>
@@ -3394,10 +3394,10 @@
 <marker id="648822787" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.799892" latitude="7.044785"/>
 <marker id="648822788" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.799892" latitude="7.044785"/>
 <marker id="648822789" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.799892" latitude="7.044785"/>
-<marker id="648822794" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
-<marker id="648822795" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
 <marker id="648822796" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
 <marker id="648822797" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
+<marker id="648822798" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
+<marker id="648822799" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.760593" latitude="7.004238"/>
 <marker id="648822802" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-59.911747" latitude="7.0814743"/>
 <marker id="648822803" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-59.911747" latitude="7.0814743"/>
 <marker id="648822804" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.911747" latitude="7.0814743"/>
@@ -3703,10 +3703,10 @@
 <marker id="648839172" label="Hill-hind" category="71" did="1879387423" parentZoneId="1879384456" longitude="-60.07375" latitude="10.558105"/>
 <marker id="648839173" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-60.07375" latitude="10.558105"/>
 <marker id="648839174" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-60.07375" latitude="10.558105"/>
-<marker id="648839179" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.836308" latitude="10.456445"/>
 <marker id="648839180" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.836308" latitude="10.456445"/>
 <marker id="648839181" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.836308" latitude="10.456445"/>
 <marker id="648839182" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.836308" latitude="10.456445"/>
+<marker id="648839183" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.836308" latitude="10.456445"/>
 <marker id="648839187" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-60.33868" latitude="10.723564"/>
 <marker id="648839188" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-60.33868" latitude="10.723564"/>
 <marker id="648839189" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-60.33868" latitude="10.723564"/>
@@ -4200,10 +4200,10 @@
 <marker id="648876058" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.119568" latitude="4.992373"/>
 <marker id="648876059" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.119568" latitude="4.992373"/>
 <marker id="648876060" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.119568" latitude="4.992373"/>
-<marker id="648876068" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
-<marker id="648876069" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
-<marker id="648876072" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
-<marker id="648876073" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
+<marker id="648876070" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
+<marker id="648876071" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
+<marker id="648876072" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
+<marker id="648876073" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.18834" latitude="4.590459"/>
 <marker id="648876074" label="Chicken" category="70" did="1879076798" parentZoneId="1879384456" longitude="-58.91201" latitude="5.0152245"/>
 <marker id="648876075" label="Chicken" category="70" did="1879076798" parentZoneId="1879384456" longitude="-58.901405" latitude="5.0395703"/>
 <marker id="648876076" label="Chicken" category="70" did="1879076798" parentZoneId="1879384456" longitude="-58.890457" latitude="5.019248"/>
@@ -4692,10 +4692,10 @@
 <marker id="648884228" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.227898" latitude="6.440371"/>
 <marker id="648884229" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-59.227898" latitude="6.440371"/>
 <marker id="648884230" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.227898" latitude="6.440371"/>
-<marker id="648884235" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.095947" latitude="6.3208885"/>
 <marker id="648884236" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.095947" latitude="6.3208885"/>
 <marker id="648884237" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.095947" latitude="6.3208885"/>
 <marker id="648884238" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.095947" latitude="6.3208885"/>
+<marker id="648884239" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.095947" latitude="6.3208885"/>
 <marker id="648884253" label="Goblin Tracks" category="73" did="1879386782" parentZoneId="1879384456" longitude="-59.576756" latitude="6.0506053"/>
 <marker id="648884254" label="Goblin Tracks" category="73" did="1879386782" parentZoneId="1879384456" longitude="-59.574444" latitude="6.0598435"/>
 <marker id="648884255" label="Goblin Tracks" category="73" did="1879386782" parentZoneId="1879384456" longitude="-59.574577" latitude="6.0702147"/>
@@ -5050,10 +5050,10 @@
 <marker id="648900612" label="Hill-hind" category="71" did="1879387423" parentZoneId="1879384456" longitude="-59.099648" latitude="9.697929"/>
 <marker id="648900613" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.099648" latitude="9.697929"/>
 <marker id="648900614" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.099648" latitude="9.697929"/>
-<marker id="648900619" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.018486" latitude="9.7212305"/>
 <marker id="648900620" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.018486" latitude="9.7212305"/>
 <marker id="648900621" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.018486" latitude="9.7212305"/>
 <marker id="648900622" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.018486" latitude="9.7212305"/>
+<marker id="648900623" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.018486" latitude="9.7212305"/>
 <marker id="648900627" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.875175" latitude="9.449668"/>
 <marker id="648900628" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.875175" latitude="9.449668"/>
 <marker id="648900629" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-58.875175" latitude="9.449668"/>
@@ -5366,10 +5366,10 @@
 <marker id="648908804" label="Hill-hind" category="71" did="1879387423" parentZoneId="1879384456" longitude="-59.083885" latitude="11.202344"/>
 <marker id="648908805" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-59.083885" latitude="11.202344"/>
 <marker id="648908806" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-59.083885" latitude="11.202344"/>
-<marker id="648908811" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.096493" latitude="11.204834"/>
 <marker id="648908812" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-59.096493" latitude="11.204834"/>
 <marker id="648908813" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-59.096493" latitude="11.204834"/>
 <marker id="648908814" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-59.096493" latitude="11.204834"/>
+<marker id="648908815" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-59.096493" latitude="11.204834"/>
 <marker id="648908819" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.921112" latitude="11.513661"/>
 <marker id="648908820" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.921112" latitude="11.513661"/>
 <marker id="648908821" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.921112" latitude="11.513661"/>
@@ -5712,10 +5712,10 @@
 <marker id="648937475" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-58.688046" latitude="3.9853418"/>
 <marker id="648937476" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.688046" latitude="3.9853418"/>
 <marker id="648937477" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-58.688046" latitude="3.9853418"/>
-<marker id="648937482" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
-<marker id="648937483" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
-<marker id="648937486" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
-<marker id="648937487" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
+<marker id="648937484" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
+<marker id="648937485" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
+<marker id="648937486" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
+<marker id="648937487" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.741524" latitude="3.732998"/>
 <marker id="648937490" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.73522" latitude="4.3411326"/>
 <marker id="648937491" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.73522" latitude="4.3411326"/>
 <marker id="648937492" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.73522" latitude="4.3411326"/>
@@ -6041,10 +6041,10 @@
 <marker id="648945667" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-58.684402" latitude="5.5840135"/>
 <marker id="648945668" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.684402" latitude="5.5840135"/>
 <marker id="648945669" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-58.684402" latitude="5.5840135"/>
-<marker id="648945674" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
-<marker id="648945675" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
-<marker id="648945678" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
-<marker id="648945679" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
+<marker id="648945676" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
+<marker id="648945677" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
+<marker id="648945678" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
+<marker id="648945679" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.7332" latitude="5.478086"/>
 <marker id="648945682" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.515713" latitude="5.926289"/>
 <marker id="648945683" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.515713" latitude="5.926289"/>
 <marker id="648945684" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.515713" latitude="5.926289"/>
@@ -6369,7 +6369,7 @@
 <marker id="648953869" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.725693" latitude="7.2469625"/>
 <marker id="648953870" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.725693" latitude="7.2469625"/>
 <marker id="648953871" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.725693" latitude="7.2469625"/>
-<marker id="648953878" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.725693" latitude="7.2469625"/>
+<marker id="648953880" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.725693" latitude="7.2469625"/>
 <marker id="648953882" label="Damaged Wall" category="73" did="1879386768" parentZoneId="1879384456" longitude="-58.473866" latitude="7.504736"/>
 <marker id="648953883" label="Damaged Wall" category="73" did="1879386768" parentZoneId="1879384456" longitude="-58.410877" latitude="7.503584"/>
 <marker id="648953884" label="Damaged Wall" category="73" did="1879386768" parentZoneId="1879384456" longitude="-58.33739" latitude="7.5536227"/>
@@ -6905,10 +6905,10 @@
 <marker id="648970244" label="Hill-hind" category="71" did="1879387423" parentZoneId="1879384456" longitude="-58.276455" latitude="10.524804"/>
 <marker id="648970245" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-58.276455" latitude="10.524804"/>
 <marker id="648970246" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-58.276455" latitude="10.524804"/>
-<marker id="648970251" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
 <marker id="648970252" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
+<marker id="648970253" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
 <marker id="648970254" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
-<marker id="648970255" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
+<marker id="648970255" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.426033" latitude="10.284228"/>
 <marker id="648970259" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.44453" latitude="10.630898"/>
 <marker id="648970260" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.44453" latitude="10.630898"/>
 <marker id="648970261" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.44453" latitude="10.630898"/>
@@ -7231,10 +7231,10 @@
 <marker id="648978436" label="Hill-hind" category="71" did="1879387423" parentZoneId="1879384456" longitude="-58.62333" latitude="11.835772"/>
 <marker id="648978437" label="Scree-crawler" category="71" did="1879387422" parentZoneId="1879384456" longitude="-58.62333" latitude="11.835772"/>
 <marker id="648978438" label="Hill-hart" category="71" did="1879387424" parentZoneId="1879384456" longitude="-58.62333" latitude="11.835772"/>
-<marker id="648978443" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
 <marker id="648978444" label="Vales Branches" category="50" did="1879388526" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
+<marker id="648978445" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
 <marker id="648978446" label="Rich Vales Skarn Deposit" category="50" did="1879388910" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
-<marker id="648978447" label="Vales Skarn Deposit" category="50" did="1879388908" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
+<marker id="648978447" label="Heavy Vales Branches" category="50" did="1879388527" parentZoneId="1879384456" longitude="-58.643066" latitude="11.78749"/>
 <marker id="648978451" label="Goblin-town Sentry" category="71" did="1879386837" parentZoneId="1879384456" longitude="-58.718807" latitude="11.691934"/>
 <marker id="648978452" label="Goblin-town Soldier" category="71" did="1879386823" parentZoneId="1879384456" longitude="-58.718807" latitude="11.691934"/>
 <marker id="648978453" label="Anduin Wolverine" category="71" did="1879387425" parentZoneId="1879384456" longitude="-58.718807" latitude="11.691934"/>

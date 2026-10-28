@@ -20276,8 +20276,8 @@
 <marker id="408375312" label="Tharbad Skirmisher" category="71" did="1879449324" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.919052"/>
 <marker id="408375313" label="Tharbad Fire-berserker" category="71" did="1879449321" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.919052"/>
 <marker id="408375314" label="Tharbad Orc-leader" category="71" did="1879449329" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.919052"/>
-<marker id="408375317" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.91947"/>
-<marker id="408375318" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.91947"/>
+<marker id="408375317" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.91947"/>
+<marker id="408375318" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.91947"/>
 <marker id="408375319" label="Meneldir" category="70" did="1879448139" parentZoneId="1879445913" longitude="-38.216873" latitude="-55.84852"/>
 <marker id="408375320" label="Egfrith" category="70" did="1879448102" parentZoneId="1879445913" longitude="-38.211052" latitude="-55.84539"/>
 <marker id="408375324" label="Meneldir" category="70" did="1879448119" parentZoneId="1879445913" longitude="-38.29158" latitude="-55.882584"/>
@@ -20401,8 +20401,8 @@
 <marker id="408379404" label="Tharbad Skirmisher" category="71" did="1879449324" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.127724"/>
 <marker id="408379405" label="Tharbad Fire-berserker" category="71" did="1879449321" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.127724"/>
 <marker id="408379406" label="Tharbad Orc-leader" category="71" did="1879449329" parentZoneId="1879445913" longitude="-38.34834" latitude="-55.127724"/>
-<marker id="408379409" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.12814"/>
-<marker id="408379410" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.12814"/>
+<marker id="408379409" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.12814"/>
+<marker id="408379410" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445913" longitude="-38.335613" latitude="-55.12814"/>
 <marker id="408379459" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-38.00415" latitude="-54.995743"/>
 <marker id="408379460" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-38.2763" latitude="-55.454086"/>
 <marker id="408379461" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-38.6201" latitude="-55.48361"/>
@@ -23441,7 +23441,7 @@
 <marker id="408432653" label="Orkish Weapons Cache" category="73" did="1879453049" parentZoneId="1879445913" longitude="-37.77993" latitude="-57.43353"/>
 <marker id="408432654" label="Orkish Weapons Cache" category="73" did="1879453049" parentZoneId="1879445913" longitude="-37.626873" latitude="-57.634018"/>
 <marker id="408432656" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445913" longitude="-37.489178" latitude="-57.38923"/>
-<marker id="408432658" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-37.489178" latitude="-57.38923"/>
+<marker id="408432657" label="Wooden Chest" category="72" did="1879450047" parentZoneId="1879445913" longitude="-37.489178" latitude="-57.38923"/>
 <marker id="408432704" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-37.328396" latitude="-57.591866"/>
 <marker id="408432705" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-37.645878" latitude="-57.285515"/>
 <marker id="408432706" label="Tharbad" category="74" did="1879448557" parentZoneId="1879445913" longitude="-37.969627" latitude="-57.38642"/>
@@ -25146,213 +25146,223 @@
 <marker id="408469858" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.760517" latitude="-50.73592"/>
 <marker id="408469859" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.760517" latitude="-50.73592"/>
 <marker id="408469860" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.760517" latitude="-50.73592"/>
-<marker id="408473600" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473601" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473602" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473603" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473604" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473605" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473606" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473607" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473608" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
-<marker id="408473609" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473610" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473611" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473612" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473613" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473614" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473615" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473616" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473617" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
-<marker id="408473618" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473619" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473620" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473621" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473622" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473623" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473624" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473625" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473626" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
-<marker id="408473627" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473628" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473629" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473630" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473631" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473632" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473633" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473634" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473635" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
-<marker id="408473636" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473637" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473638" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473639" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473640" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473641" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473642" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473643" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473644" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
-<marker id="408473645" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473646" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473647" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473648" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473649" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473650" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473651" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473652" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473653" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
-<marker id="408473654" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473655" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473656" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473657" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473658" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473659" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473660" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473661" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473662" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
-<marker id="408473663" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473664" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473665" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473666" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473667" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473668" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473669" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473670" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473671" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
-<marker id="408473672" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473673" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473674" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473675" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473676" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473677" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473678" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473679" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473680" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
-<marker id="408473681" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473682" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473683" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473684" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473685" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473686" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473687" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473688" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473689" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
-<marker id="408473690" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473691" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473692" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473693" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473694" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473695" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473696" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473697" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473698" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
-<marker id="408473699" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473700" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473701" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473702" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473703" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473704" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473705" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473706" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473707" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
-<marker id="408473708" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473709" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473710" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473711" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473712" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473713" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473714" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473715" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473716" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
-<marker id="408473717" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473718" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473719" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473720" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473721" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473722" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473723" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473724" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473725" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
-<marker id="408473726" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473727" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473728" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473729" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473730" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473731" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473732" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473733" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473734" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
-<marker id="408473735" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473736" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473737" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473738" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473739" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473740" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473741" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473742" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473743" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
-<marker id="408473744" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473745" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473746" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473747" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473748" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473749" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473750" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473751" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473752" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
-<marker id="408473753" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473754" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473755" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473756" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473757" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473758" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473759" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473760" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473761" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
-<marker id="408473762" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473763" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473764" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473765" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473766" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473767" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473768" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473769" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473770" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
-<marker id="408473771" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473772" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473773" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473774" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473775" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473776" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473777" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473778" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473779" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
-<marker id="408473780" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473781" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473782" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473783" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473784" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473785" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473786" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473787" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473788" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
-<marker id="408473789" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473790" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473791" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473792" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473793" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473794" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473795" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473796" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473797" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
-<marker id="408473798" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473799" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473800" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473801" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473802" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473803" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473804" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473805" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
-<marker id="408473806" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473600" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473601" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473602" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473603" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473604" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473605" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473606" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473607" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473608" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.6" latitude="-49.6"/>
+<marker id="408473609" label="Emmathron" category="70" did="1879531806" parentZoneId="1879445912" longitude="-37.82174" latitude="-49.329853"/>
+<marker id="408473613" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473614" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473615" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473616" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473617" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473618" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473619" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473620" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473621" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.897575" latitude="-49.657837"/>
+<marker id="408473622" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473623" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473624" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473625" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473626" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473627" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473628" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473629" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473630" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.90319"/>
+<marker id="408473631" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473632" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473633" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473634" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473635" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473636" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473637" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473638" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473639" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.889587" latitude="-49.86063"/>
+<marker id="408473640" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473641" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473642" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473643" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473644" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473645" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473646" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473647" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473648" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341747" latitude="-49.72141"/>
+<marker id="408473649" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473650" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473651" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473652" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473653" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473654" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473655" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473656" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473657" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.848747"/>
+<marker id="408473658" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473659" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473660" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473661" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473662" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473663" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473664" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473665" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473666" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.695545" latitude="-49.5722"/>
+<marker id="408473667" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473668" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473669" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473670" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473671" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473672" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473673" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473674" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473675" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.90374"/>
+<marker id="408473676" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473677" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473678" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473679" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473680" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473681" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473682" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473683" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473684" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.82832" latitude="-49.300194"/>
+<marker id="408473685" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473686" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473687" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473688" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473689" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473690" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473691" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473692" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473693" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.612957" latitude="-49.750107"/>
+<marker id="408473694" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473695" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473696" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473697" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473698" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473699" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473700" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473701" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473702" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.261612" latitude="-49.287502"/>
+<marker id="408473703" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473704" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473705" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473706" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473707" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473708" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473709" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473710" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473711" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.91783" latitude="-49.44157"/>
+<marker id="408473712" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473713" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473714" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473715" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473716" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473717" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473718" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473719" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473720" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.625713" latitude="-49.25742"/>
+<marker id="408473721" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473722" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473723" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473724" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473725" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473726" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473727" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473728" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473729" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.359413" latitude="-49.539925"/>
+<marker id="408473730" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473731" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473732" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473733" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473734" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473735" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473736" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473737" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473738" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.510185" latitude="-49.423256"/>
+<marker id="408473739" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473740" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473741" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473742" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473743" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473744" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473745" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473746" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473747" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.290157" latitude="-49.557976"/>
+<marker id="408473748" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473749" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473750" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473751" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473752" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473753" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473754" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473755" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473756" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341473" latitude="-49.79379"/>
+<marker id="408473757" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473758" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473759" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473760" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473761" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473762" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473763" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473764" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473765" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.667507" latitude="-49.43276"/>
+<marker id="408473766" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473767" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473768" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473769" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473770" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473771" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473772" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473773" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473774" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.823242" latitude="-49.619343"/>
+<marker id="408473775" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473776" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473777" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473778" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473779" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473780" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473781" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473782" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473783" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.87118" latitude="-49.343925"/>
+<marker id="408473784" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473785" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473786" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473787" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473788" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473789" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473790" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473791" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473792" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.45128" latitude="-49.326942"/>
+<marker id="408473793" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473794" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473795" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473796" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473797" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473798" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473799" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473800" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473801" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.859043"/>
+<marker id="408473802" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473803" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473804" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473805" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473806" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473807" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473808" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473809" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473810" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.565155" latitude="-49.65745"/>
+<marker id="408473811" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473812" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473813" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473814" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473815" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473816" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473817" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473818" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
+<marker id="408473819" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.895733"/>
 <marker id="408477696" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.6" latitude="-48.8"/>
 <marker id="408477697" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.6" latitude="-48.8"/>
 <marker id="408477698" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.6" latitude="-48.8"/>
@@ -25368,349 +25378,354 @@
 <marker id="408477708" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.606415" latitude="-48.8"/>
 <marker id="408477709" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.606415" latitude="-48.8"/>
 <marker id="408477710" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.606415" latitude="-48.8"/>
-<marker id="408477713" label="Emmathron" category="70" did="1879531806" parentZoneId="1879445912" longitude="-37.430477" latitude="-48.98713"/>
-<marker id="408477720" label="Dirt" category="73" did="1879530766" parentZoneId="1879445912" longitude="-37.436398" latitude="-49.009617"/>
-<marker id="408477721" label="Wood" category="73" did="1879530782" parentZoneId="1879445912" longitude="-37.43337" latitude="-49.009617"/>
-<marker id="408477722" label="Flower" category="73" did="1879530776" parentZoneId="1879445912" longitude="-37.430077" latitude="-49.009617"/>
-<marker id="408477723" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477724" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477725" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477726" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477727" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477728" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477729" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477730" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477731" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
-<marker id="408477732" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477733" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477734" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477735" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477736" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477737" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477738" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477739" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477740" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
-<marker id="408477741" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477742" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477743" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477744" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477745" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477746" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477747" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477748" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477749" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
-<marker id="408477750" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477751" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477752" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477753" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477754" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477755" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477756" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477757" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477758" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
-<marker id="408477759" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477760" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477761" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477762" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477763" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477764" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477765" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477766" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477767" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
-<marker id="408477768" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477769" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477770" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477771" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477772" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477773" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477774" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477775" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477776" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
-<marker id="408477777" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477778" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477779" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477780" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477781" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477782" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477783" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477784" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477785" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
-<marker id="408477786" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477787" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477788" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477789" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477790" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477791" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477792" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477793" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477794" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
-<marker id="408477795" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477796" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477797" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477798" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477799" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477800" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477801" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477802" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477803" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
-<marker id="408477804" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477805" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477806" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477807" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477808" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477809" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477810" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477811" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477812" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
-<marker id="408477813" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477814" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477815" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477816" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477817" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477818" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477819" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477820" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477821" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
-<marker id="408477822" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477823" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477824" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477825" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477826" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477827" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477828" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477829" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477830" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
-<marker id="408477831" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477832" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477833" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477834" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477835" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477836" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477837" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477838" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477839" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
-<marker id="408477840" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477841" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477842" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477843" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477844" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477845" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477846" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477847" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477848" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
-<marker id="408477849" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477850" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477851" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477852" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477853" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477854" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477855" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477856" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477857" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
-<marker id="408477858" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477859" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477860" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477861" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477862" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477863" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477864" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477865" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477866" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
-<marker id="408477867" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477868" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477869" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477870" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477871" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477872" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477873" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477874" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477875" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
-<marker id="408477876" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477877" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477878" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477879" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477880" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477881" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477882" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477883" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477884" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
-<marker id="408477885" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477886" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477887" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477888" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477889" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477890" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477891" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477892" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477893" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
-<marker id="408477894" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477895" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477896" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477897" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477898" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477899" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477900" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477901" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477902" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
-<marker id="408477903" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477904" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477905" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477906" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477907" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477908" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477909" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477910" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477911" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
-<marker id="408477912" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477913" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477914" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477915" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477916" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477917" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477918" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477919" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477920" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
-<marker id="408477921" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477922" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477923" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477924" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477925" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477926" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477927" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477928" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477929" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
-<marker id="408477930" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477931" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477932" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477933" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477934" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477935" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
-<marker id="408477936" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477937" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477938" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477939" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477940" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477941" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
-<marker id="408477942" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477943" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477944" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477945" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477946" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477947" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
-<marker id="408477948" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477949" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477950" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477951" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477952" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477953" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
-<marker id="408477954" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477955" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477956" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477957" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477958" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477959" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
-<marker id="408477960" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477961" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477962" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477963" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477964" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477965" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
-<marker id="408477966" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477967" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477968" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477969" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477970" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477971" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
-<marker id="408477972" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477973" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477974" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477975" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477976" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477977" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
-<marker id="408477978" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477979" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477980" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477981" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477982" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477983" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
-<marker id="408477984" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477985" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477986" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477987" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477988" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477989" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
-<marker id="408477990" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477991" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477992" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477993" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477994" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477995" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
-<marker id="408477996" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408477997" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408477998" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408477999" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408478000" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408478001" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
-<marker id="408478002" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478003" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478004" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478005" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478006" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478007" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
-<marker id="408478008" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478009" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478010" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478011" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478012" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478013" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
-<marker id="408478014" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478015" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478016" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478017" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478018" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478019" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
-<marker id="408478020" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478021" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478022" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478023" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478024" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478025" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
-<marker id="408478026" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478027" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478028" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478029" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478030" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478031" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
-<marker id="408478032" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478033" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478034" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478035" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478036" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478037" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
-<marker id="408478038" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478039" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478040" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478041" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478042" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478043" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
-<marker id="408478044" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478045" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478046" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478047" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478048" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478049" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
-<marker id="408478050" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478051" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478052" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478053" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478054" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478055" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
-<marker id="408478056" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
-<marker id="408478057" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
-<marker id="408478058" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
-<marker id="408478059" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
-<marker id="408478060" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
-<marker id="408478061" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408477719" label="Flower" category="73" did="1879530776" parentZoneId="1879445912" longitude="-37.696114" latitude="-49.053223"/>
+<marker id="408477720" label="Dirt" category="73" did="1879530766" parentZoneId="1879445912" longitude="-37.63702" latitude="-49.07413"/>
+<marker id="408477721" label="Dirt" category="73" did="1879530766" parentZoneId="1879445912" longitude="-37.790146" latitude="-49.06447"/>
+<marker id="408477722" label="Dirt" category="73" did="1879530766" parentZoneId="1879445912" longitude="-37.714695" latitude="-49.047577"/>
+<marker id="408477723" label="Wood" category="73" did="1879530782" parentZoneId="1879445912" longitude="-37.70037" latitude="-49.08856"/>
+<marker id="408477724" label="Wood" category="73" did="1879530782" parentZoneId="1879445912" longitude="-37.77215" latitude="-49.135803"/>
+<marker id="408477725" label="Wood" category="73" did="1879530782" parentZoneId="1879445912" longitude="-37.82842" latitude="-49.108803"/>
+<marker id="408477726" label="Flower" category="73" did="1879530776" parentZoneId="1879445912" longitude="-37.821533" latitude="-49.063004"/>
+<marker id="408477727" label="Flower" category="73" did="1879530776" parentZoneId="1879445912" longitude="-37.617752" latitude="-49.031025"/>
+<marker id="408477738" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477739" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477740" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477741" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477742" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477743" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477744" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477745" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477746" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.43704" latitude="-48.71399"/>
+<marker id="408477747" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477748" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477749" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477750" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477751" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477752" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477753" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477754" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477755" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.438213" latitude="-49.10319"/>
+<marker id="408477756" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477757" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477758" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477759" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477760" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477761" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477762" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477763" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477764" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.499275" latitude="-49.00063"/>
+<marker id="408477765" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477766" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477767" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477768" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477769" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477770" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477771" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477772" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477773" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341747" latitude="-48.92141"/>
+<marker id="408477774" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477775" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477776" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477777" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477778" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477779" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477780" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477781" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477782" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.321415" latitude="-49.048748"/>
+<marker id="408477783" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477784" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477785" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477786" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477787" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477788" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477789" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477790" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477791" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.695545" latitude="-48.7722"/>
+<marker id="408477792" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477793" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477794" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477795" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477796" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477797" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477798" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477799" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477800" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.689705" latitude="-49.10374"/>
+<marker id="408477801" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477802" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477803" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477804" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477805" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477806" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477807" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477808" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477809" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.57072" latitude="-48.526936"/>
+<marker id="408477810" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477811" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477812" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477813" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477814" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477815" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477816" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477817" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477818" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.423748" latitude="-48.95935"/>
+<marker id="408477819" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477820" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477821" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477822" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477823" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477824" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477825" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477826" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477827" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.261612" latitude="-48.487503"/>
+<marker id="408477828" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477829" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477830" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477831" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477832" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477833" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477834" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477835" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477836" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.591805" latitude="-48.761555"/>
+<marker id="408477837" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477838" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477839" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477840" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477841" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477842" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477843" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477844" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477845" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.625713" latitude="-48.45742"/>
+<marker id="408477846" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477847" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477848" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477849" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477850" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477851" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477852" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477853" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477854" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.359413" latitude="-48.739925"/>
+<marker id="408477855" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477856" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477857" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477858" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477859" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477860" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477861" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477862" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477863" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.510185" latitude="-48.623257"/>
+<marker id="408477864" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477865" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477866" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477867" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477868" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477869" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477870" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477871" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477872" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.290157" latitude="-48.757977"/>
+<marker id="408477873" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477874" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477875" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477876" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477877" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477878" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477879" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477880" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477881" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.341473" latitude="-48.99379"/>
+<marker id="408477882" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477883" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477884" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477885" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477886" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477887" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477888" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477889" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477890" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.657722" latitude="-48.648106"/>
+<marker id="408477891" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477892" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477893" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477894" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477895" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477896" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477897" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477898" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477899" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.362705" latitude="-48.675495"/>
+<marker id="408477900" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477901" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477902" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477903" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477904" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477905" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477906" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477907" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477908" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.613575" latitude="-48.570667"/>
+<marker id="408477909" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477910" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477911" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477912" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477913" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477914" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477915" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477916" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477917" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.45128" latitude="-48.526943"/>
+<marker id="408477918" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477919" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477920" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477921" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477922" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477923" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477924" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477925" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477926" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.800762" latitude="-49.05904"/>
+<marker id="408477927" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477928" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477929" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477930" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477931" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477932" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477933" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477934" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477935" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.565155" latitude="-48.85745"/>
+<marker id="408477936" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477937" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477938" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477939" label="Hill Grouse" category="78" did="1879443697" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477940" label="Bog-crawler" category="71" did="1879448906" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477941" label="Sickle-fly" category="71" did="1879448922" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477942" label="Rolling Hills Goat" category="78" did="1879443706" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477943" label="Red-coat Fox" category="78" did="1879443707" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477944" label="Spotted Doe" category="78" did="1879443704" parentZoneId="1879445912" longitude="-37.56581" latitude="-49.09573"/>
+<marker id="408477945" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477946" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477947" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477948" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477949" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477950" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.62616" latitude="-48.58176"/>
+<marker id="408477951" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477952" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477953" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477954" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477955" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477956" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.348427" latitude="-49.070877"/>
+<marker id="408477957" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477958" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477959" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477960" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477961" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477962" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.842342" latitude="-48.81568"/>
+<marker id="408477963" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477964" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477965" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477966" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477967" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477968" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.29757" latitude="-48.73683"/>
+<marker id="408477969" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477970" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477971" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477972" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477973" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477974" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.468777" latitude="-48.90225"/>
+<marker id="408477975" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477976" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477977" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477978" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477979" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477980" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.91039" latitude="-49.112442"/>
+<marker id="408477981" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477982" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477983" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477984" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477985" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477986" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.305" latitude="-48.51955"/>
+<marker id="408477987" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477988" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477989" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477990" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477991" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477992" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.266064" latitude="-49.0239"/>
+<marker id="408477993" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477994" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477995" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477996" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477997" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477998" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.579617" latitude="-49.128643"/>
+<marker id="408477999" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478000" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478001" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478002" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478003" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478004" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.828144" latitude="-48.462925"/>
+<marker id="408478005" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478006" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478007" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478008" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478009" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478010" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.74367" latitude="-49.02557"/>
+<marker id="408478011" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478012" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478013" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478014" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478015" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478016" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.298145" latitude="-48.92038"/>
+<marker id="408478017" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478018" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478019" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478020" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478021" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478022" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.446133" latitude="-48.797634"/>
+<marker id="408478023" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478024" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478025" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478026" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478027" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478028" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.42783" latitude="-49.1538"/>
+<marker id="408478029" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478030" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478031" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478032" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478033" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478034" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.82999" latitude="-48.548656"/>
+<marker id="408478035" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478036" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478037" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478038" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478039" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478040" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.294327" latitude="-48.61198"/>
+<marker id="408478041" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478042" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478043" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478044" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478045" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478046" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.496944" latitude="-48.473442"/>
+<marker id="408478047" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478048" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478049" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478050" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478051" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478052" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.58542" latitude="-48.74182"/>
+<marker id="408478053" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478054" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478055" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478056" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478057" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478058" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.935772" latitude="-48.958015"/>
+<marker id="408478059" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478060" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478061" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478062" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478063" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478064" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.901512" latitude="-48.663208"/>
+<marker id="408478065" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478066" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478067" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478068" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478069" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478070" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.64045" latitude="-48.875526"/>
+<marker id="408478071" label="Rich Silver Deposit" category="50" did="1879087938" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408478072" label="Ash Branches" category="50" did="1879077508" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408478073" label="Barrow-iron Deposit" category="50" did="1879077513" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408478074" label="Silver Deposit" category="50" did="1879077514" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408478075" label="Rich Barrow-iron Deposit" category="50" did="1879087932" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
+<marker id="408478076" label="Heavy Ash Branches" category="50" did="1879087935" parentZoneId="1879445912" longitude="-37.760517" latitude="-49.13592"/>
 <marker id="408481792" label="Sedge-boar" category="71" did="1879448900" parentZoneId="1879445912" longitude="-37.94873" latitude="-48.360252"/>
 <marker id="408481793" label="Warg Sedge-stalker" category="71" did="1879448930" parentZoneId="1879445912" longitude="-37.94873" latitude="-48.360252"/>
 <marker id="408481794" label="Half-orc Trapper" category="71" did="1879448912" parentZoneId="1879445912" longitude="-37.94873" latitude="-48.360252"/>
@@ -50488,8 +50503,8 @@
 <marker id="408936468" label="Half-orc Captain" category="71" did="1879449332" parentZoneId="1879445912" longitude="-32.0" latitude="-48.75"/>
 <marker id="408936469" label="Half-orc Sentry" category="71" did="1879449333" parentZoneId="1879445912" longitude="-32.0" latitude="-48.75"/>
 <marker id="408936470" label="Half-orc Fighter" category="71" did="1879449331" parentZoneId="1879445912" longitude="-32.0" latitude="-48.75"/>
-<marker id="408936473" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445912" longitude="-32.0" latitude="-48.76085"/>
-<marker id="408936474" label="Backpack" category="72" did="1879450045" parentZoneId="1879445912" longitude="-32.0" latitude="-48.76085"/>
+<marker id="408936473" label="Backpack" category="72" did="1879450045" parentZoneId="1879445912" longitude="-32.0" latitude="-48.76085"/>
+<marker id="408936474" label="Broken Urn" category="50" did="1879077512" parentZoneId="1879445912" longitude="-32.0" latitude="-48.76085"/>
 <marker id="408936475" label="Half-orc Captain" category="71" did="1879452742" parentZoneId="1879445912" longitude="-32.11151" latitude="-48.880363"/>
 <marker id="408936476" label="Half-orc Bruiser" category="71" did="1879452741" parentZoneId="1879445912" longitude="-32.103233" latitude="-48.874344"/>
 <marker id="408936477" label="Half-orc Bruiser" category="71" did="1879452741" parentZoneId="1879445912" longitude="-31.709023" latitude="-48.853115"/>
