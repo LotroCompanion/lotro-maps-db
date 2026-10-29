@@ -28158,6 +28158,7 @@
 <label key="1879355936" value="Светящаяся руда"/>
 <label key="1879355937" value="Расползающаяся паутина"/>
 <label key="1879355938" value="Паучьи яйца"/>
+<label key="1879355942" value="Дверь"/>
 <label key="1879355946" value="Дверь"/>
 <label key="1879355947" value="Дверь"/>
 <label key="1879355949" value="Мордорский воин"/>
@@ -31524,6 +31525,7 @@
 <label key="1879389795" value="Интендант"/>
 <label key="1879389796" value="GNDN"/>
 <label key="1879389797" value="GNDN"/>
+<label key="1879389798" value="GNDN"/>
 <label key="1879389799" value="GNDN"/>
 <label key="1879389800" value="GNDN"/>
 <label key="1879389801" value="GNDN"/>
@@ -49640,6 +49642,46 @@
 <label key="1879525106" value="Ордахская дозорная"/>
 <label key="1879525107" value="Ордахский воин"/>
 <label key="1879525121" value="Заграждение"/>
+<label key="1879525125" value="Draugrim Mauler"/>
+<label key="1879525126" value="Gaurhoth Pack-leader"/>
+<label key="1879525127" value="Tarbohom the Raging"/>
+<label key="1879525128" value="Thothrach, Lord of Beasts"/>
+<label key="1879525129" value="Enraged Spirit"/>
+<label key="1879525130" value="Corrupted Draugrim"/>
+<label key="1879525131" value="Thothrach, Lord of Beasts"/>
+<label key="1879525134" value="Olog-hai Brute"/>
+<label key="1879525135" value="Draugrim Prowler"/>
+<label key="1879525136" value="Khûrz-hai Berserker"/>
+<label key="1879525137" value="Sarikhol the Pale-hand"/>
+<label key="1879525138" value="Anguished Spirit"/>
+<label key="1879525139" value="Gaurhoth Knight"/>
+<label key="1879525140" value="Hunting Spirit"/>
+<label key="1879525141" value="Wave of Darkness"/>
+<label key="1879525142" value="Khashkhilar Wolf-cultist"/>
+<label key="1879525143" value="Gaurhoth Soldier"/>
+<label key="1879525144" value="Gaurhoth Knight"/>
+<label key="1879525145" value="Хурз-хай - берсерк"/>
+<label key="1879525146" value="Draugrim Jailor"/>
+<label key="1879525147" value="Khashkhilar Captain"/>
+<label key="1879525148" value="Dúrnanc Gloom-grip"/>
+<label key="1879525149" value="Элугор Суровый"/>
+<label key="1879525150" value="Khashkhilar Warrior"/>
+<label key="1879525151" value="Corrupted Gaurhoth"/>
+<label key="1879525152" value="Олог-хай рабочий"/>
+<label key="1879525154" value="Dame Daerchant"/>
+<label key="1879525155" value="Howling Spirit"/>
+<label key="1879525156" value="Draugrim Prowler"/>
+<label key="1879525157" value="Nascent Khûrz-hai"/>
+<label key="1879525158" value="Драуг-загонщик"/>
+<label key="1879525159" value="Khashkhilar Wolf-cultist"/>
+<label key="1879525161" value="Pit-maggot"/>
+<label key="1879525162" value="Khashkhilar Archer"/>
+<label key="1879525163" value="Khûrz-hai Defiler"/>
+<label key="1879525165" value="Flesh-louse"/>
+<label key="1879525166" value="Anguished Spirit"/>
+<label key="1879525167" value="Khûrz-hai Defiler"/>
+<label key="1879525169" value="Enraged Spirit"/>
+<label key="1879525170" value="Mind-addled Cultist"/>
 <label key="1879525171" value="Угмарат"/>
 <label key="1879525172" value="Эримукиль"/>
 <label key="1879525173" value="Насихту"/>
@@ -49667,6 +49709,8 @@
 <label key="1879525368" value="Кот Кутиму"/>
 <label key="1879525369" value="Кошка Кутиму"/>
 <label key="1879525370" value="GNDN"/>
+<label key="1879525806" value="Усиленная чудовищная тварь"/>
+<label key="1879525812" value="Гаурхот-кромсатель"/>
 <label key="1879525816" value="Гваэлуг, Прародитель"/>
 <label key="1879525817" value="Восставший Нумуру"/>
 <label key="1879525818" value="Защитник Баршуда"/>
@@ -49718,6 +49762,9 @@
 <label key="1879526495" value="Прех-вени-Паш"/>
 <label key="1879526497" value="Прех-вени-Паш"/>
 <label key="1879526505" value="Ортонн"/>
+<label key="1879526551" value="Гол-бури-Пран"/>
+<label key="1879526563" value="Гол-бури-Пран"/>
+<label key="1879526616" value="Вода для Мулазара"/>
 <label key="1879526663" value="Сельта"/>
 <label key="1879526669" value="Бойтад"/>
 <label key="1879526782" value="Место для поминального камня"/>
@@ -49731,15 +49778,38 @@
 <label key="1879527176" value="Яйцо"/>
 <label key="1879527178" value="Яйцо"/>
 <label key="1879527187" value="Гном"/>
+<label key="1879527202" value="Pack Spirit"/>
 <label key="1879527321" value="Внушительное знамя"/>
 <label key="1879527336" value="Смертоносный вид"/>
 <label key="1879527377" value="Искажающие тени"/>
+<label key="1879527398" value="Самоцвет делотлин"/>
+<label key="1879527403" value="Jagged Metal Shard"/>
+<label key="1879527404" value="Broken Chain"/>
+<label key="1879527405" value="Broken Chain"/>
+<label key="1879527407" value="Delothlín Gem"/>
+<label key="1879527410" value="Самоцвет делотлин"/>
+<label key="1879527426" value="Jagged Metal Shard"/>
+<label key="1879527428" value="Зазубренный металлический осколок"/>
+<label key="1879527443" value="Broken Chain"/>
 <label key="1879527449" value="Тень Ушкудаш"/>
+<label key="1879527466" value="Дверь"/>
 <label key="1879527543" value="Healer"/>
 <label key="1879527545" value="Provisioner"/>
 <label key="1879527556" value="Healer"/>
 <label key="1879527559" value="Provisioner"/>
 <label key="1879527572" value="Supplier"/>
+<label key="1879527576" value="GNDN"/>
+<label key="1879527577" value="Ladder"/>
+<label key="1879527579" value="GNDN"/>
+<label key="1879527580" value="TBD - Tier 2"/>
+<label key="1879527581" value="TBD - Tier 3"/>
+<label key="1879527583" value="TBD - Tier 1"/>
+<label key="1879527585" value="TBD - Tier 1"/>
+<label key="1879527586" value="TBD - Tier 1"/>
+<label key="1879527587" value="TBD - Tier 2"/>
+<label key="1879527589" value="TBD - Tier 3"/>
+<label key="1879527590" value="TBD - Tier 2"/>
+<label key="1879527591" value="TBD - Tier 3"/>
 <label key="1879527769" value="Падение"/>
 <label key="1879527770" value="Падение"/>
 <label key="1879527778" value="Ортонн"/>
@@ -49847,11 +49917,31 @@
 <label key="1879528397" value="Мастер горна"/>
 <label key="1879528421" value="Мёртвый страж"/>
 <label key="1879528423" value="Хитлорн"/>
+<label key="1879528505" value="Клинок Тьмы"/>
 <label key="1879528507" value="Интендант передового отряда"/>
 <label key="1879528576" value="Работник из клана Онгбурз"/>
 <label key="1879528577" value="Надсмотрщик Гурмул"/>
+<label key="1879528621" value="Оскверненный варг"/>
+<label key="1879528622" value="Ashen-troll Crusher"/>
+<label key="1879528623" value="Ashen Bone-splitter"/>
+<label key="1879528625" value="Ashen Stone-heaver"/>
+<label key="1879528628" value="Krichorn, the Skull-smasher"/>
+<label key="1879528630" value="Ashen Stone-heaver"/>
+<label key="1879528631" value="Ashen-troll Crusher"/>
 <label key="1879528721" value="Амелия"/>
+<label key="1879528744" value="Ravenous Mire-maggot"/>
+<label key="1879528746" value="Hungry Mire-maggot"/>
+<label key="1879528748" value="Armoured Mire-maggot"/>
+<label key="1879528869" value="Khûrz-hai Blood-carver"/>
+<label key="1879528876" value="Khûrz-hai Defiler"/>
+<label key="1879528882" value="Khûrz-hai Hunter"/>
+<label key="1879528889" value="Khûrz-hai Berserker"/>
+<label key="1879528898" value="Khûrz-hai Berserker"/>
+<label key="1879528916" value="Draugrim Pack Elder"/>
+<label key="1879528922" value="Bloodfang Draugrim"/>
+<label key="1879528927" value="Draugrim Ravager"/>
 <label key="1879528939" value="Эхо Нузеру"/>
+<label key="1879528940" value="Хурз-хай - работник"/>
 <label key="1879529027" value="Mên-buri-Drû"/>
 <label key="1879529028" value="Haereldir"/>
 <label key="1879529029" value="Mindaug the Seeker"/>
@@ -49920,9 +50010,13 @@
 <label key="1879529152" value="Wynflad"/>
 <label key="1879529153" value="Бод-бури-Медж"/>
 <label key="1879529154" value="Воин Светлого отряда"/>
+<label key="1879529230" value="Брошенная сумка"/>
 <label key="1879529286" value="DNT - Player relic Capture"/>
 <label key="1879529287" value="DNT - Monster relic Capture"/>
+<label key="1879529384" value="Tupanyel Bêk"/>
+<label key="1879529398" value="Sóghut Bastukh"/>
 <label key="1879529401" value="Thurindol"/>
+<label key="1879529402" value="Zapharo"/>
 <label key="1879529437" value="Thurindol"/>
 <label key="1879529465" value="Balthlún"/>
 <label key="1879529466" value="Daerhabar"/>
@@ -49931,6 +50025,24 @@
 <label key="1879529567" value="Lugashúk"/>
 <label key="1879529569" value="DNT - Monster Artifact Smite"/>
 <label key="1879529571" value="DNT - Monster relic Smite"/>
+<label key="1879529587" value="Tevassil"/>
+<label key="1879529593" value="Draugrim Ravager"/>
+<label key="1879529594" value="Bloodfang Draugrim"/>
+<label key="1879529596" value="Ormakha"/>
+<label key="1879529597" value="Armoured Mire-maggot"/>
+<label key="1879529598" value="Hungry Mire-maggot"/>
+<label key="1879529599" value="Ravenous Mire-maggot"/>
+<label key="1879529883" value="Dulzigani"/>
+<label key="1879529884" value="Dulzigani"/>
+<label key="1879529885" value="Zalburgol"/>
+<label key="1879529886" value="Grafaron"/>
+<label key="1879529887" value="Nûlbanath, the Night's Bride"/>
+<label key="1879529888" value="Ulurijal the Wailer"/>
+<label key="1879529889" value="Grafaron"/>
+<label key="1879529890" value="Nûlbanath, the Night's Bride"/>
+<label key="1879529891" value="Zalburgol"/>
+<label key="1879529892" value="Ulurijal the Wailer"/>
+<label key="1879529893" value="Horn of Challenge"/>
 <label key="1879530040" value="Gorndir"/>
 <label key="1879530141" value="Saj-khorum"/>
 <label key="1879530462" value="GNDN"/>
@@ -49952,6 +50064,7 @@
 <label key="1879530488" value="Morlang"/>
 <label key="1879530489" value="Shadow-warg"/>
 <label key="1879530490" value="Lendelen"/>
+<label key="1879530513" value="Heledhris Treasure Cache"/>
 <label key="1879530712" value="Untakh-tet's Eye"/>
 <label key="1879530713" value="Iurhaeg's Fang"/>
 <label key="1879530714" value="Kirshosh's Tusk"/>
@@ -50065,9 +50178,41 @@
 <label key="1879530874" value="Promising Spot"/>
 <label key="1879530875" value="Птица"/>
 <label key="1879530882" value="Лесоруб"/>
+<label key="1879531069" value="Nûlbanath's Treasures - Tier 1"/>
+<label key="1879531071" value="Nûlbanath's Treasures - Tier 3"/>
+<label key="1879531072" value="Dulzigani's Cache - Solo"/>
+<label key="1879531073" value="Nûlbanath's Treasures - Tier 2"/>
+<label key="1879531077" value="Dulzigani's Cache - Tier 1"/>
+<label key="1879531078" value="Grafaron's Chest - Tier 1"/>
+<label key="1879531081" value="Dulzigani's Cache - Tier 3"/>
+<label key="1879531082" value="Grafaron's Chest - Tier 3"/>
+<label key="1879531084" value="Dulzigani's Cache - Tier 2"/>
+<label key="1879531085" value="Grafaron's Chest - Tier 2"/>
+<label key="1879531086" value="Grafaron's Chest - Solo"/>
+<label key="1879531089" value="Nûlbanath's Treasures - Solo"/>
+<label key="1879531191" value="Agantamar"/>
+<label key="1879531204" value="Rhugarnag"/>
+<label key="1879531206" value="Urdagras"/>
+<label key="1879531210" value="Dorlath"/>
+<label key="1879531213" value="Urdagras"/>
+<label key="1879531230" value="Rhugarnag"/>
 <label key="1879531231" value="Trapped Townsfolk"/>
+<label key="1879531242" value="Netharas"/>
+<label key="1879531246" value="Elugor"/>
+<label key="1879531247" value="Carnech"/>
+<label key="1879531248" value="Thothrach"/>
+<label key="1879531249" value="Carnech"/>
 <label key="1879531254" value="Elugor"/>
+<label key="1879531258" value="Elugor"/>
+<label key="1879531259" value="Durnanc Gloom-grip"/>
+<label key="1879531262" value="Carnech"/>
+<label key="1879531263" value="Celegnor"/>
 <label key="1879531268" value="Elugor"/>
+<label key="1879531270" value="Durnanc Gloom-grip"/>
+<label key="1879531271" value="Thothrach"/>
+<label key="1879531273" value="Húlamath"/>
+<label key="1879531277" value="Celegnor"/>
+<label key="1879531279" value="Húlamath"/>
 <label key="1879531280" value="Toghan"/>
 <label key="1879531335" value="Injured Têtikir"/>
 <label key="1879531336" value="Têtikir Hunter"/>
@@ -50084,8 +50229,55 @@
 <label key="1879531349" value="Injured Têtikir"/>
 <label key="1879531351" value="Têtikir Hunter"/>
 <label key="1879531352" value="Têtikir Hunter"/>
+<label key="1879531353" value="Shodruz's Necklace"/>
+<label key="1879531354" value="Bovine Carcase"/>
+<label key="1879531356" value="Rubble"/>
+<label key="1879531357" value="Black Powder Keg"/>
+<label key="1879531358" value="Ancient Coffer"/>
+<label key="1879531360" value="Supplies"/>
+<label key="1879531361" value="Corrupt Rune"/>
+<label key="1879531362" value="Ancient Treasure Chest"/>
+<label key="1879531380" value="Yáranissë's Lurker"/>
+<label key="1879531386" value="Yáranissë's Stalker"/>
+<label key="1879531387" value="Yáranissë's Broodling"/>
+<label key="1879531389" value="Yangath, the Grey Spirit"/>
+<label key="1879531391" value="Yáranissë's Chosen"/>
+<label key="1879531392" value="Yáranissë's Hunter"/>
+<label key="1879531396" value="Yáranissë's Stalker"/>
+<label key="1879531398" value="Yáranissë's Hunter"/>
+<label key="1879531399" value="Yáranissë's Broodling"/>
+<label key="1879531401" value="Yáranissë's Lurker"/>
 <label key="1879531412" value="Haereldir"/>
+<label key="1879531413" value="Meldir"/>
+<label key="1879531414" value="Mindaug the Seeker"/>
+<label key="1879531415" value="Wynflad"/>
+<label key="1879531416" value="Meldir"/>
+<label key="1879531417" value="Celonor"/>
+<label key="1879531418" value="Brorda"/>
 <label key="1879531420" value="Celonor"/>
+<label key="1879531424" value="Khashkhilar Totem"/>
+<label key="1879531426" value="Draugrim Totem"/>
+<label key="1879531428" value="Warg Totem"/>
+<label key="1879531449" value="Khûrz-hai Defiler"/>
+<label key="1879531452" value="Khûrz-hai Berserker"/>
+<label key="1879531453" value="Khûrz-hai Blood-carver"/>
+<label key="1879531454" value="Sûhalar Grave-robber"/>
+<label key="1879531456" value="Khûrz-hai Hunter"/>
+<label key="1879531457" value="Khashkhilar Envoy"/>
+<label key="1879531459" value="Servant of Nargroth"/>
+<label key="1879531462" value="Servant of Nargroth"/>
+<label key="1879531464" value="Búrzukh Hellion"/>
+<label key="1879531467" value="Draugrim Envoy"/>
+<label key="1879531468" value="Búrzukh Hunter"/>
+<label key="1879531469" value="Búrzukh Matron"/>
+<label key="1879531476" value="Ata-gabar Crypt-walker"/>
+<label key="1879531477" value="Ata-gabar Crypt-sentinel"/>
+<label key="1879531478" value="Ata-gabar Crypt-horror"/>
+<label key="1879531479" value="Vengeful Cargûl"/>
+<label key="1879531481" value="Hungrokha"/>
+<label key="1879531482" value="Primeval Skulker"/>
+<label key="1879531483" value="Primeval Wolf"/>
+<label key="1879531484" value="Primeval Pack-leader"/>
 <label key="1879531488" value="Visage of Gil-galad"/>
 <label key="1879531489" value="Visage of Sauron"/>
 <label key="1879531491" value="Toad's Tongue Ale"/>
@@ -50111,6 +50303,9 @@
 <label key="1879531551" value="Crate of Supplies"/>
 <label key="1879531561" value="Community Notice Board"/>
 <label key="1879531638" value="Relic Event Manager Box"/>
+<label key="1879531738" value="Ravenous Feaster"/>
+<label key="1879531745" value="Dread Feaster"/>
+<label key="1879531749" value="Insatiable Feaster"/>
 <label key="1879531799" value="Халдо Камышникс"/>
 <label key="1879531800" value="Брута Своенравная"/>
 <label key="1879531801" value="Халдо Камышникс"/>
@@ -50182,6 +50377,19 @@
 <label key="1879531899" value="Dunlending Scrapper"/>
 <label key="1879531900" value="Angmarim Web-caller"/>
 <label key="1879531901" value="Dourhand Hunter"/>
+<label key="1879532027" value="Delothlín Crystal"/>
+<label key="1879532038" value="Ancient Tablet"/>
+<label key="1879532045" value="Camp-fire"/>
+<label key="1879532051" value="Urdagras's Talon"/>
+<label key="1879532061" value="Gaurhoth Corpse"/>
+<label key="1879532062" value="Ancient Tablet"/>
+<label key="1879532063" value="Area for Reinforced Wooden Beam"/>
+<label key="1879532069" value="Area for Trap"/>
+<label key="1879532072" value="Rubble to Clear"/>
+<label key="1879532073" value="Rubble Pile"/>
+<label key="1879532081" value="Feaster Nest"/>
+<label key="1879532089" value="Prepared Meat"/>
+<label key="1879532090" value="Ashen-troll Club"/>
 <label key="1879532098" value="DNT - test hotspot"/>
 <label key="1879532144" value="DNT"/>
 <label key="1879532216" value="Shrew Burrow"/>
@@ -50204,6 +50412,10 @@
 <label key="1879532722" value="Fulugram"/>
 <label key="1879532734" value="Wynflad"/>
 <label key="1879532735" value="Celonor"/>
+<label key="1879532736" value="Mammataro the Gorger"/>
+<label key="1879532737" value="Dread Feaster"/>
+<label key="1879532739" value="Ravenous Feaster"/>
+<label key="1879532740" value="Hunting Feaster"/>
 <label key="1879532745" value="Мастер подарков"/>
 <label key="1879532746" value="Мастер подарков"/>
 <label key="1879532747" value="Мастер подарков"/>
@@ -50218,6 +50430,8 @@
 <label key="1879533026" value="GNDN"/>
 <label key="1879533027" value="GNDN"/>
 <label key="1879533028" value="GNDN"/>
+<label key="1879533111" value="Draugrim Commander"/>
+<label key="1879533112" value="Gaurhoth Emissary"/>
 <label key="1879533145" value="GNDN"/>
 <label key="1879533146" value="GNDN"/>
 <label key="1879533147" value="GNDN"/>
@@ -50237,14 +50451,23 @@
 <label key="1879533186" value="Ghashkodar"/>
 <label key="1879533546" value="Karazgar"/>
 <label key="1879533547" value="Narchraw"/>
+<label key="1879533549" value="Thrymm Red-beard"/>
 <label key="1879533551" value="Urudanî Stonemaiden"/>
+<label key="1879533552" value="Voice from Above"/>
 <label key="1879533553" value="Dying Cultist"/>
 <label key="1879533554" value="Mûlazar Dark-star"/>
+<label key="1879533555" value="Maurán"/>
+<label key="1879533556" value="Pharídi"/>
 <label key="1879533557" value="Ugrukhôr"/>
 <label key="1879533558" value="Nûlbanath"/>
 <label key="1879533566" value="Ghôl-buri-Prân"/>
+<label key="1879533568" value="Prêkh-weni-Pâsh"/>
+<label key="1879533569" value="Harthalín"/>
+<label key="1879533570" value="Kâl-maka-Hôi"/>
 <label key="1879533571" value="Harthalín"/>
 <label key="1879533572" value="Dagoras"/>
+<label key="1879533575" value="Borangos the Horror"/>
+<label key="1879533581" value="Orthonn"/>
 <label key="1879533583" value="Sauron the Deceiver"/>
 <label key="1879533584" value="Rûkhor"/>
 <label key="1879533586" value="Prêkh-weni-Pâsh"/>
@@ -50256,6 +50479,7 @@
 <label key="1879533599" value="Gaurhoth of Draugardh"/>
 <label key="1879533601" value="Thrymm Red-beard"/>
 <label key="1879533602" value="Dulgabêth"/>
+<label key="1879533603" value="Sauron the Scarred"/>
 <label key="1879533613" value="Harthalín"/>
 <label key="1879533614" value="Prêkh-weni-Pâsh"/>
 <label key="1879533615" value="Orthonn"/>
@@ -50272,7 +50496,26 @@
 <label key="1879533959" value="Elugor"/>
 <label key="1879534010" value="GNDN"/>
 <label key="1879534181" value="Mût"/>
+<label key="1879534182" value="Scout of Draugardh"/>
+<label key="1879534183" value="Scout of Draugardh"/>
+<label key="1879534184" value="Scout of Draugardh"/>
+<label key="1879534185" value="Scout of Draugardh"/>
+<label key="1879534189" value="Spike Trap"/>
+<label key="1879534190" value="Skewering Portcullis"/>
+<label key="1879534200" value="GNDN"/>
+<label key="1879534302" value="Ceremonial Coffer"/>
+<label key="1879534334" value="Order of the Eye Champion"/>
+<label key="1879534335" value="Order of the Eye Priest"/>
+<label key="1879534337" value="High-priestess of the Eye"/>
+<label key="1879534342" value="Order of the Eye Sorceress"/>
+<label key="1879534344" value="Order of the Eye Skirmisher"/>
+<label key="1879534346" value="Cultist of Ost Morthil"/>
+<label key="1879534347" value="Cultist of Ost Morthil"/>
+<label key="1879534348" value="Cultist of Ost Morthil"/>
+<label key="1879534350" value="Celegnor, Skárashakh's Claw"/>
+<label key="1879534351" value="Carnech, Skárashakh's Claw"/>
 <label key="1879534368" value="DNT Teleport 8.YourTurn One to Two"/>
+<label key="1879534371" value="DNT Teleport 8.BeneathGuruthos One to Two"/>
 <label key="1879534449" value="GNDN"/>
 <label key="1879534577" value="Master of Apprentices"/>
 <label key="1879534578" value="Provisioner"/>
@@ -50319,8 +50562,27 @@
 <label key="1879534687" value="Stable-master"/>
 <label key="1879534688" value="Stable-master"/>
 <label key="1879535026" value="Scout of Draugardh"/>
+<label key="1879535030" value="Depths Dweller"/>
+<label key="1879535031" value="Depths Dweller"/>
+<label key="1879535032" value="Depths Dweller"/>
+<label key="1879535033" value="Maggot Sire"/>
+<label key="1879535034" value="Crawling Maggot"/>
+<label key="1879535038" value="Skrizug Scavenger"/>
+<label key="1879535039" value="Discarded Orming"/>
+<label key="1879535137" value="Ancient Stone Tablet"/>
+<label key="1879535139" value="Ancient Stone Tablet"/>
+<label key="1879535140" value="Ancient Stone Tablet"/>
+<label key="1879535141" value="Ancient Stone Tablet"/>
+<label key="1879535142" value="Ancient Stone Tablet"/>
 <label key="1879535144" value="DNT"/>
 <label key="1879535166" value="Stable-master"/>
+<label key="1879535196" value="Ered Lithui Cave-bat"/>
+<label key="1879535197" value="Choking Root"/>
+<label key="1879535199" value="Ashen Bone-splitter"/>
+<label key="1879535205" value="Obisidan Glass Outcropping"/>
+<label key="1879535206" value="Ancient Worn Sword"/>
+<label key="1879535207" value="Ancient Dwarvish Scroll"/>
+<label key="1879535208" value="Cebir Ruith Gemstone"/>
 <label key="1879535216" value="Крыса"/>
 <label key="1879535219" value="Пчела"/>
 <label key="1879535246" value="GNDN"/>
@@ -50331,12 +50593,23 @@
 <label key="1879535325" value="Têtikir Weaponsmith"/>
 <label key="1879535333" value="Khemozêl Jeweller"/>
 <label key="1879535378" value="Scout's Scholar"/>
+<label key="1879535573" value="DNT - Drama Teleport"/>
+<label key="1879535574" value="DNT - Death Teleport"/>
 <label key="1879535584" value="Голвен"/>
+<label key="1879535593" value="DNT - Quest Teleport"/>
 <label key="1879535603" value="Draugardh Decoration Vendor"/>
 <label key="1879535604" value="Housing Furnisher"/>
 <label key="1879535605" value="Housing Furnisher"/>
+<label key="1879535943" value="Ormakha"/>
 <label key="1879535976" value="DNT"/>
+<label key="1879535980" value="Mammataro the Gorger"/>
+<label key="1879536176" value="Ulurijal the Wailer"/>
+<label key="1879536301" value="Elugor"/>
 <label key="1879536303" value="Tasila"/>
+<label key="1879536305" value="Spitting Mire-maggot"/>
+<label key="1879536306" value="Spitting Mire-maggot"/>
+<label key="1879536399" value="Maurán"/>
+<label key="1879536400" value="Pharídi"/>
 <label key="1879536402" value="Mordor Warrior"/>
 <label key="1879536403" value="Bragollúth"/>
 <label key="1879536404" value="Gorthorog Destroyer"/>
@@ -50344,7 +50617,14 @@
 <label key="1879536406" value="Gorthorog Ruiner"/>
 <label key="1879536407" value="Mordor Black-arrow"/>
 <label key="1879536701" value="Melur"/>
+<label key="1879536785" value="Khûrz-hai Blood-carver"/>
 <label key="1879536786" value="GNDN"/>
+<label key="1879537042" value="Rich Crimson Ore Deposit"/>
+<label key="1879537044" value="Wolf Chest"/>
+<label key="1879537046" value="Heavy Wolf Chest"/>
+<label key="1879537088" value="Servant of Nargroth"/>
+<label key="1879537156" value="Urdagras's Talon"/>
+<label key="1879537157" value="Fire Pit"/>
 <label key="1879537162" value="Mithram Pass"/>
 <label key="1879537182" value="Nan Ogol Reflecting Pool"/>
 <label key="1879537183" value="Parth Rhavas Reflecting Pool"/>
@@ -50354,6 +50634,7 @@
 <label key="1879537281" value="DNT - Cone Test 3"/>
 <label key="1879537282" value="DNT - Cone Test 4"/>
 <label key="1879537284" value="DNT - Cone Test 5"/>
+<label key="1879537385" value="GNDN"/>
 <label key="1879537489" value="GNDN"/>
 <label key="1879537490" value="GNDN"/>
 <label key="1879537957" value="Supplier"/>
