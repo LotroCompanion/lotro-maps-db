@@ -1,3 +1,352 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1733357568" label="Lug Stargúsh" category="43" did="1879529565" parentZoneId="1879524682" longitude="-56.87372" latitude="-48.208775"/>
+<marker id="1733353472" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.928093" latitude="-48.852375"/>
+<marker id="1733353473" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.928093" latitude="-48.852375"/>
+<marker id="1733353474" label="Mordor Archer" category="71" did="1879530465" parentZoneId="1879524682" longitude="-56.957596" latitude="-48.50497"/>
+<marker id="1733353475" label="Mordor Warrior" category="71" did="1879530464" parentZoneId="1879524682" longitude="-56.933838" latitude="-48.466938"/>
+<marker id="1733353476" label="Forgotten Cache" category="73" did="1879530134" parentZoneId="1879524682" longitude="-56.935917" latitude="-48.502857"/>
+<marker id="1733353479" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353480" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353481" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353482" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353483" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353484" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353485" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353486" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353487" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353488" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353489" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353490" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353491" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353492" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353493" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353494" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353495" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353496" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353497" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353498" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353499" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353500" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353501" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.120876" latitude="-48.6762"/>
+<marker id="1733353502" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353503" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353504" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353505" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353506" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353507" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353508" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353509" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353510" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353511" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353512" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353513" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353514" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353515" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353516" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353517" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353518" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353519" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353520" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353521" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353522" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353523" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353524" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.119286" latitude="-48.879536"/>
+<marker id="1733353525" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353526" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353527" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353528" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353529" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353530" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353531" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353532" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353533" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353534" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353535" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353536" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353537" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353538" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353539" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353540" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353541" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353542" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353543" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353544" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353545" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353546" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353547" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.144814" latitude="-49.165962"/>
+<marker id="1733353548" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353549" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353550" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353551" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353552" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353553" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353554" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353555" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353556" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353557" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353558" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353559" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353560" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353561" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353562" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353563" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353564" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353565" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353566" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353567" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353568" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353569" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353570" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.05708" latitude="-48.991024"/>
+<marker id="1733353571" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353572" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353573" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353574" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353575" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353576" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353577" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353578" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353579" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353580" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353581" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353582" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353583" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353584" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353585" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353586" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353587" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353588" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353589" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353590" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353591" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353592" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353593" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.890945" latitude="-49.111034"/>
+<marker id="1733353594" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353595" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353596" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353597" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353598" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353599" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353600" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353601" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353602" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353603" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353604" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353605" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353606" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353607" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353608" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353609" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353610" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353611" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353612" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353613" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353614" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353615" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353616" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.91784" latitude="-48.881733"/>
+<marker id="1733353617" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353618" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353619" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353620" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353621" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353622" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353623" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353624" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353625" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353626" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353627" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353628" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353629" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353630" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353631" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353632" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353633" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353634" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353635" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353636" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353637" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353638" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353639" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.79494" latitude="-48.72142"/>
+<marker id="1733353640" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353641" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353642" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353643" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353644" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353645" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353646" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353647" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353648" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353649" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353650" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353651" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353652" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353653" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353654" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353655" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353656" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353657" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353658" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353659" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353660" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353661" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353662" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.618347" latitude="-48.757107"/>
+<marker id="1733353663" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353664" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353665" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353666" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353667" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353668" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353669" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353670" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353671" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353672" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353673" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353674" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353675" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353676" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353677" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353678" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353679" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353680" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353681" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353682" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353683" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353684" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353685" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.72328" latitude="-48.946323"/>
+<marker id="1733353686" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353687" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353688" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353689" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353690" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353691" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353692" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353693" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353694" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353695" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353696" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353697" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353698" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353699" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353700" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353701" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353702" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353703" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353704" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353705" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353706" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353707" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353708" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.048523" latitude="-48.796143"/>
+<marker id="1733353709" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353710" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353711" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353712" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353713" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353714" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353715" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353716" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353717" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353718" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353719" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353720" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353721" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353722" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353723" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353724" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353725" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353726" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353727" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353728" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353729" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353730" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353731" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.714325" latitude="-48.788357"/>
+<marker id="1733353732" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353733" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353734" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353735" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353736" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353737" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353738" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353739" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353740" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353741" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353742" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353743" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353744" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353745" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353746" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353747" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353748" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353749" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353750" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353751" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353752" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353753" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353754" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-57.07745" latitude="-49.071438"/>
+<marker id="1733353755" label="Primeval Oryx" category="78" did="1879534439" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353756" label="Writheresk Hatchling" category="78" did="1879534437" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353757" label="Winter Fox" category="78" did="1879534435" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353758" label="Horned Rabbit" category="78" did="1879534434" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353759" label="Búrzukh Hunter" category="71" did="1879534017" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353760" label="Búrzukh Hellion" category="71" did="1879534016" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353761" label="Kurtha Blood-claw" category="71" did="1879528750" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353762" label="Kurtha Ravager" category="71" did="1879528749" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353763" label="Khûrz-hai Berserker" category="71" did="1879528874" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353764" label="Grazing Sûlok" category="71" did="1879529002" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353765" label="Thunderous Sûlok" category="71" did="1879529000" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353766" label="Khashkhilar Wolf-borne" category="71" did="1879528887" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353767" label="Infested Dread-troll" category="71" did="1879528629" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353768" label="Wandering Plains-wolf" category="71" did="1879529011" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353769" label="Shadowhold Warg" category="71" did="1879528913" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353770" label="Dread-troll Abomination" category="71" did="1879528624" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353771" label="Shadowhold Stalker" category="71" did="1879528912" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353772" label="Ashen Wasp" category="78" did="1879534431" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353773" label="Primeval Beetle" category="78" did="1879534430" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353774" label="Khûrz-hai Hunter" category="71" did="1879528893" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353775" label="Blasted Mole-rat" category="78" did="1879534429" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353776" label="Kalorkhûn" category="78" did="1879534428" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733353777" label="Khashkhilar Skirmisher" category="71" did="1879528891" parentZoneId="1879524682" longitude="-56.825897" latitude="-49.02126"/>
+<marker id="1733357570" label="Mordor Captain" category="71" did="1879530463" parentZoneId="1879524682" longitude="-56.79529" latitude="-48.224735"/>
+<marker id="1733357571" label="Mordor Defiler" category="71" did="1879530466" parentZoneId="1879524682" longitude="-56.709324" latitude="-48.161625"/>
+<marker id="1733357572" label="Mordor Archer" category="71" did="1879530465" parentZoneId="1879524682" longitude="-57.041424" latitude="-48.347404"/>
+<marker id="1733357573" label="Mordor Warrior" category="71" did="1879530464" parentZoneId="1879524682" longitude="-56.943943" latitude="-48.101284"/>
+<marker id="1733357578" label="Forgotten Cache" category="73" did="1879530134" parentZoneId="1879524682" longitude="-56.913467" latitude="-48.021336"/>
+<marker id="1733357579" label="Forgotten Cache" category="73" did="1879530134" parentZoneId="1879524682" longitude="-56.750057" latitude="-48.04731"/>
+<marker id="1733357584" label="Stolen Supplies" category="73" did="1879530140" parentZoneId="1879524682" longitude="-56.86039" latitude="-48.114178"/>
+<marker id="1733357585" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.928974" latitude="-48.23753"/>
+<marker id="1733357586" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.928974" latitude="-48.23753"/>
+<marker id="1733357587" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.928974" latitude="-48.23753"/>
+<marker id="1733357591" label="Lug Stargúsh" category="43" did="1879529565" parentZoneId="1879524682" longitude="-56.87372" latitude="-48.208775"/>
+<marker id="1733357594" label="Stolen Supplies" category="73" did="1879530140" parentZoneId="1879524682" longitude="-56.81116" latitude="-48.334126"/>
+<marker id="1733357596" label="Stolen Supplies" category="73" did="1879530140" parentZoneId="1879524682" longitude="-56.760056" latitude="-48.106937"/>
+<marker id="1733357597" label="Stolen Supplies" category="73" did="1879530140" parentZoneId="1879524682" longitude="-56.72122" latitude="-48.27883"/>
+<marker id="1733357598" label="Stolen Supplies" category="73" did="1879530140" parentZoneId="1879524682" longitude="-56.67259" latitude="-47.99661"/>
+<marker id="1733357599" label="Forgotten Cache" category="73" did="1879530134" parentZoneId="1879524682" longitude="-56.70111" latitude="-48.190678"/>
+<marker id="1733357610" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.90827" latitude="-48.113087"/>
+<marker id="1733357611" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.90827" latitude="-48.113087"/>
+<marker id="1733357612" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.90827" latitude="-48.113087"/>
+<marker id="1733357613" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.81958" latitude="-48.385628"/>
+<marker id="1733357614" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.81958" latitude="-48.385628"/>
+<marker id="1733357615" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.81958" latitude="-48.385628"/>
+<marker id="1733357616" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.61459" latitude="-48.139786"/>
+<marker id="1733357617" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.61459" latitude="-48.139786"/>
+<marker id="1733357618" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.61459" latitude="-48.139786"/>
+<marker id="1733357619" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.863846" latitude="-48.13012"/>
+<marker id="1733357620" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.863846" latitude="-48.13012"/>
+<marker id="1733357621" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.863846" latitude="-48.13012"/>
+<marker id="1733357622" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.740204" latitude="-48.03498"/>
+<marker id="1733357623" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.740204" latitude="-48.03498"/>
+<marker id="1733357624" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.740204" latitude="-48.03498"/>
+<marker id="1733357625" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.708786" latitude="-48.215878"/>
+<marker id="1733357626" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.708786" latitude="-48.215878"/>
+<marker id="1733357627" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.708786" latitude="-48.215878"/>
+<marker id="1733357628" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.820995" latitude="-48.318466"/>
+<marker id="1733357629" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.820995" latitude="-48.318466"/>
+<marker id="1733357630" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.820995" latitude="-48.318466"/>
+<marker id="1733357631" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.649277" latitude="-48.019638"/>
+<marker id="1733357632" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.649277" latitude="-48.019638"/>
+<marker id="1733357633" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.649277" latitude="-48.019638"/>
+<marker id="1733357634" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.679512" latitude="-48.142124"/>
+<marker id="1733357635" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.679512" latitude="-48.142124"/>
+<marker id="1733357636" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.679512" latitude="-48.142124"/>
+<marker id="1733357637" label="Heavy Wolf Chest" category="50" did="1879537046" parentZoneId="1879524682" longitude="-56.99627" latitude="-48.10143"/>
+<marker id="1733357638" label="Wolf Chest" category="50" did="1879537044" parentZoneId="1879524682" longitude="-56.99627" latitude="-48.10143"/>
+<marker id="1733357639" label="Chest" category="72" did="1879537017" parentZoneId="1879524682" longitude="-56.99627" latitude="-48.10143"/>
 </markers>
