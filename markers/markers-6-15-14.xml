@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="1877614626" label="Door" category="100" did="1879497039" parentZoneId="1879531557" longitude="53.049744" latitude="56.520252"/>
+<marker id="1877614627" label="Door" category="100" did="1879497039" parentZoneId="1879531557" longitude="53.049744" latitude="56.520252"/>
 <marker id="1877614669" label="Khûrz-hai Berserker" category="71" did="1879528898" parentZoneId="1879531557" longitude="54.37818" latitude="56.54613"/>
 <marker id="1877614670" label="Khûrz-hai Berserker" category="71" did="1879528898" parentZoneId="1879531557" longitude="54.381092" latitude="56.52002"/>
 <marker id="1877614671" label="Khûrz-hai Berserker" category="71" did="1879528898" parentZoneId="1879531557" longitude="54.37914" latitude="56.48994"/>
@@ -303,10 +303,10 @@
 <marker id="1877622871" label="Primeval Skulker" category="71" did="1879531482" parentZoneId="1879531555" longitude="52.933594" latitude="58.40787"/>
 <marker id="1877622872" label="Primeval Skulker" category="71" did="1879531482" parentZoneId="1879531555" longitude="53.216892" latitude="57.816544"/>
 <marker id="1877622873" label="Primeval Skulker" category="71" did="1879531482" parentZoneId="1879531555" longitude="53.656834" latitude="58.168457"/>
-<marker id="1877622877" label="Têtikir Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="53.65324" latitude="58.390644"/>
-<marker id="1877622878" label="Têtikir Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="52.667263" latitude="57.63537"/>
-<marker id="1877622879" label="Têtikir Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="52.667263" latitude="57.634216"/>
-<marker id="1877622880" label="Têtikir Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="53.65408" latitude="58.39201"/>
+<marker id="1877622877" label="Captured Sûhalar Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="53.65324" latitude="58.390644"/>
+<marker id="1877622878" label="Captured Sûhalar Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="52.667263" latitude="57.63537"/>
+<marker id="1877622879" label="Captured Sûhalar Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="52.667263" latitude="57.634216"/>
+<marker id="1877622880" label="Captured Sûhalar Hunter" category="70" did="1879531341" parentZoneId="1879531555" longitude="53.65408" latitude="58.39201"/>
 <marker id="1877622881" label="Búrzukh Matron" category="71" did="1879531469" parentZoneId="1879531555" longitude="53.177185" latitude="57.7884"/>
 <marker id="1877622882" label="Búrzukh Matron" category="71" did="1879531469" parentZoneId="1879531555" longitude="52.98904" latitude="58.411053"/>
 <marker id="1877622883" label="Búrzukh Matron" category="71" did="1879531469" parentZoneId="1879531555" longitude="53.693554" latitude="57.8892"/>
@@ -342,10 +342,10 @@
 <marker id="1877622913" label="Búrzukh Hunter" category="71" did="1879531468" parentZoneId="1879531555" longitude="52.964005" latitude="58.48203"/>
 <marker id="1877622914" label="Búrzukh Hunter" category="71" did="1879531468" parentZoneId="1879531555" longitude="52.476933" latitude="57.694824"/>
 <marker id="1877622915" label="Têtikir Scout" category="70" did="1879531339" parentZoneId="1879531555" longitude="53.20082" latitude="57.385098"/>
-<marker id="1877622916" label="Têtikir Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.478474" latitude="58.429394"/>
-<marker id="1877622917" label="Têtikir Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.92742" latitude="58.503063"/>
-<marker id="1877622918" label="Têtikir Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.927185" latitude="58.503574"/>
-<marker id="1877622919" label="Têtikir Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.476852" latitude="58.430702"/>
+<marker id="1877622916" label="Captured Sûhalar Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.478474" latitude="58.429394"/>
+<marker id="1877622917" label="Captured Sûhalar Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.92742" latitude="58.503063"/>
+<marker id="1877622918" label="Captured Sûhalar Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.927185" latitude="58.503574"/>
+<marker id="1877622919" label="Captured Sûhalar Hunter" category="70" did="1879531336" parentZoneId="1879531555" longitude="52.476852" latitude="58.430702"/>
 <marker id="1877622920" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="52.82117" latitude="57.81582"/>
 <marker id="1877622921" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="53.757305" latitude="57.85369"/>
 <marker id="1877622922" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="53.744022" latitude="57.814373"/>
@@ -372,30 +372,30 @@
 <marker id="1877622943" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="53.370586" latitude="57.802616"/>
 <marker id="1877622944" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="52.46385" latitude="57.69078"/>
 <marker id="1877622945" label="Búrzukh Hellion" category="71" did="1879531464" parentZoneId="1879531555" longitude="53.69525" latitude="57.938923"/>
-<marker id="1877622946" label="Têtikir Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.415997" latitude="57.683533"/>
-<marker id="1877622947" label="Têtikir Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.467243" latitude="57.661736"/>
-<marker id="1877622948" label="Têtikir Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.467243" latitude="57.660583"/>
-<marker id="1877622949" label="Têtikir Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.414314" latitude="57.68375"/>
-<marker id="1877622950" label="Têtikir Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.4733" latitude="58.073242"/>
-<marker id="1877622951" label="Têtikir Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.47287" latitude="58.17492"/>
-<marker id="1877622952" label="Têtikir Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.47494" latitude="58.175117"/>
-<marker id="1877622953" label="Têtikir Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.475292" latitude="58.072422"/>
-<marker id="1877622954" label="Têtikir Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="52.973904" latitude="58.50668"/>
-<marker id="1877622955" label="Têtikir Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="53.429375" latitude="58.38402"/>
-<marker id="1877622956" label="Têtikir Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="53.429375" latitude="58.38287"/>
-<marker id="1877622957" label="Têtikir Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="52.974316" latitude="58.50908"/>
-<marker id="1877622958" label="Têtikir Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.798786" latitude="57.844334"/>
-<marker id="1877622959" label="Têtikir Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.773438" latitude="57.789062"/>
-<marker id="1877622960" label="Têtikir Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.773438" latitude="57.78793"/>
-<marker id="1877622961" label="Têtikir Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.800274" latitude="57.844765"/>
-<marker id="1877622962" label="Têtikir Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.036854" latitude="57.908806"/>
-<marker id="1877622963" label="Têtikir Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.035076" latitude="57.909294"/>
-<marker id="1877622964" label="Têtikir Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.529705" latitude="57.911015"/>
-<marker id="1877622965" label="Têtikir Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.52822" latitude="57.911346"/>
-<marker id="1877622978" label="Têtikir Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.070526" latitude="58.151657"/>
-<marker id="1877622979" label="Têtikir Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.82209" latitude="58.038124"/>
-<marker id="1877622980" label="Têtikir Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.825603" latitude="58.036327"/>
-<marker id="1877622981" label="Têtikir Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.07287" latitude="58.15172"/>
+<marker id="1877622946" label="Captured Sûhalar Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.415997" latitude="57.683533"/>
+<marker id="1877622947" label="Captured Sûhalar Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.467243" latitude="57.661736"/>
+<marker id="1877622948" label="Captured Sûhalar Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.467243" latitude="57.660583"/>
+<marker id="1877622949" label="Captured Sûhalar Hunter" category="70" did="1879531351" parentZoneId="1879531555" longitude="52.414314" latitude="57.68375"/>
+<marker id="1877622950" label="Captured Sûhalar Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.4733" latitude="58.073242"/>
+<marker id="1877622951" label="Captured Sûhalar Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.47287" latitude="58.17492"/>
+<marker id="1877622952" label="Captured Sûhalar Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.47494" latitude="58.175117"/>
+<marker id="1877622953" label="Captured Sûhalar Hunter" category="70" did="1879531348" parentZoneId="1879531555" longitude="52.475292" latitude="58.072422"/>
+<marker id="1877622954" label="Captured Sûhalar Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="52.973904" latitude="58.50668"/>
+<marker id="1877622955" label="Captured Sûhalar Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="53.429375" latitude="58.38402"/>
+<marker id="1877622956" label="Captured Sûhalar Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="53.429375" latitude="58.38287"/>
+<marker id="1877622957" label="Captured Sûhalar Hunter" category="70" did="1879531347" parentZoneId="1879531555" longitude="52.974316" latitude="58.50908"/>
+<marker id="1877622958" label="Captured Sûhalar Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.798786" latitude="57.844334"/>
+<marker id="1877622959" label="Captured Sûhalar Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.773438" latitude="57.789062"/>
+<marker id="1877622960" label="Captured Sûhalar Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.773438" latitude="57.78793"/>
+<marker id="1877622961" label="Captured Sûhalar Hunter" category="70" did="1879531346" parentZoneId="1879531555" longitude="53.800274" latitude="57.844765"/>
+<marker id="1877622962" label="Captured Sûhalar Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.036854" latitude="57.908806"/>
+<marker id="1877622963" label="Captured Sûhalar Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.035076" latitude="57.909294"/>
+<marker id="1877622964" label="Captured Sûhalar Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.529705" latitude="57.911015"/>
+<marker id="1877622965" label="Captured Sûhalar Hunter" category="70" did="1879531344" parentZoneId="1879531555" longitude="53.52822" latitude="57.911346"/>
+<marker id="1877622978" label="Captured Sûhalar Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.070526" latitude="58.151657"/>
+<marker id="1877622979" label="Captured Sûhalar Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.82209" latitude="58.038124"/>
+<marker id="1877622980" label="Captured Sûhalar Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.825603" latitude="58.036327"/>
+<marker id="1877622981" label="Captured Sûhalar Hunter" category="70" did="1879531352" parentZoneId="1879531555" longitude="53.07287" latitude="58.15172"/>
 <marker id="1877622986" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879531555" longitude="53.171444" latitude="57.46074"/>
 <marker id="1877622987" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879531555" longitude="53.17209" latitude="57.461407"/>
 <marker id="1877623006" label="Bovine Carcase" category="73" did="1879531354" parentZoneId="1879531555" longitude="52.507637" latitude="57.95082"/>
@@ -1473,64 +1473,68 @@
 <marker id="1877778695" label="Rubble to Clear" category="73" did="1879532072" parentZoneId="1879532920" longitude="54.481113" latitude="63.549297"/>
 <marker id="1877778696" label="Rubble to Clear" category="73" did="1879532072" parentZoneId="1879532920" longitude="54.18785" latitude="63.721504"/>
 <marker id="1877778697" label="Toghan" category="70" did="1879531280" parentZoneId="1879532920" longitude="54.87451" latitude="64.58863"/>
-<marker id="1877786624" label="Nûlbanath's Treasures - Tier 2" category="72" did="1879531073" parentZoneId="1879537054" longitude="54.799942" latitude="65.061935"/>
-<marker id="1877786625" label="Nûlbanath's Treasures - Solo" category="72" did="1879531089" parentZoneId="1879537054" longitude="54.796307" latitude="65.06279"/>
-<marker id="1877786626" label="Nûlbanath, the Night's Bride" category="71" did="1879529887" parentZoneId="1879537054" longitude="54.80914" latitude="64.9958"/>
-<marker id="1877786627" label="Nûlbanath, the Night's Bride" category="71" did="1879529887" parentZoneId="1879537054" longitude="54.80914" latitude="65.00674"/>
-<marker id="1877786628" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.79326" latitude="64.99641"/>
-<marker id="1877786629" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.79326" latitude="65.00734"/>
+<marker id="1877786624" label="Nûlbanath, the Night's Bride" category="71" did="1879529887" parentZoneId="1879537054" longitude="54.821346" latitude="65.021095"/>
+<marker id="1877786625" label="Nûlbanath, the Night's Bride" category="71" did="1879529887" parentZoneId="1879537054" longitude="54.815487" latitude="65.00674"/>
+<marker id="1877786626" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.78129" latitude="65.02111"/>
+<marker id="1877786627" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.78586" latitude="65.0072"/>
+<marker id="1877786628" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.810936" latitude="65.021034"/>
+<marker id="1877786629" label="Nûlbanath, the Night's Bride" category="71" did="1879529890" parentZoneId="1879537054" longitude="54.802692" latitude="65.00734"/>
 <marker id="1877786630" label="Control Point" category="73" did="1879152429" parentZoneId="1879537054" longitude="54.73129" latitude="65.05992"/>
 <marker id="1877786631" label="Nûlbanath's Treasures - Tier 3" category="72" did="1879531071" parentZoneId="1879537054" longitude="54.800076" latitude="65.06389"/>
 <marker id="1877786632" label="Nûlbanath's Treasures - Tier 1" category="72" did="1879531069" parentZoneId="1879537054" longitude="54.80002" latitude="65.06037"/>
-<marker id="1877794816" label="Dulzigani's Cache - Tier 1" category="72" did="1879531077" parentZoneId="1879537111" longitude="54.95064" latitude="66.036285"/>
-<marker id="1877794817" label="Door" category="100" did="1879368135" parentZoneId="1879537111" longitude="55.03709" latitude="66.047676"/>
-<marker id="1877794818" label="Door" category="100" did="1879368135" parentZoneId="1879537111" longitude="54.86191" latitude="66.047676"/>
-<marker id="1877794819" label="Dulzigani's Cache - Solo" category="72" did="1879531072" parentZoneId="1879537111" longitude="54.950665" latitude="66.03646"/>
-<marker id="1877794820" label="Dulzigani's Cache - Tier 2" category="72" did="1879531084" parentZoneId="1879537111" longitude="54.950623" latitude="66.03637"/>
-<marker id="1877794821" label="Dulzigani's Cache - Tier 3" category="72" did="1879531081" parentZoneId="1879537111" longitude="54.95074" latitude="66.036385"/>
-<marker id="1877794822" label="Zalburgol" category="71" did="1879529885" parentZoneId="1879537111" longitude="54.96498" latitude="66.079155"/>
-<marker id="1877794823" label="Zalburgol" category="71" did="1879529885" parentZoneId="1879537111" longitude="54.96498" latitude="66.11809"/>
-<marker id="1877794824" label="Dulzigani" category="71" did="1879529884" parentZoneId="1879537111" longitude="54.97037" latitude="66.073395"/>
-<marker id="1877794825" label="Dulzigani" category="71" did="1879529884" parentZoneId="1879537111" longitude="54.97037" latitude="66.11234"/>
-<marker id="1877794826" label="Dulzigani" category="71" did="1879529883" parentZoneId="1879537111" longitude="54.923515" latitude="66.07476"/>
-<marker id="1877794827" label="Dulzigani" category="71" did="1879529883" parentZoneId="1879537111" longitude="54.923515" latitude="66.11369"/>
-<marker id="1877794828" label="Ulurijal the Wailer" category="71" did="1879529892" parentZoneId="1879537111" longitude="54.959824" latitude="66.07619"/>
-<marker id="1877794829" label="Ulurijal the Wailer" category="71" did="1879529892" parentZoneId="1879537111" longitude="54.959824" latitude="66.115135"/>
-<marker id="1877794830" label="Zalburgol" category="71" did="1879529891" parentZoneId="1879537111" longitude="54.919235" latitude="66.122734"/>
-<marker id="1877794831" label="Zalburgol" category="71" did="1879529891" parentZoneId="1879537111" longitude="54.919235" latitude="66.08381"/>
-<marker id="1877794832" label="Ulurijal the Wailer" category="71" did="1879529888" parentZoneId="1879537111" longitude="54.917244" latitude="66.075836"/>
-<marker id="1877794833" label="Ulurijal the Wailer" category="71" did="1879529888" parentZoneId="1879537111" longitude="54.917244" latitude="66.11476"/>
-<marker id="1877794834" label="Control Point" category="73" did="1879152429" parentZoneId="1879537111" longitude="55.01117" latitude="66.01379"/>
-<marker id="1877794835" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.23683"/>
-<marker id="1877794836" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.186485"/>
-<marker id="1877794837" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.23683"/>
-<marker id="1877794838" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.136406"/>
-<marker id="1877794839" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.18619"/>
-<marker id="1877794840" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.086754"/>
-<marker id="1877794841" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.13539"/>
-<marker id="1877794842" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.112656"/>
-<marker id="1877794843" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.08623"/>
-<marker id="1877794844" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.162735"/>
-<marker id="1877794845" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.11199"/>
-<marker id="1877794846" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.21308"/>
-<marker id="1877794847" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.16115"/>
-<marker id="1877794848" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.26316"/>
-<marker id="1877794849" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.21195"/>
-<marker id="1877794850" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.262596"/>
-<marker id="1877794851" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.089645"/>
-<marker id="1877794852" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.13881"/>
-<marker id="1877794853" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.037186" latitude="66.28691"/>
-<marker id="1877794854" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.189606"/>
-<marker id="1877794855" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.988594" latitude="66.28691"/>
-<marker id="1877794856" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.24025"/>
-<marker id="1877794857" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.93666" latitude="66.28691"/>
-<marker id="1877794858" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.26357"/>
-<marker id="1877794859" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.888065" latitude="66.28691"/>
-<marker id="1877794860" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.21293"/>
-<marker id="1877794861" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.162125"/>
-<marker id="1877794862" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.864414" latitude="66.05599"/>
-<marker id="1877794863" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.11297"/>
-<marker id="1877794864" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.913006" latitude="66.05599"/>
-<marker id="1877794865" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.96494" latitude="66.05599"/>
-<marker id="1877794866" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.013535" latitude="66.05599"/>
+<marker id="1877786633" label="Nûlbanath's Treasures - Tier 2" category="72" did="1879531073" parentZoneId="1879537054" longitude="54.799942" latitude="65.061935"/>
+<marker id="1877786634" label="Nûlbanath's Treasures - Solo" category="72" did="1879531089" parentZoneId="1879537054" longitude="54.796307" latitude="65.06279"/>
+<marker id="1877794816" label="Door" category="100" did="1879354237" parentZoneId="1879537111" longitude="55.074665" latitude="65.55006"/>
+<marker id="1877794817" label="Door" category="100" did="1879354237" parentZoneId="1879537111" longitude="54.950996" latitude="65.9866"/>
+<marker id="1877794818" label="Zalburgol" category="71" did="1879529885" parentZoneId="1879537111" longitude="54.957207" latitude="66.112755"/>
+<marker id="1877794819" label="Zalburgol" category="71" did="1879529885" parentZoneId="1879537111" longitude="54.95703" latitude="66.11209"/>
+<marker id="1877794820" label="Dulzigani" category="71" did="1879529884" parentZoneId="1879537111" longitude="54.95082" latitude="66.11527"/>
+<marker id="1877794821" label="Dulzigani" category="71" did="1879529884" parentZoneId="1879537111" longitude="54.950565" latitude="66.11533"/>
+<marker id="1877794822" label="Dulzigani" category="71" did="1879529883" parentZoneId="1879537111" longitude="54.950684" latitude="66.1152"/>
+<marker id="1877794823" label="Dulzigani" category="71" did="1879529883" parentZoneId="1879537111" longitude="54.950996" latitude="66.116974"/>
+<marker id="1877794824" label="Ulurijal the Wailer" category="71" did="1879529892" parentZoneId="1879537111" longitude="54.94205" latitude="66.1098"/>
+<marker id="1877794825" label="Ulurijal the Wailer" category="71" did="1879529892" parentZoneId="1879537111" longitude="54.94205" latitude="66.10979"/>
+<marker id="1877794826" label="Zalburgol" category="71" did="1879529891" parentZoneId="1879537111" longitude="54.95699" latitude="66.112206"/>
+<marker id="1877794827" label="Zalburgol" category="71" did="1879529891" parentZoneId="1879537111" longitude="54.95717" latitude="66.11256"/>
+<marker id="1877794828" label="Ulurijal the Wailer" category="71" did="1879529888" parentZoneId="1879537111" longitude="54.941833" latitude="66.10939"/>
+<marker id="1877794829" label="Ulurijal the Wailer" category="71" did="1879529888" parentZoneId="1879537111" longitude="54.941795" latitude="66.10918"/>
+<marker id="1877794830" label="Control Point" category="73" did="1879152429" parentZoneId="1879537111" longitude="55.01117" latitude="66.01379"/>
+<marker id="1877794831" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.23683"/>
+<marker id="1877794832" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.186485"/>
+<marker id="1877794833" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.23683"/>
+<marker id="1877794834" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.136406"/>
+<marker id="1877794835" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.18619"/>
+<marker id="1877794836" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.05828" latitude="66.086754"/>
+<marker id="1877794837" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.13539"/>
+<marker id="1877794838" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.112656"/>
+<marker id="1877794839" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.058983" latitude="66.08623"/>
+<marker id="1877794840" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.162735"/>
+<marker id="1877794841" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.11199"/>
+<marker id="1877794842" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.21308"/>
+<marker id="1877794843" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.16115"/>
+<marker id="1877794844" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837616" latitude="66.26316"/>
+<marker id="1877794845" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.21195"/>
+<marker id="1877794846" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.060215" latitude="66.262596"/>
+<marker id="1877794847" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.089645"/>
+<marker id="1877794848" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.13881"/>
+<marker id="1877794849" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.037186" latitude="66.28691"/>
+<marker id="1877794850" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.189606"/>
+<marker id="1877794851" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.988594" latitude="66.28691"/>
+<marker id="1877794852" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.837227" latitude="66.24025"/>
+<marker id="1877794853" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.93666" latitude="66.28691"/>
+<marker id="1877794854" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.26357"/>
+<marker id="1877794855" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.888065" latitude="66.28691"/>
+<marker id="1877794856" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.21293"/>
+<marker id="1877794857" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.162125"/>
+<marker id="1877794858" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.864414" latitude="66.05599"/>
+<marker id="1877794859" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.838142" latitude="66.11297"/>
+<marker id="1877794860" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.913006" latitude="66.05599"/>
+<marker id="1877794861" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="54.96494" latitude="66.05599"/>
+<marker id="1877794862" label="Ulurijal the Wailer" category="71" did="1879536176" parentZoneId="1879537111" longitude="55.013535" latitude="66.05599"/>
+<marker id="1877794863" label="Dulzigani's Cache - Tier 1" category="72" did="1879531077" parentZoneId="1879537111" longitude="54.95064" latitude="66.036285"/>
+<marker id="1877794864" label="Door" category="100" did="1879368135" parentZoneId="1879537111" longitude="55.03709" latitude="66.047676"/>
+<marker id="1877794865" label="Door" category="100" did="1879368135" parentZoneId="1879537111" longitude="54.86191" latitude="66.047676"/>
+<marker id="1877794866" label="Dulzigani's Cache - Solo" category="72" did="1879531072" parentZoneId="1879537111" longitude="54.950665" latitude="66.03646"/>
+<marker id="1877794867" label="Dulzigani's Cache - Tier 2" category="72" did="1879531084" parentZoneId="1879537111" longitude="54.950623" latitude="66.03637"/>
+<marker id="1877794868" label="Dulzigani's Cache - Tier 3" category="72" did="1879531081" parentZoneId="1879537111" longitude="54.95074" latitude="66.036385"/>
 </markers>

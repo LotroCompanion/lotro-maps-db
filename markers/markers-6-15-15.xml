@@ -638,16 +638,37 @@
 <marker id="1878696009" label="Horn of Challenge" category="73" did="1879529893" parentZoneId="1879526847" longitude="53.00623" latitude="75.68336"/>
 <marker id="1878696010" label="Elugor" category="70" did="1879533959" parentZoneId="1879526847" longitude="52.2957" latitude="75.75258"/>
 <marker id="1878696011" label="Elugor" category="70" did="1879533959" parentZoneId="1879526847" longitude="53.11707" latitude="75.746895"/>
-<marker id="1878786048" label="Grafaron's Chest - Tier 1" category="72" did="1879531078" parentZoneId="1879537112" longitude="54.690567" latitude="67.83392"/>
-<marker id="1878786049" label="Grafaron's Chest - Solo" category="72" did="1879531086" parentZoneId="1879537112" longitude="54.690567" latitude="67.83406"/>
-<marker id="1878786050" label="Grafaron's Chest - Tier 2" category="72" did="1879531085" parentZoneId="1879537112" longitude="54.690605" latitude="67.834175"/>
-<marker id="1878786051" label="Grafaron's Chest - Tier 3" category="72" did="1879531082" parentZoneId="1879537112" longitude="54.690468" latitude="67.8343"/>
-<marker id="1878786052" label="Grafaron" category="71" did="1879529886" parentZoneId="1879537112" longitude="54.699726" latitude="67.70578"/>
-<marker id="1878786053" label="Grafaron" category="71" did="1879529886" parentZoneId="1879537112" longitude="54.700096" latitude="67.68371"/>
-<marker id="1878786054" label="Grafaron" category="71" did="1879529889" parentZoneId="1879537112" longitude="54.699665" latitude="67.70576"/>
-<marker id="1878786055" label="Grafaron" category="71" did="1879529889" parentZoneId="1879537112" longitude="54.700214" latitude="67.683784"/>
-<marker id="1878786056" label="Control Point" category="73" did="1879152429" parentZoneId="1879537112" longitude="54.780975" latitude="67.69199"/>
-<marker id="1878786057" label="Agantamar" category="71" did="1879531191" parentZoneId="1879537112" longitude="54.71924" latitude="67.681564"/>
+<marker id="1878786048" label="Door" category="100" did="1879354237" parentZoneId="1879537112" longitude="54.85" latitude="67.37146"/>
+<marker id="1878786049" label="Door" category="100" did="1879354237" parentZoneId="1879537112" longitude="54.699997" latitude="67.3765"/>
+<marker id="1878786050" label="Grafaron" category="71" did="1879529886" parentZoneId="1879537112" longitude="54.699726" latitude="67.70578"/>
+<marker id="1878786051" label="Grafaron" category="71" did="1879529886" parentZoneId="1879537112" longitude="54.700096" latitude="67.68371"/>
+<marker id="1878786052" label="Grafaron" category="71" did="1879529889" parentZoneId="1879537112" longitude="54.699665" latitude="67.70576"/>
+<marker id="1878786053" label="Grafaron" category="71" did="1879529889" parentZoneId="1879537112" longitude="54.700176" latitude="67.683784"/>
+<marker id="1878786054" label="Control Point" category="73" did="1879152429" parentZoneId="1879537112" longitude="54.775253" latitude="67.731094"/>
+<marker id="1878786055" label="Control Point" category="73" did="1879152429" parentZoneId="1879537112" longitude="54.780975" latitude="67.69199"/>
+<marker id="1878786056" label="Agantamar" category="71" did="1879531191" parentZoneId="1879537112" longitude="54.71924" latitude="67.681564"/>
+<marker id="1878786057" label="Grafaron's Chest - Tier 1" category="72" did="1879531078" parentZoneId="1879537112" longitude="54.690567" latitude="67.83392"/>
+<marker id="1878786058" label="Grafaron's Chest - Solo" category="72" did="1879531086" parentZoneId="1879537112" longitude="54.690567" latitude="67.83406"/>
+<marker id="1878786059" label="Grafaron's Chest - Tier 2" category="72" did="1879531085" parentZoneId="1879537112" longitude="54.690605" latitude="67.834175"/>
+<marker id="1878786060" label="Grafaron's Chest - Tier 3" category="72" did="1879531082" parentZoneId="1879537112" longitude="54.690468" latitude="67.8343"/>
+<marker id="1878786115" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.593163" latitude="67.7499"/>
+<marker id="1878786116" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.59379" latitude="67.74996"/>
+<marker id="1878786117" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.791405" latitude="67.68283"/>
+<marker id="1878786118" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.610664" latitude="67.68502"/>
+<marker id="1878786119" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.620136" latitude="67.81162"/>
+<marker id="1878786120" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.79113" latitude="67.68218"/>
+<marker id="1878786121" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.807907" latitude="67.75195"/>
+<marker id="1878786122" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.78338" latitude="67.81697"/>
+<marker id="1878786123" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.61119" latitude="67.68566"/>
+<marker id="1878786124" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.790234" latitude="67.682945"/>
+<marker id="1878786125" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.784393" latitude="67.817085"/>
+<marker id="1878786126" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.619804" latitude="67.8126"/>
+<marker id="1878786127" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.791718" latitude="67.68359"/>
+<marker id="1878786128" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.806892" latitude="67.75199"/>
+<marker id="1878786129" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.611755" latitude="67.68562"/>
+<marker id="1878786130" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.59402" latitude="67.749435"/>
+<marker id="1878786131" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.80736" latitude="67.75123"/>
+<marker id="1878786132" label="Concussive Power" category="73" did="1879538386" parentZoneId="1879537112" longitude="54.62117" latitude="67.8124"/>
 <marker id="1878794335" label="Ravenous Mire-maggot" category="71" did="1879528744" parentZoneId="1879532012" longitude="55.76533" latitude="69.41539"/>
 <marker id="1878794336" label="Ravenous Mire-maggot" category="71" did="1879528744" parentZoneId="1879532012" longitude="55.76914" latitude="69.451775"/>
 <marker id="1878794337" label="Ravenous Mire-maggot" category="71" did="1879528744" parentZoneId="1879532012" longitude="54.29488" latitude="69.94201"/>
@@ -731,7 +752,7 @@
 <marker id="1878794446" label="Armoured Mire-maggot" category="71" did="1879529597" parentZoneId="1879532012" longitude="54.34662" latitude="69.95992"/>
 <marker id="1878794500" label="Ravenous Mire-maggot" category="71" did="1879528744" parentZoneId="1879532012" longitude="54.29988" latitude="69.95336"/>
 <marker id="1878794501" label="Ravenous Mire-maggot" category="71" did="1879528744" parentZoneId="1879532012" longitude="54.80748" latitude="70.76498"/>
-<marker id="1878794502" label="Meldir" category="71" did="1879531413" parentZoneId="1879532012" longitude="55.66959" latitude="69.45666"/>
+<marker id="1878794502" label="Meldir" category="71" did="1879531413" parentZoneId="1879532012" longitude="55.66959" latitude="69.450386"/>
 <marker id="1878794529" label="Brorda" category="71" did="1879531418" parentZoneId="1879532012" longitude="55.755154" latitude="69.426346"/>
 <marker id="1878794540" label="Delving Stone" category="70" did="1879450247" parentZoneId="1879532012" longitude="54.814255" latitude="69.67074"/>
 <marker id="1878794542" label="Ancient Dwarvish Scroll" category="73" did="1879535207" parentZoneId="1879532012" longitude="55.21842" latitude="70.414825"/>
@@ -846,7 +867,7 @@
 <marker id="1878794651" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="55.080723" latitude="70.397736"/>
 <marker id="1878794652" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="55.07572" latitude="70.551285"/>
 <marker id="1878794653" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="55.083164" latitude="69.93662"/>
-<marker id="1878794654" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="55.627987" latitude="69.49244"/>
+<marker id="1878794654" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="55.636776" latitude="69.49244"/>
 <marker id="1878794655" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="54.483536" latitude="69.95398"/>
 <marker id="1878794656" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="54.547634" latitude="70.096054"/>
 <marker id="1878794657" label="Armoured Mire-maggot" category="71" did="1879528748" parentZoneId="1879532012" longitude="54.86035" latitude="70.40273"/>

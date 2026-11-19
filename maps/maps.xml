@@ -10871,24 +10871,24 @@
 <max longitude="54.754997" latitude="63.414997"/>
 </map>
 <map id="1879537054" name="Ost Morthil" imageId="1093179602">
-<geo factor="600.0">
-<point longitude="53.46666" latitude="65.69834"/>
+<geo factor="299.99997">
+<point longitude="53.46666" latitude="65.696655"/>
 </geo>
-<min longitude="53.46666" latitude="63.69834"/>
-<max longitude="56.133327" latitude="65.69834"/>
+<min longitude="53.46666" latitude="63.696655"/>
+<max longitude="56.133327" latitude="65.696655"/>
 </map>
 <map id="1879537111" name="Ost Morthil" imageId="1093179622">
-<geo factor="599.99994">
-<point longitude="53.31834" latitude="67.15"/>
+<geo factor="299.99997">
+<point longitude="53.32" latitude="67.223335"/>
 </geo>
-<min longitude="53.31834" latitude="65.15"/>
-<max longitude="55.98501" latitude="67.15"/>
+<min longitude="53.32" latitude="65.223335"/>
+<max longitude="55.986668" latitude="67.223335"/>
 </map>
 <map id="1879537112" name="Ost Morthil" imageId="1093182732">
-<geo factor="600.0">
-<point longitude="53.36834" latitude="68.825"/>
+<geo factor="300.0">
+<point longitude="53.37" latitude="68.82334"/>
 </geo>
-<min longitude="53.36834" latitude="66.825"/>
-<max longitude="56.035007" latitude="68.825"/>
+<min longitude="53.37" latitude="66.82334"/>
+<max longitude="56.036667" latitude="68.82334"/>
 </map>
 </maps>
